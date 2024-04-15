@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "44ad16e90f7d190b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9276517334dd3ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14939b6bb62130e8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce2e686769b64ed0",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bafe2c165a925b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "744b9316b7030f7b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dcd2adc30e57ac2e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "93e0be857adfe7d3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ab865be945a38766",
+    "type": "split",
+    "children": [
+      {
+        "id": "92d5807cdaa46068",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffc32cc3307c2dff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "7. Misc/Adding Users.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "419aec5c3c96240e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "7. Misc/Adding Users.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3f4a95f364cdaa04",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "65bac45e529cb001",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "7. Misc/Adding Users.md"
+              }
+            }
+          },
+          {
+            "id": "cbdda6c71eaa403d",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "6dd6946eb2b0b80f",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "5a1acd102ae725f2",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "1cf8480c87c26566",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          },
+          {
+            "id": "92905f72a6223979",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+    }
+  },
+  "active": "744b9316b7030f7b",
+  "lastOpenFiles": [
+    "0. General Information.md",
+    "7. Misc/Adding Users.md",
+    "7. Misc/Apache headers Test.md",
+    "7. Misc/SSH_ Generate OpenSSL RSA Key Pair from the Comman.md",
+    "7. Misc/Veil Simple Usage.md",
+    "6. Reporting/OSCP Report Template.md",
+    "4. Post Exploitation/File System Information/Target _1.md",
+    "4. Post Exploitation/Editable Service/Editable Service.md",
+    "4. Post Exploitation/Editable Service/Target _1.md",
+    "1. Recon/Target _1.md",
+    "1. Recon/Recon General Notes.md",
+    "1. Recon/Ping Sweep/Ping Sweep_ Windows Method.md",
+    "1. Recon/Ping Sweep/Ping Sweep_ Python Method.md",
+    "1. Recon/Ping Sweep/Ping Sweep_ Nmap method.md",
+    "1. Recon/Ping Sweep/Ping Sweep_ Bash Method.md",
+    "1. Recon/Ping Sweep/Ping Sweep - fping.md",
+    "Untitled.canvas",
+    "2024-04-15.md",
+    "7. Misc/Powershell tidbits.md",
+    "1. Recon/Ping Sweep/CIDR to IP/CIDR to IP Script.md",
+    "7. Misc/Windows Trial VMs.md",
+    "7. Misc/VMWare Port Forwarding.md",
+    "7. Misc/Skipfish.md",
+    "7. Misc/Spawning TTY Shell.md",
+    "7. Misc/Search for ssh key quickly.md",
+    "7. Misc/sed & awk_ set root password in etc_shadow.md",
+    "7. Misc/SCP Commands.md",
+    "7. Misc",
+    "6. Reporting",
+    "5. High Value Information/Hashes/1. Cracking Hashes Offline",
+    "5. High Value Information/Hashes/2. Cracking Hashes Online",
+    "5. High Value Information/Proof_Screenshots",
+    "5. High Value Information/Passwords",
+    "5. High Value Information/Hashes",
+    "5. High Value Information",
+    "4. Post Exploitation/Users and Groups",
+    "4. Post Exploitation/System Exploitation"
+  ]
+}
