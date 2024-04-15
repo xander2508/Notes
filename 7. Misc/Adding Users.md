@@ -1,5 +1,6 @@
 Adding Users
 
+
 # Adding Users
 
 Windows:
@@ -19,7 +20,7 @@ adduser hacker # (alt, use full path: /usr/sbin/adduser hacker)
 passwd hacker
 useradd -G {group-name} hacker
 ```
-Exaample: add user to sudo:
+Example: add user to sudo:
 ```
 /usr/sbin/usermod -aG sudo hacker
 ```
