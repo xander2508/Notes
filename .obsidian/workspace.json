@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Exploitation/File Types/Wireshark.md",
+                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/SCRAM.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Exploitation/File Types/Wireshark.md",
+                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/SCRAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Exploitation/File Types/Wireshark.md",
+                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/SCRAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Exploitation/File Types/Wireshark.md"
+                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/SCRAM.md"
               }
             }
           },
@@ -190,10 +190,13 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "b46f92bd4e9c63be",
+  "active": "744b9316b7030f7b",
   "lastOpenFiles": [
-    "2. Enumeration/80. HTTP/Applications/Untitled.md",
+    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes",
+    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Untitled.md",
+    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/SCRAM.md",
     "3. Exploitation/File Types/Wireshark.md",
+    "2. Enumeration/80. HTTP/Applications/Untitled.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/1. Guide.md",
     "3. Exploitation/File Types/NetBSD.md",
     "3. Exploitation/File Types/GPG.md",
@@ -217,9 +220,6 @@
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Tooling/John the Ripper.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Tooling/Patator.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Tooling/Hydra.md",
-    "3. Exploitation/File Types/ZIP.md",
-    "3. Exploitation/File Types/Java.md",
-    "3. Exploitation/File Types/LibreOffice.md",
     "4. Post Exploitation/Generic Tooling/Found Passwords/Specific Applications",
     "4. Post Exploitation/Generic Tooling/Found Passwords",
     "4. Post Exploitation/Untitled",
