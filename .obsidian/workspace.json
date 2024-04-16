@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/SCRAM.md",
+                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/NTLM.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "a2c30d0251bdc98b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/SCRAM.md",
+                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/NTLM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/SCRAM.md",
+                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/NTLM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/SCRAM.md"
+                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/NTLM.md"
               }
             }
           },
@@ -190,11 +198,13 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "744b9316b7030f7b",
+  "active": "b46f92bd4e9c63be",
   "lastOpenFiles": [
+    "adsecurity.org",
+    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/SCRAM.md",
+    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/NTLM.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Untitled.md",
-    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/SCRAM.md",
     "3. Exploitation/File Types/Wireshark.md",
     "2. Enumeration/80. HTTP/Applications/Untitled.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/1. Guide.md",
@@ -219,7 +229,6 @@
     "3. Exploitation/File Types/Git Repository.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Tooling/John the Ripper.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Tooling/Patator.md",
-    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Tooling/Hydra.md",
     "4. Post Exploitation/Generic Tooling/Found Passwords/Specific Applications",
     "4. Post Exploitation/Generic Tooling/Found Passwords",
     "4. Post Exploitation/Untitled",
@@ -227,7 +236,6 @@
     "2. Enumeration/80. HTTP/Applications/Login Bypass",
     "2. Enumeration/80. HTTP/Applications",
     "2. Enumeration/80. HTTP/Tooling",
-    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Scripts",
     "Untitled.canvas"
   ]
 }
