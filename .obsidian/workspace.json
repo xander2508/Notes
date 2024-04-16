@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/1. Guide.md",
+                "file": "3. Exploitation/File Types/Wireshark.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/1. Guide.md",
+                "file": "3. Exploitation/File Types/Wireshark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/1. Guide.md",
+                "file": "3. Exploitation/File Types/Wireshark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/1. Guide.md"
+                "file": "3. Exploitation/File Types/Wireshark.md"
               }
             }
           },
@@ -192,13 +192,15 @@
   },
   "active": "b46f92bd4e9c63be",
   "lastOpenFiles": [
+    "2. Enumeration/80. HTTP/Applications/Untitled.md",
+    "3. Exploitation/File Types/Wireshark.md",
+    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/1. Guide.md",
     "3. Exploitation/File Types/NetBSD.md",
     "3. Exploitation/File Types/GPG.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Encryption",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/2. Wordlist Guide.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Scripts/CRSF.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Tooling",
-    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/1. Guide.md",
     "2. Enumeration/80. HTTP/Tooling/Burp.md",
     "2. Enumeration/80. HTTP/Tooling/CEWL.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Tooling/Hashcat.md",
@@ -218,8 +220,6 @@
     "3. Exploitation/File Types/ZIP.md",
     "3. Exploitation/File Types/Java.md",
     "3. Exploitation/File Types/LibreOffice.md",
-    "3. Exploitation/Buffer Overflow/1. Guide.md",
-    "3. Exploitation/File Types/LUKS.md",
     "4. Post Exploitation/Generic Tooling/Found Passwords/Specific Applications",
     "4. Post Exploitation/Generic Tooling/Found Passwords",
     "4. Post Exploitation/Untitled",
