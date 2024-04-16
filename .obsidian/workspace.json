@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Generic Tooling/Hashes/John the Ripper.md",
-                "mode": "preview",
-                "source": false
+                "file": "4. Post Exploitation/Generic Tooling/Hashes/Hashcat.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Generic Tooling/Hashes/John the Ripper.md",
+                "file": "4. Post Exploitation/Generic Tooling/Hashes/Hashcat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Generic Tooling/Hashes/John the Ripper.md",
+                "file": "4. Post Exploitation/Generic Tooling/Hashes/Hashcat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Generic Tooling/Hashes/John the Ripper.md"
+                "file": "4. Post Exploitation/Generic Tooling/Hashes/Hashcat.md"
               }
             }
           },
@@ -192,22 +192,28 @@
   },
   "active": "b46f92bd4e9c63be",
   "lastOpenFiles": [
-    "4. Post Exploitation/Generic Tooling/Hashes/Patator.md",
+    "4. Post Exploitation/Generic Tooling/Hashes/1. Guide.md",
+    "3. Exploitation/File Types/Programs and Executables/1. Guide.md",
+    "3. Exploitation/File Types/Programs and Executables/C.md",
+    "3. Exploitation/File Types/1. Guide.md",
+    "3. Exploitation/Windows/Active Directory/Locating Credentials/Impacket.md",
+    "3. Exploitation/Windows/Active Directory/Bloodhound.md",
+    "3. Exploitation/Windows/Active Directory/Kerberosting.md",
+    "4. Post Exploitation/Generic Tooling/Found Passwords/Specific Applications/Keepass (KDBX).md",
+    "3. Exploitation/Generic Tooling/MSFVenom.md",
+    "3. Exploitation/File Types/DES File Decrypt.md",
+    "3. Exploitation/File Types/Git Repository.md",
     "4. Post Exploitation/Generic Tooling/Hashes/John the Ripper.md",
+    "4. Post Exploitation/Generic Tooling/Hashes/Patator.md",
     "4. Post Exploitation/Generic Tooling/Hashes/Hydra.md",
     "4. Post Exploitation/Generic Tooling/Hashes/Hashcat.md",
-    "3. Exploitation/Windows/Active Directory/Bloodhound.md",
-    "3. Exploitation/Windows/Active Directory/Locating Credentials/Impacket.md",
     "3. Exploitation/File Types/ZIP.md",
     "3. Exploitation/File Types/GPG.md",
     "3. Exploitation/File Types/Java.md",
     "3. Exploitation/File Types/LibreOffice.md",
     "3. Exploitation/Buffer Overflow/1. Guide.md",
-    "3. Exploitation/File Types/Git Repository.md",
     "3. Exploitation/File Types/LUKS.md",
-    "4. Post Exploitation/Generic Tooling/Hashes/1. Guide.md",
     "2. Enumeration/80. HTTP/Applications/PHP.md",
-    "4. Post Exploitation/Generic Tooling/Found Passwords/Specific Applications/Keepass (KDBX).md",
     "4. Post Exploitation/Generic Tooling/Found Passwords/Specific Applications/Untitled 1.md",
     "4. Post Exploitation/Generic Tooling/Found Passwords/Specific Applications",
     "4. Post Exploitation/Generic Tooling/Found Passwords",
@@ -217,17 +223,11 @@
     "2. Enumeration/80. HTTP/Applications/Login Bypass",
     "4. Post Exploitation/Generic Tooling/Hashes/Scripts/CRSF.md",
     "2. Enumeration/80. HTTP/Applications/WordPress.md",
-    "2. Enumeration/443. HTTPS.md",
-    "2. Enumeration/80. HTTP/1. Guide.md",
-    "2. Enumeration/80. HTTP/Tooling/Burp.md",
     "2. Enumeration/80. HTTP/Applications",
     "2. Enumeration/80. HTTP/Tooling",
-    "2. Enumeration/80. HTTP/Untitled.md",
     "4. Post Exploitation/Generic Tooling/Hashes/Scripts",
-    "4. Post Exploitation/Generic Tooling/Hashes and Passwords/SQL.md",
     "2. Enumeration/443. HTTPS",
     "2. Enumeration/80. HTTP",
-    "3. Exploitation/File Types/JSON.md",
     "Untitled.canvas"
   ]
 }
