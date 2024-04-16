@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Generic Tooling/John the Ripper.md",
+                "file": "3. Exploitation/File Types/ZIP.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Generic Tooling/John the Ripper.md",
+                "file": "3. Exploitation/File Types/ZIP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Generic Tooling/John the Ripper.md",
+                "file": "3. Exploitation/File Types/ZIP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Generic Tooling/John the Ripper.md"
+                "file": "3. Exploitation/File Types/ZIP.md"
               }
             }
           },
@@ -201,6 +201,8 @@
   "active": "b46f92bd4e9c63be",
   "lastOpenFiles": [
     "3. Exploitation/File Types/RAR.md",
+    "3. Exploitation/File Types/7z.md",
+    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Generic Tooling/John the Ripper.md",
     "4. Post Exploitation/1. Guide.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Encryption/OpenSSL.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/1. Guide.md",
@@ -228,8 +230,6 @@
     "3. Exploitation/Windows/Active Directory/Kerberosting.md",
     "4. Post Exploitation/Generic Tooling/Found Passwords/Specific Applications/Keepass (KDBX).md",
     "3. Exploitation/Generic Tooling/MSFVenom.md",
-    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Encryption/DES File Decrypt.md",
-    "3. Exploitation/File Types/Git Repository.md",
     "4. Post Exploitation/Generic Tooling/Found Passwords/Specific Applications",
     "4. Post Exploitation/Generic Tooling/Found Passwords",
     "4. Post Exploitation/Untitled",
