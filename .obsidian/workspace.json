@@ -201,6 +201,8 @@
   },
   "active": "1845bc50337d0153",
   "lastOpenFiles": [
+    "adsecurity.org/Lathander.md",
+    "2. Enumeration/80. HTTP/Tooling/Burp.md",
     "7. Misc/textgenerator/templates/smartConnections/summarize.md",
     "2. Enumeration/80. HTTP/Tooling/CEWL.md",
     "3. Exploitation/File Types/Wireshark.md",
@@ -228,9 +230,7 @@
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Encryption",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Scripts/CRSF.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Generic Tooling",
-    "2. Enumeration/80. HTTP/Tooling/Burp.md",
     "3. Exploitation/File Types/Programs and Executables/C.md",
-    "3. Exploitation/Windows/Active Directory/Locating Credentials/Impacket.md",
     "4. Post Exploitation/Generic Tooling/Found Passwords/Specific Applications",
     "4. Post Exploitation/Generic Tooling/Found Passwords",
     "4. Post Exploitation/Untitled",
