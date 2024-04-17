@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e9dd47925b11c17d",
+        "id": "52fd827dfada695a",
         "type": "tabs",
         "children": [
           {
-            "id": "ccd357e53e035a0c",
+            "id": "1845bc50337d0153",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Generic Tooling/Hashcat.md",
+                "file": "2. Enumeration/80. HTTP/Tooling/Burp.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Generic Tooling/Hashcat.md",
+                "file": "2. Enumeration/80. HTTP/Tooling/Burp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Generic Tooling/Hashcat.md",
+                "file": "2. Enumeration/80. HTTP/Tooling/Burp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Generic Tooling/Hashcat.md"
+                "file": "2. Enumeration/80. HTTP/Tooling/Burp.md"
               }
             }
           },
@@ -182,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 547.5
+    "width": 547.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,13 +199,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "92905f72a6223979",
+  "active": "1845bc50337d0153",
   "lastOpenFiles": [
-    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/1. Guide.md",
-    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Generic Tooling/Hashcat.md",
-    "3. Exploitation/File Types/Wireshark.md",
-    "3. Exploitation/File Types/Programs and Executables/1. Guide.md",
+    "7. Misc/textgenerator/templates/smartConnections/summarize.md",
     "2. Enumeration/80. HTTP/Tooling/CEWL.md",
+    "3. Exploitation/File Types/Wireshark.md",
+    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Generic Tooling/Hashcat.md",
+    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/1. Guide.md",
+    "3. Exploitation/File Types/Programs and Executables/1. Guide.md",
     "3. Exploitation/File Types/NetBSD.md",
     "3. Exploitation/File Types/LibreOffice.md",
     "3. Exploitation/File Types/GPG.md",
@@ -229,7 +231,6 @@
     "2. Enumeration/80. HTTP/Tooling/Burp.md",
     "3. Exploitation/File Types/Programs and Executables/C.md",
     "3. Exploitation/Windows/Active Directory/Locating Credentials/Impacket.md",
-    "3. Exploitation/Windows/Active Directory/Bloodhound.md",
     "4. Post Exploitation/Generic Tooling/Found Passwords/Specific Applications",
     "4. Post Exploitation/Generic Tooling/Found Passwords",
     "4. Post Exploitation/Untitled",
