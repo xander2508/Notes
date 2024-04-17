@@ -8,5 +8,7 @@
   "cryptsidian",
   "smart-connections",
   "graph-analysis",
-  "convert-url-to-iframe"
+  "convert-url-to-iframe",
+  "dataview",
+  "table-editor-obsidian"
 ]
