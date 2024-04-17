@@ -10,5 +10,7 @@
   "graph-analysis",
   "convert-url-to-iframe",
   "dataview",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-auto-link-title",
+  "find-unlinked-files"
 ]
