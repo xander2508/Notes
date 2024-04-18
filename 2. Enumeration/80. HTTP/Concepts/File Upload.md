@@ -7,6 +7,7 @@
 
 1. XML, in the case where a server uses an XML document to validate credentials
 	* [[XML#XML External Entity XXE Injection]]
+2. ASPX, see [[Windows ASPX#File Upload]]
 
 ### Bypass File Upload Filtering
 
