@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/80. HTTP/1. Guide.md",
+                "file": "3. Exploitation/Generic Tooling/Obtaining Remote Shells/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/80. HTTP/1. Guide.md",
+                "file": "3. Exploitation/Generic Tooling/Obtaining Remote Shells/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/80. HTTP/1. Guide.md",
+                "file": "3. Exploitation/Generic Tooling/Obtaining Remote Shells/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/80. HTTP/1. Guide.md"
+                "file": "3. Exploitation/Generic Tooling/Obtaining Remote Shells/Untitled.md"
               }
             }
           },
@@ -201,11 +201,18 @@
   },
   "active": "1845bc50337d0153",
   "lastOpenFiles": [
+    "4. Post Exploitation/Securing Access.md",
+    "3. Exploitation/Generic Tooling/Obtaining Remote Shells/Untitled.md",
+    "3. Exploitation/Generic Tooling/Obtaining Remote Shells",
+    "2. Enumeration/80. HTTP/1. Guide.md",
+    "4. Post Exploitation/Valuable Files.md",
+    "4. Post Exploitation/1. Guide.md",
+    "4. Post Exploitation/Valuable Files/Untitled",
+    "4. Post Exploitation/Valuable Files",
     "3. Exploitation/Known Vulnerabilities/File Upload Filtering Bypasses.md",
     "2. Enumeration/80. HTTP/Applications/PHP.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Known Flaws/Magic Hashes.md",
     "3. Exploitation/Known Vulnerabilities/Heartbleed.md",
-    "2. Enumeration/80. HTTP/1. Guide.md",
     "3. Exploitation/Known Vulnerabilities/File Upload Filtering Bypasses",
     "3. Exploitation/Known Technologies",
     "3. Exploitation/Operating System Specific",
@@ -228,15 +235,8 @@
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Generic Tooling/Hydra.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/2. Wordlist Guide.md",
     "3. Exploitation/File Types/ZIP.md",
-    "3. Exploitation/File Types/RAR.md",
-    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Generic Tooling/John the Ripper.md",
-    "4. Post Exploitation/1. Guide.md",
-    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Encryption/OpenSSL.md",
     "adsecurity.org",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes",
-    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Encryption",
-    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Generic Tooling",
-    "4. Post Exploitation/Generic Tooling/Found Passwords/Specific Applications",
     "Untitled.canvas"
   ]
 }
