@@ -11,8 +11,12 @@
             "id": "12316a9e76fb03e4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2. Enumeration/80. HTTP/Concepts/Server-side request forgery (SSRF).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 339.5
   },
   "right": {
     "id": "ab865be945a38766",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Enumeration/80. HTTP/Concepts/Server-side request forgery (SSRF).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Enumeration/80. HTTP/Concepts/Server-side request forgery (SSRF).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. Enumeration/80. HTTP/Concepts/Server-side request forgery (SSRF).md"
+              }
             }
           },
           {
