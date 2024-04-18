@@ -7,6 +7,10 @@
 2. [Comprehensive Guide on Local File Inclusion (LFI) - Hacking Articles](https://www.hackingarticles.in/comprehensive-guide-to-local-file-inclusion/)
 
 Check the source of the website and the website fuzzing report for potential parameters which may be vulnerable.
+
+## Automatic Tool
+
+1. [GitHub - kurobeats/fimap: fimap is a little python tool which can find, prepare, audit, exploit and even google automatically for local and remote file inclusion bugs in webapps.](https://github.com/kurobeats/fimap)
 # Local File Include
 
 Local File Inclusion (LFI) is a vulnerability that allows an attacker to include files on the server through the web browser. This can lead to sensitive information disclosure, code execution, and other security issues. 
@@ -21,6 +25,7 @@ There are several techniques to exploit LFI, such as directory traversal, null b
 	1. If the log file is available, see [[#Log Poisoning]]
 	2. Search for credentials, see [[Valuable Files]]
 4. Potentially be able to get the source of the site using the wrappers, see [[#PHP Wrappers]]
+5. Vulnerable PHP functions: require, require_once, include, include_once
 
 ## PHP Wrappers
 
@@ -67,6 +72,11 @@ Effectively if you can view a log file using LFI, you can manipulate the logs by
 
 1. `/var/log/auth.log`
 2. `/var/log/vsftpd.log`
+
+## PHP Session
+
+If the website uses the PHP Session (PHPSESSID) cookie.
+[File Inclusion/Path traversal | HackTricks | HackTricks](https://book.hacktricks.xyz/pentesting-web/file-inclusion#via-php-sessions)
 
 # Remote File Include
 
