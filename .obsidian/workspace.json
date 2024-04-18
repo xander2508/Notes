@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Exploitation/File Types and Data/PHP 1.md",
+                "file": "2. Enumeration/80. HTTP/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "msf",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Exploitation/File Types and Data/PHP 1.md",
+                "file": "2. Enumeration/80. HTTP/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Exploitation/File Types and Data/PHP 1.md",
+                "file": "2. Enumeration/80. HTTP/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Exploitation/File Types and Data/PHP 1.md"
+                "file": "2. Enumeration/80. HTTP/1. Guide.md"
               }
             }
           },
@@ -199,8 +199,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "744b9316b7030f7b",
+  "active": "1845bc50337d0153",
   "lastOpenFiles": [
+    "3. Exploitation/File Types and Data/LUKS.md",
+    "2. Enumeration/445. SMB/1. Guide.md",
+    "1. Recon/Tooling/NMAP.md",
+    "3. Exploitation/File Types and Data/PHP 1.md",
     "3. Exploitation/File Types and Data/NodeJS.md",
     "2. Enumeration/80. HTTP/Applications/GraphQL.md",
     "3. Exploitation/File Types and Data/JavaScript.md",
@@ -212,25 +216,21 @@
     "2. Enumeration/80. HTTP/Concepts/Command Injection.md",
     "2. Enumeration/80. HTTP/Concepts/File Upload.md",
     "3. Exploitation/Generic Tooling/MSFVenom.md",
-    "2. Enumeration/445. SMB/1. Guide.md",
     "1. Recon/Tooling/Responder.md",
     "2. Enumeration/445. SMB",
     "1. Recon/Tooling/Netcat.md",
     "4. Post Exploitation/Valuable Files.md",
     "3. Exploitation/Generic Tooling/Obtaining Remote Shells/Web Shells.md",
-    "1. Recon/Tooling/NMAP.md",
     "1. Recon/Tooling",
     "2. Enumeration/22. SSH/1. Guide.md",
     "2. Enumeration/22. SSH",
     "3. Exploitation/File Types and Data/Base64.md",
-    "3. Exploitation/File Types and Data/PHP 1.md",
     "2. Enumeration/80. HTTP/Tooling/Burp.md",
     "2. Enumeration/80. HTTP/Concepts",
     "3. Exploitation/File Types and Data/Java.md",
     "3. Exploitation/File Types and Data/1. Guide.md",
     "3. Exploitation/File Types/1. Identifying File Types.md",
     "4. Post Exploitation/Command Line Restrictions.md",
-    "2. Enumeration/80. HTTP/Tooling/Fuzzing/DirBuster.md",
     "2. Enumeration/80. HTTP/Tooling/Fuzzing",
     "3. Exploitation/Generic Tooling/Obtaining Remote Shells",
     "4. Post Exploitation/Valuable Files/Untitled",
