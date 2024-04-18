@@ -7,5 +7,9 @@
 
 # Specific Pages
 
+## Authentication with XML
+
+* [[XML#XML External Entity XXE Injection]]
+
 ## _authenticate.php
 
