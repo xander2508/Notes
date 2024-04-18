@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/80. HTTP/Applications/GraphQL.md",
+                "file": "3. Exploitation/File Types and Data/NodeJS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/80. HTTP/Applications/GraphQL.md",
+                "file": "3. Exploitation/File Types and Data/NodeJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/80. HTTP/Applications/GraphQL.md",
+                "file": "3. Exploitation/File Types and Data/NodeJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/80. HTTP/Applications/GraphQL.md"
+                "file": "3. Exploitation/File Types and Data/NodeJS.md"
               }
             }
           },
@@ -201,8 +201,9 @@
   },
   "active": "1845bc50337d0153",
   "lastOpenFiles": [
-    "3. Exploitation/File Types and Data/JavaScript.md",
     "2. Enumeration/80. HTTP/Applications/GraphQL.md",
+    "3. Exploitation/File Types and Data/NodeJS.md",
+    "3. Exploitation/File Types and Data/JavaScript.md",
     "2. Enumeration/80. HTTP/1. Guide.md",
     "2. Enumeration/80. HTTP/Concepts/Server-side request forgery (SSRF).md",
     "2. Enumeration/80. HTTP/Concepts/File include.md",
@@ -231,7 +232,6 @@
     "4. Post Exploitation/Command Line Restrictions.md",
     "2. Enumeration/80. HTTP/Tooling/Fuzzing/DirBuster.md",
     "2. Enumeration/80. HTTP/Tooling/Fuzzing",
-    "2. Enumeration/80. HTTP/Tooling/Fuzzing/wFuzz.md",
     "3. Exploitation/Generic Tooling/Obtaining Remote Shells",
     "4. Post Exploitation/Valuable Files/Untitled",
     "4. Post Exploitation/Valuable Files",
