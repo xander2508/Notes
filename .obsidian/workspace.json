@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Exploitation/Generic Tooling/MSFVenom.md",
+                "file": "2. Enumeration/80. HTTP/Concepts/Server-Side Template Injection (SSTI).md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Exploitation/Generic Tooling/MSFVenom.md",
+                "file": "2. Enumeration/80. HTTP/Concepts/Server-Side Template Injection (SSTI).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Exploitation/Generic Tooling/MSFVenom.md",
+                "file": "2. Enumeration/80. HTTP/Concepts/Server-Side Template Injection (SSTI).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Exploitation/Generic Tooling/MSFVenom.md"
+                "file": "2. Enumeration/80. HTTP/Concepts/Server-Side Template Injection (SSTI).md"
               }
             }
           },
@@ -202,15 +201,17 @@
   },
   "active": "1845bc50337d0153",
   "lastOpenFiles": [
+    "2. Enumeration/80. HTTP/1. Guide.md",
+    "2. Enumeration/80. HTTP/Concepts/Server-Side Template Injection (SSTI).md",
+    "2. Enumeration/80. HTTP/Concepts/File include.md",
+    "3. Exploitation/Generic Tooling/MSFVenom.md",
     "2. Enumeration/445. SMB/1. Guide.md",
     "1. Recon/Tooling/Responder.md",
-    "2. Enumeration/80. HTTP/Concepts/File include.md",
     "2. Enumeration/445. SMB",
     "1. Recon/Tooling/Netcat.md",
     "4. Post Exploitation/Valuable Files.md",
     "2. Enumeration/80. HTTP/Concepts/File Upload.md",
     "3. Exploitation/Generic Tooling/Obtaining Remote Shells/Web Shells.md",
-    "2. Enumeration/80. HTTP/1. Guide.md",
     "1. Recon/Tooling/NMAP.md",
     "1. Recon/Tooling",
     "2. Enumeration/22. SSH/1. Guide.md",
@@ -231,8 +232,6 @@
     "2. Enumeration/80. HTTP/Tooling/CEWL.md",
     "3. Exploitation/File Types and Data/XML.md",
     "2. Enumeration/443. HTTPS.md",
-    "3. Exploitation/Known Vulnerabilities/File Upload Filtering Bypasses.md",
-    "3. Exploitation/Generic Tooling/Obtaining Remote Shells/1. Guide.md",
     "3. Exploitation/Generic Tooling/Obtaining Remote Shells",
     "4. Post Exploitation/Valuable Files/Untitled",
     "4. Post Exploitation/Valuable Files",
