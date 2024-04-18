@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/445. SMB/1. Guide.md",
+                "file": "3. Exploitation/Generic Tooling/MSFVenom.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "WAF",
+                "query": "msf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/445. SMB/1. Guide.md",
+                "file": "3. Exploitation/Generic Tooling/MSFVenom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/445. SMB/1. Guide.md",
+                "file": "3. Exploitation/Generic Tooling/MSFVenom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/445. SMB/1. Guide.md"
+                "file": "3. Exploitation/Generic Tooling/MSFVenom.md"
               }
             }
           },
@@ -201,9 +202,9 @@
   },
   "active": "1845bc50337d0153",
   "lastOpenFiles": [
+    "2. Enumeration/445. SMB/1. Guide.md",
     "1. Recon/Tooling/Responder.md",
     "2. Enumeration/80. HTTP/Concepts/File include.md",
-    "2. Enumeration/445. SMB/1. Guide.md",
     "2. Enumeration/445. SMB",
     "1. Recon/Tooling/Netcat.md",
     "4. Post Exploitation/Valuable Files.md",
