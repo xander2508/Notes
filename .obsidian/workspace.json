@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Exploitation/Known Vulnerabilities/Heartbleed.md",
+                "file": "3. Exploitation/Known Vulnerabilities/File Upload Filtering Bypasses.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Exploitation/Known Vulnerabilities/Heartbleed.md",
+                "file": "3. Exploitation/Known Vulnerabilities/File Upload Filtering Bypasses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Exploitation/Known Vulnerabilities/Heartbleed.md",
+                "file": "3. Exploitation/Known Vulnerabilities/File Upload Filtering Bypasses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Exploitation/Known Vulnerabilities/Heartbleed.md"
+                "file": "3. Exploitation/Known Vulnerabilities/File Upload Filtering Bypasses.md"
               }
             }
           },
@@ -199,12 +199,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "744b9316b7030f7b",
+  "active": "1845bc50337d0153",
   "lastOpenFiles": [
-    "3. Exploitation/Untitled",
+    "3. Exploitation/Known Vulnerabilities/Heartbleed.md",
+    "3. Exploitation/Known Vulnerabilities/File Upload Filtering Bypasses.md",
+    "2. Enumeration/80. HTTP/1. Guide.md",
+    "3. Exploitation/Known Vulnerabilities/File Upload Filtering Bypasses",
+    "3. Exploitation/Known Technologies",
     "3. Exploitation/Operating System Specific",
     "3. Exploitation/File Types/Git Repository.md",
-    "3. Exploitation/Known Vulnerabilities/Heartbleed.md",
     "3. Exploitation/Known Vulnerabilities",
     "2. Enumeration/80. HTTP/Tooling/Burp.md",
     "3. Exploitation/Ports",
@@ -231,12 +234,9 @@
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/NTLM and LM.md",
     "adsecurity.org",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes",
-    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Untitled.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Encryption",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Generic Tooling",
     "4. Post Exploitation/Generic Tooling/Found Passwords/Specific Applications",
-    "4. Post Exploitation/Generic Tooling/Found Passwords",
-    "4. Post Exploitation/Untitled",
     "Untitled.canvas"
   ]
 }
