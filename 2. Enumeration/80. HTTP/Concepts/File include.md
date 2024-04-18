@@ -82,6 +82,8 @@ To exploit RFI, an attacker needs to find a vulnerable parameter in the applicat
 
 1. Point the RFI at a [[Netcat]] to see the request made first
 	1. If a SMB request is made, see [[2. Enumeration/445. SMB/1. Guide#Responder|SMB Responder]] to capture credentials
-	2. 
+2. Can be used to check for internal ports which are open
+	`wfuzz -c -z range,1-65535 --hl=2 http://10.10.10.55:60000/url.php?path=127.0.0.1:FUZZ`
+	
 
 
