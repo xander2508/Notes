@@ -1,0 +1,13 @@
+# Guide
+
+1. Upload web shell, see [[3. Exploitation/Generic Tooling/Obtaining Remote Shells/1. Guide|Guide]]
+	1. Secure hold by uploading a full shell, see [[Securing Access]]
+
+### File Type Vulnerabilities
+
+1. XML, in the case where a server uses an XML document to validate credentials
+	* [[XML#XML External Entity XXE Injection]]
+
+### Bypass File Upload Filtering
+
+* [[File Upload Filtering Bypasses]]
