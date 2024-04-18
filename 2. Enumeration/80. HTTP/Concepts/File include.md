@@ -47,9 +47,21 @@ See [[Web Application Firewall (WAF)]]
 
 ## Log Poisoning
 
+Log poisoning is a technique used to manipulate log files on a server by injecting malicious input. This can be used in combination with Local File Inclusion (LFI) vulnerabilities to escalate an attack. 
+
+Effectively if you can view a log file using LFI, you can manipulate the logs by maybe inputting a username which is actually a PHP web shell, then navigating to the log file using LFI, which may run the shell.
+
 ### Walkthrough
 
 1. [RCE via LFI Log Poisoning - The Death Potion | by Jerry Shah (Jerry) | Medium](https://shahjerry33.medium.com/rce-via-lfi-log-poisoning-the-death-potion-c0831cebc16d#:~:text=What%20is%20log%20poisoning%20%3F,input%20to%20the%20server%20log)
+
+### Guide
+
+1. Find the log file using LFI
+2. Find the technology the log file is for, e.g. FTP
+3. Generate a log message using that technology with a malicious entry, e.g. FTP username: `<?php system($_GET[‘commandInjection’]); ?>` 
+4. Navigate to the log file using LFI
+5. `_/var/log/vsftpd.log&commandInjection=ifconfig
 
 ### Log File Locations
 
