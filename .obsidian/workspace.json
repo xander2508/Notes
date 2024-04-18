@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/80. HTTP/1. Guide.md",
+                "file": "1. Recon/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/80. HTTP/1. Guide.md",
+                "file": "1. Recon/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/80. HTTP/1. Guide.md",
+                "file": "1. Recon/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/80. HTTP/1. Guide.md"
+                "file": "1. Recon/1. Guide.md"
               }
             }
           },
@@ -201,10 +201,11 @@
   },
   "active": "1845bc50337d0153",
   "lastOpenFiles": [
+    "2. Enumeration/80. HTTP/1. Guide.md",
+    "1. Recon/1. Guide.md",
     "2. Enumeration/80. HTTP/Concepts/File include.md",
     "3. Exploitation/File Types and Data/PHP.md",
     "3. Exploitation/File Types and Data/PHP 1.md",
-    "2. Enumeration/80. HTTP/1. Guide.md",
     "3. Exploitation/File Types and Data/Base64.md",
     "3. Exploitation/File Types and Data/Java.md",
     "3. Exploitation/File Types and Data/JavaScript.md",
@@ -229,7 +230,6 @@
     "1. Recon/Tooling",
     "2. Enumeration/22. SSH/1. Guide.md",
     "2. Enumeration/22. SSH",
-    "2. Enumeration/80. HTTP/Tooling/Burp.md",
     "2. Enumeration/80. HTTP/Concepts",
     "2. Enumeration/80. HTTP/Tooling/Fuzzing",
     "3. Exploitation/Generic Tooling/Obtaining Remote Shells",
