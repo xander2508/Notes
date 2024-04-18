@@ -201,8 +201,9 @@
   },
   "active": "1845bc50337d0153",
   "lastOpenFiles": [
-    "2. Enumeration/80. HTTP/Tooling/Fuzzing/DirBuster.md",
+    "4. Post Exploitation/Command Line Restrictions.md",
     "2. Enumeration/80. HTTP/1. Guide.md",
+    "2. Enumeration/80. HTTP/Tooling/Fuzzing/DirBuster.md",
     "2. Enumeration/80. HTTP/Tooling/Fuzzing",
     "2. Enumeration/80. HTTP/Tooling/Fuzzing/wFuzz.md",
     "2. Enumeration/80. HTTP/Tooling/CEWL.md",
@@ -235,7 +236,6 @@
     "3. Exploitation/File Types/Programs and Executables/1. Guide.md",
     "3. Exploitation/File Types/NetBSD.md",
     "3. Exploitation/File Types/LibreOffice.md",
-    "3. Exploitation/File Types/GPG.md",
     "adsecurity.org",
     "Untitled.canvas"
   ]
