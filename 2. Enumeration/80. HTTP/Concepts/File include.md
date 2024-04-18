@@ -21,8 +21,6 @@ There are several techniques to exploit LFI, such as directory traversal, null b
 	1. If the log file is available, see [[#Log Poisoning]]
 	2. Search for credentials, see [[Valuable Files]]
 4. Potentially be able to get the source of the site using the wrappers, see [[#PHP Wrappers]]
-5. 
-
 
 ## PHP Wrappers
 
@@ -83,8 +81,7 @@ To exploit RFI, an attacker needs to find a vulnerable parameter in the applicat
 ## Guide
 
 1. Point the RFI at a [[Netcat]] to see the request made first
-	1. If a SMB request is made, see [[smb]]
-
-## SMB and Responder
+	1. If a SMB request is made, see [[2. Enumeration/445. SMB/1. Guide#Responder|SMB Responder]] to capture credentials
+	2. 
 
 
