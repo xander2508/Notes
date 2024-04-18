@@ -1,4 +1,6 @@
+# Guide
 
+1. Lookout for [[File include]] vulnerabilities found in poorly written PHP web-applications where the input parameters are not properly sanitized or validated.
 
 # Password Bypass
 
