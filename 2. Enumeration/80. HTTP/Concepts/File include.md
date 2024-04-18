@@ -15,18 +15,25 @@ To exploit LFI, an attacker needs to find a vulnerable parameter in the applicat
 
 There are several techniques to exploit LFI, such as directory traversal, null byte injection, and using wrappers like php://input or data://. 
 
-1. Supported wrappers, see [PHP: Supported Protocols and Wrappers - Manual](https://secure.php.net/manual/en/wrappers.php)
-2. If the log file is available, see [[#Log Poisoning]]
-3. Potentially be able to get the source of the site using the wrappers, see [[#PHP Wrappers]]
+1. Just try the parameter (e.g. `book.php?bookNumber=/etc/password`) and see what happens
+2. Supported wrappers, see [PHP: Supported Protocols and Wrappers - Manual](https://secure.php.net/manual/en/wrappers.php)
+3. If files can be viewed and the log file is available, see [[#Log Poisoning]]
+4. Potentially be able to get the source of the site using the wrappers, see [[#PHP Wrappers]]
 
 
 ## PHP Wrappers
+
+### Website Source Retrieval
 
 These return the Base64 of the site, see [[Base64]] to decode.
 
 - `http://10.10.10.80/?op=php://filter/convert.base64-encode/resource=view`
 - `http://10.10.10.80/?op=php://filter/convert.base64-encode/resource=upload`
 - `http://10.10.10.80/?op=php://filter/convert.base64-encode/resource=index`
+
+### Unzip File
+
+[[Web Shells#ZIP Wrapper LFI]]
 ## LFI Bypass Filtering
 
 See [[Web Application Firewall (WAF)]]
@@ -43,6 +50,11 @@ See [[Web Application Firewall (WAF)]]
 ### Walkthrough
 
 1. [RCE via LFI Log Poisoning - The Death Potion | by Jerry Shah (Jerry) | Medium](https://shahjerry33.medium.com/rce-via-lfi-log-poisoning-the-death-potion-c0831cebc16d#:~:text=What%20is%20log%20poisoning%20%3F,input%20to%20the%20server%20log)
+
+### Log File Locations
+
+1. `/var/log/auth.log`
+2. `/var/log/vsftpd.log`
 
 # Remote File Include
 
