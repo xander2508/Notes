@@ -5,3 +5,10 @@ wFuzz allows users to automate the process of fuzzing website parameters, making
 # Walkthrough
 
 * [HTB: FluxCapacitor | 0xdf hacks stuff](https://0xdf.gitlab.io/2018/05/12/htb-fluxcapacitor.html)
+
+
+# Fuzzing Sub-Domains
+
+```
+wfuzz -c -u http://10.10.10.186:9001 -H "Host: FUZZ.quick.htb" -w /usr/share/seclists/Discovery/DNS/bitquark-subdomains-top100000.txt --hh 3351
+```

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/80. HTTP/Concepts/Edge Side Include (ESI).md",
+                "file": "2. Enumeration/80. HTTP/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/80. HTTP/Concepts/Edge Side Include (ESI).md",
+                "file": "2. Enumeration/80. HTTP/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/80. HTTP/Concepts/Edge Side Include (ESI).md",
+                "file": "2. Enumeration/80. HTTP/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/80. HTTP/Concepts/Edge Side Include (ESI).md"
+                "file": "2. Enumeration/80. HTTP/1. Guide.md"
               }
             }
           },
@@ -214,10 +214,11 @@
   },
   "active": "57c0f2b4e422b289",
   "lastOpenFiles": [
-    "3. Exploitation/Generic Tooling/Encryption/Creating Certificate Files.md",
-    "2. Enumeration/80. HTTP/Concepts/Edge Side Include (ESI).md",
-    "7. Misc/Write-ups.md",
+    "2. Enumeration/80. HTTP/Tooling/Fuzzing/wFuzz.md",
     "2. Enumeration/80. HTTP/1. Guide.md",
+    "2. Enumeration/80. HTTP/Concepts/Edge Side Include (ESI).md",
+    "3. Exploitation/Generic Tooling/Encryption/Creating Certificate Files.md",
+    "7. Misc/Write-ups.md",
     "3. Exploitation/Generic Tooling/Encryption/PadBuster.md",
     "3. Exploitation/Generic Tooling/Encryption",
     "3. Exploitation/Generic Tooling/Untitled.md",
@@ -240,7 +241,6 @@
     "2. Enumeration/80. HTTP/Concepts/File Upload.md",
     "2. Enumeration/80. HTTP/Applications/Windows ASPX.md",
     "3. Exploitation/Generic Tooling/Obtaining Remote Shells/Windows Shells.md",
-    "3. Exploitation/Generic Tooling/Obtaining Remote Shells/Web Shells.md",
     "2. Enumeration/445. SMB",
     "1. Recon/Tooling",
     "2. Enumeration/22. SSH",
