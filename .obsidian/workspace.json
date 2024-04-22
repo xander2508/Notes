@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/80. HTTP/Concepts/Cross Site Scripting (XSS).md",
+                "file": "3. Exploitation/Known Vulnerabilities/SQL Injection.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/80. HTTP/Concepts/Cross Site Scripting (XSS).md",
+                "file": "3. Exploitation/Known Vulnerabilities/SQL Injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/80. HTTP/Concepts/Cross Site Scripting (XSS).md",
+                "file": "3. Exploitation/Known Vulnerabilities/SQL Injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/80. HTTP/Concepts/Cross Site Scripting (XSS).md"
+                "file": "3. Exploitation/Known Vulnerabilities/SQL Injection.md"
               }
             }
           },
@@ -215,12 +215,17 @@
   "active": "57c0f2b4e422b289",
   "lastOpenFiles": [
     "2. Enumeration/80. HTTP/1. Guide.md",
+    "3. Exploitation/Known Vulnerabilities/SQL Injection.md",
+    "3. Exploitation/File Types and Data/XML.md",
+    "3. Exploitation/File Types and Data/XLSM (Excel etc).md",
+    "3. Exploitation/File Types and Data/RAR.md",
+    "3. Exploitation/File Types and Data/Programs and Executables/C.md",
+    "3. Exploitation/File Types and Data/Programs and Executables/1. Guide.md",
     "2. Enumeration/80. HTTP/Concepts/Cross Site Scripting (XSS).md",
     "2. Enumeration/80. HTTP/Tooling/Fuzzing/DirSearch.md",
     "2. Enumeration/80. HTTP/Tooling/Fuzzing/GoBuster.md",
     "1. Recon/1. Guide.md",
     "3. Exploitation/File Types and Data/JavaScript.md",
-    "3. Exploitation/File Types and Data/XML.md",
     "2. Enumeration/80. HTTP/Concepts/File Upload.md",
     "2. Enumeration/80. HTTP/Applications/Windows ASPX.md",
     "3. Exploitation/Generic Tooling/Obtaining Remote Shells/Windows Shells.md",
@@ -235,11 +240,6 @@
     "3. Exploitation/File Types and Data/PHP 1.md",
     "3. Exploitation/File Types and Data/Base64.md",
     "3. Exploitation/File Types and Data/Java.md",
-    "3. Exploitation/File Types and Data/1. Guide.md",
-    "3. Exploitation/File Types and Data/Programs and Executables/1. Guide.md",
-    "3. Exploitation/File Types and Data/LUKS.md",
-    "2. Enumeration/445. SMB/1. Guide.md",
-    "1. Recon/Tooling/NMAP.md",
     "2. Enumeration/445. SMB",
     "1. Recon/Tooling",
     "2. Enumeration/22. SSH",

@@ -12,6 +12,7 @@ XSS attacks can be used to steal sensitive information, such as login credential
 # Walkthrough
 
 1. [HTB: Holiday | 0xdf hacks stuff](https://0xdf.gitlab.io/2019/09/11/htb-holiday.html)
+2. [HTB: Bankrobber | 0xdf hacks stuff](https://0xdf.gitlab.io/2020/03/07/htb-bankrobber.html)
 
 # Examples
 
