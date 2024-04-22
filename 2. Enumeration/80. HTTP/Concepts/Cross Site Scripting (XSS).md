@@ -9,6 +9,10 @@ XSS attacks can be used to steal sensitive information, such as login credential
 1. Remember it relies on an external user and therefor may be unreliable, this may take time or multiple login attempts.
 2. The value which gets displayed and can be modified may be in a strange place, check the URL and request parameters.
 
+# Notes
+
+[[Edge Side Include (ESI)]] is a manor of XXS which can bypass many XXS filters if ESI is being used by the website.
+
 # Walkthrough
 
 1. [HTB: Holiday | 0xdf hacks stuff](https://0xdf.gitlab.io/2019/09/11/htb-holiday.html)
