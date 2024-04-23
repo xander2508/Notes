@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Exploitation/Generic Tooling/Obtaining Remote Shells/1. Guide.md",
+                "file": "4. Post Exploitation/Securing Access.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "viewstat",
+                "query": "NetCat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Exploitation/Generic Tooling/Obtaining Remote Shells/1. Guide.md",
+                "file": "4. Post Exploitation/Securing Access.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Exploitation/Generic Tooling/Obtaining Remote Shells/1. Guide.md",
+                "file": "4. Post Exploitation/Securing Access.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Exploitation/Generic Tooling/Obtaining Remote Shells/1. Guide.md"
+                "file": "4. Post Exploitation/Securing Access.md"
               }
             }
           },
@@ -201,6 +201,19 @@
   },
   "active": "84a9450a0606fc51",
   "lastOpenFiles": [
+    "4. Post Exploitation/1. Guide.md",
+    "4. Post Exploitation/Securing Access.md",
+    "3. Exploitation/File Types and Data/PHP.md",
+    "3. Exploitation/Obtaining Remote Shells/Specific Shells/Windows Shells.md",
+    "3. Exploitation/Obtaining Remote Shells/Generic Tooling/MSFVenom.md",
+    "3. Exploitation/Obtaining Remote Shells/1. Guide.md",
+    "3. Exploitation/Obtaining Remote Shells/Specific Shells/Web Shells.md",
+    "2. Enumeration/80. HTTP/Applications/Windows ASPX.md",
+    "3. Exploitation/Obtaining Remote Shells/Generic Tooling/Netcat.md",
+    "3. Exploitation/Obtaining Remote Shells/Generic Tooling/NetCat.md",
+    "3. Exploitation/Obtaining Remote Shells/Generic Tooling",
+    "3. Exploitation/Obtaining Remote Shells/Specific Shells",
+    "3. Exploitation/Generic Tooling/BinWalk.md",
     "2. Enumeration/80. HTTP/1. Guide.md",
     "2. Enumeration/80. HTTP/Tooling/CEWL.md",
     "4. Post Exploitation/Generic Tooling/Passwords and Wordlists/1. Wordlist Guide.md",
@@ -211,32 +224,19 @@
     "4. Post Exploitation/Generic Tooling/Cryptography Solving.md",
     "3. Exploitation/File Types and Data/Images.md",
     "3. Exploitation/File Types and Data/Programs and Executables/C.md",
-    "3. Exploitation/Generic Tooling/BinWalk.md",
     "3. Exploitation/File Types and Data/Programs and Executables/1. Guide.md",
     "3. Exploitation/File Types and Data/1. Guide.md",
     "4. Post Exploitation/Valuable Files.md",
     "4. Post Exploitation/Command Line Restrictions.md",
-    "4. Post Exploitation/Securing Access.md",
     "3. Exploitation/File Types and Data/Programs and Executables/Java.md",
     "2. Enumeration/80. HTTP/Applications/Apache.md",
-    "2. Enumeration/80. HTTP/Concepts/Server-Side Includes (SSI).md",
-    "2. Enumeration/80. HTTP/Concepts/WebDav (HTTP PUT).md",
-    "2. Enumeration/80. HTTP/Tooling/Fuzzing/cURL.md",
-    "2. Enumeration/80. HTTP/Applications/Drupal.md",
-    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Generic Tooling/Patator.md",
-    "2. Enumeration/80. HTTP/Applications/H2 Database.md",
-    "3. Exploitation/Known Vulnerabilities/Padding Oracle.md",
-    "3. Exploitation/Known Vulnerabilities/Untitled.md",
-    "3. Exploitation/File Types and Data/Certificate Files (CRT).md",
     "3. Exploitation/Generic Tooling/Encryption",
     "2. Enumeration/445. SMB",
     "1. Recon/Tooling",
     "2. Enumeration/22. SSH",
     "2. Enumeration/80. HTTP/Concepts",
     "2. Enumeration/80. HTTP/Tooling/Fuzzing",
-    "3. Exploitation/Generic Tooling/Obtaining Remote Shells",
-    "4. Post Exploitation/Valuable Files/Untitled",
-    "4. Post Exploitation/Valuable Files",
+    "3. Exploitation/Obtaining Remote Shells",
     "Untitled.canvas"
   ]
 }
