@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Generic Tooling/Passwords and Wordlists/Generic Tooling/Untitled.md",
+                "file": "3. Exploitation/Generic Tooling/Obtaining Remote Shells/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Generic Tooling/Passwords and Wordlists/Generic Tooling/Untitled.md",
+                "file": "3. Exploitation/Generic Tooling/Obtaining Remote Shells/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Generic Tooling/Passwords and Wordlists/Generic Tooling/Untitled.md",
+                "file": "3. Exploitation/Generic Tooling/Obtaining Remote Shells/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Generic Tooling/Passwords and Wordlists/Generic Tooling/Untitled.md"
+                "file": "3. Exploitation/Generic Tooling/Obtaining Remote Shells/1. Guide.md"
               }
             }
           },
@@ -201,13 +201,14 @@
   },
   "active": "84a9450a0606fc51",
   "lastOpenFiles": [
+    "2. Enumeration/80. HTTP/1. Guide.md",
+    "2. Enumeration/80. HTTP/Tooling/CEWL.md",
     "4. Post Exploitation/Generic Tooling/Passwords and Wordlists/1. Wordlist Guide.md",
-    "4. Post Exploitation/Generic Tooling/Passwords and Wordlists/Generic Tooling/Untitled.md",
+    "4. Post Exploitation/Generic Tooling/Passwords and Wordlists/Generic Tooling/CUPP.md",
     "4. Post Exploitation/Generic Tooling/Passwords and Wordlists/Generic Tooling",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Scripts/CRSF.md",
     "4. Post Exploitation/Generic Tooling/Passwords and Wordlists/Specific Applications/Keepass (KDBX).md",
     "4. Post Exploitation/Generic Tooling/Cryptography Solving.md",
-    "2. Enumeration/80. HTTP/Tooling/CEWL.md",
     "3. Exploitation/File Types and Data/Images.md",
     "3. Exploitation/File Types and Data/Programs and Executables/C.md",
     "3. Exploitation/Generic Tooling/BinWalk.md",
@@ -218,7 +219,6 @@
     "4. Post Exploitation/Securing Access.md",
     "3. Exploitation/File Types and Data/Programs and Executables/Java.md",
     "2. Enumeration/80. HTTP/Applications/Apache.md",
-    "2. Enumeration/80. HTTP/1. Guide.md",
     "2. Enumeration/80. HTTP/Concepts/Server-Side Includes (SSI).md",
     "2. Enumeration/80. HTTP/Concepts/WebDav (HTTP PUT).md",
     "2. Enumeration/80. HTTP/Tooling/Fuzzing/cURL.md",
