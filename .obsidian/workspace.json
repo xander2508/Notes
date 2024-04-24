@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/1. Guide.md",
+                "file": "3. Exploitation/Obtaining Remote Shells/Specific Shells/Windows.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/1. Guide.md",
+                "file": "3. Exploitation/Obtaining Remote Shells/Specific Shells/Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/1. Guide.md",
+                "file": "3. Exploitation/Obtaining Remote Shells/Specific Shells/Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/1. Guide.md"
+                "file": "3. Exploitation/Obtaining Remote Shells/Specific Shells/Windows.md"
               }
             }
           },
@@ -201,17 +201,19 @@
   },
   "active": "84a9450a0606fc51",
   "lastOpenFiles": [
-    "4. Post Exploitation/1. Guide.md",
+    "3. Exploitation/Obtaining Remote Shells/1. Guide.md",
+    "3. Exploitation/Obtaining Remote Shells/Specific Shells/JS.md",
+    "3. Exploitation/Obtaining Remote Shells/Specific Shells/Windows.md",
+    "3. Exploitation/Obtaining Remote Shells/Specific Shells/Linux.md",
+    "3. Exploitation/Obtaining Remote Shells/Specific Shells/Web.md",
     "4. Post Exploitation/Privilege Escalation/1. Guide.md",
+    "4. Post Exploitation/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation",
     "4. Post Exploitation/Securing Access.md",
     "4. Post Exploitation/Valuable Files.md",
     "4. Post Exploitation/Command Line Restrictions.md",
     "3. Exploitation/File Types and Data/PHP.md",
-    "3. Exploitation/Obtaining Remote Shells/Specific Shells/Windows Shells.md",
     "3. Exploitation/Obtaining Remote Shells/Generic Tooling/MSFVenom.md",
-    "3. Exploitation/Obtaining Remote Shells/1. Guide.md",
-    "3. Exploitation/Obtaining Remote Shells/Specific Shells/Web Shells.md",
     "2. Enumeration/80. HTTP/Applications/Windows ASPX.md",
     "3. Exploitation/Obtaining Remote Shells/Generic Tooling/Netcat.md",
     "3. Exploitation/Obtaining Remote Shells/Generic Tooling/NetCat.md",
@@ -229,8 +231,6 @@
     "3. Exploitation/File Types and Data/Images.md",
     "3. Exploitation/File Types and Data/Programs and Executables/C.md",
     "3. Exploitation/File Types and Data/Programs and Executables/1. Guide.md",
-    "3. Exploitation/File Types and Data/1. Guide.md",
-    "3. Exploitation/File Types and Data/Programs and Executables/Java.md",
     "3. Exploitation/Generic Tooling/Encryption",
     "2. Enumeration/445. SMB",
     "1. Recon/Tooling",
