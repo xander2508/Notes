@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/3306. MySQL (SQL)/Concepts/SQL Injection.md",
+                "file": "2. Enumeration/3306. MySQL (SQL)/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/3306. MySQL (SQL)/Concepts/SQL Injection.md",
+                "file": "2. Enumeration/3306. MySQL (SQL)/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/3306. MySQL (SQL)/Concepts/SQL Injection.md",
+                "file": "2. Enumeration/3306. MySQL (SQL)/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/3306. MySQL (SQL)/Concepts/SQL Injection.md"
+                "file": "2. Enumeration/3306. MySQL (SQL)/1. Guide.md"
               }
             }
           },
@@ -214,11 +214,14 @@
   },
   "active": "43b76d3492e4a869",
   "lastOpenFiles": [
+    "3. Exploitation/Generic Tooling/Metasploit.md",
+    "2. Enumeration/3306. MySQL (SQL)/Concepts/SQL Injection.md",
+    "3. Exploitation/Generic Tooling/Untitled",
+    "2. Enumeration/3306. MySQL (SQL)/Tooling",
     "2. Enumeration/3306. MySQL (SQL)/1. Guide.md",
     "2. Enumeration/80. HTTP/1. Guide.md",
     "2. Enumeration/3306. MySQL/Untitled.md",
     "2. Enumeration/3306. MySQL (SQL)/Concepts",
-    "2. Enumeration/3306. MySQL (SQL)/Concepts/SQL Injection.md",
     "2. Enumeration/3306. MySQL (SQL)",
     "2. Enumeration/445. SMB/Concepts/Shell Command Files (SCF) File Attacks.md",
     "2. Enumeration/445. SMB/1. Guide.md",
@@ -246,10 +249,7 @@
     "3. Exploitation/Obtaining Remote Shells/Specific Shells/Web.md",
     "4. Post Exploitation/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation",
-    "4. Post Exploitation/Securing Access.md",
     "3. Exploitation/Obtaining Remote Shells/Generic Tooling",
-    "3. Exploitation/Obtaining Remote Shells/Specific Shells",
-    "4. Post Exploitation/Generic Tooling/Passwords and Wordlists/Generic Tooling",
     "Untitled.canvas"
   ]
 }
