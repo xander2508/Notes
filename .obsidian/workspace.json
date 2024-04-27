@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Linux/Concepts/CRON Jobs.md",
+                "file": "3. Exploitation/Known Vulnerabilities/SSH.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Linux/Concepts/CRON Jobs.md",
+                "file": "3. Exploitation/Known Vulnerabilities/SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Linux/Concepts/CRON Jobs.md",
+                "file": "3. Exploitation/Known Vulnerabilities/SSH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Linux/Concepts/CRON Jobs.md"
+                "file": "3. Exploitation/Known Vulnerabilities/SSH.md"
               }
             }
           },
@@ -201,8 +201,8 @@
   },
   "active": "43b76d3492e4a869",
   "lastOpenFiles": [
-    "3. Exploitation/Obtaining Remote Shells/Specific Shells/Python.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Concepts/CRON Jobs.md",
+    "3. Exploitation/Obtaining Remote Shells/Specific Shells/Python.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Concepts/Capabilities.md",
     "2b5171cc7bf44b8996e85892d1c26c35 1.png",
     "2b5171cc7bf44b8996e85892d1c26c35.png",
