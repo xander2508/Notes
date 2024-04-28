@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Known Application Exploits/SQL.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Linux/Concepts/Message of the Day (MOTD).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Known Application Exploits/SQL.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Linux/Concepts/Message of the Day (MOTD).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Known Application Exploits/SQL.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Linux/Concepts/Message of the Day (MOTD).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Known Application Exploits/SQL.md"
+                "file": "4. Post Exploitation/Privilege Escalation/Linux/Concepts/Message of the Day (MOTD).md"
               }
             }
           },
@@ -201,6 +201,8 @@
   },
   "active": "937dc6bbb82f0248",
   "lastOpenFiles": [
+    "4. Post Exploitation/Privilege Escalation/Known Application Exploits/SQL.md",
+    "4. Post Exploitation/Privilege Escalation/Linux/Concepts/Message of the Day (MOTD).md",
     "2. Enumeration/3306. MySQL (SQL)/1. Guide.md",
     "3. Exploitation/Obtaining Remote Shells/Generic Tooling/MSFVenom.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Concepts/Groups/LDX.md",
@@ -227,8 +229,6 @@
     "4. Post Exploitation/Privilege Escalation/Linux/Concepts/SUID",
     "3. Exploitation/File Types and Data/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Operating System Version/FreeBSD.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
-    "4. Post Exploitation/Privilege Escalation/Known Application Exploits/Docker.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Operating System Version/Generic Vulnerabilities",
     "2b5171cc7bf44b8996e85892d1c26c35 1.png",
     "2b5171cc7bf44b8996e85892d1c26c35.png",
