@@ -3,4 +3,4 @@
 
 # Tomcat
 
-[Fetching Title#s4ze](https://www.geeksforgeeks.org/tabby-hack-the-box-walkthrough-for-user-flag/)
+[Hack The Box Walkthrough: Tabby. In this article, we will go through a… | by Abhijith Kumar | Medium](https://abhijithkumar2000.medium.com/hack-the-box-walkthrough-tabby-9bbc9b273366)
