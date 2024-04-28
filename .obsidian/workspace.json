@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Known Application Exploits/Docker.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Linux/Operating System Version/FreeBSD.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Known Application Exploits/Docker.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Linux/Operating System Version/FreeBSD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Known Application Exploits/Docker.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Linux/Operating System Version/FreeBSD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Known Application Exploits/Docker.md"
+                "file": "4. Post Exploitation/Privilege Escalation/Linux/Operating System Version/FreeBSD.md"
               }
             }
           },
@@ -201,9 +201,13 @@
   },
   "active": "43b76d3492e4a869",
   "lastOpenFiles": [
+    "4. Post Exploitation/Privilege Escalation/Linux/Concepts/Hidden Files within Drives.md",
+    "4. Post Exploitation/Privilege Escalation/Linux/Operating System Version/FreeBSD.md",
+    "4. Post Exploitation/Privilege Escalation/Linux/1. Guide.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
+    "4. Post Exploitation/Privilege Escalation/Known Application Exploits/Docker.md",
     "4. Post Exploitation/Privilege Escalation/1. Guide.md",
     "4. Post Exploitation/Securing Access.md",
-    "4. Post Exploitation/Privilege Escalation/Known Application Exploits/Docker.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Operating System Version/Generic Vulnerabilities/DirtyCow.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Operating System Version/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Operating System Version/Generic Vulnerabilities",
@@ -214,7 +218,6 @@
     "4. Post Exploitation/Privilege Escalation/Linux/Concepts/Capabilities.md",
     "2b5171cc7bf44b8996e85892d1c26c35 1.png",
     "2b5171cc7bf44b8996e85892d1c26c35.png",
-    "4. Post Exploitation/Privilege Escalation/Linux/1. Guide.md",
     "4. Post Exploitation/Command Line Restrictions.md",
     "3. Exploitation/Obtaining Remote Shells/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/PsPy - Unprivileged Linux Process Snooping.md",
@@ -229,9 +232,6 @@
     "4. Post Exploitation/Privilege Escalation/Linux/Operating System Version/Redis.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Operating System Version",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Exploit Suggester.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
-    "4. Post Exploitation/Data Exfiltration.md",
-    "4. Post Exploitation/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling",
     "4. Post Exploitation/Privilege Escalation/Windows",
     "4. Post Exploitation/Privilege Escalation/Linux",
