@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/SUID/Path Hijacking.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Known Application Exploits/Bash.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/SUID/Path Hijacking.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Known Application Exploits/Bash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/SUID/Path Hijacking.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Known Application Exploits/Bash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/SUID/Path Hijacking.md"
+                "file": "4. Post Exploitation/Privilege Escalation/Known Application Exploits/Bash.md"
               }
             }
           },
@@ -213,9 +213,9 @@
   },
   "active": "dad90b2f2690d277",
   "lastOpenFiles": [
+    "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/SUID/Path Hijacking.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/SUID/Abusing Shell Features.md",
     "4. Post Exploitation/Privilege Escalation/Known Application Exploits/Bash.md",
-    "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/SUID/Path Hijacking.md",
     "3. Exploitation/File Types and Data/Programs and Executables/1. Guide.md",
     "4. Post Exploitation/Command Line Restrictions.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/1. Guide.md",
