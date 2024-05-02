@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry Password.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry Vulnerabilities/Registry Passwords.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry Password.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry Vulnerabilities/Registry Passwords.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry Password.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry Vulnerabilities/Registry Passwords.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry Password.md"
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry Vulnerabilities/Registry Passwords.md"
               }
             }
           },
@@ -211,11 +211,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "744b9316b7030f7b",
+  "active": "575179b40b745fc0",
   "lastOpenFiles": [
-    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Untitled",
-    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/AlwaysInstallElevated.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry Password.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry Vulnerabilities/AlwaysInstallElevated.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry Vulnerabilities/Registry Passwords.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry Vulnerabilities",
     "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/CRON Jobs.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/AutoRun SysInternals.md",
@@ -248,7 +248,6 @@
     "4. Post Exploitation/Privilege Escalation/Linux/Securing Root",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools",
     "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Groups",
-    "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/SUID",
     "7. Misc/Images/2b5171cc7bf44b8996e85892d1c26c35 1.png",
     "7. Misc/Images/2b5171cc7bf44b8996e85892d1c26c35.png",
     "Untitled.canvas"
