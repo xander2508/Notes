@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Known Application Exploits/Tmux.md",
+                "file": "4. Post Exploitation/Upgrading Shells.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Known Application Exploits/Tmux.md",
+                "file": "4. Post Exploitation/Upgrading Shells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Known Application Exploits/Tmux.md",
+                "file": "4. Post Exploitation/Upgrading Shells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Known Application Exploits/Tmux.md"
+                "file": "4. Post Exploitation/Upgrading Shells.md"
               }
             }
           },
@@ -213,8 +213,15 @@
   },
   "active": "dad90b2f2690d277",
   "lastOpenFiles": [
-    "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Capabilities.md",
+    "4. Post Exploitation/Securing Access.md",
+    "4. Post Exploitation/Data Exfiltration.md",
+    "4. Post Exploitation/Command Line Restrictions.md",
+    "4. Post Exploitation/Upgrading Shells.md",
+    "2. Enumeration/22. SSH/Concepts/SSH Tunnelling.md",
+    "3. Exploitation/File Types and Data/Base64.md",
+    "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/SUID/Abusing Shell Features.md",
     "4. Post Exploitation/Privilege Escalation/Known Application Exploits/Tmux.md",
+    "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Capabilities.md",
     "7. Misc/Untitled.md",
     "7. Misc/Images",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/TCPDump.md",
@@ -222,9 +229,7 @@
     "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Network File System (NFS) Root Squashing.md",
     "4. Post Exploitation/Privilege Escalation/Known Application Exploits/Bash.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/SUID/Path Hijacking.md",
-    "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/SUID/Abusing Shell Features.md",
     "3. Exploitation/File Types and Data/Programs and Executables/1. Guide.md",
-    "4. Post Exploitation/Command Line Restrictions.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/LTrace and STrace.md",
     "3. Exploitation/File Types and Data/Images.md",
@@ -236,11 +241,6 @@
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Sudo.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Untitled",
     "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Groups/Disk.md",
-    "4. Post Exploitation/Privilege Escalation/Linux/Concepts/Groups/Video.md",
-    "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Groups/LDX.md",
-    "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Groups/Wheel.md",
-    "4. Post Exploitation/Privilege Escalation/Known Application Exploits/SSH.md",
-    "4. Post Exploitation/Privilege Escalation/Known Application Exploits/SQL.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Concepts/Known Users",
     "4. Post Exploitation/Privilege Escalation/Linux/Securing Root",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools",
