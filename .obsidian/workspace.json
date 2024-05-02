@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Command Line Restrictions.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/PowerSploit.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Command Line Restrictions.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/PowerSploit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Command Line Restrictions.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/PowerSploit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Command Line Restrictions.md"
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/PowerSploit.md"
               }
             }
           },
@@ -214,8 +214,16 @@
   },
   "active": "df842de9d2cc445b",
   "lastOpenFiles": [
-    "4. Post Exploitation/Valuable Files.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Anti-Virus Bypass.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/PowerSploit.md",
+    "3. Exploitation/Obtaining Remote Shells/Generic Tooling/MSFVenom.md",
     "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
+    "3. Exploitation/File Types and Data/1. Guide.md",
+    "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Capabilities.md",
+    "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Hidden Files within Drives.md",
+    "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Known Users.md",
+    "4. Post Exploitation/Command Line Restrictions.md",
+    "4. Post Exploitation/Valuable Files.md",
     "4. Post Exploitation/Privilege Escalation/Linux/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/AppLocker.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/WinPeas.md",
@@ -235,14 +243,6 @@
     "4. Post Exploitation/Privilege Escalation/Known Application Exploits/Docker.md",
     "4. Post Exploitation/Privilege Escalation/Known Application Exploits/NodeJS NPM.md",
     "4. Post Exploitation/Privilege Escalation/Known Application Exploits/Python.md",
-    "4. Post Exploitation/Privilege Escalation/Known Application Exploits/SSH.md",
-    "4. Post Exploitation/Privilege Escalation/Known Application Exploits/TAR.md",
-    "4. Post Exploitation/Privilege Escalation/Known Application Exploits/Tmux.md",
-    "4. Post Exploitation/Privilege Escalation/Known Application Exploits/VNC Viewer.md",
-    "4. Post Exploitation/Command Line Restrictions.md",
-    "4. Post Exploitation/Upgrading Shells.md",
-    "4. Post Exploitation/Securing Access.md",
-    "4. Post Exploitation/Data Exfiltration.md",
     "7. Misc/Images",
     "4. Post Exploitation/Privilege Escalation/Linux/Untitled",
     "4. Post Exploitation/Privilege Escalation/Linux/Concepts/Known Users",
