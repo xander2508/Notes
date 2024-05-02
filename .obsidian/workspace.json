@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Capabilities.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Known Application Exploits/Tmux.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 335.5
   },
   "right": {
     "id": "ab865be945a38766",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Capabilities.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Known Application Exploits/Tmux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Capabilities.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Known Application Exploits/Tmux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Capabilities.md"
+                "file": "4. Post Exploitation/Privilege Escalation/Known Application Exploits/Tmux.md"
               }
             }
           },
@@ -213,9 +213,10 @@
   },
   "active": "dad90b2f2690d277",
   "lastOpenFiles": [
+    "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Capabilities.md",
+    "4. Post Exploitation/Privilege Escalation/Known Application Exploits/Tmux.md",
     "7. Misc/Untitled.md",
     "7. Misc/Images",
-    "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Capabilities.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/TCPDump.md",
     "4. Post Exploitation/Privilege Escalation/Known Application Exploits/TAR.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Network File System (NFS) Root Squashing.md",
