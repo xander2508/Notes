@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Watson.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 357.5
   },
   "right": {
     "id": "ab865be945a38766",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Watson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Watson.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md"
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Watson.md"
               }
             }
           },
@@ -214,11 +214,14 @@
   },
   "active": "df842de9d2cc445b",
   "lastOpenFiles": [
+    "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Watson.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Exploit Suggester - Next Generation (WES-NG).md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/windows-privesc-check.md",
+    "1. Recon/Tooling/Sherlock.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/PowerSploit.md",
     "4. Post Exploitation/Securing Access.md",
     "4. Post Exploitation/Privilege Escalation/1. Guide.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Anti-Virus Bypass.md",
     "3. Exploitation/Obtaining Remote Shells/Generic Tooling/MSFVenom.md",
     "3. Exploitation/File Types and Data/1. Guide.md",
@@ -231,7 +234,6 @@
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/AppLocker.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/WinPeas.md",
     "4. Post Exploitation/Privilege Escalation/Known Application Exploits/SQL.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/windows-privesc-check.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/LinPeas.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Aclpwn.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/SUID/Abusing Shell Features.md",
@@ -241,8 +243,6 @@
     "4. Post Exploitation/Privilege Escalation/Windows/Operating System Version",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities",
     "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Passwd File.md",
-    "3. Exploitation/Known Vulnerabilities/WGet.md",
-    "3. Exploitation/Obtaining Remote Shells/1. Guide.md",
     "7. Misc/Images",
     "4. Post Exploitation/Privilege Escalation/Linux/Untitled",
     "4. Post Exploitation/Privilege Escalation/Linux/Concepts/Known Users",
