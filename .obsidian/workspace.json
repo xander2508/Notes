@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Valuable Files.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Valuable Files.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Valuable Files.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Valuable Files.md"
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md"
               }
             }
           },
@@ -213,11 +213,17 @@
   },
   "active": "575179b40b745fc0",
   "lastOpenFiles": [
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Hot Potato Windows Privilege Escalation exploit.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/DLL Hijacking.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Hot Potato Windows Privilege Escalation exploit.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/WinPeas.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Memory Password Mining.md",
+    "4. Post Exploitation/Valuable Files.md",
     "4. Post Exploitation/Privilege Escalation/Known Application Exploits/MacAffe.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry Vulnerabilities/Registry Passwords.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry Vulnerabilities/AlwaysInstallElevated.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry Vulnerabilities",
-    "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/CRON Jobs.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/AutoRun SysInternals.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Users and Groups.md",
@@ -234,12 +240,6 @@
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Anti-Virus Bypass.md",
     "3. Exploitation/Obtaining Remote Shells/Generic Tooling/MSFVenom.md",
     "3. Exploitation/File Types and Data/1. Guide.md",
-    "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Capabilities.md",
-    "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Hidden Files within Drives.md",
-    "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Known Users.md",
-    "4. Post Exploitation/Command Line Restrictions.md",
-    "4. Post Exploitation/Valuable Files.md",
-    "4. Post Exploitation/Privilege Escalation/Linux/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling",
     "4. Post Exploitation/Privilege Escalation/Windows/Operating System Version",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities",
