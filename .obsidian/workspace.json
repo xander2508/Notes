@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
+                "file": "2. Enumeration/389. LDAP/Tooling/LDAPSearch.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
+                "file": "2. Enumeration/389. LDAP/Tooling/LDAPSearch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
+                "file": "2. Enumeration/389. LDAP/Tooling/LDAPSearch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md"
+                "file": "2. Enumeration/389. LDAP/Tooling/LDAPSearch.md"
               }
             }
           },
@@ -213,10 +213,16 @@
   },
   "active": "575179b40b745fc0",
   "lastOpenFiles": [
+    "2. Enumeration/636. Encrypted LDAP/1. Guide.md",
+    "2. Enumeration/389. LDAP/Tooling/LDAPSearch.md",
+    "2. Enumeration/389. LDAP/Tooling",
+    "2. Enumeration/389. LDAP/1. Guide.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
+    "2. Enumeration/636. Encrypted LDAP",
+    "2. Enumeration/389. LDAP",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Hot Potato Windows Privilege Escalation exploit.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/DLL Hijacking.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Hot Potato Windows Privilege Escalation exploit.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/WinPeas.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Memory Password Mining.md",
     "4. Post Exploitation/Valuable Files.md",
@@ -237,18 +243,12 @@
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/PowerSploit.md",
     "4. Post Exploitation/Securing Access.md",
     "4. Post Exploitation/Privilege Escalation/1. Guide.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Anti-Virus Bypass.md",
-    "3. Exploitation/Obtaining Remote Shells/Generic Tooling/MSFVenom.md",
-    "3. Exploitation/File Types and Data/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling",
     "4. Post Exploitation/Privilege Escalation/Windows/Operating System Version",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities",
     "7. Misc/Images",
     "4. Post Exploitation/Privilege Escalation/Linux/Untitled",
     "4. Post Exploitation/Privilege Escalation/Linux/Concepts/Known Users",
-    "4. Post Exploitation/Privilege Escalation/Linux/Securing Root",
-    "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools",
-    "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Groups",
     "7. Misc/Images/2b5171cc7bf44b8996e85892d1c26c35 1.png",
     "7. Misc/Images/2b5171cc7bf44b8996e85892d1c26c35.png",
     "Untitled.canvas"
