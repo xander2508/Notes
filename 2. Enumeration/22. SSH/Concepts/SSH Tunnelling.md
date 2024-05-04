@@ -14,3 +14,10 @@ Once the tunnel is established, you can access services on the remote server as 
 # Examples
 
 [HTB: Poison | 0xdf hacks stuff](https://0xdf.gitlab.io/2018/09/08/htb-poison.html)
+
+
+# Commands 
+
+```
+sudo ssh -L 80:192.168.120.209:80 ariah@192.168.120.209
+```
