@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Mimikatz.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/User Privileges/SERVICE_START_NAME.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Mimikatz.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/User Privileges/SERVICE_START_NAME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Mimikatz.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/User Privileges/SERVICE_START_NAME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Mimikatz.md"
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/User Privileges/SERVICE_START_NAME.md"
               }
             }
           },
@@ -201,19 +201,26 @@
   },
   "active": "e7fc9ee892f13a6d",
   "lastOpenFiles": [
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/AccessChk.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Anti-Virus Bypass.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/User Privileges/SERVICE_START_NAME.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/User Privileges",
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/1.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry Vulnerabilities and Tokens/SeImpersonatePrivilege.md",
+    "4. Post Exploitation/Privilege Escalation/Known Application Exploits/Ubiquiti UniFi Video.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Restarting a Service.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Mimikatz.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/AccessChk.md",
     "3. Exploitation/Operating System Specific/Windows/Tooling/Impacket.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Invoke-Command.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network Drives.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Encryption/Windows PowerShell Password Encryption.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Memory Password Mining.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Hot Potato Windows Privilege Escalation exploit.md",
     "2. Enumeration/22. SSH/Concepts/SSH Tunnelling.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry Vulnerabilities and Tokens/SeLoadDriverPrivilege.md",
     "4. Post Exploitation/Privilege Escalation/1. Guide.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry Vulnerabilities and Tokens/SeImpersonatePrivilege.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry Vulnerabilities and Tokens/1. Guide.md",
     "3. Exploitation/Obtaining Remote Shells/Specific Shells/Windows.md",
     "3. Exploitation/Obtaining Remote Shells/Generic Tooling/Evil-WinRM.md",
@@ -222,11 +229,6 @@
     "4. Post Exploitation/Privilege Escalation/Windows/Operating System Version/General Exploit Scripts.md",
     "4. Post Exploitation/Privilege Escalation/Known Application Exploits/mRemoteNG.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Encryption/mRemoteNG Encryption.md",
-    "4. Post Exploitation/Data Exfiltration.md",
-    "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/SCP.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/SamDump.md",
-    "3. Exploitation/File Types and Data/VHD (Virtual Hard Drive).md",
-    "2. Enumeration/445. SMB/Tooling/SMBClient.md",
     "2. Enumeration/389. LDAP/Tooling",
     "2. Enumeration/636. Encrypted LDAP",
     "2. Enumeration/389. LDAP",
@@ -235,8 +237,6 @@
     "4. Post Exploitation/Privilege Escalation/Windows/Operating System Version",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities",
     "7. Misc/Images",
-    "4. Post Exploitation/Privilege Escalation/Linux/Untitled",
-    "4. Post Exploitation/Privilege Escalation/Linux/Concepts/Known Users",
     "7. Misc/Images/2b5171cc7bf44b8996e85892d1c26c35 1.png",
     "7. Misc/Images/2b5171cc7bf44b8996e85892d1c26c35.png",
     "Untitled.canvas"
