@@ -201,8 +201,9 @@
   },
   "active": "e7fc9ee892f13a6d",
   "lastOpenFiles": [
-    "4. Post Exploitation/Valuable Files.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Passing the Hash.md",
     "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
+    "4. Post Exploitation/Valuable Files.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/SamDump.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Saved Credentials.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry Vulnerabilities and Tokens/Registry Passwords.md",
@@ -228,7 +229,6 @@
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Memory Password Mining.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Hot Potato Windows Privilege Escalation exploit.md",
     "2. Enumeration/22. SSH/Concepts/SSH Tunnelling.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry Vulnerabilities and Tokens/SeLoadDriverPrivilege.md",
     "2. Enumeration/389. LDAP/Tooling",
     "2. Enumeration/636. Encrypted LDAP",
     "2. Enumeration/389. LDAP",
