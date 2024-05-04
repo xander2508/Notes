@@ -15,3 +15,4 @@ These files have a `.scf` file extension and can be executed by simply double-cl
 # Walkthrough
 
 1. [SMB Share – SCF File Attacks – Penetration Testing Lab](https://pentestlab.blog/2017/12/13/smb-share-scf-file-attacks/)
+2. [Hack The Box - Sizzle - 0xRick’s Blog](https://0xrick.github.io/hack-the-box/sizzle/)
