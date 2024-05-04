@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Exploitation/Buffer Overflow/1. Guide.md",
+                "file": "3. Exploitation/File Types and Data/Git Repository.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Exploitation/Buffer Overflow/1. Guide.md",
+                "file": "3. Exploitation/File Types and Data/Git Repository.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Exploitation/Buffer Overflow/1. Guide.md",
+                "file": "3. Exploitation/File Types and Data/Git Repository.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Exploitation/Buffer Overflow/1. Guide.md"
+                "file": "3. Exploitation/File Types and Data/Git Repository.md"
               }
             }
           },
@@ -201,6 +201,7 @@
   },
   "active": "e7fc9ee892f13a6d",
   "lastOpenFiles": [
+    "3. Exploitation/Buffer Overflow/1. Guide.md",
     "3. Exploitation/Generic Tooling/Ghidra.md",
     "3. Exploitation/File Types and Data/Programs and Executables/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/SUID/1. Guide.md",
@@ -226,7 +227,6 @@
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Watson.md",
     "2. Enumeration/22. SSH/Concepts/SSH Tunnelling.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Passing the Hash.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/SamDump.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/User Privileges",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools",
     "2. Enumeration/389. LDAP/Tooling",
