@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Valuable Files.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Valuable Files.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Valuable Files.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Valuable Files.md"
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md"
               }
             }
           },
@@ -201,6 +201,7 @@
   },
   "active": "e7fc9ee892f13a6d",
   "lastOpenFiles": [
+    "4. Post Exploitation/Valuable Files.md",
     "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/SamDump.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Saved Credentials.md",
@@ -228,7 +229,6 @@
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Hot Potato Windows Privilege Escalation exploit.md",
     "2. Enumeration/22. SSH/Concepts/SSH Tunnelling.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry Vulnerabilities and Tokens/SeLoadDriverPrivilege.md",
-    "4. Post Exploitation/Privilege Escalation/1. Guide.md",
     "2. Enumeration/389. LDAP/Tooling",
     "2. Enumeration/636. Encrypted LDAP",
     "2. Enumeration/389. LDAP",
