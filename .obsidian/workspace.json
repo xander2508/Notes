@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Exploitation/Operating System Specific/1. Guide.md",
+                "file": "3. Exploitation/Known Vulnerabilities/VIM.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Exploitation/Operating System Specific/1. Guide.md",
+                "file": "3. Exploitation/Known Vulnerabilities/VIM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Exploitation/Operating System Specific/1. Guide.md",
+                "file": "3. Exploitation/Known Vulnerabilities/VIM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Exploitation/Operating System Specific/1. Guide.md"
+                "file": "3. Exploitation/Known Vulnerabilities/VIM.md"
               }
             }
           },
@@ -201,8 +201,21 @@
   },
   "active": "e7fc9ee892f13a6d",
   "lastOpenFiles": [
-    "3. Exploitation/Operating System Specific/Linux/RaspberryPi.md",
+    "3. Exploitation/Known Vulnerabilities/WGet.md",
+    "3. Exploitation/Known Vulnerabilities/File Upload Filtering Bypasses.md",
+    "3. Exploitation/Known Vulnerabilities/VIM.md",
+    "3. Exploitation/Known Vulnerabilities/Padding Oracle.md",
+    "2. Enumeration/25. SMTP/1. Guide.md",
+    "2. Enumeration/587. SMTP (SSL)/1. Guide.md",
+    "2. Enumeration/587. SMTP (SSL)",
+    "2. Enumeration/465. SMTP (SSL)/1. Guide.md",
+    "2. Enumeration/465. SMTP (SSL)",
+    "2. Enumeration/445. SMB/1. Guide.md",
+    "3. Exploitation/Operating System Specific/Windows/Tooling/Impacket.md",
+    "2. Enumeration/88. Kerberos/1. Guide.md",
     "3. Exploitation/Operating System Specific/1. Guide.md",
+    "2. Enumeration/88. Kerberos",
+    "3. Exploitation/Operating System Specific/Linux/RaspberryPi.md",
     "1. Recon/1. Guide.md",
     "1. Recon/Tooling/nmapAutomator.md",
     "1. Recon/Tooling/AutoRecon.md",
@@ -217,16 +230,6 @@
     "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/SUID/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/Linux/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry Vulnerabilities and Tokens/AutoElevate.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Searching for Files.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Dir.md",
-    "4. Post Exploitation/Privilege Escalation/1. Guide.md",
-    "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Iptables.md",
-    "4. Post Exploitation/Valuable Files.md",
-    "4. Post Exploitation/Data Exfiltration.md",
-    "3. Exploitation/File Types and Data/PST (MS Outlook).md",
-    "3. Exploitation/File Types and Data/NTDS.md",
-    "4. Post Exploitation/Privilege Escalation/Known Application Exploits/SSH.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/User Privileges",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools",
     "2. Enumeration/389. LDAP/Tooling",
@@ -234,9 +237,6 @@
     "2. Enumeration/389. LDAP",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry Vulnerabilities and Tokens",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling",
-    "4. Post Exploitation/Privilege Escalation/Windows/Operating System Version",
-    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities",
-    "7. Misc/Images",
     "7. Misc/Images/2b5171cc7bf44b8996e85892d1c26c35 1.png",
     "7. Misc/Images/2b5171cc7bf44b8996e85892d1c26c35.png",
     "Untitled.canvas"
