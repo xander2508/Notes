@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/User Privileges/SERVICE_START_NAME.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry Vulnerabilities and Tokens/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "impacket",
+                "query": "NT AUTHORITY",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/User Privileges/SERVICE_START_NAME.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry Vulnerabilities and Tokens/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/User Privileges/SERVICE_START_NAME.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry Vulnerabilities and Tokens/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/User Privileges/SERVICE_START_NAME.md"
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry Vulnerabilities and Tokens/Untitled.md"
               }
             }
           },
@@ -201,9 +201,10 @@
   },
   "active": "e7fc9ee892f13a6d",
   "lastOpenFiles": [
-    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Anti-Virus Bypass.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/User Privileges/SERVICE_START_NAME.md",
     "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry Vulnerabilities and Tokens/Untitled.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/User Privileges/SERVICE_START_NAME.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Anti-Virus Bypass.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/User Privileges",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/1.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry Vulnerabilities and Tokens/SeImpersonatePrivilege.md",
@@ -228,7 +229,6 @@
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry Vulnerabilities and Tokens/AlwaysInstallElevated.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Operating System Version/General Exploit Scripts.md",
     "4. Post Exploitation/Privilege Escalation/Known Application Exploits/mRemoteNG.md",
-    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Encryption/mRemoteNG Encryption.md",
     "2. Enumeration/389. LDAP/Tooling",
     "2. Enumeration/636. Encrypted LDAP",
     "2. Enumeration/389. LDAP",
