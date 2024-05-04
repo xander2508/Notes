@@ -17,3 +17,24 @@ Overall, SWAKS is a versatile and powerful tool that simplifies email-related ta
 swaks --to guly@attended.htb --from freshness@attended.htb --header "Subject: Hello?" --body "Are you there?" --server 10.10.10.221
 ```
 
+```
+sendemail -f 'Jonas@localhost' \                       
+                       -t 'mailadmin@localhost' \
+                       -s 192.168.240.140:25 \
+                       -u 'Your spreadsheet' \
+                       -m 'Here is your requested spreadsheet' \
+                       -a Test.ods
+					   
+```
+
+```
+swaks --to 'brian.moore@postfish.off' --from 'it@postfish.off' -s 192.168.69.137:25 --body "Hi Brian,
+
+Please follow this link to reset your password: http://192.168.49.69/                
+Regards," --header "Password reset process"
+
+HELO test
+MAIL FROM: it@postfish.off
+RCPT TO: brian.moore@postfish.off
+DATA
+```
