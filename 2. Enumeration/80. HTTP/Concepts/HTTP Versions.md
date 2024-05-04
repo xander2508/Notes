@@ -16,3 +16,10 @@ If a link has been found which appears dead, attempt a differing protocol to vie
 
 `curl --http3 https://portal.quick.htb/`
 
+# Credentials Requirement
+
+1. [Hack The Box - Sizzle - 0xRick’s Blog](https://0xrick.github.io/hack-the-box/sizzle/)
+
+```
+openssl req -newkey rsa:2048 -nodes -keyout request.key -out request.csr
+```
