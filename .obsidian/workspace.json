@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Generic Tooling/Cryptography Solving.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Known Application Exploits/SSH.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Generic Tooling/Cryptography Solving.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Known Application Exploits/SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Generic Tooling/Cryptography Solving.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Known Application Exploits/SSH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Generic Tooling/Cryptography Solving.md"
+                "file": "4. Post Exploitation/Privilege Escalation/Known Application Exploits/SSH.md"
               }
             }
           },
@@ -202,6 +201,9 @@
   },
   "active": "e7fc9ee892f13a6d",
   "lastOpenFiles": [
+    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Encryption/RSA Decrypt.md",
+    "4. Post Exploitation/Generic Tooling/Cryptography Solving.md",
+    "2. Enumeration/22. SSH/Concepts/Untitled.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Anti-Virus Bypass.md",
     "3. Exploitation/File Types and Data/ZIP.md",
@@ -226,10 +228,7 @@
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/1.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry Vulnerabilities and Tokens/SeImpersonatePrivilege.md",
     "4. Post Exploitation/Privilege Escalation/Known Application Exploits/Ubiquiti UniFi Video.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Restarting a Service.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Mimikatz.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/AccessChk.md",
     "2. Enumeration/389. LDAP/Tooling",
     "2. Enumeration/636. Encrypted LDAP",
     "2. Enumeration/389. LDAP",
