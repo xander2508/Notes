@@ -12,3 +12,7 @@ wFuzz allows users to automate the process of fuzzing website parameters, making
 ```
 wfuzz -c -u http://10.10.10.186:9001 -H "Host: FUZZ.quick.htb" -w /usr/share/seclists/Discovery/DNS/bitquark-subdomains-top100000.txt --hh 3351
 ```
+
+```
+sudo wfuzz -c -f sub-fighter.txt -Z -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt --sc 200,202,204,301,302,307,403 http://FUZZ.fritz.box
+```
