@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/53. DNS/Tooling/Untitled.md",
+                "file": "2. Enumeration/53. DNS/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/53. DNS/Tooling/Untitled.md",
+                "file": "2. Enumeration/53. DNS/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/53. DNS/Tooling/Untitled.md",
+                "file": "2. Enumeration/53. DNS/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/53. DNS/Tooling/Untitled.md"
+                "file": "2. Enumeration/53. DNS/1. Guide.md"
               }
             }
           },
@@ -199,10 +199,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "15d756f3f3beb5c0",
+  "active": "744b9316b7030f7b",
   "lastOpenFiles": [
+    "2. Enumeration/Untitled",
+    "2. Enumeration/53. DNS/Tooling/DnsEnum.md",
     "2. Enumeration/53. DNS/Tooling/DnsRecon.md",
-    "2. Enumeration/53. DNS/Tooling/Untitled.md",
     "2. Enumeration/53. DNS/1. Guide.md",
     "2. Enumeration/53. DNS/Tooling",
     "3. Exploitation/File Types and Data/1. Guide.md",
@@ -231,7 +232,6 @@
     "2. Enumeration/465. SMTP (SSL)/1. Guide.md",
     "2. Enumeration/465. SMTP (SSL)",
     "3. Exploitation/Operating System Specific/Windows/Tooling/Impacket.md",
-    "2. Enumeration/88. Kerberos/1. Guide.md",
     "2. Enumeration/88. Kerberos",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/User Privileges",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools",
