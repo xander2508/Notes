@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/80. HTTP/1. Guide.md",
+                "file": "3. Exploitation/File Types and Data/Git Repository.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/80. HTTP/1. Guide.md",
+                "file": "3. Exploitation/File Types and Data/Git Repository.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/80. HTTP/1. Guide.md",
+                "file": "3. Exploitation/File Types and Data/Git Repository.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/80. HTTP/1. Guide.md"
+                "file": "3. Exploitation/File Types and Data/Git Repository.md"
               }
             }
           },
@@ -201,10 +201,15 @@
   },
   "active": "15d756f3f3beb5c0",
   "lastOpenFiles": [
+    "3. Exploitation/File Types and Data/CHM (MS Windows HtmlHelp Data).md",
+    "2. Enumeration/80. HTTP/Applications/Drupal.md",
+    "2. Enumeration/80. HTTP/Tooling/DroopeScan.md",
+    "2. Enumeration/80. HTTP/1. Guide.md",
+    "2. Enumeration/80. HTTP/Applications/Untitled.md",
+    "2. Enumeration/80. HTTP/Applications/Untitled",
     "4. Post Exploitation/Privilege Escalation/Linux/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
-    "2. Enumeration/80. HTTP/1. Guide.md",
     "2. Enumeration/80. HTTP/Tooling/Fuzzing/GoBuster.md",
     "2. Enumeration/80. HTTP/Tooling/Fuzzing/wFuzz.md",
     "2. Enumeration/20. FTP/1. Guide.md",
@@ -229,14 +234,9 @@
     "2. Enumeration/25. SMTP/Tooling/SWAKS.md",
     "2. Enumeration/25. SMTP/Tooling/Sending Emails.md",
     "3. Exploitation/1. Guide.md",
-    "2. Enumeration/25. SMTP/Vulnerabilities/OpenSMTPD 6.6.2 - Remote Code Execution.md",
-    "3. Exploitation/Generic Vulnerabilities/Padding Oracle.md",
     "2. Enumeration/25. SMTP/Vulnerabilities",
-    "3. Exploitation/Generic Vulnerabilities/Heartbleed.md",
-    "2. Enumeration/80. HTTP/Concepts/File Upload.md",
     "2. Enumeration/587. SMTP (SSL)",
     "2. Enumeration/465. SMTP (SSL)",
-    "2. Enumeration/88. Kerberos",
     "7. Misc/Images/2b5171cc7bf44b8996e85892d1c26c35 1.png",
     "7. Misc/Images/2b5171cc7bf44b8996e85892d1c26c35.png",
     "Untitled.canvas"
