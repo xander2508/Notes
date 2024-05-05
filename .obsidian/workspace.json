@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Recon/1. Guide.md",
+                "file": "2. Enumeration/TCP/1521. Oracle/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Recon/1. Guide.md",
+                "file": "2. Enumeration/TCP/1521. Oracle/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Recon/1. Guide.md",
+                "file": "2. Enumeration/TCP/1521. Oracle/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Recon/1. Guide.md"
+                "file": "2. Enumeration/TCP/1521. Oracle/1. Guide.md"
               }
             }
           },
@@ -201,17 +201,28 @@
   },
   "active": "1fe2a8dd057c4a7b",
   "lastOpenFiles": [
-    "3. Exploitation/Known Application Exploits/SQL.md",
+    "4. Post Exploitation/Valuable Files.md",
+    "2. Enumeration/TCP/1521. Oracle/1. Guide.md",
+    "2. Enumeration/TCP/1521. Oracle",
+    "2. Enumeration/TCP/3128. Squid Proxy/1. Guide.md",
+    "2. Enumeration/TCP/20. FTP/1. Guide.md",
+    "2. Enumeration/TCP/21. FTP Control/1. Guide.md",
+    "2. Enumeration/TCP/25. SMTP/1. Guide.md",
+    "3. Exploitation/Known Application Exploits/MacAffe.md",
+    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/1. Guide.md",
+    "2. Enumeration/TCP/80. HTTP/1. Guide.md",
+    "2. Enumeration/TCP/3306. MySQL (SQL)/Concepts/SQL Injection.md",
+    "2. Enumeration/TCP/3306. MySQL (SQL)/Tooling/SQLite Browser.md",
+    "2. Enumeration/TCP/3306. MySQL (SQL)/Tooling/SQLMap.md",
+    "2. Enumeration/TCP/3306. MySQL (SQL)/Tooling/SqSh.md",
     "2. Enumeration/TCP/3306. MySQL (SQL)/1. Guide.md",
+    "1. Recon/1. Guide.md",
+    "3. Exploitation/Known Application Exploits/SQL.md",
     "2. Enumeration/TCP/5432. PostgreSQL/1. Guide.md",
     "2. Enumeration/TCP/5432. PostgreSQL",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Generic Tooling/Hydra.md",
-    "2. Enumeration/TCP/3306. MySQL (SQL)/Tooling/SqSh.md",
-    "2. Enumeration/TCP/3306. MySQL (SQL)/Tooling/SQLite Browser.md",
-    "2. Enumeration/TCP/3306. MySQL (SQL)/Concepts/SQL Injection.md",
     "2. Enumeration/TCP/25. SMTP/Tooling/SnmpWalk.md",
     "2. Enumeration/TCP/25. SMTP/Tooling/SNMP-MIBS-Downloader.md",
-    "2. Enumeration/TCP/25. SMTP/1. Guide.md",
     "2. Enumeration/TCP/25. SMTP/Tooling/SNMP-Check.md",
     "2. Enumeration/TCP/25. SMTP/Tooling/Enyx.md",
     "2. Enumeration/TCP/445. SMB/Tooling/SmbMap.md",
@@ -219,24 +230,13 @@
     "2. Enumeration/TCP/445. SMB/Tooling/GPP-Decrypt.md",
     "2. Enumeration/TCP/445. SMB/Tooling/SmbClient.md",
     "2. Enumeration/TCP/445. SMB/Tooling/Untitled",
-    "2. Enumeration/TCP/445. SMB/Tooling/Impacket.md",
-    "2. Enumeration/TCP/135. RPC/Tooling/RpcClient.md",
-    "2. Enumeration/TCP/135. RPC/Tooling/RpcDump.md",
-    "2. Enumeration/TCP/135. RPC/1. Guide.md",
     "2. Enumeration/TCP/135. RPC/Tooling",
-    "2. Enumeration/TCP/6379. Redis/1. Guide.md",
     "2. Enumeration/TCP/135. RPC",
-    "2. Enumeration/TCP/110. Post Office Protocol (POP)/1. Guide.md",
     "2. Enumeration/TCP/6379. Redis",
-    "2. Enumeration/TCP/2049. Network File System (NFS)/1. Guide.md",
     "2. Enumeration/TCP/110. Post Office Protocol (POP)",
-    "2. Enumeration/TCP/2049. Network File System (NFS)/Tooling/Mount.md",
-    "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Network File System (NFS) Root Squashing.md",
-    "2. Enumeration/TCP/2049. Network File System (NFS)/Tooling/ShowMount.md",
     "2. Enumeration/TCP/2049. Network File System (NFS)/Tooling",
     "2. Enumeration/TCP/2049. Network File System (NFS)",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)",
-    "2. Enumeration/TCP/27017. MongoDB",
     "7. Misc/Images/2b5171cc7bf44b8996e85892d1c26c35 1.png",
     "7. Misc/Images/2b5171cc7bf44b8996e85892d1c26c35.png",
     "Untitled.canvas"
