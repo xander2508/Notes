@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/80. HTTP/Tooling/Fuzzing/FeroxBuster.md",
+                "file": "2. Enumeration/80. HTTP/Applications/Sharepoint.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "https",
+                "query": "wge",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/80. HTTP/Tooling/Fuzzing/FeroxBuster.md",
+                "file": "2. Enumeration/80. HTTP/Applications/Sharepoint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/80. HTTP/Tooling/Fuzzing/FeroxBuster.md",
+                "file": "2. Enumeration/80. HTTP/Applications/Sharepoint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/80. HTTP/Tooling/Fuzzing/FeroxBuster.md"
+                "file": "2. Enumeration/80. HTTP/Applications/Sharepoint.md"
               }
             }
           },
@@ -201,18 +201,25 @@
   },
   "active": "15d756f3f3beb5c0",
   "lastOpenFiles": [
+    "2. Enumeration/80. HTTP/Applications/Python Hosted.md",
+    "2. Enumeration/80. HTTP/Applications/Sharepoint.md",
+    "1. Recon/Tooling/wGet.md",
+    "2. Enumeration/80. HTTP/1. Guide.md",
+    "3. Exploitation/Known Application Exploits/WGet.md",
+    "3. Exploitation/File Types and Data/Programs and Executables/Java.md",
+    "2. Enumeration/22. SSH/1. Guide.md",
+    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/1. Guide.md",
+    "2. Enumeration/80. HTTP/Concepts/Cross-Site Request Forgery (XSRF).md",
+    "2. Enumeration/80. HTTP/Tooling/Fuzzing/FeroxBuster.md",
     "2. Enumeration/80. HTTP/Tooling/Fuzzing/Nikto.md",
     "2. Enumeration/80. HTTP/Tooling/Fuzzing/DirSearch.md",
     "2. Enumeration/80. HTTP/Tooling/Fuzzing/wFuzz.md",
     "2. Enumeration/80. HTTP/Tooling/Fuzzing/GoBuster.md",
-    "2. Enumeration/80. HTTP/1. Guide.md",
-    "2. Enumeration/80. HTTP/Tooling/Fuzzing/FeroxBuster.md",
     "2. Enumeration/80. HTTP/Tooling/Fuzzing/ffuf.md",
     "3. Exploitation/File Types and Data/Git Repository.md",
     "3. Exploitation/File Types and Data/CHM (MS Windows HtmlHelp Data).md",
     "2. Enumeration/80. HTTP/Applications/Drupal.md",
     "2. Enumeration/80. HTTP/Tooling/DroopeScan.md",
-    "2. Enumeration/80. HTTP/Applications/Untitled.md",
     "2. Enumeration/80. HTTP/Applications/Untitled",
     "4. Post Exploitation/Privilege Escalation/Linux/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/1. Guide.md",
@@ -225,15 +232,8 @@
     "2. Enumeration/20. FTP",
     "2. Enumeration/3128. Squid Proxy/1. Guide.md",
     "2. Enumeration/3128. Squid Proxy",
-    "2. Enumeration/53. DNS/Tooling/DnsEnum.md",
-    "2. Enumeration/53. DNS/Tooling/DnsRecon.md",
     "2. Enumeration/53. DNS/Tooling",
-    "3. Exploitation/File Types and Data/1. Guide.md",
     "2. Enumeration/53. DNS",
-    "1. Recon/1. Guide.md",
-    "3. Exploitation/Operating System Specific/Windows/Active Directory/1. Guide.md",
-    "2. Enumeration/80. HTTP/Concepts/HTTP Versions.md",
-    "2. Enumeration/445. SMB/Concepts/Shell Command Files (SCF) File Attacks.md",
     "2. Enumeration/25. SMTP/Vulnerabilities",
     "2. Enumeration/587. SMTP (SSL)",
     "2. Enumeration/465. SMTP (SSL)",
