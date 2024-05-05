@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/80. HTTP/Tooling/Fuzzing/wFuzz.md",
+                "file": "2. Enumeration/80. HTTP/Tooling/Fuzzing/FeroxBuster.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/80. HTTP/Tooling/Fuzzing/wFuzz.md",
+                "file": "2. Enumeration/80. HTTP/Tooling/Fuzzing/FeroxBuster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/80. HTTP/Tooling/Fuzzing/wFuzz.md",
+                "file": "2. Enumeration/80. HTTP/Tooling/Fuzzing/FeroxBuster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/80. HTTP/Tooling/Fuzzing/wFuzz.md"
+                "file": "2. Enumeration/80. HTTP/Tooling/Fuzzing/FeroxBuster.md"
               }
             }
           },
@@ -201,6 +201,9 @@
   },
   "active": "15d756f3f3beb5c0",
   "lastOpenFiles": [
+    "2. Enumeration/80. HTTP/Tooling/Fuzzing/Nikto.md",
+    "2. Enumeration/80. HTTP/Tooling/Fuzzing/DirSearch.md",
+    "2. Enumeration/80. HTTP/Tooling/Fuzzing/wFuzz.md",
     "2. Enumeration/80. HTTP/Tooling/Fuzzing/GoBuster.md",
     "2. Enumeration/80. HTTP/1. Guide.md",
     "2. Enumeration/80. HTTP/Tooling/Fuzzing/FeroxBuster.md",
@@ -214,7 +217,6 @@
     "4. Post Exploitation/Privilege Escalation/Linux/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
-    "2. Enumeration/80. HTTP/Tooling/Fuzzing/wFuzz.md",
     "2. Enumeration/20. FTP/1. Guide.md",
     "2. Enumeration/21. FTP Control/1. Guide.md",
     "2. Enumeration/53. DNS/1. Guide.md",
@@ -232,8 +234,6 @@
     "3. Exploitation/Operating System Specific/Windows/Active Directory/1. Guide.md",
     "2. Enumeration/80. HTTP/Concepts/HTTP Versions.md",
     "2. Enumeration/445. SMB/Concepts/Shell Command Files (SCF) File Attacks.md",
-    "2. Enumeration/445. SMB/1. Guide.md",
-    "2. Enumeration/445. SMB/Concepts/Untitled.md",
     "2. Enumeration/25. SMTP/Vulnerabilities",
     "2. Enumeration/587. SMTP (SSL)",
     "2. Enumeration/465. SMTP (SSL)",
