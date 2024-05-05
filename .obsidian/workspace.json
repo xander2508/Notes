@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/135. RPC/1. Guide.md",
+                "file": "2. Enumeration/TCP/445. SMB/Tooling/SmbMap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5232d82140b3fd49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Generic Tooling/Hydra.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "root squa",
+                "query": "smbmap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/135. RPC/1. Guide.md",
+                "file": "2. Enumeration/TCP/445. SMB/Tooling/SmbMap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/135. RPC/1. Guide.md",
+                "file": "2. Enumeration/TCP/445. SMB/Tooling/SmbMap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/135. RPC/1. Guide.md"
+                "file": "2. Enumeration/TCP/445. SMB/Tooling/SmbMap.md"
               }
             }
           },
@@ -199,11 +212,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "744b9316b7030f7b",
+  "active": "1fe2a8dd057c4a7b",
   "lastOpenFiles": [
-    "2. Enumeration/TCP/135. RPC/Untitled",
-    "2. Enumeration/TCP/6379. Redis/1. Guide.md",
+    "2. Enumeration/TCP/445. SMB/1. Guide.md",
+    "2. Enumeration/TCP/445. SMB/Tooling/SmbMap.md",
+    "2. Enumeration/TCP/445. SMB/Tooling/GPP-Decrypt.md",
+    "2. Enumeration/TCP/445. SMB/Tooling/SmbClient.md",
+    "2. Enumeration/TCP/445. SMB/Tooling/Untitled",
+    "2. Enumeration/TCP/445. SMB/Tooling/Impacket.md",
+    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Generic Tooling/Hydra.md",
+    "2. Enumeration/TCP/135. RPC/Tooling/RpcClient.md",
+    "2. Enumeration/TCP/135. RPC/Tooling/RpcDump.md",
     "2. Enumeration/TCP/135. RPC/1. Guide.md",
+    "2. Enumeration/TCP/135. RPC/Tooling",
+    "2. Enumeration/TCP/6379. Redis/1. Guide.md",
     "2. Enumeration/TCP/135. RPC",
     "2. Enumeration/TCP/110. Post Office Protocol (POP)/1. Guide.md",
     "2. Enumeration/TCP/6379. Redis",
@@ -226,17 +248,8 @@
     "2. Enumeration/TCP/389. LDAP/1. Guide.md",
     "2. Enumeration/TCP/194. IRC/1. Guide.md",
     "2. Enumeration/TCP/194. IRC/Tooling/HexChat.md",
-    "2. Enumeration/TCP/194. IRC/Tooling",
     "2. Enumeration/TCP/6667. IRC/1. Guide.md",
-    "2. Enumeration/TCP/6667. IRC",
     "2. Enumeration/TCP/80. HTTP/Applications/WordPress.md",
-    "2. Enumeration/TCP/80. HTTP/Concepts/WebDav (HTTP PUT).md",
-    "2. Enumeration/TCP/80. HTTP/Concepts/Web Application Firewall (WAF).md",
-    "2. Enumeration/UDP/500. isakmp/1. Guide.md",
-    "2. Enumeration/UDP/500. isakmp/Tooling/Ike-Scan.md",
-    "2. Enumeration/UDP/161. SNMP/1. Guide.md",
-    "2. Enumeration/TCP/25. SMTP/Tooling/SnmpWalk.md",
-    "2. Enumeration/TCP/25. SMTP/1. Guide.md",
     "7. Misc/Images/2b5171cc7bf44b8996e85892d1c26c35 1.png",
     "7. Misc/Images/2b5171cc7bf44b8996e85892d1c26c35.png",
     "Untitled.canvas"
