@@ -10,7 +10,7 @@ These files have a `.scf` file extension and can be executed by simply double-cl
 
 # Guide 
 
-1. If you can get a user to click on a file, provide them a SCF file with a remote file path, then capture the users credentials using [[2. Enumeration/445. SMB/Tooling/Responder|Responder]]
+1. If you can get a user to click on a file, provide them a SCF file with a remote file path, then capture the users credentials using [[2. Enumeration/TCP/445. SMB/Tooling/Responder|Responder]]
 
 # Walkthrough
 
