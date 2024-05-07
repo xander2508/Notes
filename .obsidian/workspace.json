@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. High Value Information/Notes/IP Addresses.md",
+                "file": "5. High Value Information/Notes/Subnetting.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. High Value Information/Notes/IP Addresses.md",
+                "file": "5. High Value Information/Notes/Subnetting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. High Value Information/Notes/IP Addresses.md",
+                "file": "5. High Value Information/Notes/Subnetting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. High Value Information/Notes/IP Addresses.md"
+                "file": "5. High Value Information/Notes/Subnetting.md"
               }
             }
           },
@@ -202,6 +202,7 @@
   "active": "1fe2a8dd057c4a7b",
   "lastOpenFiles": [
     "5. High Value Information/Notes/OSI Model (ISO OSI).md",
+    "5. High Value Information/Notes/Subnetting.md",
     "5. High Value Information/Notes/IP Addresses.md",
     "7. Misc/Images/Pasted image 20240507090421.png",
     "7. Misc/Images/Pasted image 20240507090109.png",
@@ -231,7 +232,6 @@
     "2. Enumeration/TCP/25. SMTP/1. Guide.md",
     "3. Exploitation/Known Application Exploits/MacAffe.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/1. Guide.md",
-    "2. Enumeration/TCP/80. HTTP/1. Guide.md",
     "2. Enumeration/TCP/5432. PostgreSQL",
     "2. Enumeration/TCP/445. SMB/Tooling/Untitled",
     "2. Enumeration/TCP/135. RPC/Tooling",
