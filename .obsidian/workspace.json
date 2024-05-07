@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Recon/1. Guide.md",
+                "file": "5. High Value Information/Notes/OSI Model (ISO OSI).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Recon/1. Guide.md",
+                "file": "5. High Value Information/Notes/OSI Model (ISO OSI).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Recon/1. Guide.md",
+                "file": "5. High Value Information/Notes/OSI Model (ISO OSI).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Recon/1. Guide.md"
+                "file": "5. High Value Information/Notes/OSI Model (ISO OSI).md"
               }
             }
           },
@@ -201,6 +201,11 @@
   },
   "active": "1fe2a8dd057c4a7b",
   "lastOpenFiles": [
+    "7. Misc/Images/Pasted image 20240507090109.png",
+    "5. High Value Information/Notes/Proxies.md",
+    "5. High Value Information/Notes/OSI Model (ISO OSI).md",
+    "1. Recon/1. Guide.md",
+    "5. High Value Information/Notes",
     "2. Enumeration/TCP/22. SSH/1. Guide.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Generic Tooling/Hydra.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Generic Tooling/Crowbar.md",
@@ -225,10 +230,6 @@
     "3. Exploitation/Known Application Exploits/MacAffe.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/1. Guide.md",
     "2. Enumeration/TCP/80. HTTP/1. Guide.md",
-    "2. Enumeration/TCP/3306. MySQL (SQL)/Tooling/SQLite Browser.md",
-    "2. Enumeration/TCP/3306. MySQL (SQL)/Tooling/SQLMap.md",
-    "2. Enumeration/TCP/3306. MySQL (SQL)/Tooling/SqSh.md",
-    "1. Recon/1. Guide.md",
     "2. Enumeration/TCP/5432. PostgreSQL",
     "2. Enumeration/TCP/445. SMB/Tooling/Untitled",
     "2. Enumeration/TCP/135. RPC/Tooling",
@@ -236,7 +237,6 @@
     "2. Enumeration/TCP/6379. Redis",
     "2. Enumeration/TCP/110. Post Office Protocol (POP)",
     "2. Enumeration/TCP/2049. Network File System (NFS)/Tooling",
-    "2. Enumeration/TCP/2049. Network File System (NFS)",
     "7. Misc/Images/2b5171cc7bf44b8996e85892d1c26c35 1.png",
     "7. Misc/Images/2b5171cc7bf44b8996e85892d1c26c35.png",
     "Untitled.canvas"
