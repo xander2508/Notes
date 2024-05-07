@@ -5,3 +5,4 @@ A subnet is a logical segment of a network that uses IP addresses with the same 
 |IPv4|`1100 0000`|`1010 1000`|`0000 1100`|`10`10 0000|192.168.12.160`/26`|
 |Subnet mask|`1111 1111`|`1111 1111`|`1111 1111`|`11`00 0000|`255.255.255.192`|
 |Bits|/8|/16|/24|/32|
+
