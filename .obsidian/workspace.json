@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Standard Terminology.md",
+                "file": "1. Recon/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Standard Terminology.md",
+                "file": "1. Recon/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Standard Terminology.md",
+                "file": "1. Recon/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Standard Terminology.md"
+                "file": "1. Recon/1. Guide.md"
               }
             }
           },
@@ -201,8 +201,14 @@
   },
   "active": "eb5406d689f184f2",
   "lastOpenFiles": [
-    "5. Standard Information/IP Addresses.md",
+    "2. Enumeration/UDP/500. isakmp/1. Guide.md",
+    "1. Recon/1. Guide.md",
+    "2. Enumeration/UDP/161. SNMP/1. Guide.md",
     "5. Standard Information/Standard Terminology.md",
+    "2. Enumeration/TCP/445. SMB/Tooling/SCP.md",
+    "2. Enumeration/TCP/22. SSH/Tooling",
+    "2. Enumeration/TCP/22. SSH/1. Guide.md",
+    "5. Standard Information/IP Addresses.md",
     "5. Standard Information/MAC Addresses.md",
     "5. Standard Information/Subnetting.md",
     "2. Enumeration/TCP/80. HTTP/1. Guide.md",
@@ -215,9 +221,7 @@
     "7. Misc/Images/Pasted image 20240507090421.png",
     "7. Misc/Images/Pasted image 20240507090109.png",
     "5. Standard Information/Proxies.md",
-    "1. Recon/1. Guide.md",
     "5. Standard Information/Notes",
-    "2. Enumeration/TCP/22. SSH/1. Guide.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Generic Tooling/Hydra.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Generic Tooling/Crowbar.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Encryption/RSA Decrypt.md",
@@ -227,9 +231,6 @@
     "2. Enumeration/TCP/3306. MySQL (SQL)/Concepts/SQL Injection.md",
     "2. Enumeration/TCP/3306. MySQL (SQL)/1. Guide.md",
     "3. Exploitation/Obtaining Remote Shells/Generic Tooling/MSFVenom.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Anti-Virus Bypass.md",
-    "1. Recon/Open Source Intelligence/1. Guide.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Quasar Remote Access Tool (GUI).md",
     "1. Recon/Open Source Intelligence",
     "2. Enumeration/TCP/1521. Oracle",
     "2. Enumeration/TCP/5432. PostgreSQL",
@@ -238,7 +239,6 @@
     "2. Enumeration/TCP/135. RPC",
     "2. Enumeration/TCP/6379. Redis",
     "2. Enumeration/TCP/110. Post Office Protocol (POP)",
-    "2. Enumeration/TCP/2049. Network File System (NFS)/Tooling",
     "7. Misc/Images/2b5171cc7bf44b8996e85892d1c26c35 1.png",
     "7. Misc/Images/2b5171cc7bf44b8996e85892d1c26c35.png",
     "Untitled.canvas"
