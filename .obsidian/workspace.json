@@ -203,6 +203,7 @@
   "lastOpenFiles": [
     "5. Standard Information/Networking/VPN.md",
     "5. Standard Information/Networking/Subnetting.md",
+    "5. Standard Information/Networking/Assigning VLAN Instructions.md",
     "5. Standard Information/Networking/CISCO Information.md",
     "5. Standard Information/Networking",
     "5. Standard Information/Networking/WiFi Connection.md",
@@ -234,7 +235,6 @@
     "5. Standard Information/Notes",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Generic Tooling/Hydra.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Generic Tooling/Crowbar.md",
-    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Encryption/RSA Decrypt.md",
     "1. Recon/Open Source Intelligence",
     "2. Enumeration/TCP/1521. Oracle",
     "2. Enumeration/TCP/5432. PostgreSQL",
