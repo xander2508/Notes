@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Notes/MAC Addresses.md",
+                "file": "5. Standard Information/Notes/IP Addresses.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Notes/MAC Addresses.md",
+                "file": "5. Standard Information/Notes/IP Addresses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Notes/MAC Addresses.md",
+                "file": "5. Standard Information/Notes/IP Addresses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Notes/MAC Addresses.md"
+                "file": "5. Standard Information/Notes/IP Addresses.md"
               }
             }
           },
@@ -201,6 +201,7 @@
   },
   "active": "eb5406d689f184f2",
   "lastOpenFiles": [
+    "5. Standard Information/Notes/MAC Addresses.md",
     "5. Standard Information/Notes/Subnetting.md",
     "2. Enumeration/TCP/80. HTTP/1. Guide.md",
     "2. Enumeration/TCP/445. SMB/Concepts/Shell Command Files (SCF) File Attacks.md",
@@ -208,7 +209,6 @@
     "2. Enumeration/TCP/20. FTP/1. Guide.md",
     "2. Enumeration/TCP/80. HTTP/Concepts/File Upload.md",
     "4. Post Exploitation/Privilege Escalation/Linux/1. Guide.md",
-    "5. Standard Information/Notes/MAC Addresses.md",
     "5. Standard Information/Notes/OSI Model (ISO OSI).md",
     "5. Standard Information/Notes/IP Addresses.md",
     "7. Misc/Images/Pasted image 20240507090421.png",
