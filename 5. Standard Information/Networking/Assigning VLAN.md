@@ -1,0 +1,137 @@
+# Linux 
+
+In Linux, creating a `VLAN` is done by creating an interface on top of another, called a `parent` interface. This `VLAN` interface will tag packets with the assigned `VLAN` ID while returning packets will be untagged.
+
+To assign a network adapter a `VLAN` in Linux, many tools can be used, such as [ip](https://man7.org/linux/man-pages/man8/ip.8.html), [nmcli](https://linux.die.net/man/1/nmcli), and [vconfig](https://linux.die.net/man/8/vconfig) (deprecated). However, first, we need to ensure that the Kernel has the [802.1Q](https://elixir.bootlin.com/linux/v6.4.7/source/net/8021q/vlan.c) module loaded:
+
+  VLANs
+
+```shell-session
+AlexanderOrley@htb[/htb]$ sudo modprobe 8021q
+```
+
+Subsequently, we can use `lsmod` to make sure `8021q` was loaded successfully:
+
+  VLANs
+
+```shell-session
+AlexanderOrley@htb[/htb]$ lsmod | grep 8021
+
+8021q                  40960  0
+garp                   16384  1 8021q
+mrp                    20480  1 8021q
+```
+
+Now, we need to find the name of the physical `Ethernet` interface that we will create the `VLAN` interface on top of, which is `eth0`:
+
+  VLANs
+
+```shell-session
+AlexanderOrley@htb[/htb]$ ip a
+
+<SNIP>
+2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    link/ether a6:ba:3b:08:3a:36 brd ff:ff:ff:ff:ff:ff
+    altname enp0s3
+    altname ens3
+    inet 94.2X.5X.72/22 brd 94.237.51.255 scope global dynamic eth0
+       valid_lft 83489sec preferred_lft 83489sec
+    inet6 fe80::a4ba:3bff:fe08:3a36/64 scope link 
+       valid_lft forever preferred_lft forever
+```
+
+Then, we will use `vconfig` to create a new interface that is a member of the desired `VLAN`, `20`, for example, on top of `eth0`:
+
+  VLANs
+
+```shell-session
+AlexanderOrley@htb[/htb]$ sudo vconfig add eth0 20
+
+Warning: vconfig is deprecated and might be removed in the future, please migrate to ip(route2) as soon as possible!
+```
+
+To use `ip` instead:
+
+  VLANs
+
+```shell-session
+sudo ip link add link eth0 name eth0.20 type vlan id 20
+```
+
+Either of these commands will make a new interface called `eth0.20@eth0`:
+
+  VLANs
+
+```shell-session
+AlexanderOrley@htb[/htb]$ ip a
+
+<SNIP>
+4: eth0.20@eth0: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN group default qlen 1000
+    link/ether a6:ba:3b:08:3a:36 brd ff:ff:ff:ff:ff:ff
+```
+
+Then, based on the `subnet` assigned to the addresses with `VLAN 20` within the local network, we need to assign the interface an IP address and then start it:
+
+  VLANs
+
+```shell-session
+AlexanderOrley@htb[/htb]$ sudo ip addr add 192.168.1.1/24 dev eth0.20
+AlexanderOrley@htb[/htb]$ sudo ip link set up eth0.20
+```
+
+At last, we can check whether the interface has changed states to up:
+
+  VLANs
+
+```shell-session
+AlexanderOrley@htb[/htb]$ ip a | grep eth0.20
+
+4: eth0.20@eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue state UP group default qlen 1000
+    inet 192.168.1.1/24 scope global eth0.20
+```
+
+# Windows 
+
+On Windows, to assign a `VLAN` for a physical network adapter that supports `VLAN tagging`, first we need to open `Device Manager`:
+
+![Windows_Device_Manager.png](https://academy.hackthebox.com/storage/modules/34/Windows_Device_Manager.png)
+
+Then we need to click on `Properties` for the `Ethernet interface` we want to assign to a `VLAN`:
+
+![Windows_Device_Manager_Adapter_Properties.png](https://academy.hackthebox.com/storage/modules/34/Windows_Device_Manager_Adapter_Properties.png)
+
+Within `Advanced`, there will be a `VLAN ID` property to which we can assign a value. After clicking `OK`, if the adapter supports assigning a `VLAN`, it will be set; otherwise, the window will close, and no `VLAN` tag will be added to any packets originating from this host:
+
+![Windows_Device_Manager_Adapter_Properties_VLAN_ID.png](https://academy.hackthebox.com/storage/modules/34/Windows_Device_Manager_Adapter_Properties_VLAN_ID.png)
+
+Instead of relying on the GUI, we can use `PowerShell`. First, let us get the names of all the available physical network adapters using the [Get-NetAdapter](https://learn.microsoft.com/en-us/powershell/module/netadapter/get-netadapter?view=windowsserver2022-ps) Cmdlet:
+
+
+```powershell-session
+PS C:\> Get-NetAdapter | Format-Table -AutoSize
+
+Name                                           InterfaceDescription                                                          ifIndex Status             MacAddress              LinkSpeed
+----                                           --------------------                                                          ------- ------             ----------              ---------
+VirtualBox Host-Only Network  VirtualBox Host-Only Ethernet Adapter                                        20 Up                    0A-00-27-10-42-15       1 Gbps
+Ethernet 2                                 ASIX AX88772B USB2.0 to Fast Ethernet Adapter                            55 Up                    90-EB-78-14-21-7F    100 Mbps
+Bluetooth Network Connection  Bluetooth Device (Personal Area Network)                                   18 Disconnected   38-41-25-E8-DE-2D        3 Mbps
+Wi-Fi                                         Intel(R) Wireless-AC 9560 160MHz                                                12 Disconnected   8E-36-6A-7A-BA-6A 866.7 Mbps
+```
+
+Previously, we used `Device Manager` to assign `Ethernet 2` to `VLAN 10`; to retrieve the `VLAN` ID of the interface, we can use the [Get-NetAdapaterAdvancedProperty](https://learn.microsoft.com/en-us/powershell/module/netadapter/get-netadapteradvancedproperty?view=windowsserver2022-ps) Cmdlet with the `-DisplayName` flag along with `vlan id`:
+
+```powershell-session
+PS C:\> Get-NetAdapterAdvancedProperty -DisplayName "vlan id"
+
+Name                      DisplayName                    DisplayValue                   RegistryKeyword RegistryValue
+----                      -----------                    ------------                   --------------- -------------
+Ethernet 2                VLAN ID                        10                                     VLAN_ID               {10}
+```
+
+We can also set the `VLAN` ID of a physical network address using the [Set-NetAdapter](https://learn.microsoft.com/en-us/powershell/module/netadapter/set-netadapter?view=windowsserver2022-ps) Cmdlet along with the [VlanID](https://learn.microsoft.com/en-us/powershell/module/netadapter/set-netadapter?view=windowsserver2022-ps#-vlanid) flag; this powerful Cmdlet can also be used to customize other properties of interfaces such as [MAC addresses](https://learn.microsoft.com/en-us/powershell/module/netadapter/set-netadapter?view=windowsserver2022-ps#-macaddress):
+
+```powershell-session
+PS C:\> Set-NetAdapter -Name "Ethernet 2" -VlanID 10
+```
+
+However, remember that this operation only succeeds if the network interface supports this functionality; otherwise, `PowerShell` will throw an error indicating that the interface does not support it.
