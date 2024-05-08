@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Networking/CISCO Information.md",
+                "file": "5. Standard Information/Networking/Subnetting.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Networking/CISCO Information.md",
+                "file": "5. Standard Information/Networking/Subnetting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Networking/CISCO Information.md",
+                "file": "5. Standard Information/Networking/Subnetting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Networking/CISCO Information.md"
+                "file": "5. Standard Information/Networking/Subnetting.md"
               }
             }
           },
@@ -202,6 +202,7 @@
   "active": "eb5406d689f184f2",
   "lastOpenFiles": [
     "5. Standard Information/Networking/VPN.md",
+    "5. Standard Information/Networking/Subnetting.md",
     "5. Standard Information/Networking/CISCO Information.md",
     "5. Standard Information/Networking",
     "5. Standard Information/Networking/WiFi Connection.md",
@@ -220,7 +221,6 @@
     "2. Enumeration/TCP/22. SSH/1. Guide.md",
     "5. Standard Information/Networking/IP Addresses.md",
     "5. Standard Information/Networking/MAC Addresses.md",
-    "5. Standard Information/Networking/Subnetting.md",
     "2. Enumeration/TCP/80. HTTP/1. Guide.md",
     "2. Enumeration/TCP/445. SMB/Concepts/Shell Command Files (SCF) File Attacks.md",
     "2. Enumeration/TCP/445. SMB/1. Guide.md",
