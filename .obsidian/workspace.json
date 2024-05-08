@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Networking/VPN.md",
+                "file": "5. Standard Information/Networking/CISCO Information.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Networking/VPN.md",
+                "file": "5. Standard Information/Networking/CISCO Information.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Networking/VPN.md",
+                "file": "5. Standard Information/Networking/CISCO Information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Networking/VPN.md"
+                "file": "5. Standard Information/Networking/CISCO Information.md"
               }
             }
           },
@@ -199,11 +199,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "744b9316b7030f7b",
+  "active": "eb5406d689f184f2",
   "lastOpenFiles": [
+    "5. Standard Information/Networking/VPN.md",
+    "5. Standard Information/Networking/CISCO Information.md",
     "5. Standard Information/Networking",
     "5. Standard Information/Networking/WiFi Connection.md",
-    "5. Standard Information/Networking/VPN.md",
     "2. Enumeration/TCP/5060. VoIP/1. Guide.md",
     "1. Recon/1. Guide.md",
     "2. Enumeration/Other/~. ICMP/1. Guide.md",
@@ -238,7 +239,6 @@
     "2. Enumeration/TCP/1521. Oracle",
     "2. Enumeration/TCP/5432. PostgreSQL",
     "2. Enumeration/TCP/445. SMB/Tooling/Untitled",
-    "2. Enumeration/TCP/135. RPC/Tooling",
     "7. Misc/Images/2b5171cc7bf44b8996e85892d1c26c35 1.png",
     "7. Misc/Images/2b5171cc7bf44b8996e85892d1c26c35.png",
     "Untitled.canvas"
