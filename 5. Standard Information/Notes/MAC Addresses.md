@@ -50,3 +50,10 @@ The second last bit in the first octet identifies whether it is a `global OUI`,
 |---|---|---|---|---|---|---|
 |Binary|1101 11`1`0|1010 1101|1011 1110|1110 1111|0001 0011|0011 0111|
 |Hex|
+
+
+- `MAC spoofing`: This involves altering the MAC address of a device to match that of another device, typically to gain unauthorized access to a network.
+    
+- `MAC flooding`: This involves sending many packets with different MAC addresses to a network switch, causing it to reach its MAC address table capacity and effectively preventing it from functioning correctly.
+    
+- `MAC address filtering`: Some networks may be configured only to allow access to devices with specific MAC addresses that we could potentially exploit by attempting to gain access to the network using a spoofed MAC address.
