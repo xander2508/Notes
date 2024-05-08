@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Networking/Assigning VLAN.md",
+                "file": "5. Standard Information/Networking/VLAN.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Networking/Assigning VLAN.md",
+                "file": "5. Standard Information/Networking/VLAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Networking/Assigning VLAN.md",
+                "file": "5. Standard Information/Networking/VLAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Networking/Assigning VLAN.md"
+                "file": "5. Standard Information/Networking/VLAN.md"
               }
             }
           },
@@ -203,7 +203,7 @@
   "lastOpenFiles": [
     "5. Standard Information/Networking/Subnetting.md",
     "5. Standard Information/Networking/VPN.md",
-    "5. Standard Information/Networking/Assigning VLAN.md",
+    "5. Standard Information/Networking/VLAN.md",
     "5. Standard Information/Networking/CISCO Information.md",
     "5. Standard Information/Networking",
     "5. Standard Information/Networking/WiFi Connection.md",
