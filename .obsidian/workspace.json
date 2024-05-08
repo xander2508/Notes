@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/WiFi Connection.md",
+                "file": "5. Standard Information/Networking/VPN.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/WiFi Connection.md",
+                "file": "5. Standard Information/Networking/VPN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/WiFi Connection.md",
+                "file": "5. Standard Information/Networking/VPN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/WiFi Connection.md"
+                "file": "5. Standard Information/Networking/VPN.md"
               }
             }
           },
@@ -199,10 +199,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eb5406d689f184f2",
+  "active": "744b9316b7030f7b",
   "lastOpenFiles": [
+    "5. Standard Information/Networking",
+    "5. Standard Information/Networking/WiFi Connection.md",
+    "5. Standard Information/Networking/VPN.md",
     "2. Enumeration/TCP/5060. VoIP/1. Guide.md",
-    "5. Standard Information/WiFi Connection.md",
     "1. Recon/1. Guide.md",
     "2. Enumeration/Other/~. ICMP/1. Guide.md",
     "2. Enumeration/TCP/5060. VoIP",
@@ -211,29 +213,27 @@
     "2. Enumeration/~. ICMP.md",
     "2. Enumeration/UDP/500. isakmp/1. Guide.md",
     "2. Enumeration/UDP/161. SNMP/1. Guide.md",
-    "5. Standard Information/Standard Terminology.md",
+    "5. Standard Information/Networking/Standard Terminology.md",
     "2. Enumeration/TCP/445. SMB/Tooling/SCP.md",
     "2. Enumeration/TCP/22. SSH/Tooling",
     "2. Enumeration/TCP/22. SSH/1. Guide.md",
-    "5. Standard Information/IP Addresses.md",
-    "5. Standard Information/MAC Addresses.md",
-    "5. Standard Information/Subnetting.md",
+    "5. Standard Information/Networking/IP Addresses.md",
+    "5. Standard Information/Networking/MAC Addresses.md",
+    "5. Standard Information/Networking/Subnetting.md",
     "2. Enumeration/TCP/80. HTTP/1. Guide.md",
     "2. Enumeration/TCP/445. SMB/Concepts/Shell Command Files (SCF) File Attacks.md",
     "2. Enumeration/TCP/445. SMB/1. Guide.md",
     "2. Enumeration/TCP/20. FTP/1. Guide.md",
     "2. Enumeration/TCP/80. HTTP/Concepts/File Upload.md",
     "4. Post Exploitation/Privilege Escalation/Linux/1. Guide.md",
-    "5. Standard Information/OSI Model (ISO OSI).md",
+    "5. Standard Information/Networking/OSI Model (ISO OSI).md",
     "7. Misc/Images/Pasted image 20240507090421.png",
     "7. Misc/Images/Pasted image 20240507090109.png",
-    "5. Standard Information/Proxies.md",
+    "5. Standard Information/Networking/Proxies.md",
     "5. Standard Information/Notes",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Generic Tooling/Hydra.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Generic Tooling/Crowbar.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Encryption/RSA Decrypt.md",
-    "4. Post Exploitation/Generic Tooling/Passwords and Wordlists/1. Wordlist Guide.md",
-    "4. Post Exploitation/Generic Tooling/Passwords and Wordlists/Generic Tooling/Crunch.md",
     "1. Recon/Open Source Intelligence",
     "2. Enumeration/TCP/1521. Oracle",
     "2. Enumeration/TCP/5432. PostgreSQL",
