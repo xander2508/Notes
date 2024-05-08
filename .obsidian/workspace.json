@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Notes/IP Addresses.md",
+                "file": "5. Standard Information/Standard Terminology.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Notes/IP Addresses.md",
+                "file": "5. Standard Information/Standard Terminology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Notes/IP Addresses.md",
+                "file": "5. Standard Information/Standard Terminology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Notes/IP Addresses.md"
+                "file": "5. Standard Information/Standard Terminology.md"
               }
             }
           },
@@ -201,19 +201,20 @@
   },
   "active": "eb5406d689f184f2",
   "lastOpenFiles": [
-    "5. Standard Information/Notes/MAC Addresses.md",
-    "5. Standard Information/Notes/Subnetting.md",
+    "5. Standard Information/IP Addresses.md",
+    "5. Standard Information/Standard Terminology.md",
+    "5. Standard Information/MAC Addresses.md",
+    "5. Standard Information/Subnetting.md",
     "2. Enumeration/TCP/80. HTTP/1. Guide.md",
     "2. Enumeration/TCP/445. SMB/Concepts/Shell Command Files (SCF) File Attacks.md",
     "2. Enumeration/TCP/445. SMB/1. Guide.md",
     "2. Enumeration/TCP/20. FTP/1. Guide.md",
     "2. Enumeration/TCP/80. HTTP/Concepts/File Upload.md",
     "4. Post Exploitation/Privilege Escalation/Linux/1. Guide.md",
-    "5. Standard Information/Notes/OSI Model (ISO OSI).md",
-    "5. Standard Information/Notes/IP Addresses.md",
+    "5. Standard Information/OSI Model (ISO OSI).md",
     "7. Misc/Images/Pasted image 20240507090421.png",
     "7. Misc/Images/Pasted image 20240507090109.png",
-    "5. Standard Information/Notes/Proxies.md",
+    "5. Standard Information/Proxies.md",
     "1. Recon/1. Guide.md",
     "5. Standard Information/Notes",
     "2. Enumeration/TCP/22. SSH/1. Guide.md",
@@ -230,7 +231,6 @@
     "1. Recon/Open Source Intelligence/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Quasar Remote Access Tool (GUI).md",
     "1. Recon/Open Source Intelligence",
-    "2. Enumeration/TCP/1521. Oracle/1. Guide.md",
     "2. Enumeration/TCP/1521. Oracle",
     "2. Enumeration/TCP/5432. PostgreSQL",
     "2. Enumeration/TCP/445. SMB/Tooling/Untitled",
