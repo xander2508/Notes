@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "280b253dc9cea7bd",
+        "id": "f8b085dfda57eae0",
         "type": "tabs",
         "children": [
           {
-            "id": "eb5406d689f184f2",
+            "id": "ad8174ee802fdb54",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Standard Information/Cryptography/Diffie-Hellman.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "RSA",
+                "query": "IKE",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Cryptography/Diffie-Hellman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Cryptography/Diffie-Hellman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "5. Standard Information/Cryptography/Diffie-Hellman.md"
-              }
+              "state": {}
             }
           },
           {
@@ -199,10 +191,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eb5406d689f184f2",
+  "active": "ad8174ee802fdb54",
   "lastOpenFiles": [
+    "1. Recon/1. Guide.md",
+    "2. Enumeration/UDP/500. isakmp/1. Guide.md",
+    "5. Standard Information/Cryptography/Algorithms.md",
     "5. Standard Information/Networking/VLAN.md",
-    "5. Standard Information/Cryptography/Diffie-Hellman.md",
     "5. Standard Information/Cryptography",
     "5. Standard Information/Networking/Subnetting.md",
     "5. Standard Information/Networking/VPN.md",
@@ -210,13 +204,11 @@
     "5. Standard Information/Networking",
     "5. Standard Information/Networking/WiFi Connection.md",
     "2. Enumeration/TCP/5060. VoIP/1. Guide.md",
-    "1. Recon/1. Guide.md",
     "2. Enumeration/Other/~. ICMP/1. Guide.md",
     "2. Enumeration/TCP/5060. VoIP",
     "2. Enumeration/Other",
     "2. Enumeration/Other/~. ICMP",
     "2. Enumeration/~. ICMP.md",
-    "2. Enumeration/UDP/500. isakmp/1. Guide.md",
     "2. Enumeration/UDP/161. SNMP/1. Guide.md",
     "5. Standard Information/Networking/Standard Terminology.md",
     "2. Enumeration/TCP/445. SMB/Tooling/SCP.md",
