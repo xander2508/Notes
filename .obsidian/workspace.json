@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/UDP/500. isakmp/Concepts/IKE.md",
+                "file": "5. Standard Information/Cryptography/Authentication Protocols.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/UDP/500. isakmp/Concepts/IKE.md",
+                "file": "5. Standard Information/Cryptography/Authentication Protocols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/UDP/500. isakmp/Concepts/IKE.md",
+                "file": "5. Standard Information/Cryptography/Authentication Protocols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/UDP/500. isakmp/Concepts/IKE.md"
+                "file": "5. Standard Information/Cryptography/Authentication Protocols.md"
               }
             }
           },
@@ -201,8 +201,9 @@
   },
   "active": "ad8174ee802fdb54",
   "lastOpenFiles": [
-    "2. Enumeration/UDP/500. isakmp/1. Guide.md",
     "2. Enumeration/UDP/500. isakmp/Concepts/IKE.md",
+    "5. Standard Information/Cryptography/Authentication Protocols.md",
+    "2. Enumeration/UDP/500. isakmp/1. Guide.md",
     "2. Enumeration/UDP/500. isakmp/Concepts",
     "1. Recon/1. Guide.md",
     "5. Standard Information/Cryptography/Algorithms.md",
@@ -235,7 +236,6 @@
     "5. Standard Information/Networking/OSI Model (ISO OSI).md",
     "7. Misc/Images/Pasted image 20240507090421.png",
     "7. Misc/Images/Pasted image 20240507090109.png",
-    "5. Standard Information/Networking/Proxies.md",
     "5. Standard Information/Notes",
     "1. Recon/Open Source Intelligence",
     "2. Enumeration/TCP/1521. Oracle",
