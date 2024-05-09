@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Networking/VLAN.md",
+                "file": "5. Standard Information/Cryptography/Diffie-Hellman.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Networking/VLAN.md",
+                "file": "5. Standard Information/Cryptography/Diffie-Hellman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Networking/VLAN.md",
+                "file": "5. Standard Information/Cryptography/Diffie-Hellman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Networking/VLAN.md"
+                "file": "5. Standard Information/Cryptography/Diffie-Hellman.md"
               }
             }
           },
@@ -201,9 +201,11 @@
   },
   "active": "eb5406d689f184f2",
   "lastOpenFiles": [
+    "5. Standard Information/Networking/VLAN.md",
+    "5. Standard Information/Cryptography/Diffie-Hellman.md",
+    "5. Standard Information/Cryptography",
     "5. Standard Information/Networking/Subnetting.md",
     "5. Standard Information/Networking/VPN.md",
-    "5. Standard Information/Networking/VLAN.md",
     "5. Standard Information/Networking/CISCO Information.md",
     "5. Standard Information/Networking",
     "5. Standard Information/Networking/WiFi Connection.md",
@@ -234,11 +236,9 @@
     "5. Standard Information/Networking/Proxies.md",
     "5. Standard Information/Notes",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Generic Tooling/Hydra.md",
-    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Generic Tooling/Crowbar.md",
     "1. Recon/Open Source Intelligence",
     "2. Enumeration/TCP/1521. Oracle",
     "2. Enumeration/TCP/5432. PostgreSQL",
-    "2. Enumeration/TCP/445. SMB/Tooling/Untitled",
     "7. Misc/Images/2b5171cc7bf44b8996e85892d1c26c35 1.png",
     "7. Misc/Images/2b5171cc7bf44b8996e85892d1c26c35.png",
     "Untitled.canvas"
