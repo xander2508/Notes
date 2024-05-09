@@ -17,3 +17,14 @@ The public key is used to encrypt the data, while the private key is used to dec
 |---|---|---|
 |E-Signatures|SSL/TLS|VPNs|
 |SSH|PKI|Cloud |
+
+## Advanced Encryption Standard
+
+Compared to DES, AES uses 128-bit (`AES-128`), 192-bit (`AES-192`), or 256-bit (`AES-256`) keys to encrypt and decrypt data. In addition, AES is faster than DES because it has a more efficient algorithm structure. This is because it can be applied to multiple data blocks at once, making it faster. This means that AES encryption and decryption can be performed faster than DES, which is especially important when large amounts of data need to be encrypted.
+
+For example, we can find AES in many different applications and protocols, but they are not limited to:
+
+|   |   |   |
+|---|---|---|
+|WLAN IEEE 802.11i|IPsec|SSH|
+|VoIP|PGP|OpenSSL|
