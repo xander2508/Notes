@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f8b085dfda57eae0",
+        "id": "538550d8532c955d",
         "type": "tabs",
         "children": [
           {
-            "id": "ad8174ee802fdb54",
+            "id": "84c6f2ec198ef764",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Standard Information/Server Architecture/Terms.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Server Architecture/Terms.md",
+                "file": "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities/Cross Site Scripting (XSS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Server Architecture/Terms.md",
+                "file": "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities/Cross Site Scripting (XSS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Server Architecture/Terms.md"
+                "file": "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities/Cross Site Scripting (XSS).md"
               }
             }
           },
@@ -199,16 +195,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ad8174ee802fdb54",
+  "active": "744b9316b7030f7b",
   "lastOpenFiles": [
+    "2. Enumeration/TCP/80. HTTP/Concepts/Basic HTTP Authentication.md",
+    "2. Enumeration/TCP/80. HTTP/Concepts/HTTP Versions.md",
+    "2. Enumeration/TCP/80. HTTP/Concepts/URL Encoding.md",
+    "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities/Command Injection.md",
+    "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities",
+    "5. Standard Information/Server Architecture/Terms.md",
     "7. Misc/Images/Pasted image 20240514191950.png",
     "2. Enumeration/TCP/80. HTTP/1. Guide.md",
-    "5. Standard Information/Server Architecture/Terms.md",
     "5. Standard Information/Server Architecture/Terms/Microservices.md",
     "5. Standard Information/Server Architecture/Terms",
     "5. Standard Information/Server Architecture",
     "2. Enumeration/TCP/80. HTTP/2. Information.md",
-    "2. Enumeration/TCP/80. HTTP/Concepts/Basic HTTP Authentication.md",
     "2. Enumeration/TCP/80. HTTP/Tooling/Fuzzing/cURL.md",
     "7. Misc/Images/Pasted image 20240513193124.png",
     "5. Standard Information/Cryptography/Encryption.md",
@@ -235,11 +235,8 @@
     "5. Standard Information/Networking/Standard Terminology.md",
     "2. Enumeration/TCP/445. SMB/Tooling/SCP.md",
     "2. Enumeration/TCP/22. SSH/Tooling",
-    "2. Enumeration/TCP/22. SSH/1. Guide.md",
-    "5. Standard Information/Networking/IP Addresses.md",
     "7. Misc/Images/Pasted image 20240507090421.png",
     "7. Misc/Images/Pasted image 20240507090109.png",
-    "5. Standard Information/Notes",
     "7. Misc/Images/2b5171cc7bf44b8996e85892d1c26c35 1.png",
     "7. Misc/Images/2b5171cc7bf44b8996e85892d1c26c35.png",
     "Untitled.canvas"
