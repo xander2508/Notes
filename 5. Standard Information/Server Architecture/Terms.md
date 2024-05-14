@@ -3,8 +3,13 @@
 
 Microservices are an architectural and organizational approach to software development where software is composed of small independent services that communicate over well-defined APIs. These services are owned by small, self-contained teams.
 
+We can think of microservices as independent components of the web application, which in most cases are programmed for one task only
+
 Microservices architectures make applications easier to scale and faster to develop, enabling innovation and accelerating time-to-market for new features.
 
+The communication between these microservices is `stateless`, which means that the request and response are independent. This is because the stored data is `stored separately` from the respective microservices.
+
+[microservices-on-aws.pdf](https://d1.awsstatic.com/whitepapers/microservices-on-aws.pdf)
 ![[Pasted image 20240514191950.png]]
 
 # Serverless 
