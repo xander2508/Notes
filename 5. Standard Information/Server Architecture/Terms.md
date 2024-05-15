@@ -15,3 +15,15 @@ The communication between these microservices is `stateless`, which means that 
 # Serverless 
 
 A serverless architecture is a way to build and run applications and services without having to manage infrastructure. Your application still runs on servers, but all the server management is done by AWS. You no longer have to provision, scale, and maintain servers to run your applications, databases, and storage systems. Learn more about serverless computing [here](https://aws.amazon.com/serverless/).
+
+
+
+Describe a bard college in a fantasy town, the college appears quite new but has a secure air about it
+
+The bard college in the fantasy town of Elysium is known as Starred Blocks. Despite being relatively new, the college exudes an air of security and prestige. The buildings are made of white marble with intricate carvings and towering spires that glitter in the sunlight. The grounds are meticulously maintained, with lush gardens and sparkling fountains scattered throughout.
+
+Students at Starred Blocks learn not only musical skills, but also the art of storytelling, poetry, and performance. The instructors are seasoned bards themselves, with years of experience in entertaining crowds and captivating audiences.
+
+The curriculum at Starred Blocks is rigorous, with classes in music theory, history of bardic traditions, and practical performance skills. Students are expected to participate in regular recitals and performances to hone their craft and gain experience on stage.
+
+Despite its newness, Starred Blocks has quickly gained a reputation as one of the finest bard colleges in the realm. Graduates go on to become renowned performers and storytellers, enchanting audiences far and wide with their talents honed at this prestigious institution.
