@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities/Cross Site Scripting (XSS).md",
+                "file": "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities/Cross-Site Request Forgery (XSRF).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities/Cross Site Scripting (XSS).md",
+                "file": "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities/Cross-Site Request Forgery (XSRF).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities/Cross Site Scripting (XSS).md",
+                "file": "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities/Cross-Site Request Forgery (XSRF).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities/Cross Site Scripting (XSS).md"
+                "file": "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities/Cross-Site Request Forgery (XSRF).md"
               }
             }
           },
@@ -201,13 +201,13 @@
   },
   "active": "84c6f2ec198ef764",
   "lastOpenFiles": [
+    "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities/Cross Site Scripting (XSS).md",
     "5. Standard Information/Server Architecture/Terms.md",
     "2. Enumeration/TCP/80. HTTP/1. Guide.md",
     "2. Enumeration/TCP/80. HTTP/Concepts/Information/JavaScript.md",
     "2. Enumeration/TCP/80. HTTP/Concepts/Information/Cascading Style Sheets (CSS).md",
     "2. Enumeration/TCP/80. HTTP/Concepts/Information",
     "2. Enumeration/TCP/80. HTTP/Concepts/Information/Document Object Model (DOM).md",
-    "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities/Cross Site Scripting (XSS).md",
     "2. Enumeration/TCP/80. HTTP/Concepts/Information/Basic HTTP Authentication.md",
     "2. Enumeration/TCP/80. HTTP/Concepts/Information/HTTP Versions.md",
     "2. Enumeration/TCP/80. HTTP/Concepts/Information/URL Encoding.md",
