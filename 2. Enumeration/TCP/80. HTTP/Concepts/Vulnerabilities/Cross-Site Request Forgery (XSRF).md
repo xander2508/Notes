@@ -3,6 +3,9 @@ A Cross-Site Request Forgery (XSRF) is also known as “one-click attack” and 
 
 `CSRF` attacks may utilize [[Cross Site Scripting (XSS)]] vulnerabilities to perform certain queries, and `API` calls on a web application that the victim is currently authenticated to. This would allow the attacker to perform actions as the authenticated user. It may also utilize other vulnerabilities to perform the same functions, like utilizing HTTP parameters for attacks.
 
+# Guide 
+
+[Cross-Site Request Forgery Prevention - OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html)
 # Walkthrough
 
 [HTB: SecNotes | 0xdf hacks stuff](https://0xdf.gitlab.io/2019/01/19/htb-secnotes.html)
