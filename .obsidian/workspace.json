@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Server Architecture/Terms.md",
+                "file": "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities/Cross Site Scripting (XSS).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Server Architecture/Terms.md",
+                "file": "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities/Cross Site Scripting (XSS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Server Architecture/Terms.md",
+                "file": "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities/Cross Site Scripting (XSS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Server Architecture/Terms.md"
+                "file": "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities/Cross Site Scripting (XSS).md"
               }
             }
           },
@@ -201,6 +201,7 @@
   },
   "active": "84c6f2ec198ef764",
   "lastOpenFiles": [
+    "5. Standard Information/Server Architecture/Terms.md",
     "2. Enumeration/TCP/80. HTTP/1. Guide.md",
     "2. Enumeration/TCP/80. HTTP/Concepts/Information/JavaScript.md",
     "2. Enumeration/TCP/80. HTTP/Concepts/Information/Cascading Style Sheets (CSS).md",
@@ -212,7 +213,6 @@
     "2. Enumeration/TCP/80. HTTP/Concepts/Information/URL Encoding.md",
     "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities/Command Injection.md",
     "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities",
-    "5. Standard Information/Server Architecture/Terms.md",
     "7. Misc/Images/Pasted image 20240514191950.png",
     "5. Standard Information/Server Architecture/Terms/Microservices.md",
     "5. Standard Information/Server Architecture/Terms",
