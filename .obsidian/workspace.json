@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Linux.md",
+                "file": "4. Post Exploitation/Upgrading Shells.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "common development frameworks",
+                "query": "bash",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Linux.md",
+                "file": "4. Post Exploitation/Upgrading Shells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Linux.md",
+                "file": "4. Post Exploitation/Upgrading Shells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Linux.md"
+                "file": "4. Post Exploitation/Upgrading Shells.md"
               }
             }
           },
@@ -201,8 +202,11 @@
   },
   "active": "84c6f2ec198ef764",
   "lastOpenFiles": [
-    "5. Standard Information/Reporting/CVSS.md",
+    "3. Exploitation/Obtaining Remote Shells/Specific Shells/Linux.md",
+    "3. Exploitation/Known Application Exploits/Bash.md",
+    "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities/Command Injection.md",
     "5. Standard Information/Operating Systems/Linux.md",
+    "5. Standard Information/Reporting/CVSS.md",
     "5. Standard Information/Operating Systems",
     "3. Exploitation/1. Guide.md",
     "5. Standard Information/Reporting",
@@ -221,7 +225,6 @@
     "2. Enumeration/TCP/80. HTTP/Concepts/Information/Basic HTTP Authentication.md",
     "2. Enumeration/TCP/80. HTTP/Concepts/Information/HTTP Versions.md",
     "2. Enumeration/TCP/80. HTTP/Concepts/Information/URL Encoding.md",
-    "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities/Command Injection.md",
     "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities",
     "7. Misc/Images/Pasted image 20240514191950.png",
     "5. Standard Information/Server Architecture/Terms/Microservices.md",
@@ -233,8 +236,6 @@
     "5. Standard Information/Cryptography/Encryption.md",
     "5. Standard Information/Cryptography/Algorithms.md",
     "5. Standard Information/Cryptography/Authentication Protocols.md",
-    "2. Enumeration/UDP/500. isakmp/Concepts/IKE.md",
-    "2. Enumeration/UDP/500. isakmp/1. Guide.md",
     "2. Enumeration/UDP/500. isakmp/Concepts",
     "5. Standard Information/Cryptography",
     "5. Standard Information/Networking",
