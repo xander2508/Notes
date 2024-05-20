@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Reporting/CVSS.md",
+                "file": "5. Standard Information/Operating Systems/Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Reporting/CVSS.md",
+                "file": "5. Standard Information/Operating Systems/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Reporting/CVSS.md",
+                "file": "5. Standard Information/Operating Systems/Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Reporting/CVSS.md"
+                "file": "5. Standard Information/Operating Systems/Linux.md"
               }
             }
           },
@@ -201,8 +201,10 @@
   },
   "active": "84c6f2ec198ef764",
   "lastOpenFiles": [
-    "3. Exploitation/1. Guide.md",
     "5. Standard Information/Reporting/CVSS.md",
+    "5. Standard Information/Operating Systems/Linux.md",
+    "5. Standard Information/Operating Systems",
+    "3. Exploitation/1. Guide.md",
     "5. Standard Information/Reporting",
     "2. Enumeration/TCP/80. HTTP/1. Guide.md",
     "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities/Cross-Site Request Forgery (XSRF).md",
@@ -234,11 +236,9 @@
     "2. Enumeration/UDP/500. isakmp/Concepts/IKE.md",
     "2. Enumeration/UDP/500. isakmp/1. Guide.md",
     "2. Enumeration/UDP/500. isakmp/Concepts",
-    "1. Recon/1. Guide.md",
     "5. Standard Information/Cryptography",
     "5. Standard Information/Networking",
     "2. Enumeration/TCP/5060. VoIP",
-    "2. Enumeration/Other",
     "7. Misc/Images/Pasted image 20240507090421.png",
     "7. Misc/Images/Pasted image 20240507090109.png",
     "7. Misc/Images/2b5171cc7bf44b8996e85892d1c26c35 1.png",
