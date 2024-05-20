@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "IKE",
+                "query": "common development frameworks",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -199,7 +200,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "84c6f2ec198ef764",
+  "active": "dcd2adc30e57ac2e",
   "lastOpenFiles": [
     "2. Enumeration/TCP/80. HTTP/Concepts/Information/Cascading Style Sheets (CSS).md",
     "2. Enumeration/TCP/80. HTTP/Applications/Apache.md",
