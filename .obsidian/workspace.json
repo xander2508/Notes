@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Linux/1. Guide.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Find.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bash",
+                "query": "find",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Linux/1. Guide.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Find.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Linux/1. Guide.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Find.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Linux/1. Guide.md"
+                "file": "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Find.md"
               }
             }
           },
@@ -201,10 +201,13 @@
   },
   "active": "84c6f2ec198ef764",
   "lastOpenFiles": [
+    "4. Post Exploitation/Privilege Escalation/Linux/1. Guide.md",
+    "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Find.md",
+    "4. Post Exploitation/Privilege Escalation/Linux/Tooling/LinPeas.md",
+    "4. Post Exploitation/Valuable Files.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Command Line Tooling.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Untitled 1.md",
-    "4. Post Exploitation/Privilege Escalation/Linux/1. Guide.md",
     "3. Exploitation/1. Guide.md",
     "3. Exploitation/Operating System Specific/1. Guide.md",
     "3. Exploitation/Known Application Exploits/Bash.md",
@@ -227,9 +230,6 @@
     "2. Enumeration/TCP/80. HTTP/Concepts/Information/JavaScript.md",
     "2. Enumeration/TCP/80. HTTP/Concepts/Information",
     "2. Enumeration/TCP/80. HTTP/Concepts/Information/Document Object Model (DOM).md",
-    "2. Enumeration/TCP/80. HTTP/Concepts/Information/Basic HTTP Authentication.md",
-    "2. Enumeration/TCP/80. HTTP/Concepts/Information/HTTP Versions.md",
-    "2. Enumeration/TCP/80. HTTP/Concepts/Information/URL Encoding.md",
     "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities",
     "7. Misc/Images/Pasted image 20240514191950.png",
     "5. Standard Information/Server Architecture/Terms",
