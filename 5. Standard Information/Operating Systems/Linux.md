@@ -55,3 +55,15 @@ The Linux operating system can be broken down into layers:
 |`/tmp`|The operating system and many programs use this directory to store temporary files. This directory is generally cleared upon system boot and may be deleted at other times without any warning.|
 |`/usr`|Contains executables, libraries, man files, etc.|
 |`/var`|This directory contains variable data files such as log files, email in-boxes, web application related files, cron files, and more.|
+
+
+## File Descriptors
+
+A file descriptor (FD) in Unix/Linux operating systems is an indicator of connection maintained by the kernel to perform Input/Output (I/O) operations. In Windows-based operating systems, it is called filehandle. It is the connection (generally to a file) from the Operating system to perform I/O operations (Input/Output of Bytes). By default, the first three file descriptors in Linux are:
+
+1. Data Stream for Input
+    - `STDIN – 0`
+2. Data Stream for Output
+    - `STDOUT – 1`
+3. Data Stream for Output that relates to an error occurring.
+    - `STDERR – 2`
