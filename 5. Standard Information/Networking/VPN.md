@@ -11,6 +11,8 @@ For a VPNs to connect multiple remote locations, such as branch offices, into a 
 
 The VPN client and server use these ports to establish and maintain the VPN connection. At the TCP/IP layer, a VPN connection typically uses the [Encapsulating Security Payload](https://www.ibm.com/docs/en/i/7.4?topic=protocols-encapsulating-security-payload) (`ESP`) protocol to encrypt and authenticate the VPN traffic. This allows the VPN client and server to exchange data over the public internet securely.
 
+OpenVPN can be customized and configured by editing the configuration file `/etc/openvpn/server.conf`
+
 ---
 
 ## IPsec
