@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Linux.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Task Scheduling/Systemd.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "find",
+                "query": "cron",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Linux.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Task Scheduling/Systemd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Linux.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Task Scheduling/Systemd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Linux.md"
+                "file": "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Task Scheduling/Systemd.md"
               }
             }
           },
@@ -201,6 +201,10 @@
   },
   "active": "84c6f2ec198ef764",
   "lastOpenFiles": [
+    "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Task Scheduling/CRON Jobs.md",
+    "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Task Scheduling/Systemd.md",
+    "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Task Scheduling",
+    "5. Standard Information/Operating Systems/Linux.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Find.md",
     "4. Post Exploitation/Privilege Escalation/Linux/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/LinPeas.md",
@@ -211,7 +215,6 @@
     "3. Exploitation/1. Guide.md",
     "3. Exploitation/Operating System Specific/1. Guide.md",
     "3. Exploitation/Known Application Exploits/Bash.md",
-    "5. Standard Information/Operating Systems/Linux.md",
     "4. Post Exploitation/Upgrading Shells.md",
     "3. Exploitation/Obtaining Remote Shells/Specific Shells/Linux.md",
     "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities/Command Injection.md",
@@ -227,9 +230,7 @@
     "2. Enumeration/TCP/80. HTTP/Applications/NGINX.md",
     "5. Standard Information/Server Architecture/Terms.md",
     "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities/Cross Site Scripting (XSS).md",
-    "2. Enumeration/TCP/80. HTTP/Concepts/Information/JavaScript.md",
     "2. Enumeration/TCP/80. HTTP/Concepts/Information",
-    "2. Enumeration/TCP/80. HTTP/Concepts/Information/Document Object Model (DOM).md",
     "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities",
     "7. Misc/Images/Pasted image 20240514191950.png",
     "5. Standard Information/Server Architecture/Terms",
@@ -238,7 +239,6 @@
     "2. Enumeration/UDP/500. isakmp/Concepts",
     "5. Standard Information/Cryptography",
     "5. Standard Information/Networking",
-    "2. Enumeration/TCP/5060. VoIP",
     "7. Misc/Images/Pasted image 20240507090421.png",
     "7. Misc/Images/Pasted image 20240507090109.png",
     "7. Misc/Images/2b5171cc7bf44b8996e85892d1c26c35 1.png",
