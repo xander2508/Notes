@@ -10,3 +10,18 @@
 # Tomcat
 
 [Hack The Box Walkthrough: Tabby. In this article, we will go through a… | by Abhijith Kumar | Medium](https://abhijithkumar2000.medium.com/hack-the-box-walkthrough-tabby-9bbc9b273366)
+
+
+For Apache2, to specify which folders can be accessed, we can edit the file `/etc/apache2/apache2.conf` with a text editor. This file contains the global settings. We can change the settings to specify which directories can be accessed and what actions can be performed on those directories.
+
+#### Apache Configuration
+
+Code: txt
+
+```txt
+<Directory /var/www/html>
+        Options Indexes FollowSymLinks
+        AllowOverride All
+        Require all granted
+</directory>
+```

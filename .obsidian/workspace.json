@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/2049. Network File System (NFS)/1. Guide.md",
+                "file": "4. Post Exploitation/Valuable Files.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/2049. Network File System (NFS)/1. Guide.md",
+                "file": "4. Post Exploitation/Valuable Files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/2049. Network File System (NFS)/1. Guide.md",
+                "file": "4. Post Exploitation/Valuable Files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/2049. Network File System (NFS)/1. Guide.md"
+                "file": "4. Post Exploitation/Valuable Files.md"
               }
             }
           },
@@ -199,8 +199,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "744b9316b7030f7b",
+  "active": "84c6f2ec198ef764",
   "lastOpenFiles": [
+    "2. Enumeration/TCP/80. HTTP/Applications/Apache.md",
+    "2. Enumeration/TCP/2049. Network File System (NFS)/1. Guide.md",
     "2. Enumeration/TCP/2049. Network File System (NFS)/Applications",
     "2. Enumeration/TCP/22. SSH/Applications/OpenSSH.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Systemctl.md",
@@ -230,7 +232,6 @@
     "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities/Cross-Site Request Forgery (XSRF).md",
     "2. Enumeration/TCP/80. HTTP/Concepts/Information/Response Codes.md",
     "2. Enumeration/TCP/80. HTTP/Concepts/Information/Cascading Style Sheets (CSS).md",
-    "2. Enumeration/TCP/80. HTTP/Applications/Apache.md",
     "2. Enumeration/TCP/80. HTTP/Concepts/Information",
     "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities",
     "7. Misc/Images/Pasted image 20240514191950.png",
@@ -238,7 +239,6 @@
     "5. Standard Information/Server Architecture",
     "7. Misc/Images/Pasted image 20240513193124.png",
     "2. Enumeration/UDP/500. isakmp/Concepts",
-    "5. Standard Information/Cryptography",
     "7. Misc/Images/Pasted image 20240507090421.png",
     "7. Misc/Images/Pasted image 20240507090109.png",
     "7. Misc/Images/2b5171cc7bf44b8996e85892d1c26c35 1.png",
