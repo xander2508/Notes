@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Systemctl.md",
+                "file": "2. Enumeration/TCP/2049. Network File System (NFS)/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Systemctl.md",
+                "file": "2. Enumeration/TCP/2049. Network File System (NFS)/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Systemctl.md",
+                "file": "2. Enumeration/TCP/2049. Network File System (NFS)/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Systemctl.md"
+                "file": "2. Enumeration/TCP/2049. Network File System (NFS)/1. Guide.md"
               }
             }
           },
@@ -201,9 +201,11 @@
   },
   "active": "744b9316b7030f7b",
   "lastOpenFiles": [
+    "2. Enumeration/TCP/2049. Network File System (NFS)/Applications",
+    "2. Enumeration/TCP/22. SSH/Applications/OpenSSH.md",
+    "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Systemctl.md",
     "2. Enumeration/TCP/22. SSH/Applications",
     "2. Enumeration/TCP/22. SSH/Untitled.md",
-    "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Systemctl.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Task Scheduling/Systemd.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Task Scheduling/CRON Jobs.md",
@@ -229,7 +231,6 @@
     "2. Enumeration/TCP/80. HTTP/Concepts/Information/Response Codes.md",
     "2. Enumeration/TCP/80. HTTP/Concepts/Information/Cascading Style Sheets (CSS).md",
     "2. Enumeration/TCP/80. HTTP/Applications/Apache.md",
-    "2. Enumeration/TCP/80. HTTP/Applications/Microsoft IIS.md",
     "2. Enumeration/TCP/80. HTTP/Concepts/Information",
     "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities",
     "7. Misc/Images/Pasted image 20240514191950.png",
@@ -238,7 +239,6 @@
     "7. Misc/Images/Pasted image 20240513193124.png",
     "2. Enumeration/UDP/500. isakmp/Concepts",
     "5. Standard Information/Cryptography",
-    "5. Standard Information/Networking",
     "7. Misc/Images/Pasted image 20240507090421.png",
     "7. Misc/Images/Pasted image 20240507090109.png",
     "7. Misc/Images/2b5171cc7bf44b8996e85892d1c26c35 1.png",
