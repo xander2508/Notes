@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Networking/VPN.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Backup and Restore/Rsync.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Networking/VPN.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Backup and Restore/Rsync.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Networking/VPN.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Backup and Restore/Rsync.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Networking/VPN.md"
+                "file": "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Backup and Restore/Rsync.md"
               }
             }
           },
@@ -202,15 +201,26 @@
   },
   "active": "84c6f2ec198ef764",
   "lastOpenFiles": [
+    "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Backup and Restore/Deja Dup.md",
+    "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Backup and Restore/1. Guide.md",
+    "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Backup and Restore/Duplicity.md",
+    "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Backup and Restore/Rsync.md",
+    "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Command Line Tooling.md",
+    "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Default Tools/Find.md",
+    "4. Post Exploitation/Data Exfiltration/Webservers.md",
+    "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Default Tools",
+    "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Backup and Restore",
+    "4. Post Exploitation/Data Exfiltration/1. Guide.md",
+    "4. Post Exploitation/Data Exfiltration",
+    "5. Standard Information/Networking/VPN.md",
     "5. Standard Information/Networking/Standard Terminology.md",
     "1. Recon/1. Guide.md",
-    "4. Post Exploitation/Data Exfiltration.md",
     "4. Post Exploitation/Valuable Files.md",
     "2. Enumeration/TCP/80. HTTP/Applications/Apache.md",
     "2. Enumeration/TCP/2049. Network File System (NFS)/1. Guide.md",
     "2. Enumeration/TCP/2049. Network File System (NFS)/Applications",
     "2. Enumeration/TCP/22. SSH/Applications/OpenSSH.md",
-    "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Systemctl.md",
+    "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Default Tools/Systemctl.md",
     "2. Enumeration/TCP/22. SSH/Applications",
     "2. Enumeration/TCP/22. SSH/Untitled.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/1. Guide.md",
@@ -218,28 +228,17 @@
     "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Task Scheduling/CRON Jobs.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Task Scheduling",
     "5. Standard Information/Operating Systems/Linux.md",
-    "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Find.md",
     "4. Post Exploitation/Privilege Escalation/Linux/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/LinPeas.md",
-    "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Command Line Tooling.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Untitled 1.md",
     "3. Exploitation/1. Guide.md",
     "3. Exploitation/Operating System Specific/1. Guide.md",
-    "3. Exploitation/Known Application Exploits/Bash.md",
-    "4. Post Exploitation/Upgrading Shells.md",
-    "3. Exploitation/Obtaining Remote Shells/Specific Shells/Linux.md",
-    "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities/Command Injection.md",
-    "5. Standard Information/Reporting/CVSS.md",
     "5. Standard Information/Operating Systems",
     "5. Standard Information/Reporting",
-    "2. Enumeration/TCP/80. HTTP/1. Guide.md",
     "2. Enumeration/TCP/80. HTTP/Concepts/Information",
     "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities",
     "7. Misc/Images/Pasted image 20240514191950.png",
-    "5. Standard Information/Server Architecture/Terms",
-    "5. Standard Information/Server Architecture",
     "7. Misc/Images/Pasted image 20240513193124.png",
-    "2. Enumeration/UDP/500. isakmp/Concepts",
     "7. Misc/Images/Pasted image 20240507090421.png",
     "7. Misc/Images/Pasted image 20240507090109.png",
     "7. Misc/Images/2b5171cc7bf44b8996e85892d1c26c35 1.png",
