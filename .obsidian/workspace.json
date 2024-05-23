@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Linux/1. Guide.md",
+                "file": "2. Enumeration/TCP/5900. Virtual Network Computing (VNC)/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Linux/1. Guide.md",
+                "file": "2. Enumeration/TCP/5900. Virtual Network Computing (VNC)/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Linux/1. Guide.md",
+                "file": "2. Enumeration/TCP/5900. Virtual Network Computing (VNC)/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Linux/1. Guide.md"
+                "file": "2. Enumeration/TCP/5900. Virtual Network Computing (VNC)/1. Guide.md"
               }
             }
           },
@@ -199,9 +199,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "744b9316b7030f7b",
+  "active": "84c6f2ec198ef764",
   "lastOpenFiles": [
-    "2. Enumeration/TCP/Untitled",
+    "4. Post Exploitation/Privilege Escalation/Linux/1. Guide.md",
+    "2. Enumeration/TCP/5900. Virtual Network Computing (VNC)/1. Guide.md",
+    "2. Enumeration/TCP/5900. Virtual Network Computing (VNC)",
     "2. Enumeration/UDP/177. X Display Manager Control Protocol (XDMCP)/1. Guide.md",
     "5. Standard Information/Operating Systems/Linux/X Server (X11).md",
     "2. Enumeration/UDP/177. X Display Manager Control Protocol (XDMCP)",
@@ -229,14 +231,12 @@
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Backup and Restore/Duplicity.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Command Line Tooling.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Default Tools/Find.md",
-    "4. Post Exploitation/Data Exfiltration/Webservers.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Default Tools",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Backup and Restore",
     "4. Post Exploitation/Data Exfiltration",
     "2. Enumeration/TCP/2049. Network File System (NFS)/Applications",
     "2. Enumeration/TCP/22. SSH/Applications",
     "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Task Scheduling",
-    "5. Standard Information/Operating Systems",
     "7. Misc/Images/Pasted image 20240514191950.png",
     "7. Misc/Images/Pasted image 20240513193124.png",
     "7. Misc/Images/Pasted image 20240507090421.png",
