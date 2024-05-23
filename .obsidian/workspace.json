@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Linux/Hardening/Firewall (IpTables).md",
+                "file": "5. Standard Information/Operating Systems/Linux/Logging.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Linux/Hardening/Firewall (IpTables).md",
+                "file": "5. Standard Information/Operating Systems/Linux/Logging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Linux/Hardening/Firewall (IpTables).md",
+                "file": "5. Standard Information/Operating Systems/Linux/Logging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Linux/Hardening/Firewall (IpTables).md"
+                "file": "5. Standard Information/Operating Systems/Linux/Logging.md"
               }
             }
           },
@@ -201,8 +201,9 @@
   },
   "active": "84c6f2ec198ef764",
   "lastOpenFiles": [
-    "5. Standard Information/Operating Systems/Linux/Hardening/TCP wrappers.md",
     "5. Standard Information/Operating Systems/Linux/Hardening/Firewall (IpTables).md",
+    "5. Standard Information/Operating Systems/Linux/Logging.md",
+    "5. Standard Information/Operating Systems/Linux/Hardening/TCP wrappers.md",
     "5. Standard Information/Operating Systems/Linux/Hardening/SELinux.md",
     "2. Enumeration/TCP/5900. Virtual Network Computing (VNC)/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/Linux/1. Guide.md",
@@ -230,7 +231,6 @@
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Backup and Restore/Deja Dup.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Backup and Restore/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Backup and Restore/Duplicity.md",
-    "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Command Line Tooling.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Default Tools",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Backup and Restore",
     "4. Post Exploitation/Data Exfiltration",
