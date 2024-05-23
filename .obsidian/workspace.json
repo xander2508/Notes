@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Networking/Network Access Control.md",
+                "file": "5. Standard Information/Operating Systems/Linux/Hardening/SELinux.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Networking/Network Access Control.md",
+                "file": "5. Standard Information/Operating Systems/Linux/Hardening/SELinux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Networking/Network Access Control.md",
+                "file": "5. Standard Information/Operating Systems/Linux/Hardening/SELinux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Networking/Network Access Control.md"
+                "file": "5. Standard Information/Operating Systems/Linux/Hardening/SELinux.md"
               }
             }
           },
@@ -201,12 +201,21 @@
   },
   "active": "84c6f2ec198ef764",
   "lastOpenFiles": [
-    "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Default Tools/ifconfig (ip).md",
+    "5. Standard Information/Operating Systems/Linux/Components.md",
+    "5. Standard Information/Operating Systems/Linux/Hardening/SELinux.md",
+    "5. Standard Information/Operating Systems/Linux/Hardening",
+    "5. Standard Information/Operating Systems/Linux.md",
+    "5. Standard Information/Operating Systems/Linux/Introduction.md",
+    "5. Standard Information/Operating Systems/Linux/File Descriptors.md",
+    "5. Standard Information/Operating Systems/Linux/File System Hierarchy.md",
+    "5. Standard Information/Operating Systems/Linux/Linux Architecture.md",
+    "5. Standard Information/Operating Systems/Linux/Philosophy.md",
+    "5. Standard Information/Operating Systems/Linux",
     "5. Standard Information/Networking/Network Access Control.md",
+    "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Default Tools/ifconfig (ip).md",
     "3. Exploitation/Known Application Exploits/Linux Containers (LXC).md",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Default Tools/Mount.md",
     "2. Enumeration/TCP/445. SMB/1. Guide.md",
-    "5. Standard Information/Operating Systems/Linux.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Backup and Restore/Rsync.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Backup and Restore/Deja Dup.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Backup and Restore/1. Guide.md",
@@ -223,20 +232,11 @@
     "1. Recon/1. Guide.md",
     "4. Post Exploitation/Valuable Files.md",
     "2. Enumeration/TCP/80. HTTP/Applications/Apache.md",
-    "2. Enumeration/TCP/2049. Network File System (NFS)/1. Guide.md",
     "2. Enumeration/TCP/2049. Network File System (NFS)/Applications",
-    "2. Enumeration/TCP/22. SSH/Applications/OpenSSH.md",
-    "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Default Tools/Systemctl.md",
     "2. Enumeration/TCP/22. SSH/Applications",
-    "2. Enumeration/TCP/22. SSH/Untitled.md",
-    "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/1. Guide.md",
-    "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Task Scheduling/Systemd.md",
-    "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Task Scheduling/CRON Jobs.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Task Scheduling",
     "5. Standard Information/Operating Systems",
     "5. Standard Information/Reporting",
-    "2. Enumeration/TCP/80. HTTP/Concepts/Information",
-    "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities",
     "7. Misc/Images/Pasted image 20240514191950.png",
     "7. Misc/Images/Pasted image 20240513193124.png",
     "7. Misc/Images/Pasted image 20240507090421.png",
