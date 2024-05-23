@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Linux/Hardening/SELinux.md",
+                "file": "5. Standard Information/Operating Systems/Linux/Hardening/TCP wrappers.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Linux/Hardening/SELinux.md",
+                "file": "5. Standard Information/Operating Systems/Linux/Hardening/TCP wrappers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Linux/Hardening/SELinux.md",
+                "file": "5. Standard Information/Operating Systems/Linux/Hardening/TCP wrappers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Linux/Hardening/SELinux.md"
+                "file": "5. Standard Information/Operating Systems/Linux/Hardening/TCP wrappers.md"
               }
             }
           },
@@ -201,6 +201,7 @@
   },
   "active": "84c6f2ec198ef764",
   "lastOpenFiles": [
+    "5. Standard Information/Operating Systems/Linux/Hardening/SELinux.md",
     "2. Enumeration/TCP/5900. Virtual Network Computing (VNC)/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/Linux/1. Guide.md",
     "2. Enumeration/TCP/5900. Virtual Network Computing (VNC)",
@@ -210,7 +211,6 @@
     "3. Exploitation/Known Application Exploits/VNC Viewer.md",
     "5. Standard Information/Operating Systems/Linux/Hardening/TCP wrappers.md",
     "5. Standard Information/Operating Systems/Linux/Hardening/AppArmor.md",
-    "5. Standard Information/Operating Systems/Linux/Hardening/SELinux.md",
     "5. Standard Information/Operating Systems/Linux/Components.md",
     "5. Standard Information/Operating Systems/Linux/Hardening",
     "5. Standard Information/Operating Systems/Linux.md",
