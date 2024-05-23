@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Linux/Hardening/TCP wrappers.md",
+                "file": "5. Standard Information/Operating Systems/Linux/Hardening/Firewall (IpTables).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Linux/Hardening/TCP wrappers.md",
+                "file": "5. Standard Information/Operating Systems/Linux/Hardening/Firewall (IpTables).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Linux/Hardening/TCP wrappers.md",
+                "file": "5. Standard Information/Operating Systems/Linux/Hardening/Firewall (IpTables).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Linux/Hardening/TCP wrappers.md"
+                "file": "5. Standard Information/Operating Systems/Linux/Hardening/Firewall (IpTables).md"
               }
             }
           },
@@ -201,6 +201,8 @@
   },
   "active": "84c6f2ec198ef764",
   "lastOpenFiles": [
+    "5. Standard Information/Operating Systems/Linux/Hardening/TCP wrappers.md",
+    "5. Standard Information/Operating Systems/Linux/Hardening/Firewall (IpTables).md",
     "5. Standard Information/Operating Systems/Linux/Hardening/SELinux.md",
     "2. Enumeration/TCP/5900. Virtual Network Computing (VNC)/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/Linux/1. Guide.md",
@@ -209,7 +211,6 @@
     "5. Standard Information/Operating Systems/Linux/X Server (X11).md",
     "2. Enumeration/UDP/177. X Display Manager Control Protocol (XDMCP)",
     "3. Exploitation/Known Application Exploits/VNC Viewer.md",
-    "5. Standard Information/Operating Systems/Linux/Hardening/TCP wrappers.md",
     "5. Standard Information/Operating Systems/Linux/Hardening/AppArmor.md",
     "5. Standard Information/Operating Systems/Linux/Components.md",
     "5. Standard Information/Operating Systems/Linux/Hardening",
@@ -230,7 +231,6 @@
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Backup and Restore/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Backup and Restore/Duplicity.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Command Line Tooling.md",
-    "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Default Tools/Find.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Default Tools",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Backup and Restore",
     "4. Post Exploitation/Data Exfiltration",
