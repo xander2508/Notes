@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Exploitation/Known Application Exploits/Linux Containers (LXC).md",
+                "file": "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Default Tools/ifconfig (ip).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Exploitation/Known Application Exploits/Linux Containers (LXC).md",
+                "file": "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Default Tools/ifconfig (ip).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Exploitation/Known Application Exploits/Linux Containers (LXC).md",
+                "file": "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Default Tools/ifconfig (ip).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Exploitation/Known Application Exploits/Linux Containers (LXC).md"
+                "file": "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Default Tools/ifconfig (ip).md"
               }
             }
           },
@@ -201,8 +201,9 @@
   },
   "active": "84c6f2ec198ef764",
   "lastOpenFiles": [
-    "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Default Tools/Mount.md",
     "3. Exploitation/Known Application Exploits/Linux Containers (LXC).md",
+    "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Default Tools/ifconfig (ip).md",
+    "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Default Tools/Mount.md",
     "2. Enumeration/TCP/445. SMB/1. Guide.md",
     "5. Standard Information/Operating Systems/Linux.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Backup and Restore/Rsync.md",
@@ -232,7 +233,6 @@
     "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Task Scheduling/CRON Jobs.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Task Scheduling",
     "4. Post Exploitation/Privilege Escalation/Linux/1. Guide.md",
-    "4. Post Exploitation/Privilege Escalation/Linux/Tooling/LinPeas.md",
     "5. Standard Information/Operating Systems",
     "5. Standard Information/Reporting",
     "2. Enumeration/TCP/80. HTTP/Concepts/Information",
