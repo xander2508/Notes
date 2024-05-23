@@ -6,3 +6,5 @@ The following are the different NAC technologies that can be used to enhance sec
 - Discretionary access control (DAC)
 - Mandatory access control (MAC)
 - Role-based access control (RBAC)
+
+#### Discretionary Access Control
