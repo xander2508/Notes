@@ -201,8 +201,9 @@
   },
   "active": "84c6f2ec198ef764",
   "lastOpenFiles": [
-    "2. Enumeration/TCP/22. SSH/Concepts/SSH Tunnelling.md",
+    "5. Standard Information/Operating Systems/Linux/File System Hierarchy.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Operating System Version/Solaris.md",
+    "2. Enumeration/TCP/22. SSH/Concepts/SSH Tunnelling.md",
     "4. Post Exploitation/Valuable Files.md",
     "5. Standard Information/Operating Systems/Linux/Logging.md",
     "5. Standard Information/Operating Systems/Linux/Hardening/Firewall (IpTables).md",
@@ -221,7 +222,6 @@
     "5. Standard Information/Operating Systems/Linux.md",
     "5. Standard Information/Operating Systems/Linux/Introduction.md",
     "5. Standard Information/Operating Systems/Linux/File Descriptors.md",
-    "5. Standard Information/Operating Systems/Linux/File System Hierarchy.md",
     "5. Standard Information/Operating Systems/Linux/Linux Architecture.md",
     "5. Standard Information/Operating Systems/Linux/Philosophy.md",
     "5. Standard Information/Operating Systems/Linux",
