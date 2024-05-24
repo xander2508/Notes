@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Linux/Operating System Version/Solaris.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Linux/Operating System Version/Solaris.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Linux/Operating System Version/Solaris.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Linux/Operating System Version/Solaris.md"
+                "file": "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/1. Guide.md"
               }
             }
           },
@@ -201,8 +201,8 @@
   },
   "active": "84c6f2ec198ef764",
   "lastOpenFiles": [
-    "5. Standard Information/Operating Systems/Linux/File System Hierarchy.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Operating System Version/Solaris.md",
+    "5. Standard Information/Operating Systems/Linux/File System Hierarchy.md",
     "2. Enumeration/TCP/22. SSH/Concepts/SSH Tunnelling.md",
     "4. Post Exploitation/Valuable Files.md",
     "5. Standard Information/Operating Systems/Linux/Logging.md",
