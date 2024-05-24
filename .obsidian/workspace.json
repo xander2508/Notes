@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/22. SSH/Concepts/SSH Tunnelling.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Linux/Operating System Version/Solaris.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/22. SSH/Concepts/SSH Tunnelling.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Linux/Operating System Version/Solaris.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/22. SSH/Concepts/SSH Tunnelling.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Linux/Operating System Version/Solaris.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/22. SSH/Concepts/SSH Tunnelling.md"
+                "file": "4. Post Exploitation/Privilege Escalation/Linux/Operating System Version/Solaris.md"
               }
             }
           },
@@ -201,6 +201,8 @@
   },
   "active": "84c6f2ec198ef764",
   "lastOpenFiles": [
+    "2. Enumeration/TCP/22. SSH/Concepts/SSH Tunnelling.md",
+    "4. Post Exploitation/Privilege Escalation/Linux/Operating System Version/Solaris.md",
     "4. Post Exploitation/Valuable Files.md",
     "5. Standard Information/Operating Systems/Linux/Logging.md",
     "5. Standard Information/Operating Systems/Linux/Hardening/Firewall (IpTables).md",
@@ -229,8 +231,6 @@
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Default Tools/Mount.md",
     "2. Enumeration/TCP/445. SMB/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Backup and Restore/Rsync.md",
-    "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Backup and Restore/Deja Dup.md",
-    "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Backup and Restore/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Default Tools",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Backup and Restore",
     "4. Post Exploitation/Data Exfiltration",
