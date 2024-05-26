@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Linux/Operating System Version/Solaris.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Linux/Operating System Version/Solaris.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Linux/Operating System Version/Solaris.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Linux/Operating System Version/Solaris.md"
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md"
               }
             }
           },
@@ -202,9 +201,12 @@
   },
   "active": "84c6f2ec198ef764",
   "lastOpenFiles": [
+    "5. Standard Information/Operating Systems/Windows/Version Numbers.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
+    "5. Standard Information/Operating Systems/Windows",
+    "4. Post Exploitation/Privilege Escalation/Linux/Operating System Version/Solaris.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Default Tools/lsof.md",
-    "4. Post Exploitation/Privilege Escalation/Linux/Operating System Version/Solaris.md",
     "5. Standard Information/Operating Systems/Linux/File System Hierarchy.md",
     "2. Enumeration/TCP/22. SSH/Concepts/SSH Tunnelling.md",
     "4. Post Exploitation/Valuable Files.md",
@@ -230,14 +232,11 @@
     "5. Standard Information/Operating Systems/Linux",
     "5. Standard Information/Networking/Network Access Control.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Default Tools/ifconfig (ip).md",
-    "3. Exploitation/Known Application Exploits/Linux Containers (LXC).md",
-    "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Default Tools/Mount.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Default Tools",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Backup and Restore",
     "4. Post Exploitation/Data Exfiltration",
     "2. Enumeration/TCP/2049. Network File System (NFS)/Applications",
     "2. Enumeration/TCP/22. SSH/Applications",
-    "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Task Scheduling",
     "7. Misc/Images/Pasted image 20240514191950.png",
     "7. Misc/Images/Pasted image 20240513193124.png",
     "7. Misc/Images/Pasted image 20240507090421.png",
