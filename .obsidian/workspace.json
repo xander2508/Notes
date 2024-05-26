@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md"
+                "file": "5. Standard Information/Operating Systems/Windows/Untitled.md"
               }
             }
           },
@@ -201,12 +201,14 @@
   },
   "active": "84c6f2ec198ef764",
   "lastOpenFiles": [
-    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/1. Guide.md",
+    "5. Standard Information/Operating Systems/Windows/Version Numbers.md",
+    "5. Standard Information/Operating Systems/Windows/Untitled.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
+    "4. Post Exploitation/Privilege Escalation/1. Guide.md",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
+    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/1. Guide.md",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling",
     "3. Exploitation/File Types and Data/RDP (Remote Desktop Files).md",
-    "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
-    "5. Standard Information/Operating Systems/Windows/Version Numbers.md",
     "5. Standard Information/Operating Systems/Windows",
     "4. Post Exploitation/Privilege Escalation/Linux/Operating System Version/Solaris.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/1. Guide.md",
@@ -230,8 +232,6 @@
     "5. Standard Information/Operating Systems/Linux/Hardening",
     "5. Standard Information/Operating Systems/Linux.md",
     "5. Standard Information/Operating Systems/Linux/Introduction.md",
-    "5. Standard Information/Operating Systems/Linux/File Descriptors.md",
-    "5. Standard Information/Operating Systems/Linux/Linux Architecture.md",
     "5. Standard Information/Operating Systems/Linux",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Default Tools",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Backup and Restore",
