@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Directories.md",
+                "file": "5. Standard Information/Operating Systems/Windows/File Systems/NTFS (New Technology File System).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Directories.md",
+                "file": "5. Standard Information/Operating Systems/Windows/File Systems/NTFS (New Technology File System).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Directories.md",
+                "file": "5. Standard Information/Operating Systems/Windows/File Systems/NTFS (New Technology File System).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Directories.md"
+                "file": "5. Standard Information/Operating Systems/Windows/File Systems/NTFS (New Technology File System).md"
               }
             }
           },
@@ -201,8 +201,12 @@
   },
   "active": "84c6f2ec198ef764",
   "lastOpenFiles": [
-    "5. Standard Information/Operating Systems/Windows/Version Numbers.md",
+    "5. Standard Information/Operating Systems/Windows/File Systems/FAT32.md",
+    "5. Standard Information/Operating Systems/Windows/File Systems/NTFS (New Technology File System).md",
     "5. Standard Information/Operating Systems/Windows/Directories.md",
+    "5. Standard Information/Operating Systems/Windows/File Systems",
+    "5. Standard Information/Operating Systems/Windows/File Systems.md",
+    "5. Standard Information/Operating Systems/Windows/Version Numbers.md",
     "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/1. Guide.md",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
@@ -228,15 +232,11 @@
     "2. Enumeration/UDP/177. X Display Manager Control Protocol (XDMCP)",
     "3. Exploitation/Known Application Exploits/VNC Viewer.md",
     "5. Standard Information/Operating Systems/Linux/Hardening/AppArmor.md",
-    "5. Standard Information/Operating Systems/Linux/Components.md",
     "5. Standard Information/Operating Systems/Linux/Hardening",
-    "5. Standard Information/Operating Systems/Linux.md",
-    "5. Standard Information/Operating Systems/Linux/Introduction.md",
     "5. Standard Information/Operating Systems/Linux",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Default Tools",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Backup and Restore",
     "4. Post Exploitation/Data Exfiltration",
-    "2. Enumeration/TCP/2049. Network File System (NFS)/Applications",
     "7. Misc/Images/Pasted image 20240514191950.png",
     "7. Misc/Images/Pasted image 20240513193124.png",
     "7. Misc/Images/Pasted image 20240507090421.png",
