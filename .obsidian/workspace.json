@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
+                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
+                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
+                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md"
+                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md"
               }
             }
           },
@@ -201,8 +201,12 @@
   },
   "active": "84c6f2ec198ef764",
   "lastOpenFiles": [
-    "5. Standard Information/Operating Systems/Windows/Version Numbers.md",
+    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/1. Guide.md",
+    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
+    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling",
+    "3. Exploitation/File Types and Data/RDP (Remote Desktop Files).md",
     "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
+    "5. Standard Information/Operating Systems/Windows/Version Numbers.md",
     "5. Standard Information/Operating Systems/Windows",
     "4. Post Exploitation/Privilege Escalation/Linux/Operating System Version/Solaris.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/1. Guide.md",
@@ -228,15 +232,11 @@
     "5. Standard Information/Operating Systems/Linux/Introduction.md",
     "5. Standard Information/Operating Systems/Linux/File Descriptors.md",
     "5. Standard Information/Operating Systems/Linux/Linux Architecture.md",
-    "5. Standard Information/Operating Systems/Linux/Philosophy.md",
     "5. Standard Information/Operating Systems/Linux",
-    "5. Standard Information/Networking/Network Access Control.md",
-    "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Default Tools/ifconfig (ip).md",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Default Tools",
     "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Backup and Restore",
     "4. Post Exploitation/Data Exfiltration",
     "2. Enumeration/TCP/2049. Network File System (NFS)/Applications",
-    "2. Enumeration/TCP/22. SSH/Applications",
     "7. Misc/Images/Pasted image 20240514191950.png",
     "7. Misc/Images/Pasted image 20240513193124.png",
     "7. Misc/Images/Pasted image 20240507090421.png",
