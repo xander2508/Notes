@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Untitled.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Directories.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Untitled.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Directories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Untitled.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Directories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Untitled.md"
+                "file": "5. Standard Information/Operating Systems/Windows/Directories.md"
               }
             }
           },
@@ -202,7 +202,7 @@
   "active": "84c6f2ec198ef764",
   "lastOpenFiles": [
     "5. Standard Information/Operating Systems/Windows/Version Numbers.md",
-    "5. Standard Information/Operating Systems/Windows/Untitled.md",
+    "5. Standard Information/Operating Systems/Windows/Directories.md",
     "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/1. Guide.md",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
