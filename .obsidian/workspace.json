@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Windows Services & Processes.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/SysInternals.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Windows Services & Processes.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/SysInternals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Windows Services & Processes.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/SysInternals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Windows Services & Processes.md"
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/SysInternals.md"
               }
             }
           },
@@ -201,8 +201,9 @@
   },
   "active": "84c6f2ec198ef764",
   "lastOpenFiles": [
-    "2. Enumeration/TCP/445. SMB/1. Guide.md",
     "5. Standard Information/Operating Systems/Windows/Windows Services & Processes.md",
+    "2. Enumeration/TCP/445. SMB/1. Guide.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/SysInternals.md",
     "5. Standard Information/Operating Systems/Windows/Windows Defender.md",
     "2. Enumeration/TCP/445. SMB/Concepts/Access Control/Windows Defender Firewall Considerations.md",
     "2. Enumeration/TCP/445. SMB/Concepts/Access Control/Permissions.md",
@@ -231,7 +232,6 @@
     "5. Standard Information/Operating Systems/Linux/File System Hierarchy.md",
     "2. Enumeration/TCP/22. SSH/Concepts/SSH Tunnelling.md",
     "4. Post Exploitation/Valuable Files.md",
-    "5. Standard Information/Operating Systems/Linux/Logging.md",
     "2. Enumeration/TCP/5900. Virtual Network Computing (VNC)",
     "2. Enumeration/UDP/177. X Display Manager Control Protocol (XDMCP)",
     "5. Standard Information/Operating Systems/Linux/Hardening",
