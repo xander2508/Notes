@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/445. SMB/Concepts/Permissions.md",
+                "file": "2. Enumeration/TCP/445. SMB/Tooling/SmbClient.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/445. SMB/Concepts/Permissions.md",
+                "file": "2. Enumeration/TCP/445. SMB/Tooling/SmbClient.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/445. SMB/Concepts/Permissions.md",
+                "file": "2. Enumeration/TCP/445. SMB/Tooling/SmbClient.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/445. SMB/Concepts/Permissions.md"
+                "file": "2. Enumeration/TCP/445. SMB/Tooling/SmbClient.md"
               }
             }
           },
@@ -201,8 +201,8 @@
   },
   "active": "84c6f2ec198ef764",
   "lastOpenFiles": [
-    "2. Enumeration/TCP/445. SMB/1. Guide.md",
     "2. Enumeration/TCP/445. SMB/Concepts/Permissions.md",
+    "2. Enumeration/TCP/445. SMB/1. Guide.md",
     "2. Enumeration/TCP/445. SMB/Concepts/Untitled",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Integrity Control Access Control List (icacls).md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/dir.md",
