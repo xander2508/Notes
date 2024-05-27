@@ -18,3 +18,7 @@ wmic /?
 ```cmd-session
 wmic os list brief
 ```
+
+```powershell-session
+ Get-WmiObject -Class Win32_OperatingSystem | select SystemDirectory,BuildNumber,SerialNumber,Version | ft
+```
