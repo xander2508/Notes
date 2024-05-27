@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "84c6f2ec198ef764",
+            "id": "4fde9d72e2d33a3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Microsoft Management Console (MMC).md",
+                "file": "3. Exploitation/File Types and Data/Programs and Executables/Tooling/GDB.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lsof",
+                "query": "buffer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Microsoft Management Console (MMC).md",
+                "file": "3. Exploitation/File Types and Data/Programs and Executables/Tooling/GDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Microsoft Management Console (MMC).md",
+                "file": "3. Exploitation/File Types and Data/Programs and Executables/Tooling/GDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Microsoft Management Console (MMC).md"
+                "file": "3. Exploitation/File Types and Data/Programs and Executables/Tooling/GDB.md"
               }
             }
           },
@@ -199,10 +199,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "84c6f2ec198ef764",
+  "active": "4fde9d72e2d33a3d",
   "lastOpenFiles": [
-    "5. Standard Information/Operating Systems/Windows/Windows Management Instrumentation (WMI).md",
+    "3. Exploitation/File Types and Data/Programs and Executables/1. Guide.md",
+    "3. Exploitation/File Types and Data/Programs and Executables/Tooling/GDB.md",
+    "3. Exploitation/File Types and Data/Programs and Executables/Tooling",
+    "3. Exploitation/Buffer Overflow/1. Guide.md",
+    "3. Exploitation/File Types and Data/Programs and Executables/C.md",
     "5. Standard Information/Operating Systems/Windows/Microsoft Management Console (MMC).md",
+    "5. Standard Information/Operating Systems/Windows/Windows Management Instrumentation (WMI).md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/1. Guide.md",
     "5. Standard Information/Operating Systems/Windows/User Permissions.md",
     "5. Standard Information/Operating Systems/Windows/Version Numbers.md",
@@ -225,18 +230,13 @@
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/dir.md",
     "5. Standard Information/Operating Systems/Windows/File Systems/NTFS (New Technology File System).md",
     "5. Standard Information/Operating Systems/Windows/File Systems/Untitled",
-    "5. Standard Information/Operating Systems/Windows/File Systems/FAT32.md",
-    "5. Standard Information/Operating Systems/Windows/Directories.md",
     "5. Standard Information/Operating Systems/Windows/File Systems",
-    "5. Standard Information/Operating Systems/Windows/File Systems.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling",
     "5. Standard Information/Operating Systems/Windows",
     "2. Enumeration/TCP/5900. Virtual Network Computing (VNC)",
     "2. Enumeration/UDP/177. X Display Manager Control Protocol (XDMCP)",
     "5. Standard Information/Operating Systems/Linux/Hardening",
     "5. Standard Information/Operating Systems/Linux",
-    "4. Post Exploitation/Privilege Escalation/Linux/Tooling/Linux Tools/Default Tools",
     "7. Misc/Images/Pasted image 20240514191950.png",
     "7. Misc/Images/Pasted image 20240513193124.png",
     "7. Misc/Images/Pasted image 20240507090421.png",
