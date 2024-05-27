@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/445. SMB/Tooling/SmbClient.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Windows Defender.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/445. SMB/Tooling/SmbClient.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Windows Defender.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/445. SMB/Tooling/SmbClient.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Windows Defender.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/445. SMB/Tooling/SmbClient.md"
+                "file": "5. Standard Information/Operating Systems/Windows/Windows Defender.md"
               }
             }
           },
@@ -201,9 +201,13 @@
   },
   "active": "84c6f2ec198ef764",
   "lastOpenFiles": [
-    "2. Enumeration/TCP/445. SMB/Concepts/Permissions.md",
+    "2. Enumeration/TCP/445. SMB/Concepts/Access Control/Windows Defender Firewall Considerations.md",
+    "5. Standard Information/Operating Systems/Windows/Windows Defender.md",
+    "2. Enumeration/TCP/445. SMB/Concepts/Access Control/Permissions.md",
+    "2. Enumeration/TCP/445. SMB/Concepts/Access Control",
+    "2. Enumeration/TCP/445. SMB/Concepts/Access Control.md",
     "2. Enumeration/TCP/445. SMB/1. Guide.md",
-    "2. Enumeration/TCP/445. SMB/Concepts/Untitled",
+    "2. Enumeration/TCP/445. SMB/Tooling/SmbClient.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Integrity Control Access Control List (icacls).md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/dir.md",
     "5. Standard Information/Operating Systems/Windows/File Systems/NTFS (New Technology File System).md",
@@ -228,10 +232,6 @@
     "4. Post Exploitation/Valuable Files.md",
     "5. Standard Information/Operating Systems/Linux/Logging.md",
     "5. Standard Information/Operating Systems/Linux/Hardening/Firewall (IpTables).md",
-    "5. Standard Information/Operating Systems/Linux/Hardening/TCP wrappers.md",
-    "5. Standard Information/Operating Systems/Linux/Hardening/SELinux.md",
-    "2. Enumeration/TCP/5900. Virtual Network Computing (VNC)/1. Guide.md",
-    "4. Post Exploitation/Privilege Escalation/Linux/1. Guide.md",
     "2. Enumeration/TCP/5900. Virtual Network Computing (VNC)",
     "2. Enumeration/UDP/177. X Display Manager Control Protocol (XDMCP)",
     "5. Standard Information/Operating Systems/Linux/Hardening",
