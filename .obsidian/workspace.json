@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Untitled.md",
+                "file": "5. Standard Information/Operating Systems/Windows/User Permissions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Untitled.md",
+                "file": "5. Standard Information/Operating Systems/Windows/User Permissions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Untitled.md",
+                "file": "5. Standard Information/Operating Systems/Windows/User Permissions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Untitled.md"
+                "file": "5. Standard Information/Operating Systems/Windows/User Permissions.md"
               }
             }
           },
@@ -202,7 +202,7 @@
   "active": "84c6f2ec198ef764",
   "lastOpenFiles": [
     "5. Standard Information/Operating Systems/Windows/Version Numbers.md",
-    "5. Standard Information/Operating Systems/Windows/Untitled.md",
+    "5. Standard Information/Operating Systems/Windows/User Permissions.md",
     "4. Post Exploitation/Upgrading Shells.md",
     "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities/Command Injection.md",
     "4. Post Exploitation/Securing Access.md",
