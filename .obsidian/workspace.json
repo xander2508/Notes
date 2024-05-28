@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Security/Windows Defender.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Security/Windows Defender.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Security/Windows Defender.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Security/Windows Defender.md"
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md"
               }
             }
           },
@@ -201,12 +201,12 @@
   },
   "active": "4fde9d72e2d33a3d",
   "lastOpenFiles": [
+    "5. Standard Information/Operating Systems/Windows/Security/Windows Defender.md",
     "5. Standard Information/Operating Systems/Windows/Security/Local Group Policy.md",
     "5. Standard Information/Operating Systems/Windows/Security/AppLocker.md",
     "5. Standard Information/Operating Systems/Windows/Registry.md",
     "5. Standard Information/Operating Systems/Windows/Security/Security.md",
     "7. Misc/Images/Pasted image 20240528150905.png",
-    "5. Standard Information/Operating Systems/Windows/Security/Windows Defender.md",
     "5. Standard Information/Operating Systems/Windows/Security",
     "3. Exploitation/File Types and Data/Programs and Executables/Tooling/GDB.md",
     "3. Exploitation/File Types and Data/Programs and Executables/1. Guide.md",
