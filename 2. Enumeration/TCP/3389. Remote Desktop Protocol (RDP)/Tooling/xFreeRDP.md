@@ -5,5 +5,5 @@ xFreeRDP is an open-source remote desktop protocol (RDP) client that allows user
 # Command Example
 
 ```shell-session
-xfreerdp /v:<targetIp> /u:htb-student /p:Password
+xfreerdp /v:<targetIp> /u:User /p:Password
 ```
