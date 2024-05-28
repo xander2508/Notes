@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Security.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Security/Security.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Security.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Security/Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Security.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Security/Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Security.md"
+                "file": "5. Standard Information/Operating Systems/Windows/Security/Security.md"
               }
             }
           },
@@ -201,8 +201,10 @@
   },
   "active": "4fde9d72e2d33a3d",
   "lastOpenFiles": [
+    "5. Standard Information/Operating Systems/Windows/Security/Windows Defender.md",
+    "5. Standard Information/Operating Systems/Windows/Security/Security.md",
+    "5. Standard Information/Operating Systems/Windows/Security",
     "3. Exploitation/File Types and Data/Programs and Executables/Tooling/GDB.md",
-    "5. Standard Information/Operating Systems/Windows/Security.md",
     "3. Exploitation/File Types and Data/Programs and Executables/1. Guide.md",
     "3. Exploitation/File Types and Data/Programs and Executables/Tooling",
     "3. Exploitation/Buffer Overflow/1. Guide.md",
@@ -221,14 +223,12 @@
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/SysInternals.md",
     "2. Enumeration/TCP/445. SMB/1. Guide.md",
-    "5. Standard Information/Operating Systems/Windows/Windows Defender.md",
     "2. Enumeration/TCP/445. SMB/Concepts/Access Control/Windows Defender Firewall Considerations.md",
     "2. Enumeration/TCP/445. SMB/Concepts/Access Control/Permissions.md",
     "2. Enumeration/TCP/445. SMB/Concepts/Access Control",
     "2. Enumeration/TCP/445. SMB/Concepts/Access Control.md",
     "2. Enumeration/TCP/445. SMB/Tooling/SmbClient.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Integrity Control Access Control List (icacls).md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/dir.md",
     "5. Standard Information/Operating Systems/Windows/File Systems/Untitled",
     "5. Standard Information/Operating Systems/Windows/File Systems",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling",
@@ -236,7 +236,6 @@
     "2. Enumeration/TCP/5900. Virtual Network Computing (VNC)",
     "2. Enumeration/UDP/177. X Display Manager Control Protocol (XDMCP)",
     "5. Standard Information/Operating Systems/Linux/Hardening",
-    "5. Standard Information/Operating Systems/Linux",
     "7. Misc/Images/Pasted image 20240514191950.png",
     "7. Misc/Images/Pasted image 20240513193124.png",
     "7. Misc/Images/Pasted image 20240507090421.png",
