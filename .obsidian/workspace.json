@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Registry.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Security/Windows Defender.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Registry.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Security/Windows Defender.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Registry.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Security/Windows Defender.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Registry.md"
+                "file": "5. Standard Information/Operating Systems/Windows/Security/Windows Defender.md"
               }
             }
           },
@@ -201,8 +201,10 @@
   },
   "active": "4fde9d72e2d33a3d",
   "lastOpenFiles": [
-    "5. Standard Information/Operating Systems/Windows/Security/Security.md",
+    "5. Standard Information/Operating Systems/Windows/Security/Local Group Policy.md",
+    "5. Standard Information/Operating Systems/Windows/Security/AppLocker.md",
     "5. Standard Information/Operating Systems/Windows/Registry.md",
+    "5. Standard Information/Operating Systems/Windows/Security/Security.md",
     "7. Misc/Images/Pasted image 20240528150905.png",
     "5. Standard Information/Operating Systems/Windows/Security/Windows Defender.md",
     "5. Standard Information/Operating Systems/Windows/Security",
@@ -229,8 +231,6 @@
     "2. Enumeration/TCP/445. SMB/Concepts/Access Control/Permissions.md",
     "2. Enumeration/TCP/445. SMB/Concepts/Access Control",
     "2. Enumeration/TCP/445. SMB/Concepts/Access Control.md",
-    "2. Enumeration/TCP/445. SMB/Tooling/SmbClient.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Integrity Control Access Control List (icacls).md",
     "5. Standard Information/Operating Systems/Windows/File Systems/Untitled",
     "5. Standard Information/Operating Systems/Windows/File Systems",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling",
