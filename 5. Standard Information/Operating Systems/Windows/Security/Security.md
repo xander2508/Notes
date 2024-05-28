@@ -48,3 +48,4 @@ The consent prompt interrupts the execution of scripts or binaries that malware 
 
 [How User Account Control works - Windows Security | Microsoft Learn](https://learn.microsoft.com/en-us/windows/security/application-security/application-control/user-account-control/how-it-works)
 
+![[Pasted image 20240528150905.png]]
