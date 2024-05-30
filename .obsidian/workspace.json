@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/dir.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Copy Files.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/dir.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Copy Files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/dir.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Copy Files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/dir.md"
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Copy Files.md"
               }
             }
           },
@@ -201,10 +201,11 @@
   },
   "active": "4fde9d72e2d33a3d",
   "lastOpenFiles": [
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/dir.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Copy Files.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Session History.md",
     "4. Post Exploitation/Valuable Files.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Help.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/dir.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Exit a Running Process.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
@@ -229,7 +230,6 @@
     "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities/Command Injection.md",
     "4. Post Exploitation/Securing Access.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/sc.md",
-    "5. Standard Information/Operating Systems/Windows/Objects and Security Descriptors.md",
     "2. Enumeration/TCP/445. SMB/Concepts/Access Control",
     "5. Standard Information/Operating Systems/Windows/File Systems/Untitled",
     "5. Standard Information/Operating Systems/Windows/File Systems",
