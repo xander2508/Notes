@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Session History.md",
+                "file": "4. Post Exploitation/Valuable Files.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Session History.md",
+                "file": "4. Post Exploitation/Valuable Files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Session History.md",
+                "file": "4. Post Exploitation/Valuable Files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Session History.md"
+                "file": "4. Post Exploitation/Valuable Files.md"
               }
             }
           },
@@ -201,8 +201,11 @@
   },
   "active": "4fde9d72e2d33a3d",
   "lastOpenFiles": [
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/1. Guide.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Help.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Session History.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/dir.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Exit a Running Process.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
     "5. Standard Information/Operating Systems/Windows/Security/Windows Defender.md",
@@ -227,9 +230,6 @@
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/sc.md",
     "5. Standard Information/Operating Systems/Windows/Objects and Security Descriptors.md",
     "5. Standard Information/Operating Systems/Windows/Windows Services & Processes.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/SysInternals.md",
-    "2. Enumeration/TCP/445. SMB/1. Guide.md",
-    "2. Enumeration/TCP/445. SMB/Concepts/Access Control/Windows Defender Firewall Considerations.md",
     "2. Enumeration/TCP/445. SMB/Concepts/Access Control",
     "5. Standard Information/Operating Systems/Windows/File Systems/Untitled",
     "5. Standard Information/Operating Systems/Windows/File Systems",
