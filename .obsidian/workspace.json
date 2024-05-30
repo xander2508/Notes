@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md"
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/1. Guide.md"
               }
             }
           },
@@ -201,8 +201,8 @@
   },
   "active": "4fde9d72e2d33a3d",
   "lastOpenFiles": [
-    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
     "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
+    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
     "5. Standard Information/Operating Systems/Windows/Security/Windows Defender.md",
     "5. Standard Information/Operating Systems/Windows/Security/Local Group Policy.md",
     "5. Standard Information/Operating Systems/Windows/Security/AppLocker.md",
