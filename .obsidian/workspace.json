@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Who Am I Enumeration.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Finding Users and Groups.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Who Am I Enumeration.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Finding Users and Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Who Am I Enumeration.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Finding Users and Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Who Am I Enumeration.md"
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Finding Users and Groups.md"
               }
             }
           },
@@ -202,6 +202,7 @@
   "active": "4fde9d72e2d33a3d",
   "lastOpenFiles": [
     "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Finding Users and Groups.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Who Am I Enumeration.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Finding Additional Hosts.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Important Enumeration Information.md",
@@ -234,7 +235,6 @@
     "3. Exploitation/File Types and Data/Programs and Executables/Tooling/GDB.md",
     "3. Exploitation/File Types and Data/Programs and Executables/1. Guide.md",
     "3. Exploitation/File Types and Data/Programs and Executables/Tooling",
-    "3. Exploitation/Buffer Overflow/1. Guide.md",
     "2. Enumeration/TCP/445. SMB/Concepts/Access Control",
     "5. Standard Information/Operating Systems/Windows/File Systems/Untitled",
     "5. Standard Information/Operating Systems/Windows/File Systems",
