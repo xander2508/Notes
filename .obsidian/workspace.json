@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Copy Files.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Important Enumeration Information.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Copy Files.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Important Enumeration Information.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Copy Files.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Important Enumeration Information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Copy Files.md"
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Important Enumeration Information.md"
               }
             }
           },
@@ -201,17 +201,26 @@
   },
   "active": "4fde9d72e2d33a3d",
   "lastOpenFiles": [
+    "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
+    "4. Post Exploitation/Privilege Escalation/1. Guide.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/WinPeas.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Important Enumeration Information.md",
+    "Pasted image 20240531131450.png",
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/AppLocker.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/E",
+    "Pasted image 20240531131330.png",
+    "4. Post Exploitation/Valuable Files.md",
+    "7. Misc/Images/Pasted image 20240531131153.png",
+    "7. Misc/Images/Pasted image 20240531131119.png",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Copy Files.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Delete Files.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/List Files (dir).md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Copy Files.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Search in File.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Read Files.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Session History.md",
-    "4. Post Exploitation/Valuable Files.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Help.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Exit a Running Process.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/1. Guide.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
     "5. Standard Information/Operating Systems/Windows/Security/Windows Defender.md",
     "5. Standard Information/Operating Systems/Windows/Security/Local Group Policy.md",
@@ -226,10 +235,6 @@
     "3. Exploitation/Buffer Overflow/1. Guide.md",
     "3. Exploitation/File Types and Data/Programs and Executables/C.md",
     "5. Standard Information/Operating Systems/Windows/Microsoft Management Console (MMC).md",
-    "5. Standard Information/Operating Systems/Windows/Windows Management Instrumentation (WMI).md",
-    "5. Standard Information/Operating Systems/Windows/User Permissions.md",
-    "5. Standard Information/Operating Systems/Windows/Version Numbers.md",
-    "4. Post Exploitation/Upgrading Shells.md",
     "2. Enumeration/TCP/445. SMB/Concepts/Access Control",
     "5. Standard Information/Operating Systems/Windows/File Systems/Untitled",
     "5. Standard Information/Operating Systems/Windows/File Systems",
@@ -237,13 +242,11 @@
     "5. Standard Information/Operating Systems/Windows",
     "2. Enumeration/TCP/5900. Virtual Network Computing (VNC)",
     "2. Enumeration/UDP/177. X Display Manager Control Protocol (XDMCP)",
-    "5. Standard Information/Operating Systems/Linux/Hardening",
     "7. Misc/Images/Pasted image 20240514191950.png",
     "7. Misc/Images/Pasted image 20240513193124.png",
     "7. Misc/Images/Pasted image 20240507090421.png",
     "7. Misc/Images/Pasted image 20240507090109.png",
     "7. Misc/Images/2b5171cc7bf44b8996e85892d1c26c35 1.png",
-    "7. Misc/Images/2b5171cc7bf44b8996e85892d1c26c35.png",
     "Untitled.canvas"
   ]
 }
