@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "51c2b1b3cb30828d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "buffer",
+                "query": "Powershell history",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -199,14 +213,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3e59262c1f30d5ba",
+  "active": "dcd2adc30e57ac2e",
   "lastOpenFiles": [
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/1. Guide.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Scheduled Tasks.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Session History.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Files/Read Files.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Help.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Who Am I.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Scheduled Tasks.md",
     "4. Post Exploitation/Securing Access.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Task Scheduling/CRON Jobs.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Services/Net Start.md",
@@ -223,14 +239,12 @@
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/General Guide",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Services",
     "5. Standard Information/Operating Systems/Windows/Environment Variables.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
     "5. Standard Information/Operating Systems/Windows/Important Directories.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Files/Finding Files.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Files/Sort Files.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Files/Compare Files.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Files/Search in File.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Finding Users and Groups.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Finding Shared Resources.md",
     "4. Post Exploitation/Data Exfiltration/Windows",
     "7. Misc/Images/Pasted image 20240531131450.png",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/E",
