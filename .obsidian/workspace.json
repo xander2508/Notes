@@ -11,8 +11,12 @@
             "id": "3e59262c1f30d5ba",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "5. Standard Information/Operating Systems/Windows/Environment Variables.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "5. Standard Information/Operating Systems/Windows/Environment Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "5. Standard Information/Operating Systems/Windows/Environment Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "5. Standard Information/Operating Systems/Windows/Environment Variables.md"
+              }
             }
           },
           {
@@ -193,6 +201,8 @@
   },
   "active": "3e59262c1f30d5ba",
   "lastOpenFiles": [
+    "5. Standard Information/Operating Systems/Windows/Important Directories.md",
+    "5. Standard Information/Operating Systems/Windows/Environment Variables.md",
     "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Finding Files.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Sort Files.md",
@@ -223,8 +233,6 @@
     "7. Misc/Images/Pasted image 20240531131153.png",
     "7. Misc/Images/Pasted image 20240531131119.png",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/List Files (dir).md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Read Files.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Session History.md",
     "7. Misc/Images/Pasted image 20240528150905.png",
     "5. Standard Information/Operating Systems/Windows/Security",
     "3. Exploitation/File Types and Data/Programs and Executables/Tooling",

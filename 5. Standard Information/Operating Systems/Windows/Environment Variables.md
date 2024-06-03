@@ -1,0 +1,1 @@
+Environment variables are settings that are often applied globally to our hosts
