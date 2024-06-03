@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Service Controller (sc).md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Services/Service Controller (sc).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Service Controller (sc).md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Services/Service Controller (sc).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Service Controller (sc).md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Services/Service Controller (sc).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Service Controller (sc).md"
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Services/Service Controller (sc).md"
               }
             }
           },
@@ -201,18 +201,28 @@
   },
   "active": "3e59262c1f30d5ba",
   "lastOpenFiles": [
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Windows Management Instrumentation Command (WMIC).md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Services/Service Controller (sc).md",
+    "Windows Management Instrumentation (`WMIC`).md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Services/Net Start.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Services/Tasklist.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Who Am I.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/General Guide/Files",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/General Guide",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Services/Restarting a Service.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Services",
     "5. Standard Information/Operating Systems/Windows/Environment Variables.md",
     "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
     "5. Standard Information/Operating Systems/Windows/Important Directories.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Finding Files.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Sort Files.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Compare Files.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Search in File.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Finding Users and Groups.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Finding Shared Resources.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Finding Additional Hosts.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Delete Files.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Copy Files.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/General Guide/Files/Finding Files.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/General Guide/Files/Sort Files.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/General Guide/Files/Compare Files.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/General Guide/Files/Search in File.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/General Guide/Finding Users and Groups.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/General Guide/Finding Shared Resources.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/General Guide/Finding Additional Hosts.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/General Guide/Files/Delete Files.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/General Guide/Files/Copy Files.md",
     "4. Post Exploitation/Privilege Escalation/1. Guide.md",
     "4. Post Exploitation/Command Line Restrictions.md",
     "4. Post Exploitation/Data Exfiltration/Windows/SMB.md",
@@ -221,27 +231,17 @@
     "4. Post Exploitation/Data Exfiltration/Windows/1. Guide.md",
     "4. Post Exploitation/Data Exfiltration/Windows/Inline File Transfer.md",
     "4. Post Exploitation/Data Exfiltration/Windows",
-    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network Drives.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Who Am I Enumeration.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Important Enumeration Information.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/WinPeas.md",
-    "Pasted image 20240531131450.png",
-    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/AppLocker.md",
+    "7. Misc/Images/Pasted image 20240531131450.png",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/E",
-    "Pasted image 20240531131330.png",
-    "4. Post Exploitation/Valuable Files.md",
+    "7. Misc/Images/Pasted image 20240531131330.png",
     "7. Misc/Images/Pasted image 20240531131153.png",
     "7. Misc/Images/Pasted image 20240531131119.png",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/List Files (dir).md",
     "7. Misc/Images/Pasted image 20240528150905.png",
     "5. Standard Information/Operating Systems/Windows/Security",
     "3. Exploitation/File Types and Data/Programs and Executables/Tooling",
     "2. Enumeration/TCP/445. SMB/Concepts/Access Control",
     "5. Standard Information/Operating Systems/Windows/File Systems/Untitled",
     "5. Standard Information/Operating Systems/Windows/File Systems",
-    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling",
-    "5. Standard Information/Operating Systems/Windows",
-    "2. Enumeration/TCP/5900. Virtual Network Computing (VNC)",
     "7. Misc/Images/Pasted image 20240514191950.png",
     "7. Misc/Images/Pasted image 20240513193124.png",
     "7. Misc/Images/Pasted image 20240507090421.png",
