@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Environment Variables.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Service Controller (sc).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Environment Variables.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Service Controller (sc).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Environment Variables.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Service Controller (sc).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Environment Variables.md"
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Service Controller (sc).md"
               }
             }
           },
@@ -201,8 +201,8 @@
   },
   "active": "3e59262c1f30d5ba",
   "lastOpenFiles": [
-    "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
     "5. Standard Information/Operating Systems/Windows/Environment Variables.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
     "5. Standard Information/Operating Systems/Windows/Important Directories.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Finding Files.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Sort Files.md",

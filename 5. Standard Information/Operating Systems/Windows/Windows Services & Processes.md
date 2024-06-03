@@ -33,4 +33,4 @@ This [link](https://en.wikipedia.org/wiki/List_of_Microsoft_Windows_components#
 
 # Examining services using sc
 
-See [[sc]]
+See [[Service Controller (sc)]]
