@@ -4,7 +4,7 @@ Environment variables are settings that are often applied globally to our hosts.
 %SUPER_IMPORTANT_VARIABLE%
 ```
 
-#### Variable Scope
+#### Variable Scopes
 
 In this context, `Scope` is a programming concept that refers to where variables can be accessed or referenced. 'Scope' can be broadly separated into two categories:
 
