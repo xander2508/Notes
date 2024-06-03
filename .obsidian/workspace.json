@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Services/Service Controller (sc).md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Scheduled Tasks/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Services/Service Controller (sc).md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Scheduled Tasks/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Services/Service Controller (sc).md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Scheduled Tasks/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Services/Service Controller (sc).md"
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Scheduled Tasks/1. Guide.md"
               }
             }
           },
@@ -201,8 +201,12 @@
   },
   "active": "3e59262c1f30d5ba",
   "lastOpenFiles": [
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Windows Management Instrumentation Command (WMIC).md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Scheduled Tasks/AutoRun SysInternals.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Scheduled Tasks/1. Guide.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/AppLocker.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Scheduled Tasks",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Services/Service Controller (sc).md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Windows Management Instrumentation Command (WMIC).md",
     "Windows Management Instrumentation (`WMIC`).md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Services/Net Start.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Services/Tasklist.md",
@@ -227,9 +231,6 @@
     "4. Post Exploitation/Command Line Restrictions.md",
     "4. Post Exploitation/Data Exfiltration/Windows/SMB.md",
     "4. Post Exploitation/Data Exfiltration/Webservers.md",
-    "4. Post Exploitation/Data Exfiltration/1. Guide.md",
-    "4. Post Exploitation/Data Exfiltration/Windows/1. Guide.md",
-    "4. Post Exploitation/Data Exfiltration/Windows/Inline File Transfer.md",
     "4. Post Exploitation/Data Exfiltration/Windows",
     "7. Misc/Images/Pasted image 20240531131450.png",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/E",
@@ -241,7 +242,6 @@
     "3. Exploitation/File Types and Data/Programs and Executables/Tooling",
     "2. Enumeration/TCP/445. SMB/Concepts/Access Control",
     "5. Standard Information/Operating Systems/Windows/File Systems/Untitled",
-    "5. Standard Information/Operating Systems/Windows/File Systems",
     "7. Misc/Images/Pasted image 20240514191950.png",
     "7. Misc/Images/Pasted image 20240513193124.png",
     "7. Misc/Images/Pasted image 20240507090421.png",
