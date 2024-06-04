@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Untitled.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Powershell.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Untitled.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Powershell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Untitled.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Powershell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Untitled.md"
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Powershell.md"
               }
             }
           },
@@ -214,8 +214,9 @@
   },
   "active": "51c2b1b3cb30828d",
   "lastOpenFiles": [
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Modules.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Powershell.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Untitled.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/PowerSploit.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell",
     "3. Exploitation/File Types and Data/PSM1 (PowerShell Module File).md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/DLL Hijacking.md",
@@ -244,7 +245,6 @@
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Services",
     "5. Standard Information/Operating Systems/Windows/Environment Variables.md",
     "5. Standard Information/Operating Systems/Windows/Important Directories.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Files/Finding Files.md",
     "4. Post Exploitation/Data Exfiltration/Windows",
     "7. Misc/Images/Pasted image 20240531131450.png",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/E",
