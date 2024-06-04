@@ -54,3 +54,9 @@ New-ADUser -Name "MTanaka" -Surname "Tanaka" -GivenName "Mori" -Office "Security
 - `-OtherAttributes @{'title'="Sensei";'mail'="MTanaka@greenhorn.corp"}`: Here we set other extended attributes such as `title` and `Email-Address`.
 - `-Accountpassword (Read-Host -AsSecureString "AccountPassword")`: With this portion, we set the user's `password` by having the shell prompt us to enter a new password. (we can see it in the line below with the stars)
 - `-Enabled $true`: We are enabling the account for use. The user could not log in if this was set to `\$False`.
+
+## Changing a Users Attributes
+
+```powershell-session
+Set-ADUser -Identity MTanaka -Description " Sensei to Security Analyst's Rocky, Colt, and Tum-Tum"  
+```
