@@ -33,6 +33,10 @@ Searching based on an attribute:
 Get-ADUser -Filter {EmailAddress -like '*greenhorn.corp'}
 ```
 
+```powershell-session
+Get-ADUser -Filter {GivenName -like 'robert'}
+```
+
 We can see from the output several pieces of information about the user, including:
 
 - `Object Class`: which specifies if the object is a user, computer, or another type of object.

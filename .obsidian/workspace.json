@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Active Directory.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Active Directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Active Directory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md"
+                "file": "5. Standard Information/Operating Systems/Windows/Active Directory.md"
               }
             }
           },
@@ -202,6 +202,7 @@
   "active": "51c2b1b3cb30828d",
   "lastOpenFiles": [
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Users and Groups.md",
+    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
     "5. Standard Information/Operating Systems/Windows/Active Directory.md",
     "5. Standard Information/Operating Systems/Windows/User Permissions.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Active.md",
@@ -227,7 +228,6 @@
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Services/Tasklist.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Services/PowerShell Restarting a Service.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Scheduled Tasks/1. Guide.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/AutoRun SysInternals.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Scheduled Tasks",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Files",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/General Guide",
