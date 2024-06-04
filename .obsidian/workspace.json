@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Users and Groups.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87ec07897db9d529",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Active Directory.md",
+                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Active Directory.md",
+                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Active Directory.md",
+                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Active Directory.md"
+                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md"
               }
             }
           },
@@ -212,11 +199,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "87ec07897db9d529",
+  "active": "51c2b1b3cb30828d",
   "lastOpenFiles": [
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Users and Groups.md",
-    "5. Standard Information/Operating Systems/Windows/User Permissions.md",
     "5. Standard Information/Operating Systems/Windows/Active Directory.md",
+    "5. Standard Information/Operating Systems/Windows/User Permissions.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Active.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/SMB Traversing Users.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Modules.md",
