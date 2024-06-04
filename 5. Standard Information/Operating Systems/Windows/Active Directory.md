@@ -21,6 +21,36 @@ Get-Module -Name ActiveDirectory -ListAvailable
 Get-ADUser -Filter *
 ```
 
+Searching based on the identity:
+
 ```powershell-session
 Get-ADUser -Identity TSilver
 ```
+
+Searching based on an attribute:
+
+```powershell-session
+Get-ADUser -Filter {EmailAddress -like '*greenhorn.corp'}
+```
+
+We can see from the output several pieces of information about the user, including:
+
+- `Object Class`: which specifies if the object is a user, computer, or another type of object.
+- `DistinguishedName`: Specifies the object's relative path within the AD schema.
+- `Enabled`: Tells us if the user is active and can log in.
+- `SamAccountName`: The representation of the username used to log into the ActiveDirectory hosts.
+- `ObjectGUID`: Is the unique identifier of the user object.
+
+
+## Creating New Users
+
+```powershell-session
+New-ADUser -Name "MTanaka" -Surname "Tanaka" -GivenName "Mori" -Office "Security" -OtherAttributes @{'title'="Sensei";'mail'="MTanaka@greenhorn.corp"} -Accountpassword (Read-Host -AsSecureString "AccountPassword") -Enabled $true 
+```
+
+- `New-ADUser -Name "MTanaka"` : We issue the `New-ADUser` command and set the user's SamAccountName to `MTanaka`.
+- `-Surname "Tanaka" -GivenName "Mori"`: This portion sets our user's `Lastname` and `Firstname`.
+- `-Office "Security"`: Sets the extended property of `Office` to `Security`.
+- `-OtherAttributes @{'title'="Sensei";'mail'="MTanaka@greenhorn.corp"}`: Here we set other extended attributes such as `title` and `Email-Address`.
+- `-Accountpassword (Read-Host -AsSecureString "AccountPassword")`: With this portion, we set the user's `password` by having the shell prompt us to enter a new password. (we can see it in the line below with the stars)
+- `-Enabled $true`: We are enabling the account for use. The user could not log in if this was set to `\$False`.
