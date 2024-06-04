@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3e59262c1f30d5ba",
+            "id": "51c2b1b3cb30828d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Powershell.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Users and Groups.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "51c2b1b3cb30828d",
+            "id": "87ec07897db9d529",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -212,9 +212,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "51c2b1b3cb30828d",
+  "active": "87ec07897db9d529",
   "lastOpenFiles": [
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Users and Groups.md",
+    "5. Standard Information/Operating Systems/Windows/User Permissions.md",
     "5. Standard Information/Operating Systems/Windows/Active Directory.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Active.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/SMB Traversing Users.md",
@@ -240,7 +241,6 @@
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Services/PowerShell Restarting a Service.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Scheduled Tasks/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/AutoRun SysInternals.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/AppLocker.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Scheduled Tasks",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Files",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/General Guide",
