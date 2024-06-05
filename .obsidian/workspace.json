@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Services/Configuring Services.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Registry/Registry Hives.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Services/Configuring Services.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Registry/Registry Hives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Services/Configuring Services.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Registry/Registry Hives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Services/Configuring Services.md"
+                "file": "5. Standard Information/Operating Systems/Windows/Registry/Registry Hives.md"
               }
             }
           },
@@ -199,16 +199,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "51c2b1b3cb30828d",
+  "active": "744b9316b7030f7b",
   "lastOpenFiles": [
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Services/Configuring Services.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Services/Starting and Stopping a Service.md",
+    "5. Standard Information/Operating Systems/Windows/Registry.md",
+    "5. Standard Information/Operating Systems/Windows/File Systems/NTFS (New Technology File System).md",
+    "5. Standard Information/Operating Systems/Windows/Registry/Run and RunOnce Registry Keys.md",
+    "5. Standard Information/Operating Systems/Windows/Registry/Registry Hives.md",
+    "5. Standard Information/Operating Systems/Windows/Registry/Overview.md",
+    "5. Standard Information/Operating Systems/Windows/Registry",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Services/Listing and Querying Services.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Services/Filtering Services.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Services/Configuring Services.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Commands/Running Commands on Remote Computers.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Running Commands on Remote Computers.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Services/Service Controller (sc).md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Services/Tasklist.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Services/Net Start.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Services/Restarting a Service.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Services",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Services/Concpets.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Everything is an Object.md",
@@ -224,11 +230,6 @@
     "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Groups/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Untitled",
     "3. Exploitation/File Types and Data/1. Guide.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Important Enumeration Information.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Finding Users and Groups.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Finding Additional Hosts.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Finding Shared Resources.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Files/List Files (dir).md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Commands",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Scheduled Tasks",
@@ -237,7 +238,6 @@
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Services",
     "4. Post Exploitation/Data Exfiltration/Windows",
     "7. Misc/Images/Pasted image 20240531131450.png",
-    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/E",
     "7. Misc/Images/Pasted image 20240531131330.png",
     "7. Misc/Images/Pasted image 20240531131153.png",
     "7. Misc/Images/Pasted image 20240531131119.png",
