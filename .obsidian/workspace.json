@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Everything is an Object.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Services/Service Controller (sc).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Everything is an Object.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Services/Service Controller (sc).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Everything is an Object.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Services/Service Controller (sc).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Everything is an Object.md"
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Services/Service Controller (sc).md"
               }
             }
           },
@@ -201,6 +201,15 @@
   },
   "active": "51c2b1b3cb30828d",
   "lastOpenFiles": [
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Services/Tasklist.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Services/Service Controller (sc).md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Services/Net Start.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Services/Restarting a Service.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Services/Listing Services.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Services",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Services/Concpets.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Services/Filtering Services.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Everything is an Object.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Commands/Chaining Commands.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Generic Enumeration Commands.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Scheduled Tasks.md",
@@ -220,15 +229,7 @@
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Files/List Files (dir).md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Files/Sort Files.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Files/Search in File.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Files/Read Files.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Commands/Command Syntax.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Commands",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Powershell.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Modules.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Session History.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Everything is an Object.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Hotkeys.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Execution Policy.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Scheduled Tasks",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Files",
@@ -241,7 +242,6 @@
     "7. Misc/Images/Pasted image 20240531131153.png",
     "7. Misc/Images/Pasted image 20240531131119.png",
     "7. Misc/Images/Pasted image 20240528150905.png",
-    "5. Standard Information/Operating Systems/Windows/Security",
     "7. Misc/Images/Pasted image 20240514191950.png",
     "7. Misc/Images/Pasted image 20240513193124.png",
     "7. Misc/Images/Pasted image 20240507090421.png",
