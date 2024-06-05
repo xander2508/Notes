@@ -23,7 +23,7 @@ There are several techniques to exploit LFI, such as directory traversal, null b
 2. Supported wrappers, see [PHP: Supported Protocols and Wrappers - Manual](https://secure.php.net/manual/en/wrappers.php)
 3. If files can be viewed
 	1. If the log file is available, see [[#Log Poisoning]]
-	2. Search for credentials, see [[Valuable Files]]
+	2. Search for credentials, see [[4. Post Exploitation/Valuable Files]]
 4. Potentially be able to get the source of the site using the wrappers, see [[#PHP Wrappers]]
 5. Vulnerable PHP functions: require, require_once, include, include_once
 
