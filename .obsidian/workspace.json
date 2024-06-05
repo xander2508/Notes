@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Commands/Chaining Commands.md",
+                "file": "4. Post Exploitation/Valuable Files.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Commands/Chaining Commands.md",
+                "file": "4. Post Exploitation/Valuable Files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Commands/Chaining Commands.md",
+                "file": "4. Post Exploitation/Valuable Files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Commands/Chaining Commands.md"
+                "file": "4. Post Exploitation/Valuable Files.md"
               }
             }
           },
@@ -201,8 +201,15 @@
   },
   "active": "51c2b1b3cb30828d",
   "lastOpenFiles": [
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Commands/Command Syntax.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Important Enumeration Information.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Files/Finding Files.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Files/List Files (dir).md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Files/Sort Files.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Files/Search in File.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Files/Read Files.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Commands/Chaining Commands.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Commands/Command Syntax.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Commands",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Powershell.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Modules.md",
@@ -215,19 +222,13 @@
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Services/Tasklist.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Services/Service Controller (sc).md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Services/Net Start.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Files/Read Files.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Files/Writing to Files.md",
     "5. Standard Information/Operating Systems/Windows/Active Directory.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Users and Groups.md",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
     "5. Standard Information/Operating Systems/Windows/User Permissions.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Active.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/SMB Traversing Users.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/PowerSploit.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell",
-    "3. Exploitation/File Types and Data/PSM1 (PowerShell Module File).md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/DLL Hijacking.md",
-    "3. Exploitation/File Types and Data/PSD1 (PowerShell Data File).md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Scheduled Tasks",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Files",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/General Guide",
