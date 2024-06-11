@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry/Delete Registry Properties.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Windows Event Log.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry/Delete Registry Properties.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Windows Event Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry/Delete Registry Properties.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Windows Event Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry/Delete Registry Properties.md"
+                "file": "5. Standard Information/Operating Systems/Windows/Windows Event Log.md"
               }
             }
           },
@@ -201,8 +201,9 @@
   },
   "active": "51c2b1b3cb30828d",
   "lastOpenFiles": [
-    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry/New Registry Keys.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry/Delete Registry Properties.md",
+    "5. Standard Information/Operating Systems/Windows/Windows Event Log.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry/New Registry Keys.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Generic Enumeration Commands.md",
     "5. Standard Information/Operating Systems/Windows/File Systems/File System Enumeration Information.md",
     "5. Standard Information/Operating Systems/Windows/File Systems/Important Directories.md",
@@ -230,7 +231,6 @@
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Scheduled Tasks.md",
     "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Valuable Files.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Files/Finding Files.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Untitled",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Commands",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell",
