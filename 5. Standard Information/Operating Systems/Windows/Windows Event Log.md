@@ -39,3 +39,15 @@ An `event` is any action or occurrence that can be identified and classified b
 |Critical|1|This indicates a significant issue related to an application or a system that requires urgent attention by a sysadmin that, if not addressed, could lead to system or application instability.|
 
 ## Elements of a Windows Event Log
+
+- `Log name`: As discussed above, the name of the event log where the events will be written. By default, events are logged for `system`, `security`, and `applications`.
+- `Event date/time`: Date and time when the event occurred
+- `Task Category`: The type of recorded event log
+- `Event ID`: A unique identifier for sysadmins to identify a specific logged event
+- `Source`: Where the log originated from, typically the name of a program or software application
+- `Level`: Severity level of the event. This can be information, error, verbose, warning, critical
+- `User`: Username of who logged onto the host when the event occurred
+- `Computer`: Name of the computer where the event is logged
+- 
+There are many Event IDs that an organization can monitor to detect various issues. In an Active Directory environment, [this list](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/appendix-l--events-to-monitor) includes key events that are recommended to be monitored for to look for signs of a compromise. 
+[This](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/) searchable database of Event IDs is worth perusing to understand the depth of logging possible on a Windows system.
