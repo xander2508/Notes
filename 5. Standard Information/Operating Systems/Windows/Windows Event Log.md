@@ -83,3 +83,59 @@ The `gli` parameter will give us specific status information about the log or 
 ```cmd-session
  wevtutil gli "Windows PowerShell"
 ```
+
+#### Querying Events
+
+For example, let's say we want to display the last 5 most recent events from the Security log in text format.
+Local admin access is needed for this command.
+
+```cmd-session
+wevtutil qe Security /c:5 /rd:true /f:text
+```
+
+#### Exporting Events
+
+```cmd-session
+wevtutil epl System C:\system_export.evtx
+```
+
+### PowerShell
+
+#### PowerShell - Listing All Logs
+
+```powershell-session
+Get-WinEvent -ListLog *
+```
+
+#### Security Log Details
+
+```powershell-session
+Get-WinEvent -ListLog Security
+```
+
+#### Querying Last Five Events
+
+Here we will list the last five events recorded in the Security log. By default, the newest logs are listed first. If we want to get older logs first, we can reverse the order to list the oldest ones first using the `-Oldest` parameter.
+
+We can query for the last X number of events, looking specifically for the last five events using the `-MaxEvents` parameter.
+
+```powershell-session
+Get-WinEvent -LogName 'Security' -MaxEvents 5 | Select-Object -ExpandProperty Message
+```
+
+From here, we could use the `-ExpandProperty` parameter to dig deeper into specific events, list logs from oldest to newest, etc.
+
+#### Filtering for Logon Failures
+
+```powershell-session
+Get-WinEvent -FilterHashTable @{LogName='Security';ID='4625 '}
+```
+
+```powershell-session
+Get-WinEvent -FilterHashTable @{LogName='System';Level='1'} | select-object -ExpandProperty Message
+```
+
+
+#### Guides 
+
+Microsoft provides some [examples](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.diagnostics/get-winevent?view=powershell-7.3) for `Get-WinEvent`, while [this site](https://www.thewindowsclub.com/what-is-wevtutil-and-how-do-you-use-it) shows examples for `wevtutil`, and [this site](https://4sysops.com/archives/search-the-event-log-with-the-get-winevent-powershell-cmdlet/) has some additional examples for using `Get-WinEvent`.
