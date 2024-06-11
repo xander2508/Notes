@@ -51,3 +51,35 @@ An `event` is any action or occurrence that can be identified and classified b
 - 
 There are many Event IDs that an organization can monitor to detect various issues. In an Active Directory environment, [this list](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/appendix-l--events-to-monitor) includes key events that are recommended to be monitored for to look for signs of a compromise. 
 [This](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/) searchable database of Event IDs is worth perusing to understand the depth of logging possible on a Windows system.
+
+## Windows Event Log Technical Details
+
+The Windows Event Log is handled by the `EventLog` services. On a Windows system, the service's display name is `Windows Event Log`, and it runs inside the service host process [svchost.exe](https://en.wikipedia.org/wiki/Svchost.exe). It is set to start automatically at system boot by default.
+
+By default, Windows Event Logs are stored in `C:\Windows\System32\winevt\logs` with the file extension `.evtx`.
+
+## Interacting with the Windows Event Log
+
+### wevtutil
+
+The [wevtutil](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/wevtutil) command line utility can be used to retrieve information about event logs. It can also be used to export, archive, and clear logs, among other commands.
+
+#### Enumerating Log Sources
+
+```cmd-session
+wevtutil el
+```
+
+#### Gathering Log Information
+
+With the `gl` parameter, we can display configuration information for a specific log, notably whether the log is enabled or not, the maximum size, permissions, and where the log is stored on the system.
+
+```cmd-session
+wevtutil gl "Windows PowerShell"
+```
+
+The `gli` parameter will give us specific status information about the log or log file, such as the creation time, last access and write times, file size, number of log records, and more.
+
+```cmd-session
+ wevtutil gli "Windows PowerShell"
+```
