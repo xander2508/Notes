@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7b602fd8b52c31b5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,7 +210,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "51c2b1b3cb30828d",
+  "active": "7b602fd8b52c31b5",
   "lastOpenFiles": [
     "3. Exploitation/File Types and Data/EVTX (Windows Event Logs).md",
     "5. Standard Information/Operating Systems/Windows/Windows Event Log.md",
