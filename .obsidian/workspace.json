@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Windows Event Log.md",
+                "file": "2. Enumeration/TCP/6379. Redis/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "7b602fd8b52c31b5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Windows Event Log.md",
+                "file": "2. Enumeration/TCP/6379. Redis/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Windows Event Log.md",
+                "file": "2. Enumeration/TCP/6379. Redis/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Windows Event Log.md"
+                "file": "2. Enumeration/TCP/6379. Redis/1. Guide.md"
               }
             }
           },
@@ -187,14 +176,21 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "e4bf8fabf861d55f",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
-    "width": 547.5,
-    "collapsed": true
+    "width": 547.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,13 +203,22 @@
       "breadcrumbs:Breadcrumbs Visualisation": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "7b602fd8b52c31b5",
+  "active": "e4bf8fabf861d55f",
   "lastOpenFiles": [
-    "3. Exploitation/File Types and Data/EVTX (Windows Event Logs).md",
+    "2. Enumeration/TCP/27017. MongoDB/1. Guide.md",
+    "2. Enumeration/TCP/135. RPC/1. Guide.md",
+    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/1. Guide.md",
+    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
     "5. Standard Information/Operating Systems/Windows/Windows Event Log.md",
+    "smart-chats/UNTITLED CHAT 2024-06-16 11 55 44.md",
+    "smart-chats",
+    "3. Exploitation/File Types and Data/EVTX (Windows Event Logs).md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry/Delete Registry Properties.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry/New Registry Keys.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Generic Enumeration Commands.md",
@@ -237,17 +242,11 @@
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Services/Tasklist.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Services/Net Start.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Services",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Services/Concpets.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Everything is an Object.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Commands/Chaining Commands.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Scheduled Tasks.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Untitled",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Commands",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Scheduled Tasks",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Files",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/General Guide",
     "7. Misc/Images/Pasted image 20240531131450.png",
     "7. Misc/Images/Pasted image 20240531131330.png",
     "7. Misc/Images/Pasted image 20240531131153.png",
