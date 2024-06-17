@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/22. SSH/1. Guide.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network Management/Network Information.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/22. SSH/1. Guide.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network Management/Network Information.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/22. SSH/1. Guide.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network Management/Network Information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/22. SSH/1. Guide.md"
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network Management/Network Information.md"
               }
             }
           },
@@ -212,6 +212,13 @@
   },
   "active": "e3ec342542d91bb8",
   "lastOpenFiles": [
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/SMB Traversing Users.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network Management/Network Information.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network Management/Network Drives.md",
+    "5. Standard Information/Operating Systems/Windows/User Permissions.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network Management",
+    "5. Standard Information/Operating Systems/Windows/Version Numbers.md",
+    "2. Enumeration/TCP/22. SSH/1. Guide.md",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/1. Guide.md",
     "3. Exploitation/Operating System Specific/Windows/Tooling/Windows Remote Management  (WinRM).md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Mimikatz.md",
@@ -234,20 +241,13 @@
     "2. Enumeration/TCP/6379. Redis/1. Guide.md",
     "smart-chats/UNTITLED CHAT 2024-06-16 12 11 57.md",
     "2. Enumeration/TCP/27017. MongoDB/1. Guide.md",
-    "2. Enumeration/TCP/135. RPC/1. Guide.md",
-    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
-    "5. Standard Information/Operating Systems/Windows/Windows Event Log.md",
-    "smart-chats/UNTITLED CHAT 2024-06-16 11 55 44.md",
     "smart-chats",
-    "3. Exploitation/File Types and Data/EVTX (Windows Event Logs).md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry/Delete Registry Properties.md",
     "5. Standard Information/Operating Systems/Windows/File Systems/Types",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry",
     "5. Standard Information/Operating Systems/Windows/Registry",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Services",
     "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Untitled",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Commands",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell",
     "7. Misc/Images/Pasted image 20240531131450.png",
     "7. Misc/Images/Pasted image 20240531131330.png",
     "7. Misc/Images/Pasted image 20240531131153.png",
