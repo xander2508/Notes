@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network/1. Network Information.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network/Diagnostic on Connections.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network/1. Network Information.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network/Diagnostic on Connections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network/1. Network Information.md",
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network/Diagnostic on Connections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network/1. Network Information.md"
+                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network/Diagnostic on Connections.md"
               }
             }
           },
@@ -212,8 +212,10 @@
   },
   "active": "e3ec342542d91bb8",
   "lastOpenFiles": [
-    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network/Finding Additional Hosts.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network/Edit Interfaces.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network/Diagnostic on Connections.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network/1. Network Information.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network/Finding Additional Hosts.md",
     "3. Exploitation/Obtaining Remote Shells/Specific Shells/Windows.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Valuable Files.md",
     "3. Exploitation/Obtaining Remote Shells/Specific Shells/Web.md",
@@ -221,7 +223,6 @@
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Files/Read Files.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Help.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Generic Enumeration Commands.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network/Untitled.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network/Find Open Ports.md",
     "4. Post Exploitation/Privilege Escalation/Linux/1. Guide.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network/Validate DNS.md",
@@ -239,7 +240,6 @@
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Mimikatz.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Invoke-Command.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Aclpwn.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/AccessChk.md",
     "2. Enumeration/UDP/5355. Link-Local Multicast Name Resolution (LLMNR)",
     "2. Enumeration/UDP/137. Netbios",
     "smart-chats",
