@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Exploitation/Obtaining Remote Shells/Specific Shells/Windows.md",
+                "file": "2. Enumeration/TCP/22. SSH/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Exploitation/Obtaining Remote Shells/Specific Shells/Windows.md",
+                "file": "2. Enumeration/TCP/22. SSH/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Exploitation/Obtaining Remote Shells/Specific Shells/Windows.md",
+                "file": "2. Enumeration/TCP/22. SSH/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Exploitation/Obtaining Remote Shells/Specific Shells/Windows.md"
+                "file": "2. Enumeration/TCP/22. SSH/1. Guide.md"
               }
             }
           },
@@ -210,8 +210,16 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "744b9316b7030f7b",
+  "active": "e3ec342542d91bb8",
   "lastOpenFiles": [
+    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/1. Guide.md",
+    "3. Exploitation/Operating System Specific/Windows/Tooling/Windows Remote Management  (WinRM).md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Mimikatz.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Invoke-Command.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Aclpwn.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/AccessChk.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/1. Guide.md",
+    "3. Exploitation/Obtaining Remote Shells/Specific Shells/Windows.md",
     "2. Enumeration/TCP/88. Kerberos/1. Guide.md",
     "1. Recon/1. Guide.md",
     "2. Enumeration/TCP/53. DNS/1. Guide.md",
@@ -227,22 +235,14 @@
     "smart-chats/UNTITLED CHAT 2024-06-16 12 11 57.md",
     "2. Enumeration/TCP/27017. MongoDB/1. Guide.md",
     "2. Enumeration/TCP/135. RPC/1. Guide.md",
-    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/1. Guide.md",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
     "5. Standard Information/Operating Systems/Windows/Windows Event Log.md",
     "smart-chats/UNTITLED CHAT 2024-06-16 11 55 44.md",
     "smart-chats",
     "3. Exploitation/File Types and Data/EVTX (Windows Event Logs).md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry/Delete Registry Properties.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry/New Registry Keys.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Generic Enumeration Commands.md",
-    "5. Standard Information/Operating Systems/Windows/File Systems/File System Enumeration Information.md",
-    "5. Standard Information/Operating Systems/Windows/File Systems/Important Directories.md",
     "5. Standard Information/Operating Systems/Windows/File Systems/Types",
-    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry/Querying Registry Entries.md",
-    "5. Standard Information/Operating Systems/Windows/Registry/Registry Hives.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry",
-    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Services/Configuring Services.md",
     "5. Standard Information/Operating Systems/Windows/Registry",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Services",
     "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Untitled",
