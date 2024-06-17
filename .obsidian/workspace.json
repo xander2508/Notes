@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network Management/Network Information.md",
+                "file": "2. Enumeration/Other/~. ARP/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "WinRM",
+                "query": "arp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network Management/Network Information.md",
+                "file": "2. Enumeration/Other/~. ARP/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network Management/Network Information.md",
+                "file": "2. Enumeration/Other/~. ARP/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network Management/Network Information.md"
+                "file": "2. Enumeration/Other/~. ARP/1. Guide.md"
               }
             }
           },
@@ -212,8 +212,11 @@
   },
   "active": "e3ec342542d91bb8",
   "lastOpenFiles": [
-    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/SMB Traversing Users.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network Management/Finding Additional Hosts.md",
+    "2. Enumeration/Other/~. ARP/1. Guide.md",
+    "2. Enumeration/Other/~. ARP",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network Management/Network Information.md",
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/SMB Traversing Users.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network Management/Network Drives.md",
     "5. Standard Information/Operating Systems/Windows/User Permissions.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network Management",
@@ -239,15 +242,12 @@
     "2. Enumeration/UDP/137. Netbios",
     "2. Enumeration/TCP/445. SMB/1. Guide.md",
     "2. Enumeration/TCP/6379. Redis/1. Guide.md",
-    "smart-chats/UNTITLED CHAT 2024-06-16 12 11 57.md",
-    "2. Enumeration/TCP/27017. MongoDB/1. Guide.md",
     "smart-chats",
     "5. Standard Information/Operating Systems/Windows/File Systems/Types",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry",
     "5. Standard Information/Operating Systems/Windows/Registry",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Services",
     "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Untitled",
-    "4. Post Exploitation/Privilege Escalation/Windows/Tooling/Windows Tools/Powershell/Commands",
     "7. Misc/Images/Pasted image 20240531131450.png",
     "7. Misc/Images/Pasted image 20240531131330.png",
     "7. Misc/Images/Pasted image 20240531131153.png",
