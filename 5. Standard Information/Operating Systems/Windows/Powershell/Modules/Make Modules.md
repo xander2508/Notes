@@ -185,3 +185,7 @@ When dealing with scripts, the PowerShell session, and how stuff is recognized a
 |Global|This is the default scope level for PowerShell. It affects all objects that exist when PowerShell starts, or a new session is opened. Any variables, aliases, functions, and anything you specify in your PowerShell profile will be created in the Global scope.|
 |Local|This is the current scope you are operating in. This could be any of the default scopes or child scopes that are made.|
 |Script|This is a temporary scope that applies to any scripts being run. It only applies to the script and its contents. Other scripts and anything outside of it will not know it exists. To the script, Its scope is the local scope.|
+
+This matters to us if we do not want anything outside the scope we are running the script in to access its contents. Additionally, we can have child scopes created within the main scopes.
+
+For more on Scope in PowerShell, check out the documentation [here](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_scopes?view=powershell-7.2).
