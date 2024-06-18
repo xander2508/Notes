@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network/1. Network Information.md",
+                "file": "4. Post Exploitation/Data Exfiltration/Windows/Enabling WinRM.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network/1. Network Information.md",
+                "file": "4. Post Exploitation/Data Exfiltration/Windows/Enabling WinRM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network/1. Network Information.md",
+                "file": "4. Post Exploitation/Data Exfiltration/Windows/Enabling WinRM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network/1. Network Information.md"
+                "file": "4. Post Exploitation/Data Exfiltration/Windows/Enabling WinRM.md"
               }
             }
           },
@@ -212,6 +212,7 @@
   },
   "active": "e3ec342542d91bb8",
   "lastOpenFiles": [
+    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network/1. Network Information.md",
     "3. Exploitation/Obtaining Remote Shells/Specific Shells/Windows/PowerShell.md",
     "3. Exploitation/Obtaining Remote Shells/Specific Shells/Windows/Windows.md",
     "3. Exploitation/Obtaining Remote Shells/Specific Shells/Windows",
@@ -221,7 +222,6 @@
     "2. Enumeration/TCP/22. SSH/Applications/OpenSSH.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network/Diagnostic on Connections.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network/Edit Interfaces.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network/1. Network Information.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network/Finding Additional Hosts.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Valuable Files.md",
     "3. Exploitation/Obtaining Remote Shells/Specific Shells/Web.md",
