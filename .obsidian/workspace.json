@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/80. HTTP/Concepts/Interactions/Downloading Files.md",
+                "file": "4. Post Exploitation/Data Exfiltration/Webservers.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/80. HTTP/Concepts/Interactions/Downloading Files.md",
+                "file": "4. Post Exploitation/Data Exfiltration/Webservers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/80. HTTP/Concepts/Interactions/Downloading Files.md",
+                "file": "4. Post Exploitation/Data Exfiltration/Webservers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/80. HTTP/Concepts/Interactions/Downloading Files.md"
+                "file": "4. Post Exploitation/Data Exfiltration/Webservers.md"
               }
             }
           },
@@ -210,19 +210,26 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "e3ec342542d91bb8",
+  "active": "744b9316b7030f7b",
   "lastOpenFiles": [
+    "4. Post Exploitation/Data Exfiltration/Untitled.md",
+    "4. Post Exploitation/Data Exfiltration/Webservers.md",
+    "4. Post Exploitation/Data Exfiltration/1. Guide.md",
+    "4. Post Exploitation/Data Exfiltration/Windows/1. Guide.md",
+    "4. Post Exploitation/Data Exfiltration/Windows/SMB.md",
+    "4. Post Exploitation/Data Exfiltration/Windows/Setting Up SSH.md",
+    "4. Post Exploitation/Data Exfiltration/Windows/Inline File Transfer.md",
+    "4. Post Exploitation/Data Exfiltration/Downloading Files.md",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/1. Guide.md",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/Remote Desktop Connection.md",
-    "3. Exploitation/File Types and Data/Programs and Executables/Tooling/Ghidra.md",
-    "3. Exploitation/File Types and Data/Programs and Executables/Tooling/BinWalk.md",
+    "3. Exploitation/File Types and Data/Tooling/Ghidra.md",
+    "3. Exploitation/File Types and Data/Tooling/BinWalk.md",
     "3. Exploitation/File Types and Data/2. Programs and Executables Guide.md",
     "3. Exploitation/File Types and Data/1. Guide.md",
-    "3. Exploitation/File Types and Data/Programs and Executables/Tooling/GDB.md",
+    "3. Exploitation/File Types and Data/Tooling/GDB.md",
     "3. Exploitation/Generic Tooling/Metasploit.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Uploading Files to Machine.md",
     "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Uploading Files to Machine.md",
-    "2. Enumeration/TCP/80. HTTP/Concepts/Interactions/Downloading Files.md",
     "2. Enumeration/TCP/80. HTTP/Tooling/Invoke-Webrequest.md",
     "2. Enumeration/TCP/80. HTTP/Concepts/Interactions",
     "2. Enumeration/TCP/80. HTTP/Tooling/wGet.md",
@@ -232,14 +239,7 @@
     "4. Post Exploitation/Data Exfiltration/Windows/Enabling WinRM.md",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network/1. Network Information.md",
     "3. Exploitation/Obtaining Remote Shells/Specific Shells/Windows/PowerShell.md",
-    "3. Exploitation/Obtaining Remote Shells/Specific Shells/Windows/Windows.md",
     "3. Exploitation/Obtaining Remote Shells/Specific Shells/Windows",
-    "3. Exploitation/Operating System Specific/Windows/Tooling/Windows Remote Management (WinRM).md",
-    "4. Post Exploitation/Data Exfiltration/Windows/Setting Up SSH.md",
-    "2. Enumeration/TCP/22. SSH/Applications/OpenSSH.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network/Diagnostic on Connections.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network/Edit Interfaces.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network/Finding Additional Hosts.md",
     "2. Enumeration/Other/~. ARP",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network",
     "2. Enumeration/UDP/5355. Link-Local Multicast Name Resolution (LLMNR)",
