@@ -84,3 +84,104 @@ AliasesToExport = @()
 ```powershell-session
 New-Item quick-recon.psm1 -ItemType File
 ```
+
+#### Import Into Our Module
+
+If our new PowerShell requires other modules or cmdlets from within them to operate correctly, we will place an `Import-Module` string at the beginning of our script file.
+
+```powershell
+Import-Module ActiveDirectory 
+```
+
+#### Example 
+
+```powershell
+Import-Module ActiveDirectory
+
+function Get-Recon {  
+    # Collect the hostname of our PC.
+    $Hostname = $env:ComputerName  
+    # Collect the IP configuration.
+    $IP = ipconfig
+    # Collect basic domain information.
+    $Domain = Get-ADDomain 
+    # Output the users who have logged in and built out a basic directory structure in "C:\Users\".
+    $Users = Get-ChildItem C:\Users\
+    # Create a new file to place our recon results in.
+    new-Item ~\Desktop\recon.txt -ItemType File 
+    # A variable to hold the results of our other variables. 
+    $Vars = "***---Hostname info---***", $Hostname, "***---Domain Info---***", $Domain, "***---IP INFO---***",  $IP, "***---USERS---***", $Users
+    # It does the thing 
+    Add-Content ~\Desktop\recon.txt $Vars
+  } 
+```
+
+#### Comments within the Script
+
+The (`#`) will tell PowerShell that the line contains a comment within your script or module file. If your comments are going to encompass several lines, you can use the `<#` and `#>` to wrap several lines as one large comment like seen below:
+
+#### Including Help
+
+PowerShell utilizes a form of `Comment-based help` to embed whatever you need for the script or module. We can utilize `comment blocks` like those we discussed above, along with recognized `keywords` to build the help section out and even call it using `Get-Help` afterward. When it comes to placement, we have `two` options here. We can place the help within the function itself or outside of the function in the script. If we wish to place it within the function, it must be at the beginning of the function, right after the opening line for the function, or at the end of the function, one line after the last action of the function. If we place it within the script but outside of the function itself, we must place it above our function with no more than one line between the help and function. For a deeper dive into help within PowerShell, check out this [article](https://learn.microsoft.com/en-us/powershell/scripting/developer/help/writing-help-for-windows-powershell-scripts-and-functions?view=powershell-7.2).
+
+```powershell
+Import-Module ActiveDirectory
+
+<# 
+.Description  
+This function performs some simple recon tasks for the user. We import the module and issue the 'Get-Recon' command to retrieve our output. Each variable and line within the function and script are commented for our understanding. Right now, this module will only work on the local host from which you run it, and the output will be sent to a file named 'recon.txt' on the Desktop of the user who opened the shell. Remote Recon functions are coming soon!  
+
+.Example  
+After importing the module run "Get-Recon"
+'Get-Recon
+
+
+    Directory: C:\Users\MTanaka\Desktop
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                                        
+----                 -------------         ------ ----                                                                                                                                        
+-a----         11/3/2022  12:46 PM              0 recon.txt '
+
+.Notes  
+Remote Recon functions coming soon! This script serves as our initial introduction to writing functions and scripts and making PowerShell modules.  
+
+#>
+
+function Get-Recon {  
+<SNIP>  
+```
+
+To specify a keyword within the comment block, we use the syntax `.<keyword>` and then place the flavour text underneath. We only specified `Description, Example, and Notes`, but several more keywords can be placed in the help block. To see all the available keywords, reference this article on [Comment Based Help Keywords](https://learn.microsoft.com/en-us/powershell/scripting/developer/help/comment-based-help-keywords?view=powershell-7.2).
+
+#### Protecting Functions
+
+We may add functions to our scripts that we do not want to be accessed, exported, or utilized by other scripts or processes within PowerShell. To protect a function from being exported or to explicitly set it for export, the `Export-ModuleMember` is the cmdlet for the job. The contents are exportable if we leave this out of our script modules. If we place it in the file but leave it blank like so:
+
+##### Exclude From Export
+
+```powershell
+Export-ModuleMember  
+```
+
+It ensures that the module's variables, aliases, and functions cannot be `exported`. If we wish to specify what to export, we can add them to the command string like so:
+
+##### Export Specific Functions and Variables
+
+```powershell
+Export-ModuleMember -Function Get-Recon -Variable Hostname 
+```
+
+Alternatively, if you only wanted to export all functions and a specific variable, for example, you could issue the `*` after -Function and then specify the Variables to export explicitly.
+
+### Scope
+
+When dealing with scripts, the PowerShell session, and how stuff is recognized at the CommandLine, the concept of Scope comes into play. Scope, in essence, is how PowerShell recognizes and protects objects within the session from unauthorized access or modification. PowerShell currently uses `three` different Scope levels:
+
+#### Scope Levels
+
+|**Scope**|**Description**|
+|---|---|
+|Global|This is the default scope level for PowerShell. It affects all objects that exist when PowerShell starts, or a new session is opened. Any variables, aliases, functions, and anything you specify in your PowerShell profile will be created in the Global scope.|
+|Local|This is the current scope you are operating in. This could be any of the default scopes or child scopes that are made.|
+|Script|This is a temporary scope that applies to any scripts being run. It only applies to the script and its contents. Other scripts and anything outside of it will not know it exists. To the script, Its scope is the local scope.|
