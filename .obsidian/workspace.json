@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Powershell/Modules/Make Modules.md",
+                "file": "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Generic Enumeration Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Powershell/Modules/Make Modules.md",
+                "file": "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Generic Enumeration Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Powershell/Modules/Make Modules.md",
+                "file": "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Generic Enumeration Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Powershell/Modules/Make Modules.md"
+                "file": "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Generic Enumeration Commands.md"
               }
             }
           },
@@ -212,8 +212,10 @@
   },
   "active": "e3ec342542d91bb8",
   "lastOpenFiles": [
-    "5. Standard Information/Operating Systems/Windows/Powershell/Modules/1. Overview.md",
+    "4. Post Exploitation/Operating Systems/Windows/1. Guide.md",
+    "4. Post Exploitation/Operating Systems/Windows/Tooling/Default Tooling/Finding Shared Resources.md",
     "5. Standard Information/Operating Systems/Windows/Powershell/Modules/Make Modules.md",
+    "5. Standard Information/Operating Systems/Windows/Powershell/Modules/1. Overview.md",
     "5. Standard Information/Operating Systems/Windows/Powershell/Modules/Use Modules.md",
     "5. Standard Information/Operating Systems/Windows/Powershell/Modules.md",
     "5. Standard Information/Operating Systems/Windows/Powershell/Hotkeys.md",
@@ -238,8 +240,6 @@
     "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Windows/Setting Up SSH.md",
     "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Windows/Inline File Transfer.md",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/1. Guide.md",
-    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/Remote Desktop Connection.md",
-    "3. Exploitation/File Types and Data/Tooling/Ghidra.md",
     "2. Enumeration/TCP/80. HTTP/Concepts/Interactions",
     "3. Exploitation/Obtaining Remote Shells/Specific Shells/Windows",
     "2. Enumeration/Other/~. ARP",

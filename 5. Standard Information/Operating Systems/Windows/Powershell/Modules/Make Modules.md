@@ -25,8 +25,6 @@ All the lines in the manifest files are optional except for the `ModuleVersion`
 
 #### Sample Manifest
 
-Code: powershell
-
 ```powershell
 # Module manifest for module 'quick-recon'
 #
