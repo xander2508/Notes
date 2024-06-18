@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Valuable Files.md",
+                "file": "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Downloading Files.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Valuable Files.md",
+                "file": "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Downloading Files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Valuable Files.md",
+                "file": "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Downloading Files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Valuable Files.md"
+                "file": "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Downloading Files.md"
               }
             }
           },
@@ -210,8 +210,9 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "744b9316b7030f7b",
+  "active": "e3ec342542d91bb8",
   "lastOpenFiles": [
+    "4. Post Exploitation/Valuable Files.md",
     "4. Post Exploitation/Upgrading Shells.md",
     "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Webservers.md",
     "4. Post Exploitation/Data Exfiltration/Untitled.md",
@@ -238,7 +239,6 @@
     "2. Enumeration/TCP/53. DNS/1. Guide.md",
     "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities/Command Injection.md",
     "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Windows/Enabling WinRM.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network/1. Network Information.md",
     "3. Exploitation/Obtaining Remote Shells/Specific Shells/Windows",
     "2. Enumeration/Other/~. ARP",
     "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network",
