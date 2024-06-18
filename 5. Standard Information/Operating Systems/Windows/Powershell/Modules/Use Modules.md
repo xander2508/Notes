@@ -1,5 +1,4 @@
-
-# Finding Loaded Modules
+## Finding Loaded Modules
 `Get-Module` can help us determine what modules are already loaded.
 
 ```powershell-session
@@ -13,7 +12,7 @@ Get-Module -ListAvailable
 ```
 
 
-# Importing Modules
+## Importing Modules
 
 The [Import-Module](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/import-module?view=powershell-7.2) cmdlet allows us to add a module to the current PowerShell session.
 
@@ -21,7 +20,7 @@ The [Import-Module](https://docs.microsoft.com/en-us/powershell/module/microsof
 Import-Module .\PowerSploit.psd1
 ```
 
-# Viewing Module Path 
+## Viewing Module Path 
 
 Modules are not loaded if they are not in the loaded module path.
 
@@ -29,13 +28,13 @@ Modules are not loaded if they are not in the loaded module path.
 $env:PSModulePath
 ```
 
-# Listing Module's Commands 
+## Listing Module's Commands 
 
 ```powershell-session
 Get-Command -Module <modulename>
 ```
 
-# Finding & Installing Modules
+## Finding & Installing Modules
 
 Administrator access required:
 

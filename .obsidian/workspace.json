@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Powershell/1. Overview.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Powershell/Modules/Make Modules.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Powershell/1. Overview.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Powershell/Modules/Make Modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Powershell/1. Overview.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Powershell/Modules/Make Modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Powershell/1. Overview.md"
+                "file": "5. Standard Information/Operating Systems/Windows/Powershell/Modules/Make Modules.md"
               }
             }
           },
@@ -210,11 +210,17 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "744b9316b7030f7b",
+  "active": "e3ec342542d91bb8",
   "lastOpenFiles": [
-    "5. Standard Information/Operating Systems/Windows/Powershell/Session History.md",
-    "5. Standard Information/Operating Systems/Windows/Powershell/1. Overview.md",
+    "5. Standard Information/Operating Systems/Windows/Powershell/Modules/1. Overview.md",
+    "5. Standard Information/Operating Systems/Windows/Powershell/Modules/Make Modules.md",
+    "5. Standard Information/Operating Systems/Windows/Powershell/Modules/Use Modules.md",
     "5. Standard Information/Operating Systems/Windows/Powershell/Modules.md",
+    "5. Standard Information/Operating Systems/Windows/Powershell/Hotkeys.md",
+    "5. Standard Information/Operating Systems/Windows/Powershell/1. Overview.md",
+    "5. Standard Information/Operating Systems/Windows/Powershell/Modules",
+    "3. Exploitation/File Types and Data/PS1 (PowerShell Script).md",
+    "5. Standard Information/Operating Systems/Windows/Powershell/Session History.md",
     "5. Standard Information/Operating Systems/Windows/Powershell/Commands/Command Syntax.md",
     "5. Standard Information/Operating Systems/Windows/Powershell/Commands/Chaining Commands.md",
     "5. Standard Information/Operating Systems/Windows/Powershell/Everything is an Object.md",
@@ -234,11 +240,6 @@
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/1. Guide.md",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/Remote Desktop Connection.md",
     "3. Exploitation/File Types and Data/Tooling/Ghidra.md",
-    "3. Exploitation/File Types and Data/Tooling/BinWalk.md",
-    "3. Exploitation/File Types and Data/2. Programs and Executables Guide.md",
-    "3. Exploitation/File Types and Data/1. Guide.md",
-    "3. Exploitation/File Types and Data/Tooling/GDB.md",
-    "3. Exploitation/Generic Tooling/Metasploit.md",
     "2. Enumeration/TCP/80. HTTP/Concepts/Interactions",
     "3. Exploitation/Obtaining Remote Shells/Specific Shells/Windows",
     "2. Enumeration/Other/~. ARP",
@@ -247,7 +248,6 @@
     "2. Enumeration/UDP/137. Netbios",
     "smart-chats",
     "5. Standard Information/Operating Systems/Windows/File Systems/Types",
-    "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Registry",
     "7. Misc/Images/Pasted image 20240531131450.png",
     "7. Misc/Images/Pasted image 20240531131330.png",
     "7. Misc/Images/Pasted image 20240531131153.png",
