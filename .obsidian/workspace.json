@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Downloading Files.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Powershell/1. Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CURL",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Downloading Files.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Powershell/1. Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Downloading Files.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Powershell/1. Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Downloading Files.md"
+                "file": "5. Standard Information/Operating Systems/Windows/Powershell/1. Overview.md"
               }
             }
           },
@@ -210,8 +210,18 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "e3ec342542d91bb8",
+  "active": "744b9316b7030f7b",
   "lastOpenFiles": [
+    "5. Standard Information/Operating Systems/Windows/Powershell/Session History.md",
+    "5. Standard Information/Operating Systems/Windows/Powershell/1. Overview.md",
+    "5. Standard Information/Operating Systems/Windows/Powershell/Modules.md",
+    "5. Standard Information/Operating Systems/Windows/Powershell/Commands/Command Syntax.md",
+    "5. Standard Information/Operating Systems/Windows/Powershell/Commands/Chaining Commands.md",
+    "5. Standard Information/Operating Systems/Windows/Powershell/Everything is an Object.md",
+    "5. Standard Information/Operating Systems/Windows/Powershell/Execution Policy.md",
+    "5. Standard Information/Operating Systems/Windows/PowerShell",
+    "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Downloading Files.md",
+    "3. Exploitation/Obtaining Remote Shells/Specific Shells/Windows/PowerShell.md",
     "4. Post Exploitation/Valuable Files.md",
     "4. Post Exploitation/Upgrading Shells.md",
     "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Webservers.md",
@@ -221,7 +231,6 @@
     "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Windows/SMB.md",
     "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Windows/Setting Up SSH.md",
     "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Windows/Inline File Transfer.md",
-    "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Downloading Files.md",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/1. Guide.md",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/Remote Desktop Connection.md",
     "3. Exploitation/File Types and Data/Tooling/Ghidra.md",
@@ -230,24 +239,15 @@
     "3. Exploitation/File Types and Data/1. Guide.md",
     "3. Exploitation/File Types and Data/Tooling/GDB.md",
     "3. Exploitation/Generic Tooling/Metasploit.md",
-    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Uploading Files to Machine.md",
-    "4. Post Exploitation/Privilege Escalation/Linux/Concepts and Vulnerabilities/Uploading Files to Machine.md",
-    "2. Enumeration/TCP/80. HTTP/Tooling/Invoke-Webrequest.md",
     "2. Enumeration/TCP/80. HTTP/Concepts/Interactions",
-    "2. Enumeration/TCP/80. HTTP/Tooling/wGet.md",
-    "2. Enumeration/TCP/80. HTTP/Tooling/cURL.md",
-    "2. Enumeration/TCP/53. DNS/1. Guide.md",
-    "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities/Command Injection.md",
-    "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Windows/Enabling WinRM.md",
     "3. Exploitation/Obtaining Remote Shells/Specific Shells/Windows",
     "2. Enumeration/Other/~. ARP",
-    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Network",
+    "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Network",
     "2. Enumeration/UDP/5355. Link-Local Multicast Name Resolution (LLMNR)",
     "2. Enumeration/UDP/137. Netbios",
     "smart-chats",
     "5. Standard Information/Operating Systems/Windows/File Systems/Types",
-    "4. Post Exploitation/Privilege Escalation/Windows/Concepts and Vulnerabilities/Registry",
-    "5. Standard Information/Operating Systems/Windows/Registry",
+    "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Registry",
     "7. Misc/Images/Pasted image 20240531131450.png",
     "7. Misc/Images/Pasted image 20240531131330.png",
     "7. Misc/Images/Pasted image 20240531131153.png",

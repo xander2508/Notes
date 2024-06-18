@@ -4,4 +4,4 @@ Group Policy can be configured locally, in both domain environments and non-doma
 
 We can open the Local Group Policy Editor by opening the Start menu and typing `gpedit.msc`. The editor is split into two categories under Local Computer Policy - `Computer Configuration` and `User Configuration`.
 
-We can also enable fine-tuned account auditing and configure [[AppLocker]] from the Local Group Policy Editor. It is worth exploring Local Group Policy and learning about the wide variety of ways it can be used to lock down a Windows system.
+We can also enable fine-tuned account auditing and configure [[5. Standard Information/Operating Systems/Windows/Security/AppLocker]] from the Local Group Policy Editor. It is worth exploring Local Group Policy and learning about the wide variety of ways it can be used to lock down a Windows system.
