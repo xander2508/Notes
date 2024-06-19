@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Powershell/Modules/Use Modules.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Powershell/Commands/Chaining Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Get-Module",
+                "query": "powershell sort",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Powershell/Modules/Use Modules.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Powershell/Commands/Chaining Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Powershell/Modules/Use Modules.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Powershell/Commands/Chaining Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Powershell/Modules/Use Modules.md"
+                "file": "5. Standard Information/Operating Systems/Windows/Powershell/Commands/Chaining Commands.md"
               }
             }
           },
@@ -213,7 +213,11 @@
   },
   "active": "e3ec342542d91bb8",
   "lastOpenFiles": [
+    "4. Post Exploitation/Operating Systems/Windows/Tooling/Default Tooling/Services/Tasklist.md",
+    "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Generic Enumeration Commands.md",
     "5. Standard Information/Operating Systems/Windows/Active Directory.md",
+    "3. Exploitation/Operating System Specific/Windows/Active Directory/1. Guide.md",
+    "5. Standard Information/Operating Systems/Windows/Powershell/Modules/Use Modules.md",
     "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Files/Finding Files.md",
     "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Files/Read Files.md",
     "5. Standard Information/Operating Systems/Windows/Powershell/Commands/Command Syntax.md",
@@ -221,12 +225,10 @@
     "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Files/Search in File.md",
     "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Files/Sort Files.md",
     "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Files/List Files (dir).md",
-    "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Generic Enumeration Commands.md",
     "4. Post Exploitation/Operating Systems/Windows/1. Guide.md",
     "4. Post Exploitation/Operating Systems/Windows/Tooling/Default Tooling/Finding Shared Resources.md",
     "5. Standard Information/Operating Systems/Windows/Powershell/Modules/Make Modules.md",
     "5. Standard Information/Operating Systems/Windows/Powershell/Modules/1. Overview.md",
-    "5. Standard Information/Operating Systems/Windows/Powershell/Modules/Use Modules.md",
     "5. Standard Information/Operating Systems/Windows/Powershell/Modules.md",
     "5. Standard Information/Operating Systems/Windows/Powershell/Hotkeys.md",
     "5. Standard Information/Operating Systems/Windows/Powershell/1. Overview.md",
@@ -239,8 +241,6 @@
     "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Downloading Files.md",
     "3. Exploitation/Obtaining Remote Shells/Specific Shells/Windows/PowerShell.md",
     "4. Post Exploitation/Valuable Files.md",
-    "4. Post Exploitation/Upgrading Shells.md",
-    "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Webservers.md",
     "2. Enumeration/TCP/80. HTTP/Concepts/Interactions",
     "3. Exploitation/Obtaining Remote Shells/Specific Shells/Windows",
     "2. Enumeration/Other/~. ARP",
