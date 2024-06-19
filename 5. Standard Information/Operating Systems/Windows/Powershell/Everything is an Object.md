@@ -35,7 +35,11 @@ Reduce and format large outputs
 Get-Service | Select-Object -Property DisplayName,Name,Status | Sort-Object DisplayName | fl
 ```
 
+Reverse command output:
 
+```
+tasklist | sort /R
+```
 ## Evaluation of Objects 
 
 `Where` and many other cmdlets can `evaluate` objects and data based on the values those objects and their properties contain.
