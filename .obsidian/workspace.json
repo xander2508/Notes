@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Generic Enumeration Commands.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Powershell/Commands/Command Syntax.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Generic Enumeration Commands.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Powershell/Commands/Command Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Generic Enumeration Commands.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Powershell/Commands/Command Syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Generic Enumeration Commands.md"
+                "file": "5. Standard Information/Operating Systems/Windows/Powershell/Commands/Command Syntax.md"
               }
             }
           },
@@ -212,6 +212,11 @@
   },
   "active": "e3ec342542d91bb8",
   "lastOpenFiles": [
+    "5. Standard Information/Operating Systems/Windows/Powershell/Commands/Chaining Commands.md",
+    "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Files/Search in File.md",
+    "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Files/Sort Files.md",
+    "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Files/List Files (dir).md",
+    "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Generic Enumeration Commands.md",
     "4. Post Exploitation/Operating Systems/Windows/1. Guide.md",
     "4. Post Exploitation/Operating Systems/Windows/Tooling/Default Tooling/Finding Shared Resources.md",
     "5. Standard Information/Operating Systems/Windows/Powershell/Modules/Make Modules.md",
@@ -224,7 +229,6 @@
     "3. Exploitation/File Types and Data/PS1 (PowerShell Script).md",
     "5. Standard Information/Operating Systems/Windows/Powershell/Session History.md",
     "5. Standard Information/Operating Systems/Windows/Powershell/Commands/Command Syntax.md",
-    "5. Standard Information/Operating Systems/Windows/Powershell/Commands/Chaining Commands.md",
     "5. Standard Information/Operating Systems/Windows/Powershell/Everything is an Object.md",
     "5. Standard Information/Operating Systems/Windows/Powershell/Execution Policy.md",
     "5. Standard Information/Operating Systems/Windows/PowerShell",
@@ -236,10 +240,6 @@
     "4. Post Exploitation/Data Exfiltration/Untitled.md",
     "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/1. Guide.md",
     "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Windows/1. Guide.md",
-    "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Windows/SMB.md",
-    "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Windows/Setting Up SSH.md",
-    "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Windows/Inline File Transfer.md",
-    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/1. Guide.md",
     "2. Enumeration/TCP/80. HTTP/Concepts/Interactions",
     "3. Exploitation/Obtaining Remote Shells/Specific Shells/Windows",
     "2. Enumeration/Other/~. ARP",
