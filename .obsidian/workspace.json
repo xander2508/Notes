@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Powershell/Commands/Command Syntax.md",
+                "file": "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Files/Read Files.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Powershell/Commands/Command Syntax.md",
+                "file": "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Files/Read Files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Powershell/Commands/Command Syntax.md",
+                "file": "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Files/Read Files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Powershell/Commands/Command Syntax.md"
+                "file": "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Files/Read Files.md"
               }
             }
           },
@@ -212,6 +212,7 @@
   },
   "active": "e3ec342542d91bb8",
   "lastOpenFiles": [
+    "5. Standard Information/Operating Systems/Windows/Powershell/Commands/Command Syntax.md",
     "5. Standard Information/Operating Systems/Windows/Powershell/Commands/Chaining Commands.md",
     "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Files/Search in File.md",
     "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Files/Sort Files.md",
@@ -228,7 +229,6 @@
     "5. Standard Information/Operating Systems/Windows/Powershell/Modules",
     "3. Exploitation/File Types and Data/PS1 (PowerShell Script).md",
     "5. Standard Information/Operating Systems/Windows/Powershell/Session History.md",
-    "5. Standard Information/Operating Systems/Windows/Powershell/Commands/Command Syntax.md",
     "5. Standard Information/Operating Systems/Windows/Powershell/Everything is an Object.md",
     "5. Standard Information/Operating Systems/Windows/Powershell/Execution Policy.md",
     "5. Standard Information/Operating Systems/Windows/PowerShell",
