@@ -12,13 +12,13 @@ An `event` is any action or occurrence that can be identified and classified b
 
 ## Event Log Categories and Types
 
-|Log Category|Log Description|
-|---|---|
-|System Log|The system log contains events related to the Windows system and its components. A system-level event could be a service failing at startup.|
-|Security Log|Self-explanatory; these include security-related events such as failed and successful logins, and file creation/deletion. These can be used to detect various types of attacks that we will cover in later modules.|
-|Application Log|This stores events related to any software/application installed on the system. For example, if Slack has trouble starting it will be recorded in this log.|
-|Setup Log|This log holds any events that are generated when the Windows operating system is installed. In a domain environment, events related to Active Directory will be recorded in this log on domain controller hosts.|
-|Forwarded Events|Logs that are forwarded from other hosts within the same network.|
+| Log Category     | Log Description                                                                                                                                                                                                     |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| System Log       | The system log contains events related to the Windows system and its components. A system-level event could be a service failing at startup.                                                                        |
+| Security Log     | Self-explanatory; these include security-related events such as failed and successful logins, and file creation/deletion. These can be used to detect various types of attacks that we will cover in later modules. |
+| Application Log  | This stores events related to any software/application installed on the system. For example, if Slack has trouble starting it will be recorded in this log.                                                         |
+| Setup Log        | This log holds any events that are generated when the Windows operating system is installed. In a domain environment, events related to Active Directory will be recorded in this log on domain controller hosts.   |
+| Forwarded Events | Logs that are forwarded from other hosts within the same network.                                                                                                                                                   |
 ## Event Types
 
 |Type of Event|Event Description|
