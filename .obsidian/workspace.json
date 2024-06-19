@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Files/Finding Files.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Powershell/Modules/Use Modules.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Get-ChildItem",
+                "query": "Get-Module",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Files/Finding Files.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Powershell/Modules/Use Modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Files/Finding Files.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Powershell/Modules/Use Modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Files/Finding Files.md"
+                "file": "5. Standard Information/Operating Systems/Windows/Powershell/Modules/Use Modules.md"
               }
             }
           },
@@ -213,8 +213,9 @@
   },
   "active": "e3ec342542d91bb8",
   "lastOpenFiles": [
-    "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Files/Read Files.md",
+    "5. Standard Information/Operating Systems/Windows/Active Directory.md",
     "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Files/Finding Files.md",
+    "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Files/Read Files.md",
     "5. Standard Information/Operating Systems/Windows/Powershell/Commands/Command Syntax.md",
     "5. Standard Information/Operating Systems/Windows/Powershell/Commands/Chaining Commands.md",
     "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Files/Search in File.md",
@@ -240,7 +241,6 @@
     "4. Post Exploitation/Valuable Files.md",
     "4. Post Exploitation/Upgrading Shells.md",
     "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Webservers.md",
-    "4. Post Exploitation/Data Exfiltration/Untitled.md",
     "2. Enumeration/TCP/80. HTTP/Concepts/Interactions",
     "3. Exploitation/Obtaining Remote Shells/Specific Shells/Windows",
     "2. Enumeration/Other/~. ARP",
