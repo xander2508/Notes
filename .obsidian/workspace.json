@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Windows Event Log.md",
+                "file": "3. Exploitation/Generic Vulnerabilities/Padding Oracle.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "0f265eb346d0edae",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Windows Event Log.md",
+                "file": "3. Exploitation/Generic Vulnerabilities/Padding Oracle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Windows Event Log.md",
+                "file": "3. Exploitation/Generic Vulnerabilities/Padding Oracle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Windows Event Log.md"
+                "file": "3. Exploitation/Generic Vulnerabilities/Padding Oracle.md"
               }
             }
           },
@@ -221,10 +210,10 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "0f265eb346d0edae",
+  "active": "744b9316b7030f7b",
   "lastOpenFiles": [
-    "5. Standard Information/Operating Systems/Windows/Powershell/1. Overview.md",
     "5. Standard Information/Operating Systems/Windows/Windows Event Log.md",
+    "5. Standard Information/Operating Systems/Windows/Powershell/1. Overview.md",
     "5. Standard Information/Operating Systems/Linux/Logging.md",
     "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Scheduled Tasks/1. Guide.md",
     "4. Post Exploitation/Operating Systems/Windows/Tooling/Default Tooling/Finding Users and Groups.md",
