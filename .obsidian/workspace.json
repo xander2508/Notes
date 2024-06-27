@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Useful Windows Event Logs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Useful Windows Event Logs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Useful Windows Event Logs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md"
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Useful Windows Event Logs.md"
               }
             }
           },
@@ -210,11 +210,12 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "744b9316b7030f7b",
+  "active": "e3ec342542d91bb8",
   "lastOpenFiles": [
+    "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md",
+    "5. Standard Information/Operating Systems/Windows/Event Log/Useful Windows Event Logs.md",
     "5. Standard Information/Operating Systems/Windows/Event Log",
     "3. Exploitation/Generic Vulnerabilities/Padding Oracle.md",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md",
     "5. Standard Information/Operating Systems/Windows/Powershell/1. Overview.md",
     "5. Standard Information/Operating Systems/Linux/Logging.md",
     "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Scheduled Tasks/1. Guide.md",
@@ -247,7 +248,6 @@
     "2. Enumeration/UDP/5355. Link-Local Multicast Name Resolution (LLMNR)",
     "2. Enumeration/UDP/137. Netbios",
     "smart-chats",
-    "5. Standard Information/Operating Systems/Windows/File Systems/Types",
     "7. Misc/Images/Pasted image 20240531131450.png",
     "7. Misc/Images/Pasted image 20240531131330.png",
     "7. Misc/Images/Pasted image 20240531131153.png",
