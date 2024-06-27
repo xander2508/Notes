@@ -40,15 +40,20 @@ An `event` is any action or occurrence that can be identified and classified b
 
 ## Elements of a Windows Event Log
 
-- `Log name`: As discussed above, the name of the event log where the events will be written. By default, events are logged for `system`, `security`, and `applications`.
-- `Event date/time`: Date and time when the event occurred
-- `Task Category`: The type of recorded event log
-- `Event ID`: A unique identifier for sysadmins to identify a specific logged event
-- `Source`: Where the log originated from, typically the name of a program or software application
-- `Level`: Severity level of the event. This can be information, error, verbose, warning, critical
-- `User`: Username of who logged onto the host when the event occurred
-- `Computer`: Name of the computer where the event is logged
-- 
+Each entry in the Windows Event Log is an "Event" and contains the following primary components:
+
+1. `Log Name`: The name of the event log (e.g., Application, System, Security, etc.).
+2. `Source`: The software that logged the event.
+3. `Event ID`: A unique identifier for the event.
+4. `Task Category`: This often contains a value or name that can help us understand the purpose or use of the event.
+5. `Level`: The severity of the event (Information, Warning, Error, Critical, and Verbose).
+6. `Keywords`: Keywords are flags that allow us to categorize events in ways beyond the other classification options. These are generally broad categories, such as "Audit Success" or "Audit Failure" in the Security log.
+7. `User`: The user account that was logged on when the event occurred.
+8. `OpCode`: This field can identify the specific operation that the event reports.
+9. `Logged`: The date and time when the event was logged.
+10. `Computer`: The name of the computer where the event occurred.
+11. `XML Data`: All the above information is also included in an XML format along with additional event data.
+
 There are many Event IDs that an organization can monitor to detect various issues. In an Active Directory environment, [this list](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/appendix-l--events-to-monitor) includes key events that are recommended to be monitored for to look for signs of a compromise. 
 [This](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/) searchable database of Event IDs is worth perusing to understand the depth of logging possible on a Windows system.
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Exploitation/Generic Vulnerabilities/Padding Oracle.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Exploitation/Generic Vulnerabilities/Padding Oracle.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Exploitation/Generic Vulnerabilities/Padding Oracle.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Exploitation/Generic Vulnerabilities/Padding Oracle.md"
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md"
               }
             }
           },
@@ -212,7 +212,9 @@
   },
   "active": "744b9316b7030f7b",
   "lastOpenFiles": [
-    "5. Standard Information/Operating Systems/Windows/Windows Event Log.md",
+    "5. Standard Information/Operating Systems/Windows/Event Log",
+    "3. Exploitation/Generic Vulnerabilities/Padding Oracle.md",
+    "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md",
     "5. Standard Information/Operating Systems/Windows/Powershell/1. Overview.md",
     "5. Standard Information/Operating Systems/Linux/Logging.md",
     "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Scheduled Tasks/1. Guide.md",
@@ -237,8 +239,6 @@
     "5. Standard Information/Operating Systems/Windows/Powershell/Modules.md",
     "5. Standard Information/Operating Systems/Windows/Powershell/Hotkeys.md",
     "5. Standard Information/Operating Systems/Windows/Powershell/Modules",
-    "3. Exploitation/File Types and Data/PS1 (PowerShell Script).md",
-    "5. Standard Information/Operating Systems/Windows/Powershell/Session History.md",
     "5. Standard Information/Operating Systems/Windows/PowerShell",
     "2. Enumeration/TCP/80. HTTP/Concepts/Interactions",
     "3. Exploitation/Obtaining Remote Shells/Specific Shells/Windows",
