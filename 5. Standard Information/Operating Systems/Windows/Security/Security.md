@@ -51,4 +51,10 @@ The consent prompt interrupts the execution of scripts or binaries that malware 
 ![[Pasted image 20240528150905.png]]
 
 
-## Secuity
+## Security Descriptors
+
+Understanding the meaning of each field in the security descriptor can be accomplished through references such as the article [ACE Strings](https://docs.microsoft.com/en-us/windows/win32/secauthz/ace-strings?redirectedfrom=MSDN) and [Understanding SDDL Syntax](https://itconnect.uw.edu/wares/msinf/other-help/understanding-sddl-syntax/).
+
+## Privileges 
+
+A comprehensive list of privileges can be found in the documentation on [privilege constants](https://docs.microsoft.com/en-us/windows/win32/secauthz/privilege-constants).

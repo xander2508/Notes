@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Security/Security.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sacl",
+                "query": "Windows privileges",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Security/Security.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Security/Security.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Security/Security.md"
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md"
               }
             }
           },
@@ -213,10 +213,10 @@
   },
   "active": "e3ec342542d91bb8",
   "lastOpenFiles": [
+    "5. Standard Information/Operating Systems/Windows/Security/Security.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Querying Logs.md",
     "5. Standard Information/Operating Systems/Windows/Objects and Security Descriptors.md",
-    "5. Standard Information/Operating Systems/Windows/Security/Security.md",
     "7. Misc/Images/image7.webp",
     "5. Standard Information/Operating Systems/Windows/Event Log/Useful Windows Event Logs.md",
     "smart-chats/UNTITLED CHAT 2024-06-16 12 11 57.md",
