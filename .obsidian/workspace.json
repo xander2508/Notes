@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Useful Windows Event Logs.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Querying Logs.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5
+    "width": 200
   },
   "right": {
     "id": "ab865be945a38766",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Useful Windows Event Logs.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Querying Logs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Useful Windows Event Logs.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Querying Logs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Useful Windows Event Logs.md"
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Querying Logs.md"
               }
             }
           },
@@ -195,25 +195,30 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "omnisearch:Omnisearch": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "obsidian-importer:Open Importer": false,
       "smart-connections:Open: View Smart Connections": false,
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "e3ec342542d91bb8",
+  "active": "744b9316b7030f7b",
   "lastOpenFiles": [
-    "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md",
+    "7. Misc/Images/image7.webp",
     "5. Standard Information/Operating Systems/Windows/Event Log/Useful Windows Event Logs.md",
+    "5. Standard Information/Operating Systems/Windows/Event Log/Querying Logs.md",
+    "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md",
+    "smart-chats/UNTITLED CHAT 2024-06-16 12 11 57.md",
+    "smart-chats/UNTITLED CHAT 2024-06-16 11 55 44.md",
     "5. Standard Information/Operating Systems/Windows/Event Log",
     "3. Exploitation/Generic Vulnerabilities/Padding Oracle.md",
     "5. Standard Information/Operating Systems/Windows/Powershell/1. Overview.md",
@@ -235,10 +240,6 @@
     "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Files/List Files (dir).md",
     "4. Post Exploitation/Operating Systems/Windows/1. Guide.md",
     "4. Post Exploitation/Operating Systems/Windows/Tooling/Default Tooling/Finding Shared Resources.md",
-    "5. Standard Information/Operating Systems/Windows/Powershell/Modules/Make Modules.md",
-    "5. Standard Information/Operating Systems/Windows/Powershell/Modules/1. Overview.md",
-    "5. Standard Information/Operating Systems/Windows/Powershell/Modules.md",
-    "5. Standard Information/Operating Systems/Windows/Powershell/Hotkeys.md",
     "5. Standard Information/Operating Systems/Windows/Powershell/Modules",
     "5. Standard Information/Operating Systems/Windows/PowerShell",
     "2. Enumeration/TCP/80. HTTP/Concepts/Interactions",

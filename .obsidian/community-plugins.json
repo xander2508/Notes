@@ -1,7 +1,6 @@
 [
   "obsidian-hover-editor",
   "breadcrumbs",
-  "obsidian-admonition",
   "obsidian-git",
   "obsidian-icon-folder",
   "obsidian-textgenerator-plugin",
@@ -15,5 +14,8 @@
   "find-unlinked-files",
   "various-complements",
   "obsidian-linter",
-  "omnisearch"
+  "omnisearch",
+  "obsidian-admonition",
+  "obsidian-hider",
+  "obsidian-importer"
 ]
