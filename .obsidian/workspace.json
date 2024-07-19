@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Querying Logs.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Security/Security.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "event logging",
+                "query": "sacl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Querying Logs.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Security/Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Querying Logs.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Security/Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Querying Logs.md"
+                "file": "5. Standard Information/Operating Systems/Windows/Security/Security.md"
               }
             }
           },
@@ -211,12 +211,14 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "744b9316b7030f7b",
+  "active": "e3ec342542d91bb8",
   "lastOpenFiles": [
+    "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md",
+    "5. Standard Information/Operating Systems/Windows/Event Log/Querying Logs.md",
+    "5. Standard Information/Operating Systems/Windows/Objects and Security Descriptors.md",
+    "5. Standard Information/Operating Systems/Windows/Security/Security.md",
     "7. Misc/Images/image7.webp",
     "5. Standard Information/Operating Systems/Windows/Event Log/Useful Windows Event Logs.md",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Querying Logs.md",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md",
     "smart-chats/UNTITLED CHAT 2024-06-16 12 11 57.md",
     "smart-chats/UNTITLED CHAT 2024-06-16 11 55 44.md",
     "5. Standard Information/Operating Systems/Windows/Event Log",
@@ -239,7 +241,6 @@
     "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Files/Sort Files.md",
     "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Files/List Files (dir).md",
     "4. Post Exploitation/Operating Systems/Windows/1. Guide.md",
-    "4. Post Exploitation/Operating Systems/Windows/Tooling/Default Tooling/Finding Shared Resources.md",
     "5. Standard Information/Operating Systems/Windows/Powershell/Modules",
     "5. Standard Information/Operating Systems/Windows/PowerShell",
     "2. Enumeration/TCP/80. HTTP/Concepts/Interactions",
@@ -258,7 +259,6 @@
     "7. Misc/Images/Pasted image 20240513193124.png",
     "7. Misc/Images/Pasted image 20240507090421.png",
     "7. Misc/Images/Pasted image 20240507090109.png",
-    "7. Misc/Images/2b5171cc7bf44b8996e85892d1c26c35 1.png",
     "Untitled.canvas"
   ]
 }

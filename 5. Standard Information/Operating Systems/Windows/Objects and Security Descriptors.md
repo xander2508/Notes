@@ -4,6 +4,8 @@ Every named object in Windows is a [securable object](https://docs.microsoft.co
 
 Generally, a DACL is used for controlling access to an object, and a SACL is used to account for and log access attempts. This section will examine the DACL, but the same concepts would apply to a SACL.
 
+For more information about SACLs, see [Audit Generation](https://learn.microsoft.com/en-us/windows/win32/secauthz/audit-generation) and [SACL Access Right](https://learn.microsoft.com/en-us/windows/win32/secauthz/sacl-access-right)."
+
 ```
 D:(A;;CCLCSWRPLORC;;;AU)(A;;CCDCLCSWRPWPDTLOCRSDRCWDWO;;;BA)(A;;CCDCLCSWRPWPDTLOCRSDRCWDWO;;;SY)
 ```
