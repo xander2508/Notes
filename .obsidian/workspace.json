@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/System Monitor (Sysmon).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/System Monitor (Sysmon).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/System Monitor (Sysmon).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md"
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/System Monitor (Sysmon).md"
               }
             }
           },
@@ -213,8 +213,9 @@
   },
   "active": "e3ec342542d91bb8",
   "lastOpenFiles": [
-    "5. Standard Information/Operating Systems/Windows/Security/Security.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md",
+    "5. Standard Information/Operating Systems/Windows/Event Log/System Monitor (Sysmon).md",
+    "5. Standard Information/Operating Systems/Windows/Security/Security.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Querying Logs.md",
     "5. Standard Information/Operating Systems/Windows/Objects and Security Descriptors.md",
     "7. Misc/Images/image7.webp",
@@ -240,7 +241,6 @@
     "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Files/Search in File.md",
     "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Files/Sort Files.md",
     "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Files/List Files (dir).md",
-    "4. Post Exploitation/Operating Systems/Windows/1. Guide.md",
     "5. Standard Information/Operating Systems/Windows/Powershell/Modules",
     "5. Standard Information/Operating Systems/Windows/PowerShell",
     "2. Enumeration/TCP/80. HTTP/Concepts/Interactions",
