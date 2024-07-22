@@ -8,6 +8,8 @@ It is worth noting that if assistance is required in crafting the query, automat
 
 ## Interacting with the Windows Event Log
 
+Use the GUI and XML filtering if possible
+
 ### wevtutil
 
 The [wevtutil](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/wevtutil) command line utility can be used to retrieve information about event logs. It can also be used to export, archive, and clear logs, among other commands.
@@ -73,7 +75,7 @@ Get-WinEvent -LogName 'Security' -MaxEvents 5 | Select-Object -ExpandProperty Me
 
 From here, we could use the `-ExpandProperty` parameter to dig deeper into specific events, list logs from oldest to newest, etc.
 
-#### Filtering for Logon Failures
+#### Filtering
 
 ```powershell-session
 Get-WinEvent -FilterHashTable @{LogName='Security';ID='4625 '}
