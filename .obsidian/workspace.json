@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "98ab9ed27c3e3348",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,8 +222,9 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "e3ec342542d91bb8",
+  "active": "98ab9ed27c3e3348",
   "lastOpenFiles": [
+    "smart-chats",
     "5. Standard Information/Operating Systems/Windows/Security/Security.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Querying Logs.md",
