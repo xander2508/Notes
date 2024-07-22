@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 340.5
   },
   "right": {
     "id": "ab865be945a38766",
@@ -240,7 +240,6 @@
     "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Files/Search in File.md",
     "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Files/Sort Files.md",
     "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Files/List Files (dir).md",
-    "4. Post Exploitation/Operating Systems/Windows/1. Guide.md",
     "5. Standard Information/Operating Systems/Windows/Powershell/Modules",
     "5. Standard Information/Operating Systems/Windows/PowerShell",
     "2. Enumeration/TCP/80. HTTP/Concepts/Interactions",
@@ -249,7 +248,6 @@
     "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Network",
     "2. Enumeration/UDP/5355. Link-Local Multicast Name Resolution (LLMNR)",
     "2. Enumeration/UDP/137. Netbios",
-    "smart-chats",
     "7. Misc/Images/Pasted image 20240531131450.png",
     "7. Misc/Images/Pasted image 20240531131330.png",
     "7. Misc/Images/Pasted image 20240531131153.png",
