@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Querying Logs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Querying Logs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Querying Logs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md"
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Querying Logs.md"
               }
             }
           },
@@ -213,9 +213,10 @@
   },
   "active": "e3ec342542d91bb8",
   "lastOpenFiles": [
-    "5. Standard Information/Operating Systems/Windows/Event Log/Useful Windows Event Logs.md",
+    "5. Standard Information/Operating Systems/Windows/Powershell/Everything is an Object.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Querying Logs.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md",
+    "5. Standard Information/Operating Systems/Windows/Event Log/Useful Windows Event Logs.md",
     "5. Standard Information/Operating Systems/Windows/Objects and Security Descriptors.md",
     "conflict-files-obsidian-git.md",
     "smart-chats",
@@ -229,7 +230,6 @@
     "5. Standard Information/Operating Systems/Linux/Logging.md",
     "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Scheduled Tasks/1. Guide.md",
     "4. Post Exploitation/Operating Systems/Windows/Tooling/Default Tooling/Finding Users and Groups.md",
-    "5. Standard Information/Operating Systems/Windows/Powershell/Everything is an Object.md",
     "5. Standard Information/Operating Systems/Windows/Powershell/Commands/Chaining Commands.md",
     "4. Post Exploitation/Operating Systems/Windows/Tooling/Default Tooling/Services/Tasklist.md",
     "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Generic Enumeration Commands.md",

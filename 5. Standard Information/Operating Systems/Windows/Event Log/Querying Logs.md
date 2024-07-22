@@ -82,3 +82,7 @@ Get-WinEvent -FilterHashTable @{LogName='Security';ID='4625 '}
 ```powershell-session
 Get-WinEvent -FilterHashTable @{LogName='System';Level='1'} | select-object -ExpandProperty Message
 ```
+
+```
+Get-WinEvent -FilterHashTable @{LogName='Security';ID='4624';TimeCreated=[datetime]'8/3/2022 10:23:25 am'} 
+```
