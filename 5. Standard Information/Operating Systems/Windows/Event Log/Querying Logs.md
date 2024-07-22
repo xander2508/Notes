@@ -84,5 +84,5 @@ Get-WinEvent -FilterHashTable @{LogName='System';Level='1'} | select-object -Exp
 ```
 
 ```
-Get-WinEvent -FilterHashTable @{LogName='Security';ID='4624';TimeCreated=[datetime]'8/3/2022 10:23:25 am'} 
+Get-WinEvent -FilterHashTable @{LogName='Security';ID='4624';StartTime="2022-08-03T10:23:25";EndTime="2022-08-03T10:23:25"}
 ```
