@@ -92,3 +92,7 @@ $time2 =  get-date('08/03/2022 10:23:26')```
 ```
 Get-WinEvent -FilterHashtable @{LogName = 'Security'; Id = 4624; StartTime = $time1; EndTime = $time2 } 
 ```
+
+```
+Get-WinEvent -FilterHashtable @{ LogName = 'Security'; Id = 4907 } | Where-Object { $_.Properties | Where-Object { $_.Value -eq '0x3E7' } }
+```
