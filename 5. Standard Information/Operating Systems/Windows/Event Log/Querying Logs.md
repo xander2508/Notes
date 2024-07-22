@@ -94,5 +94,33 @@ Get-WinEvent -FilterHashtable @{LogName = 'Security'; Id = 4624; StartTime = $ti
 ```
 
 ```
-Get-WinEvent -FilterHashtable @{ LogName = 'Security'; Id = 4907 } | Where-Object { $_.Properties | Where-Object { $_.Value -eq '0x3E7' } }
+Get-WinEvent -FilterHashtable @{
+    LogName = 'Security';
+    Id = 4907
+} | Where-Object {
+    $_.Properties | Where-Object {
+        $_.Value -eq '0x3E7'
+    }
+}
+
+```
+
+```
+Get-WinEvent -FilterHashtable @{
+    LogName = 'Security';
+    Id = 4907
+} | Where-Object {
+    $_.Properties | Where-Object {
+        $_.Value -eq '0x3E7'
+    }
+} | ForEach-Object {
+    $xml = [xml]$_.ToXml()
+    $processName = $xml.Event.EventData.Data | Where-Object { $_.Name -eq "ProcessName" }
+    [PSCustomObject]@{
+        TimeCreated = $_.TimeCreated
+        EventId = $_.Id
+        ProcessName = $processName.'#text'
+    }
+}
+
 ```
