@@ -33,4 +33,7 @@ sysmon.exe -c filename.xml
 
 ## Detection Example 1: Detecting DLL Hijacking
 
- To detect a DLL hijack, we need to focus on `Event Type 7`, which corresponds to module load events. To achieve this, we need to modify the `sysmonconfig-export.xml`
+To detect a DLL hijack, we need to focus on `Event Type 7`, which corresponds to module load events. To achieve this, we need to modify the `sysmonconfig-export.xml`.
+ 
+By examining the modified configuration, we can observe that the "include" comment signifies events that should be included.
+![[image14.webp]]
