@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Querying Logs.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Useful Windows Event Logs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Querying Logs.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Useful Windows Event Logs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Querying Logs.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Useful Windows Event Logs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Querying Logs.md"
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Useful Windows Event Logs.md"
               }
             }
           },
@@ -211,12 +211,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "744b9316b7030f7b",
+  "active": "e3ec342542d91bb8",
   "lastOpenFiles": [
+    "5. Standard Information/Operating Systems/Windows/Event Log/Querying Logs.md",
     "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities/File Upload Filtering Bypasses.md",
     "7. Misc/smart-chats",
     "5. Standard Information/Operating Systems/Windows/Powershell/Everything is an Object.md",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Querying Logs.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Useful Windows Event Logs.md",
     "5. Standard Information/Operating Systems/Windows/Objects and Security Descriptors.md",
