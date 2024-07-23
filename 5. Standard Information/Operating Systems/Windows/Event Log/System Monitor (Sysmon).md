@@ -32,7 +32,7 @@ To utilize a custom Sysmon configuration, execute the following after installing
 sysmon.exe -c filename.xml
 ```
 
-## Detection Example 1: Detecting DLL Hijacking
+# Detection Example 1: Detecting DLL Hijacking
 
 To detect a DLL hijack, we need to focus on `Event Type 7`, which corresponds to module load events. To achieve this, we need to modify the `sysmonconfig-export.xml`.
  
@@ -61,3 +61,12 @@ Next, we analyse the impact of the hijack. First, we filter the event logs to fo
 ![[image21 1.webp]]
 
 Subsequently, we search for instances of "calc.exe", by clicking "Find...", to identify the DLL load associated with our hijack.
+
+Let's explore these indicators of compromise (IOC):
+
+1. "calc.exe", originally located in System32, should not be found in a writable directory. Therefore, a copy of "calc.exe" in a writable directory serves as an IOC, as it should always reside in System32 or potentially Syswow64.
+2. "WININET.dll", originally located in System32, should not be loaded outside of System32 by calc.exe. If instances of "WININET.dll" loading occur outside of System32 with "calc.exe" as the parent process, it indicates a DLL hijack within calc.exe.
+3. The original "WININET.dll" is Microsoft-signed, while our injected DLL remains unsigned.
+
+# Detection Example 2: Detecting Unmanaged PowerShell/C-Sharp Injection
+
