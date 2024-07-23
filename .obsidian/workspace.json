@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/System Monitor (Sysmon).md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/System Monitor (Sysmon).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/System Monitor (Sysmon).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md"
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/System Monitor (Sysmon).md"
               }
             }
           },
@@ -186,7 +187,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -211,14 +212,15 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "e3ec342542d91bb8",
+  "active": "3bca4875dab82589",
   "lastOpenFiles": [
     "5. Standard Information/Operating Systems/Windows/Event Log/Useful Windows Event Logs.md",
+    "5. Standard Information/Operating Systems/Windows/Event Log/System Monitor (Sysmon).md",
+    "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Querying Logs.md",
     "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities/File Upload Filtering Bypasses.md",
     "7. Misc/smart-chats",
     "5. Standard Information/Operating Systems/Windows/Powershell/Everything is an Object.md",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md",
     "5. Standard Information/Operating Systems/Windows/Objects and Security Descriptors.md",
     "conflict-files-obsidian-git.md",
     "5. Standard Information/Operating Systems/Windows/Security/Security.md",
@@ -241,7 +243,6 @@
     "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Files/Read Files.md",
     "5. Standard Information/Operating Systems/Windows/Powershell/Commands/Command Syntax.md",
     "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Files/Search in File.md",
-    "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Files/Sort Files.md",
     "5. Standard Information/Operating Systems/Windows/Powershell/Modules",
     "5. Standard Information/Operating Systems/Windows/PowerShell",
     "2. Enumeration/TCP/80. HTTP/Concepts/Interactions",
