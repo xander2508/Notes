@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/System Monitor (Sysmon).md",
+                "file": "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/DLL Hijacking.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/System Monitor (Sysmon).md",
+                "file": "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/DLL Hijacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/System Monitor (Sysmon).md",
+                "file": "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/DLL Hijacking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/System Monitor (Sysmon).md"
+                "file": "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/DLL Hijacking.md"
               }
             }
           },
@@ -213,9 +213,9 @@
   },
   "active": "e3ec342542d91bb8",
   "lastOpenFiles": [
+    "5. Standard Information/Operating Systems/Windows/Event Log/System Monitor (Sysmon).md",
     "7. Misc/Images/image15.webp",
     "7. Misc/Images/image14.webp",
-    "5. Standard Information/Operating Systems/Windows/Event Log/System Monitor (Sysmon).md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Querying Logs.md",
     "7. Misc/Images/Pasted image 20240531131153.png",
     "7. Misc/Images/Pasted image 20240531131119.png",
@@ -225,7 +225,6 @@
     "7. Misc/Images/Pasted image 20240507090421.png",
     "7. Misc/Images/Pasted image 20240507090109.png",
     "7. Misc/Images/image7.webp",
-    "7. Misc/Images/2b5171cc7bf44b8996e85892d1c26c35 1.png",
     "7. Misc 1/Images",
     "7. Misc 1",
     "5. Standard Information/Operating Systems/Windows/Event Log/Useful Windows Event Logs.md",
