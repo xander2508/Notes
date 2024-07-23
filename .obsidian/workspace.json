@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -212,7 +211,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "3bca4875dab82589",
+  "active": "e3ec342542d91bb8",
   "lastOpenFiles": [
     "5. Standard Information/Operating Systems/Windows/Event Log/Useful Windows Event Logs.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/System Monitor (Sysmon).md",
