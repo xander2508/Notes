@@ -35,7 +35,8 @@ sysmon.exe -c filename.xml
 # Detection Example 1: Detecting DLL Hijacking
 
 To detect a DLL hijack, we need to focus on `Event Type 7`, which corresponds to module load events. To achieve this, we need to modify the `sysmonconfig-export.xml`.
- 
+## Modifying Configuration
+
 By examining the modified configuration, we can observe that the "include" comment signifies events that should be included.
 
 ![[image14.webp]]
@@ -51,6 +52,8 @@ sysmon.exe -c sysmonconfig-export.xml
 ```
 
 To view these events, navigate to the Event Viewer and access "Applications and Services" -> "Microsoft" -> "Windows" -> "Sysmon."
+
+## DLL Attack
 
 Let's attempt the hijack using "calc.exe" and "WININET.dll" as an example. To simplify the process, we can utilize Stephen Fewer's "hello world" [reflective DLL](https://github.com/stephenfewer/ReflectiveDLLInjection/tree/master/bin). It should be noted that DLL hijacking does not require reflective DLLs.
 
