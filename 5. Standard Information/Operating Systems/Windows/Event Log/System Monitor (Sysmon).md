@@ -88,8 +88,6 @@ To showcase unmanaged PowerShell injection, we can inject an [unmanaged PowerSh
 
 After the injection, we observe that "spoolsv.exe" transitions from an unmanaged to a managed state as it is running Powershell.exe.
 
-By checking `Sysmon event ID 10`, which represents "ProcessAccess" events, we can identify any suspicious attempts to access LSASS.
-
 # Detection Example 3: Detecting Credential Dumping
 
 One widely used tool for credential dumping is [Mimikatz](https://github.com/gentilkiwi/mimikatz), offering various methods for extracting Windows credentials. One specific command, "sekurlsa::logonpasswords", enables the dumping of password hashes or plaintext passwords by accessing the [Local Security Authority Subsystem Service (LSASS)](https://en.wikipedia.org/wiki/Local_Security_Authority_Subsystem_Service). LSASS is responsible for managing user credentials and is a primary target for credential-dumping tools like Mimikatz.
