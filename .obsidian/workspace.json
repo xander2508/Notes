@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ed2e587c2dc267ed",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,8 +211,9 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "ed2e587c2dc267ed",
+  "active": "e3ec342542d91bb8",
   "lastOpenFiles": [
+    "smart-chats",
     "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/System Monitor (Sysmon).md",
     "5. Standard Information/Operating Systems/Windows/Security/Security.md",
@@ -251,7 +241,6 @@
     "5. Standard Information/Operating Systems/Windows/Powershell/Commands/Command Syntax.md",
     "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Files/Search in File.md",
     "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Files/Sort Files.md",
-    "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Files/List Files (dir).md",
     "5. Standard Information/Operating Systems/Windows/Powershell/Modules",
     "5. Standard Information/Operating Systems/Windows/PowerShell",
     "2. Enumeration/TCP/80. HTTP/Concepts/Interactions",
@@ -260,7 +249,6 @@
     "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Network",
     "2. Enumeration/UDP/5355. Link-Local Multicast Name Resolution (LLMNR)",
     "2. Enumeration/UDP/137. Netbios",
-    "smart-chats",
     "7. Misc/Images/Pasted image 20240531131450.png",
     "7. Misc/Images/Pasted image 20240531131330.png",
     "7. Misc/Images/Pasted image 20240531131153.png",
