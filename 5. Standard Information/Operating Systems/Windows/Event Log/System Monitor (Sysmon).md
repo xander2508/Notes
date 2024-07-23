@@ -10,6 +10,8 @@ Sysmon's primary components include:
 
 The full list of Sysmon event IDs can be found [here](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon).
 
+# Configuration
+
 For customisation and granular control, Sysmon uses an XML configuration file:
 
 - For a comprehensive configuration, we can visit: [https://github.com/SwiftOnSecurity/sysmon-config](https://github.com/SwiftOnSecurity/sysmon-config).
@@ -28,3 +30,7 @@ To utilize a custom Sysmon configuration, execute the following after installing
 ```shell-session
 sysmon.exe -c filename.xml
 ```
+
+## Detection Example 1: Detecting DLL Hijacking
+
+ To detect a DLL hijack, we need to focus on `Event Type 7`, which corresponds to module load events. To achieve this, we need to modify the `sysmonconfig-export.xml`

@@ -1,5 +1,6 @@
 {
   "promptDelete": true,
   "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./7. Misc/images"
 }
