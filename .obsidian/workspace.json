@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Windows privileges",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 340.5
   },
   "right": {
     "id": "ab865be945a38766",
@@ -186,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -195,32 +195,37 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "breadcrumbs:Breadcrumbs Visualisation": false,
-      "obsidian-importer:Open Importer": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "smart-connections:Open: Smart Chat Conversation": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-importer:Open Importer": false
     }
   },
   "active": "e3ec342542d91bb8",
   "lastOpenFiles": [
-    "smart-chats",
+    "5. Standard Information/Operating Systems/Windows/Event Log/Useful Windows Event Logs.md",
+    "5. Standard Information/Operating Systems/Windows/Event Log/System Monitor (Sysmon).md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/System Monitor (Sysmon).md",
     "5. Standard Information/Operating Systems/Windows/Security/Security.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Querying Logs.md",
+    "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities/File Upload Filtering Bypasses.md",
+    "7. Misc/smart-chats",
+    "5. Standard Information/Operating Systems/Windows/Powershell/Everything is an Object.md",
     "5. Standard Information/Operating Systems/Windows/Objects and Security Descriptors.md",
+    "conflict-files-obsidian-git.md",
+    "5. Standard Information/Operating Systems/Windows/Security/Security.md",
     "7. Misc/Images/image7.webp",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Useful Windows Event Logs.md",
     "smart-chats/UNTITLED CHAT 2024-06-16 12 11 57.md",
     "smart-chats/UNTITLED CHAT 2024-06-16 11 55 44.md",
     "5. Standard Information/Operating Systems/Windows/Event Log",
@@ -229,7 +234,6 @@
     "5. Standard Information/Operating Systems/Linux/Logging.md",
     "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Scheduled Tasks/1. Guide.md",
     "4. Post Exploitation/Operating Systems/Windows/Tooling/Default Tooling/Finding Users and Groups.md",
-    "5. Standard Information/Operating Systems/Windows/Powershell/Everything is an Object.md",
     "5. Standard Information/Operating Systems/Windows/Powershell/Commands/Chaining Commands.md",
     "4. Post Exploitation/Operating Systems/Windows/Tooling/Default Tooling/Services/Tasklist.md",
     "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Generic Enumeration Commands.md",
