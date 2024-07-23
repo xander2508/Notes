@@ -86,7 +86,9 @@ To showcase unmanaged PowerShell injection, we can inject an [unmanaged PowerSh
  Invoke-PSInject -ProcId [Process ID of spoolsv.exe] -PoshCode "V3JpdGUtSG9zdCAiSGVsbG8sIEd1cnU5OSEi"
 ```
 
-After the injection, we observe that "spoolsv.exe" transitions from an unmanaged to a managed state as it is running PowerShell
+After the injection, we observe that "spoolsv.exe" transitions from an unmanaged to a managed state as it is running Powershell.exe.
+
+By checking `Sysmon event ID 10`, which represents "ProcessAccess" events, we can identify any suspicious attempts to access LSASS.
 
 # Detection Example 3: Detecting Credential Dumping
 
