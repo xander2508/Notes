@@ -136,3 +136,7 @@ SID               : S-1-5-21-2712802632-2324259492-1677155984-500
 As we can see, the output of the "sekurlsa::logonpasswords" command provides powerful insights into compromised credentials.
 
 To detect this activity, we can rely on a different Sysmon event. Instead of focusing on DLL loads, we shift our attention to process access events. By checking `Sysmon event ID 10`, which represents "ProcessAccess" events, we can identify any suspicious attempts to access LSASS.
+
+![[image33.webp]]
+
+Please note that some legitimate processes may access LSASS, such as authentication-related processes or security tools like AV or EDR.
