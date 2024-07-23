@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/DLL Hijacking.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/System Monitor (Sysmon).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/DLL Hijacking.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/System Monitor (Sysmon).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/DLL Hijacking.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/System Monitor (Sysmon).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/DLL Hijacking.md"
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/System Monitor (Sysmon).md"
               }
             }
           },
@@ -185,8 +185,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "horizontal",
@@ -213,7 +212,10 @@
   },
   "active": "e3ec342542d91bb8",
   "lastOpenFiles": [
+    "7. Misc/Images/image21 1.webp",
+    "7. Misc/Images/image21.webp",
     "5. Standard Information/Operating Systems/Windows/Event Log/System Monitor (Sysmon).md",
+    "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/DLL Hijacking.md",
     "7. Misc/Images/image15.webp",
     "7. Misc/Images/image14.webp",
     "5. Standard Information/Operating Systems/Windows/Event Log/Querying Logs.md",
@@ -224,7 +226,6 @@
     "7. Misc/Images/Pasted image 20240513193124.png",
     "7. Misc/Images/Pasted image 20240507090421.png",
     "7. Misc/Images/Pasted image 20240507090109.png",
-    "7. Misc/Images/image7.webp",
     "7. Misc 1/Images",
     "7. Misc 1",
     "5. Standard Information/Operating Systems/Windows/Event Log/Useful Windows Event Logs.md",
@@ -251,7 +252,6 @@
     "5. Standard Information/Operating Systems/Windows/Powershell/Modules/Use Modules.md",
     "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Files/Finding Files.md",
     "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Files/Read Files.md",
-    "5. Standard Information/Operating Systems/Windows/Powershell/Commands/Command Syntax.md",
     "5. Standard Information/Operating Systems/Windows/Powershell/Modules",
     "5. Standard Information/Operating Systems/Windows/PowerShell",
     "2. Enumeration/TCP/80. HTTP/Concepts/Interactions",
