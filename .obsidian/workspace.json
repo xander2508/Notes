@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c58972a98b16a71d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "7. Misc/Images/image14.webp"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Misc/Images/image14.webp",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/System Monitor (Sysmon).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Misc/Images/image14.webp",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/System Monitor (Sysmon).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Misc/Images/image14.webp"
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/System Monitor (Sysmon).md"
               }
             }
           },
@@ -222,10 +211,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "744b9316b7030f7b",
+  "active": "e3ec342542d91bb8",
   "lastOpenFiles": [
-    "5. Standard Information/Operating Systems/Windows/Event Log/System Monitor (Sysmon).md",
+    "7. Misc/Images/image15.webp",
     "7. Misc/Images/image14.webp",
+    "5. Standard Information/Operating Systems/Windows/Event Log/System Monitor (Sysmon).md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Querying Logs.md",
     "7. Misc/Images/Pasted image 20240531131153.png",
     "7. Misc/Images/Pasted image 20240531131119.png",

@@ -10,6 +10,7 @@ Sysmon's primary components include:
 
 The full list of Sysmon event IDs can be found [here](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon).
 
+To view these events, navigate to the Event Viewer and access "Applications and Services" -> "Microsoft" -> "Windows" -> "Sysmon."
 # Configuration
 
 For customisation and granular control, Sysmon uses an XML configuration file:
@@ -36,4 +37,17 @@ sysmon.exe -c filename.xml
 To detect a DLL hijack, we need to focus on `Event Type 7`, which corresponds to module load events. To achieve this, we need to modify the `sysmonconfig-export.xml`.
  
 By examining the modified configuration, we can observe that the "include" comment signifies events that should be included.
+
 ![[image14.webp]]
+
+In the case of detecting DLL hijacks, we change the "include" to "exclude" to ensure that nothing is excluded, allowing us to capture the necessary data.
+
+![[image15.webp]]
+
+To utilize the updated Sysmon configuration, execute the following.
+
+```shell-session
+sysmon.exe -c sysmonconfig-export.xml
+```
+
+To view these events, navigate to the Event Viewer and access "Applications and Services" -> "Microsoft" -> "Windows" -> "Sysmon."
