@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ed2e587c2dc267ed",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,7 +222,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "e3ec342542d91bb8",
+  "active": "ed2e587c2dc267ed",
   "lastOpenFiles": [
     "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/System Monitor (Sysmon).md",
