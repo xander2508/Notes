@@ -212,6 +212,7 @@
   },
   "active": "e3ec342542d91bb8",
   "lastOpenFiles": [
+    "7. Misc/Images/image77.webp",
     "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Bring Your Own Land.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Event Tracing for Windows (ETW).md",
     "4. Post Exploitation/Operating Systems/Windows/Tooling/Invoke-Obfuscation.md",
@@ -251,7 +252,6 @@
     "5. Standard Information/Operating Systems/Linux/Logging.md",
     "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Scheduled Tasks/1. Guide.md",
     "4. Post Exploitation/Operating Systems/Windows/Tooling/Default Tooling/Finding Users and Groups.md",
-    "5. Standard Information/Operating Systems/Windows/Powershell/Commands/Chaining Commands.md",
     "5. Standard Information/Operating Systems/Windows/Powershell/Modules",
     "5. Standard Information/Operating Systems/Windows/PowerShell",
     "2. Enumeration/TCP/80. HTTP/Concepts/Interactions",
