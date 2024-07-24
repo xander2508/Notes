@@ -294,3 +294,6 @@ The `etw.json` file (that includes data from the `Microsoft-Windows-Kernel-Pr
 
 ## Detection Example 2: Detecting Malicious .NET Assembly Loading
 
+In a manner akin to how we detected the execution of unmanaged PowerShell scripts through the observation of anomalous `clr.dll` and `clrjit.dll` (See [[System Monitor (Sysmon)#Detection Example 2 Detecting Unmanaged PowerShell/C-Sharp Injection|PowerShell Detection]]) loading activity in processes that ordinarily wouldn't require them, we can employ a similar approach to identify malicious .NET assembly loading. This is achieved by scrutinizing the activity related to the loading of [.NET-associated DLLs](https://redhead0ntherun.medium.com/detecting-net-c-injection-execute-assembly-1894dbb04ff7), specifically `clr.dll` and `mscoree.dll`.
+
+Monitoring the loading of such libraries can help reveal attempts to execute .NET assemblies in unusual or unexpected contexts, which can be a sign of malicious activity. This type of DLL loading behavior can often be detected by leveraging Sysmon's Event ID 7, which corresponds to "Image Loaded" events.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Bring Your Own Land.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Event Tracing for Windows (ETW).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Bring Your Own Land.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Event Tracing for Windows (ETW).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Bring Your Own Land.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Event Tracing for Windows (ETW).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Bring Your Own Land.md"
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Event Tracing for Windows (ETW).md"
               }
             }
           },
@@ -212,8 +212,8 @@
   },
   "active": "e3ec342542d91bb8",
   "lastOpenFiles": [
-    "5. Standard Information/Operating Systems/Windows/Event Log/Event Tracing for Windows (ETW).md",
     "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Bring Your Own Land.md",
+    "5. Standard Information/Operating Systems/Windows/Event Log/Event Tracing for Windows (ETW).md",
     "4. Post Exploitation/Operating Systems/Windows/Tooling/Invoke-Obfuscation.md",
     "4. Post Exploitation/Operating Systems/Windows/Tooling/PsGetSystem.md",
     "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Impersonate Users.md",
