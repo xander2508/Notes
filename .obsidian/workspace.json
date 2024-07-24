@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)/ETW - GUI Alternatives.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Get-WinEvent.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)/ETW - Logman.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Get-WinEvent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)/ETW - Logman.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Get-WinEvent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)/ETW - Logman.md"
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Get-WinEvent.md"
               }
             }
           },
@@ -210,21 +210,21 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "744b9316b7030f7b",
+  "active": "e3ec342542d91bb8",
   "lastOpenFiles": [
-    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)/ETW - GUI Alternatives.md",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)/ETW - Logman.md",
+    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/wevtutil.md",
+    "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md",
+    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Get-WinEvent.md",
+    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)/SilkETW.md",
+    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)/Logman.md",
+    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)/GUI Alternatives.md",
     "4. Post Exploitation/Operating Systems/Windows/Tooling/WinPeas.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)/ETW - SilkETW.md",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Get-WinEvent.md",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Querying Logs.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Event Tracing for Windows (ETW).md",
     "4. Post Exploitation/Operating Systems/Windows/Tooling/SysInternals.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Tools",
     "5. Standard Information/Operating Systems/Windows/Event Log/Untitled.md",
-    "5. Standard Information/Operating Systems/Windows/Event Log/System Monitor (Sysmon).md",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md",
+    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/System Monitor (Sysmon).md",
     "7. Misc/Images/Pasted image 20240724135747.png",
     "7. Misc/Images/image77.webp",
     "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Bring Your Own Land.md",
