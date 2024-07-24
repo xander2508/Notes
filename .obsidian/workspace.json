@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/System Monitor (Sysmon).md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Event Tracing for Windows (ETW).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/System Monitor (Sysmon).md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Event Tracing for Windows (ETW).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/System Monitor (Sysmon).md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Event Tracing for Windows (ETW).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/System Monitor (Sysmon).md"
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Event Tracing for Windows (ETW).md"
               }
             }
           },
@@ -212,9 +212,10 @@
   },
   "active": "e3ec342542d91bb8",
   "lastOpenFiles": [
+    "5. Standard Information/Operating Systems/Windows/Event Log/System Monitor (Sysmon).md",
+    "5. Standard Information/Operating Systems/Windows/Event Log/Event Tracing for Windows (ETW).md",
     "7. Misc/Images/image33.webp",
     "4. Post Exploitation/Operating Systems/Windows/Tooling/Mimikatz.md",
-    "5. Standard Information/Operating Systems/Windows/Event Log/System Monitor (Sysmon).md",
     "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/DLL Hijacking.md",
     "7. Misc/Images/image21 1.webp",
     "7. Misc/Images/image21.webp",
@@ -226,7 +227,6 @@
     "7. Misc/Images/Pasted image 20240528150905.png",
     "7. Misc/Images/Pasted image 20240514191950.png",
     "7. Misc/Images/Pasted image 20240513193124.png",
-    "7. Misc/Images/Pasted image 20240507090421.png",
     "7. Misc 1/Images",
     "7. Misc 1",
     "5. Standard Information/Operating Systems/Windows/Event Log/Useful Windows Event Logs.md",
