@@ -206,6 +206,18 @@ PID                 Image
 The command completed successfully.
 ```
 
+
+## SilkETW
+
+[GitHub - mandiant/SilkETW](https://github.com/mandiant/SilkETW)
+
+SilkETW & SilkService are flexible C# wrappers for ETW, they are meant to abstract away the complexities of ETW and give people a simple interface to perform research and introspection. While both projects have obvious defensive (and offensive) applications they should primarily be considered as research tools.
+
+For easy consumption, output data is serialized to JSON. The JSON data can either be written to file and analysed locally using PowerShell, stored in the Windows eventlog or shipped off to 3rd party infrastructure such as [Elasticsearch](https://www.elastic.co/).
+
+```cmd-session
+SilkETW.exe -t user -pn Microsoft-Windows-Kernel-Process -ot file -p C:\windows\temp\etw.json
+```
 ## GUI Alternatives
 
 ## Performance Monitor
@@ -268,3 +280,6 @@ Analysing relationships in standard and custom environments enables us to identi
 
 ![[image35.webp]]
 
+To showcase a strange parent-child relationship, where "cmd.exe" appears to be created by "spoolsv.exe" `with no accompanying arguments`, we will utilize an attacking technique called Parent PID Spoofing. Parent PID Spoofing ([[Impersonate Users]]) can be executed through the [[PsGetSystem]] the following manner.
+
+Let's begin by collecting data from the `Microsoft-Windows-Kernel-Process` provider using [SilkETW](https://github.com/mandiant/SilkETW) (the provider can be identified using `logman` as we described previously, `logman.exe query providers | findstr "Process"`). After that, we can proceed to simulate the attack again to assess whether ETW can provide us with more accurate information regarding the execution of `cmd.exe`.
