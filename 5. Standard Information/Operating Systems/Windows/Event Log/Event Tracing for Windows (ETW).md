@@ -17,6 +17,7 @@ At the core of ETW's architecture is the publish-subscribe model. This model inv
 
 ### Notes 
 
+- Ensure the overarching logs are being captured, see [[System Monitor (Sysmon)]] and setting the configuration to `exclude`
 - ETW supports event providers in both kernel mode and user mode.
 - Some event providers generate a significant volume of events, which can potentially overwhelm the system resources if they are constantly active. As a result, to prevent unnecessary resource consumption, these providers are typically disabled by default and are only enabled when a tracing session specifically requests their activation.
 - In addition to its inherent capabilities, ETW can be extended through custom event providers.
