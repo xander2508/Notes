@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Exploitation/1. Guide.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Event Tracing for Windows (ETW).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Exploitation/1. Guide.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Event Tracing for Windows (ETW).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Exploitation/1. Guide.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Event Tracing for Windows (ETW).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Exploitation/1. Guide.md"
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Event Tracing for Windows (ETW).md"
               }
             }
           },
@@ -212,6 +212,7 @@
   },
   "active": "e3ec342542d91bb8",
   "lastOpenFiles": [
+    "3. Exploitation/1. Guide.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Event Tracing for Windows (ETW).md",
     "7. Misc/Images/etw.webp",
     "5. Standard Information/Operating Systems/Windows/Event Log/System Monitor (Sysmon).md",
