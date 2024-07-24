@@ -291,3 +291,6 @@ SilkETW.exe -t user -pn Microsoft-Windows-Kernel-Process -ot file -p C:\windows\
 ```
 
 The `etw.json` file (that includes data from the `Microsoft-Windows-Kernel-Process` provider) seems to contain information about `powershell.exe` being the one who created `cmd.exe`.
+
+## Detection Example 2: Detecting Malicious .NET Assembly Loading
+
