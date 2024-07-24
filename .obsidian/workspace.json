@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Event Tracing for Windows (ETW).md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)/ETW - GUI Alternatives.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Event Tracing for Windows (ETW).md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)/ETW - Logman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Event Tracing for Windows (ETW).md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)/ETW - Logman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Event Tracing for Windows (ETW).md"
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)/ETW - Logman.md"
               }
             }
           },
@@ -210,16 +210,19 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "e3ec342542d91bb8",
+  "active": "744b9316b7030f7b",
   "lastOpenFiles": [
-    "4. Post Exploitation/Operating Systems/Windows/Tooling/SysInternals.md",
+    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)/ETW - GUI Alternatives.md",
+    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)/ETW - Logman.md",
+    "4. Post Exploitation/Operating Systems/Windows/Tooling/WinPeas.md",
+    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)",
+    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)/ETW - SilkETW.md",
+    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Get-WinEvent.md",
+    "5. Standard Information/Operating Systems/Windows/Event Log/Querying Logs.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Event Tracing for Windows (ETW).md",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/ETW - GUI Alternatives.md",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/ETW - SilkETW.md",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/ETW - Logman.md",
+    "4. Post Exploitation/Operating Systems/Windows/Tooling/SysInternals.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Tools",
     "5. Standard Information/Operating Systems/Windows/Event Log/Untitled.md",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Querying Logs.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/System Monitor (Sysmon).md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md",
     "7. Misc/Images/Pasted image 20240724135747.png",
@@ -250,14 +253,11 @@
     "conflict-files-obsidian-git.md",
     "5. Standard Information/Operating Systems/Windows/Security/Security.md",
     "smart-chats/UNTITLED CHAT 2024-06-16 12 11 57.md",
-    "smart-chats/UNTITLED CHAT 2024-06-16 11 55 44.md",
     "5. Standard Information/Operating Systems/Windows/Event Log",
-    "3. Exploitation/Generic Vulnerabilities/Padding Oracle.md",
     "5. Standard Information/Operating Systems/Windows/Powershell/Modules",
     "5. Standard Information/Operating Systems/Windows/PowerShell",
     "2. Enumeration/TCP/80. HTTP/Concepts/Interactions",
     "3. Exploitation/Obtaining Remote Shells/Specific Shells/Windows",
-    "2. Enumeration/Other/~. ARP",
     "Untitled.canvas"
   ]
 }
