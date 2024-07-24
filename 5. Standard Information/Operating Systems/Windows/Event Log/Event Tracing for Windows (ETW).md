@@ -262,4 +262,9 @@ This provider can record highly granular data about potential threats, enabling 
 
 ## Detection Example 1: Detecting Strange Parent-Child Relationships
 
-In standard Windows environments, certain processes never call or spawn others. For example, it is highly unlikely to see "calc.exe" spawning "cmd.exe" in a normal Windows environment
+In standard Windows environments, certain processes never call or spawn others. For example, it is highly unlikely to see "calc.exe" spawning "cmd.exe" in a normal Windows environment.
+
+Analysing relationships in standard and custom environments enables us to identify deviations from normal patterns. For example, if we observe the "spoolsv.exe" process creating "whoami.exe" instead of its expected behaviour of creating a "conhost", it raises suspicion.
+
+![[image35.webp]]
+
