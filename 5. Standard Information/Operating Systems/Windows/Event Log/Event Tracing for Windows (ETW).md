@@ -224,6 +224,8 @@ SilkETW.exe -t user -pn Microsoft-Windows-DotNETRuntime -uk 0x2038 -ot file -p C
 ```
 
 It should be noted that SilkETW event logs can be ingested and viewed by Windows Event Viewer through `SilkService` to provide us with deeper and more extensive visibility into the actions performed on a system.
+
+[Threat Hunting with ETW events and HELK — Part 1: Installing SilkETW 🏄‍♀🏄 | by Roberto Rodriguez | Open Threat Research | Medium](https://medium.com/threat-hunters-forge/threat-hunting-with-etw-events-and-helk-part-1-installing-silketw-6eb74815e4a0)
 ## GUI Alternatives
 
 ## Performance Monitor
