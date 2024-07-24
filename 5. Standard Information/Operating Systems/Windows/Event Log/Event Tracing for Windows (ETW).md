@@ -246,10 +246,20 @@ In the realm of Windows operating system security, certain ETW providers are con
 
 The Threat-Intelligence (TI) provider is a manifest-based ETW provider that generates security-related events. The TI provider is unique in the sense that Microsoft seems to continuously update this to provide more information around operations that would take some extreme engineering to obtain (i.e. function hooking) in the kernel.
 
-The `Microsoft-Windows-Threat-Intelligence` ETW Provider is an excellent tool to [detect process injection](https://blog.redbluepurple.io/windows-security-research/kernel-tracing-injection-detection), and other type of attacks. Unlike usermode hooking or in-process ETW Providers, avoiding or tampering with the `Threat-Intelligence` is very difficult.
+The `Microsoft-Windows-Threat-Intelligence` ETW Provider is an excellent tool to [detect process injection](https://blog.redbluepurple.io/windows-security-research/kernel-tracing-injection-detection), and other type of attacks. Unlike `usermode` hooking or in-process ETW Providers, avoiding or tampering with the `Threat-Intelligence` is very difficult.
 
 However, to subscribe to this Provider requires a process with very special privileges, marked as [Protected Process Light (PPL)](https://www.alex-ionescu.com/?p=97) 'Anti-Malware' or higher. To legitimately run a program at this level you must submit a driver to Microsoft to be co-signed by them, something not everyone has the inclination or reputation to do.
+
+This provider can record highly granular data about potential threats, enabling security professionals to detect and analyze sophisticated attacks that may have eluded other defenses. Its telemetry can serve as vital evidence in forensic investigations, revealing details about the origin of a threat, the systems and data it interacted with, and the alterations it made. Moreover, by monitoring this provider in real-time, security teams can potentially identify ongoing threats and intervene to mitigate damage.
 # External Guides 
 
 - [Tampering with Windows Event Tracing: Background, Offense, and Defense](https://blog.palantir.com/tampering-with-windows-event-tracing-background-offense-and-defense-4be7ac62ac63)
 - [Data Source Analysis and Dynamic Windows RE using WPP and TraceLogging](https://posts.specterops.io/data-source-analysis-and-dynamic-windows-re-using-wpp-and-tracelogging-e465f8b653f7)
+- [A Primer On Event Tracing For Windows (ETW) | by Nasreddine Bencherchali | Medium](https://nasbench.medium.com/a-primer-on-event-tracing-for-windows-etw-997725c082bf)
+- [Squarespace - Website Expired](https://bmcder.com/blog/a-begginers-all-inclusive-guide-to-etw)
+
+# Using ETW Examples
+
+## Detection Example 1: Detecting Strange Parent-Child Relationships
+
+In standard Windows environments, certain processes never call or spawn others. For example, it is highly unlikely to see "calc.exe" spawning "cmd.exe" in a normal Windows environment
