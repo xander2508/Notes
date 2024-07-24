@@ -11,11 +11,18 @@ Get-WinEvent -ListLog * | Select-Object LogName, RecordCount, IsClassicLog, IsEn
 ```powershell-session
 Get-WinEvent -ListProvider * | Format-Table -AutoSize
 ```
-
-#### Security Log Details
+#### Retrieve Specific Provider Logs
 
 ```powershell-session
 Get-WinEvent -ListLog Security
+```
+
+## Generic Retrieval Commands
+
+#### Retrieving events from the System log
+
+```powershell-session
+Get-WinEvent -LogName 'System' -MaxEvents 50 | Select-Object TimeCreated, ID, ProviderName, LevelDisplayName, Message | Format-Table -AutoSize
 ```
 
 #### Querying Last Five Events
