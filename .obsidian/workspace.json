@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Get-WinEvent.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Useful Windows Event Logs.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"process injection\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Get-WinEvent.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Useful Windows Event Logs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Get-WinEvent.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Useful Windows Event Logs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Get-WinEvent.md"
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Useful Windows Event Logs.md"
               }
             }
           },
@@ -212,19 +212,19 @@
   },
   "active": "e3ec342542d91bb8",
   "lastOpenFiles": [
-    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/System Monitor (Sysmon).md",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Get-WinEvent.md",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Useful Windows Event Logs.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Event Tracing for Windows (ETW).md",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)/Logman.md",
+    "5. Standard Information/Operating Systems/Windows/Event Log/Useful Windows Event Logs.md",
+    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Get-WinEvent.md",
+    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/System Monitor (Sysmon).md",
+    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/wevtutil.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)/SilkETW.md",
+    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)/GUI Alternatives.md",
+    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)/Logman.md",
+    "5. Standard Information/Operating Systems/Windows/Event Log/Event Tracing for Windows (ETW).md",
     "7. Misc/Images/image76.webp",
     "7. Misc/Images/image60.webp",
     "3. Exploitation/File Types and Data/EVTX (Windows Event Logs).md",
     "3. Exploitation/File Types and Data/VHD (Virtual Hard Drive).md",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/wevtutil.md",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)/GUI Alternatives.md",
     "4. Post Exploitation/Operating Systems/Windows/Tooling/WinPeas.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)",
     "4. Post Exploitation/Operating Systems/Windows/Tooling/SysInternals.md",

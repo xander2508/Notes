@@ -34,3 +34,156 @@ Find below an indicative (non-exhaustive) list of useful Windows event logs.
     - [Event ID 5145](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventid=5145) `(A network share object was checked to see whether client can be granted desired access)`: This event indicates that someone attempted to access a network share. Frequent checks of this sort might indicate a user or a malware trying to map out the network shares for future exploits.
     - [Event ID 5157](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventid=5157) `(The Windows Filtering Platform has blocked a connection)`: This is logged when the Windows Filtering Platform blocks a connection attempt. This can be helpful for identifying malicious traffic on your network.
     - [Event ID 7045](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventid=7045) `(A service was installed in the system)`: A sudden appearance of unknown services might suggest malware installation, as many types of malware install themselves as services.
+
+# Useful Providers
+
+- `Microsoft-Windows-Kernel-Process`: This ETW provider is instrumental in monitoring process-related activity within the Windows kernel. It can aid in detecting unusual process behaviors such as process injection, process hollowing, and other tactics commonly used by malware and advanced persistent threats (APTs).
+- `Microsoft-Windows-Kernel-File`: As the name suggests, this provider focuses on file-related operations. It can be employed for detection scenarios involving unauthorized file access, changes to critical system files, or suspicious file operations indicative of exfiltration or ransomware activity.
+- `Microsoft-Windows-Kernel-Network`: This ETW provider offers visibility into network-related activity at the kernel level. It's especially useful in detecting network-based attacks such as data exfiltration, unauthorized network connections, and potential signs of command and control (C2) communication.
+- `Microsoft-Windows-SMBClient/SMBServer`: These providers monitor Server Message Block (SMB) client and server activity, providing insights into file sharing and network communication. They can be used to detect unusual SMB traffic patterns, potentially indicating lateral movement or data exfiltration.
+- `Microsoft-Windows-DotNETRuntime`: This provider focuses on .NET runtime events, making it ideal for identifying anomalies in .NET application execution, potential exploitation of .NET vulnerabilities, or malicious .NET assembly loading.
+- `OpenSSH`: Monitoring the OpenSSH ETW provider can provide important insights into Secure Shell (SSH) connection attempts, successful and failed authentications, and potential brute force attacks.
+- `Microsoft-Windows-VPN-Client`: This provider enables tracking of Virtual Private Network (VPN) client events. It can be useful for identifying unauthorized or suspicious VPN connections.
+- `Microsoft-Windows-PowerShell`: This ETW provider tracks PowerShell execution and command activity, making it invaluable for detecting suspicious PowerShell usage, script block logging, and potential misuse or exploitation.
+- `Microsoft-Windows-Kernel-Registry`: This provider monitors registry operations, making it useful for detection scenarios related to changes in registry keys, often associated with persistence mechanisms, malware installation, or system configuration changes.
+- `Microsoft-Windows-CodeIntegrity`: This provider monitors code and driver integrity checks, which can be key in identifying attempts to load unsigned or malicious drivers or code.
+- `Microsoft-Antimalware-Service`: This ETW provider can be employed to detect potential issues with the antimalware service, including disabled services, configuration changes, or potential evasion techniques employed by malware.
+- `WinRM`: Monitoring the Windows Remote Management (WinRM) provider can reveal unauthorized or suspicious remote management activity, often indicative of lateral movement or remote command execution.
+- `Microsoft-Windows-TerminalServices-LocalSessionManager`: This provider tracks local Terminal Services sessions, making it useful for detecting unauthorized or suspicious remote desktop activity.
+- `Microsoft-Windows-Security-Mitigations`: This provider keeps tabs on the effectiveness and operations of security mitigations in place. It's essential for identifying potential bypass attempts of these security controls.
+- `Microsoft-Windows-DNS-Client`: This ETW provider gives visibility into DNS client activity, which is crucial for detecting DNS-based attacks, including DNS tunneling or unusual DNS requests that may indicate C2 communication.
+- `Microsoft-Antimalware-Protection`: This provider monitors the operations of antimalware protection mechanisms. It can be used to detect any issues with these mechanisms, such as disabled protection features, configuration changes, or signs of evasion techniques employed by malicious actors.
+
+
+# Sysmon Events
+
+[Sysmon - Sysinternals | Microsoft Learn](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon#event-id-2-a-process-changed-a-file-creation-time)
+### Event ID 1: Process creation
+
+The process creation event provides extended information about a newly created process. The full command line provides context on the process execution. The `ProcessGUID` field is a unique value for this process across a domain to make event correlation easier. The hash is a full hash of the file with the algorithms in the `HashType` field.
+
+### Event ID 2: A process changed a file creation time
+
+The change file creation time event is registered when a file creation time is explicitly modified by a process. This event helps tracking the real creation time of a file. Attackers may change the file creation time of a backdoor to make it look like it was installed with the operating system. Note that many processes legitimately change the creation time of a file; it does not necessarily indicate malicious activity.
+
+### Event ID 3: Network connection
+
+The network connection event logs TCP/UDP connections on the machine. It is disabled by default. Each connection is linked to a process through the `ProcessId` and `ProcessGuid` fields. The event also contains the source and destination host names IP addresses, port numbers and IPv6 status.
+
+### Event ID 4: Sysmon service state changed
+
+The service state change event reports the state of the Sysmon service (started or stopped).
+
+### Event ID 5: Process terminated
+
+The process terminate event reports when a process terminates. It provides the `UtcTime`, `ProcessGuid` and `ProcessId` of the process.
+
+### Event ID 6: Driver loaded
+
+The driver loaded events provides information about a driver being loaded on the system. The configured hashes are provided as well as signature information. The signature is created asynchronously for performance reasons and indicates if the file was removed after loading.
+
+### Event ID 7: Image loaded
+
+The image loaded event logs when a module is loaded in a specific process. This event is disabled by default and needs to be configured with the "`–l`" option. It indicates the process in which the module is loaded, hashes and signature information. The signature is created asynchronously for performance reasons and indicates if the file was removed after loading. This event should be configured carefully, as monitoring all image load events will generate a significant amount of logging.
+
+### Event ID 8: CreateRemoteThread
+
+The `CreateRemoteThread` event detects when a process creates a thread in another process. This technique is used by malware to inject code and hide in other processes. The event indicates the source and target process. It gives information on the code that will be run in the new thread: `StartAddress`, `StartModule` and `StartFunction`. Note that `StartModule` and `StartFunction` fields are inferred, they might be empty if the starting address is outside loaded modules or known exported functions.
+
+### Event ID 9: RawAccessRead
+
+The `RawAccessRead` event detects when a process conducts reading operations from the drive using the `\\.\` denotation. This technique is often used by malware for data exfiltration of files that are locked for reading, as well as to avoid file access auditing tools. The event indicates the source process and target device.
+
+### Event ID 10: ProcessAccess
+
+The process accessed event reports when a process opens another process, an operation that’s often followed by information queries or reading and writing the address space of the target process. This enables detection of hacking tools that read the memory contents of processes like Local Security Authority (Lsass.exe) in order to steal credentials for use in Pass-the-Hash attacks. Enabling it can generate significant amounts of logging if there are diagnostic utilities active that repeatedly open processes to query their state, so it generally should only be done so with filters that remove expected accesses.
+### Event ID 11: FileCreate
+
+File create operations are logged when a file is created or overwritten. This event is useful for monitoring autostart locations, like the Startup folder, as well as temporary and download directories, which are common places malware drops during initial infection.
+### Event ID 12: RegistryEvent (Object create and delete)
+
+Registry key and value create and delete operations map to this event type, which can be useful for monitoring for changes to Registry autostart locations, or specific malware registry modifications.
+
+Sysmon uses abbreviated versions of Registry root key names, with the following mappings:
+
+|Key name|Abbreviation|
+|---|---|
+|`HKEY_LOCAL_MACHINE`|`HKLM`|
+|`HKEY_USERS`|`HKU`|
+|`HKEY_LOCAL_MACHINE\System\ControlSet00x`|`HKLM\System\CurrentControlSet`|
+|`HKEY_LOCAL_MACHINE\Classes`|`HKCR`|
+
+### Event ID 13: RegistryEvent (Value Set)
+
+This Registry event type identifies Registry value modifications. The event records the value written for Registry values of type `DWORD` and `QWORD`.
+
+
+### Event ID 14: RegistryEvent (Key and Value Rename)
+
+Registry key and value rename operations map to this event type, recording the new name of the key or value that was renamed.
+
+### Event ID 15: FileCreateStreamHash
+
+This event logs when a named file stream is created, and it generates events that log the hash of the contents of the file to which the stream is assigned (the unnamed stream), as well as the contents of the named stream. There are malware variants that drop their executables or configuration settings via browser downloads, and this event is aimed at capturing that based on the browser attaching a `Zone.Identifier` "mark of the web" stream.
+
+### Event ID 16: ServiceConfigurationChange
+
+This event logs changes in the Sysmon configuration - for example when the filtering rules are updated.
+
+### Event ID 17: PipeEvent (Pipe Created)
+
+This event generates when a named pipe is created. Malware often uses named pipes for interprocess communication.
+
+### Event ID 18: PipeEvent (Pipe Connected)
+
+This event logs when a named pipe connection is made between a client and a server.
+
+### Event ID 19: WmiEvent (WmiEventFilter activity detected)
+
+When a WMI event filter is registered, which is a method used by malware to execute, this event logs the WMI namespace, filter name and filter expression.
+
+
+### Event ID 20: WmiEvent (WmiEventConsumer activity detected)
+
+This event logs the registration of WMI consumers, recording the consumer name, log, and destination.
+
+
+### Event ID 21: WmiEvent (WmiEventConsumerToFilter activity detected)
+
+When a consumer binds to a filter, this event logs the consumer name and filter path.
+
+### Event ID 22: DNSEvent (DNS query)
+
+This event is generated when a process executes a DNS query, whether the result is successful or fails, cached or not. The telemetry for this event was added for Windows 8.1 so it is not available on Windows 7 and earlier.
+
+### Event ID 23: FileDelete (File Delete archived)
+
+A file was deleted. Additionally to logging the event, the deleted file is also saved in the `ArchiveDirectory` (which is `C:\Sysmon` by default). Under normal operating conditions this directory might grow to an unreasonable size - see event ID 26: `FileDeleteDetected` for similar behavior but without saving the deleted files.
+
+### Event ID 24: ClipboardChange (New content in the clipboard)
+
+This event is generated when the system clipboard contents change.
+
+### Event ID 25: ProcessTampering (Process image change)
+
+This event is generated when process hiding techniques such as "hollow" or "herpaderp" are being detected.
+
+### Event ID 26: FileDeleteDetected (File Delete logged)
+
+A file was deleted.
+### Event ID 27: FileBlockExecutable
+
+This event is generated when Sysmon detects and blocks the creation of executable files (PE format).
+
+### Event ID 28: FileBlockShredding
+
+This event is generated when Sysmon detects and blocks file shredding from tools such as [SDelete](https://learn.microsoft.com/en-us/sysinternals/downloads/sdelete).
+
+
+### Event ID 29: FileExecutableDetected
+
+This event is generated when Sysmon detects the creation of a new executable file (PE format).
+
+### Event ID 255: Error
+
+This event is generated when an error occurred within Sysmon. They can happen if the system is under heavy load and certain tasks could not be performed or a bug exists in the Sysmon service, or even if certain security and integrity conditions are not met. You can report any bugs on the Sysinternals forum or over Twitter ([@markrussinovich](https://twitter.com/markrussinovich)).
