@@ -62,6 +62,7 @@ Find below an indicative (non-exhaustive) list of useful Windows event logs.
 
 The process creation event provides extended information about a newly created process. The full command line provides context on the process execution. The `ProcessGUID` field is a unique value for this process across a domain to make event correlation easier. The hash is a full hash of the file with the algorithms in the `HashType` field.
 
+Perform the analysis using `Get-WinEvent`, searching for instances of `Event ID 1` where the `Image` field contains "cmd" (the idea being to identify cases where cmd.exe is being spawned by another process):
 ### Event ID 2: A process changed a file creation time
 
 The change file creation time event is registered when a file creation time is explicitly modified by a process. This event helps tracking the real creation time of a file. Attackers may change the file creation time of a backdoor to make it look like it was installed with the operating system. Note that many processes legitimately change the creation time of a file; it does not necessarily indicate malicious activity.
@@ -86,10 +87,13 @@ The driver loaded events provides information about a driver being loaded on the
 
 The image loaded event logs when a module is loaded in a specific process. This event is disabled by default and needs to be configured with the "`–l`" option. It indicates the process in which the module is loaded, hashes and signature information. The signature is created asynchronously for performance reasons and indicates if the file was removed after loading. This event should be configured carefully, as monitoring all image load events will generate a significant amount of logging.
 
+[[DLL Hijacking]]
+
 ### Event ID 8: CreateRemoteThread
 
 The `CreateRemoteThread` event detects when a process creates a thread in another process. This technique is used by malware to inject code and hide in other processes. The event indicates the source and target process. It gives information on the code that will be run in the new thread: `StartAddress`, `StartModule` and `StartFunction`. Note that `StartModule` and `StartFunction` fields are inferred, they might be empty if the starting address is outside loaded modules or known exported functions.
 
+[[Process Injection]]
 ### Event ID 9: RawAccessRead
 
 The `RawAccessRead` event detects when a process conducts reading operations from the drive using the `\\.\` denotation. This technique is often used by malware for data exfiltration of files that are locked for reading, as well as to avoid file access auditing tools. The event indicates the source process and target device.
