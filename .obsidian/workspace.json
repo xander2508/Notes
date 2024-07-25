@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
+                "file": "5. Standard Information/Operating Systems/Linux/Malware Analysis/Static Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
+                "file": "5. Standard Information/Operating Systems/Linux/Malware Analysis/Static Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
+                "file": "5. Standard Information/Operating Systems/Linux/Malware Analysis/Static Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md"
+                "file": "5. Standard Information/Operating Systems/Linux/Malware Analysis/Static Analysis.md"
               }
             }
           },
@@ -213,6 +212,12 @@
   },
   "active": "bcfcf9c73c4b7b14",
   "lastOpenFiles": [
+    "3. Exploitation/File Types and Data/2. Programs and Executables Guide.md",
+    "3. Exploitation/File Types and Data/1. Guide.md",
+    "5. Standard Information/Operating Systems/Linux/Malware Analysis/Static Analysis.md",
+    "5. Standard Information/Operating Systems/Linux/Malware Analysis",
+    "5. Standard Information/Malware Analysis Overview and Tooling.md",
+    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Event Tracing for Windows (ETW).md",
     "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/DLL Hijacking.md",
     "3. Exploitation/File Types and Data/Control Panel Applications (CPL).md",
@@ -229,7 +234,6 @@
     "7. Misc/textgenerator/templates/smartConnections/summarize.md",
     "7. Misc/Images/wininternals_syscall.webp",
     "7. Misc/Images/windows_architecture.webp",
-    "5. Standard Information/Malware and Malware Analysis/Overview.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Useful Windows Event Logs.md",
     "5. Standard Information/Malware and Malware Analysis",
     "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)/SilkETW.md",
@@ -241,12 +245,8 @@
     "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)/GUI Alternatives.md",
     "7. Misc/Images/image76.webp",
     "7. Misc/Images/image60.webp",
-    "3. Exploitation/File Types and Data/VHD (Virtual Hard Drive).md",
-    "4. Post Exploitation/Operating Systems/Windows/Tooling/WinPeas.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)",
-    "4. Post Exploitation/Operating Systems/Windows/Tooling/SysInternals.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Tools",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Untitled.md",
     "7. Misc/Images/Pasted image 20240724135747.png",
     "7. Misc/Images/image77.webp",
     "7. Misc/Images/image35.webp",
@@ -258,7 +258,6 @@
     "5. Standard Information/Operating Systems/Windows/Event Log",
     "5. Standard Information/Operating Systems/Windows/Powershell/Modules",
     "5. Standard Information/Operating Systems/Windows/PowerShell",
-    "2. Enumeration/TCP/80. HTTP/Concepts/Interactions",
     "Untitled.canvas"
   ]
 }
