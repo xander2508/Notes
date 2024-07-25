@@ -154,10 +154,18 @@ Filter for `Process Create` events from the `Microsoft-Windows-Sysmon/Operatio
 Get-WinEvent -FilterHashtable @{LogName='Microsoft-Windows-Sysmon/Operational'; ID=1} | Where-Object {$_.Properties[21].Value -like "*-enc*"} | Format-List
 ```
 
+```
+Get-WinEvent -FilterHashtable @{Path='C:\Logs\DLLHijack\*'; ID=7} | Where-Object {$_.Properties[12].Value -eq $false } | Select-Object -Property *
+```
+
 `| Where-Object {$_.Properties[21].Value -like "*-enc*"}`: This portion of the command further filters the retrieved events. The '|' character (pipe operator) passes the output of the previous command (i.e., the filtered events) to the 'Where-Object' cmdlet. The 'Where-Object' cmdlet filters the output based on the script block that follows it.
 
 - `$_`: In the script block, $_ refers to the current object in the pipeline, i.e., each individual event that was retrieved and passed from the previous command.
 - `.Properties[21].Value`: The `Properties` property of a "Process Create" Sysmon event is an array containing various data about the event. The specific index `21` corresponds to the `ParentCommandLine` property of the event, which holds the exact command line used to start the process.
+
+> [!NOTE] Locating Index
+> Query all properties and count the index for the specific event as online sources may be slightly different. e.g. Online it may be 13 whereas here it is 21
+
 ![[image76.webp]]
 - `-like "*-enc*"`: This is a comparison operator that matches strings based on a wildcard string, where `*` represents any sequence of characters. In this case, it's looking for any command lines that contain `-enc` anywhere within them.
 - `| Format-List`: Finally, the output of the previous command (the events that meet the specified condition) is passed to the `Format-List` cmdlet. This cmdlet displays the properties of the input objects as a list, making it easier to read and analyse.
