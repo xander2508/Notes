@@ -49,6 +49,39 @@ For exported .evtx events:
 ```powershell-session
 Get-WinEvent -FilterHashtable @{Path='C:\Tools\chainsaw\EVTX-ATTACK-SAMPLES\Execution\sysmon_mshta_sharpshooter_stageless_meterpreter.evtx'; ID=1,3} | Select-Object TimeCreated, ID, ProviderName, LevelDisplayName, Message | Format-Table -AutoSiz
 ```
+
+#### Filtering based on date ranges
+
+The commands filter between the start date inclusive and the end date exclusive. That's why we specified June 3rd and not 2nd.
+
+```powershell-session
+$startDate = (Get-Date -Year 2023 -Month 5 -Day 28).Date
+```
+```
+$endDate   = (Get-Date -Year 2023 -Month 6 -Day 3).Date
+```
+```
+Get-WinEvent -FilterHashtable @{LogName='Microsoft-Windows-Sysmon/Operational'; ID=1,3; StartTime=$startDate; EndTime=$endDate} | Select-Object TimeCreated, ID, ProviderName, LevelDisplayName, Message | Format-Table -AutoSize
+```
+
+#### Filtering events with FilterHashtable & XML
+
+Consider an intrusion detection scenario where a suspicious network connection to a particular IP (`52.113.194.132`) has been identified. With Sysmon installed, you can use [Event ID 3 (Network Connection)](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventid=90003) logs to investigate the potential threat.
+
+```powershell-session
+Get-WinEvent -FilterHashtable @{LogName='Microsoft-Windows-Sysmon/Operational'; ID=3} |
+`ForEach-Object {
+$xml = [xml]$_.ToXml()
+$eventData = $xml.Event.EventData.Data
+New-Object PSObject -Property @{
+    SourceIP = $eventData | Where-Object {$_.Name -eq "SourceIp"} | Select-Object -ExpandProperty '#text'
+    DestinationIP = $eventData | Where-Object {$_.Name -eq "DestinationIp"} | Select-Object -ExpandProperty '#text'
+    ProcessGuid = $eventData | Where-Object {$_.Name -eq "ProcessGuid"} | Select-Object -ExpandProperty '#text'
+    ProcessId = $eventData | Where-Object {$_.Name -eq "ProcessId"} | Select-Object -ExpandProperty '#text'
+}
+}  | Where-Object {$_.DestinationIP -eq "52.113.194.132"}
+```
+
 #### Querying Last Five Events
 
 Here we will list the last five events recorded in the Security log. By default, the newest logs are listed first. If we want to get older logs first, we can reverse the order to list the oldest ones first using the `-Oldest` parameter.
@@ -60,55 +93,3 @@ Get-WinEvent -LogName 'Security' -MaxEvents 5 | Select-Object -ExpandProperty Me
 ```
 
 From here, we could use the `-ExpandProperty` parameter to dig deeper into specific events, list logs from oldest to newest, etc.
-
-#### Filtering
-
-```powershell-session
-Get-WinEvent -FilterHashTable @{LogName='Security';ID='4625 '}
-```
-
-```powershell-session
-Get-WinEvent -FilterHashTable @{LogName='System';Level='1'} | select-object -ExpandProperty Message
-```
-
-```
-$time1 =  get-date('08/03/2022 10:23:24')
-```
-```
-$time2 =  get-date('08/03/2022 10:23:26')```
-```
-```
-Get-WinEvent -FilterHashtable @{LogName = 'Security'; Id = 4624; StartTime = $time1; EndTime = $time2 } 
-```
-
-```
-Get-WinEvent -FilterHashtable @{
-    LogName = 'Security';
-    Id = 4907
-} | Where-Object {
-    $_.Properties | Where-Object {
-        $_.Value -eq '0x3E7'
-    }
-}
-
-```
-
-```
-Get-WinEvent -FilterHashtable @{
-    LogName = 'Security';
-    Id = 4907
-} | Where-Object {
-    $_.Properties | Where-Object {
-        $_.Value -eq '0x3E7'
-    }
-} | ForEach-Object {
-    $xml = [xml]$_.ToXml()
-    $processName = $xml.Event.EventData.Data | Where-Object { $_.Name -eq "ProcessName" }
-    [PSCustomObject]@{
-        TimeCreated = $_.TimeCreated
-        EventId = $_.Id
-        ProcessName = $processName.'#text'
-    }
-}
-
-```

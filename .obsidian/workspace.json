@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Powershell/Everything is an Object.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Get-WinEvent.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"process injection\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Powershell/Everything is an Object.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Get-WinEvent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Powershell/Everything is an Object.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Get-WinEvent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Powershell/Everything is an Object.md"
+                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Get-WinEvent.md"
               }
             }
           },
@@ -185,8 +185,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,17 +194,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "breadcrumbs:Breadcrumbs Visualisation": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
       "obsidian-importer:Open Importer": false,
       "smart-connections:Open: View Smart Connections": false,
       "smart-connections:Open: Smart Chat Conversation": false
@@ -213,52 +212,52 @@
   },
   "active": "e3ec342542d91bb8",
   "lastOpenFiles": [
-    "5. Standard Information/Operating Systems/Windows/Event Log/Event Tracing for Windows (ETW).md",
-    "4. Post Exploitation/Operating Systems/Windows/Tooling/Invoke-Obfuscation.md",
-    "4. Post Exploitation/Operating Systems/Windows/Tooling/PsGetSystem.md",
-    "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Bring Your Own Land.md",
-    "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Impersonate Users.md",
-    "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Process Injection.md",
+    "3. Exploitation/File Types and Data/VHD (Virtual Hard Drive).md",
+    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Get-WinEvent.md",
+    "3. Exploitation/File Types and Data/EVTX (Windows Event Logs).md",
+    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/wevtutil.md",
+    "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)/SilkETW.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)/Logman.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)/GUI Alternatives.md",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/wevtutil.md",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/System Monitor (Sysmon).md",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Get-WinEvent.md",
+    "4. Post Exploitation/Operating Systems/Windows/Tooling/WinPeas.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)",
+    "5. Standard Information/Operating Systems/Windows/Event Log/Event Tracing for Windows (ETW).md",
+    "4. Post Exploitation/Operating Systems/Windows/Tooling/SysInternals.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Tools",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Querying Logs.md",
+    "5. Standard Information/Operating Systems/Windows/Event Log/Untitled.md",
+    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/System Monitor (Sysmon).md",
+    "7. Misc/Images/Pasted image 20240724135747.png",
     "7. Misc/Images/image77.webp",
+    "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Bring Your Own Land.md",
+    "4. Post Exploitation/Operating Systems/Windows/Tooling/Invoke-Obfuscation.md",
+    "4. Post Exploitation/Operating Systems/Windows/Tooling/PsGetSystem.md",
+    "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Impersonate Users.md",
     "7. Misc/Images/image35.webp",
+    "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/DLL Hijacking.md",
+    "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Process Injection.md",
+    "3. Exploitation/1. Guide.md",
+    "7. Misc/Images/etw.webp",
     "7. Misc/Images/image33.webp",
-    "7. Misc/Images/image21.webp",
+    "4. Post Exploitation/Operating Systems/Windows/Tooling/Mimikatz.md",
     "7. Misc/Images/image21 1.webp",
+    "7. Misc/Images/image21.webp",
     "7. Misc/Images/image15.webp",
     "7. Misc/Images/image14.webp",
-    "7. Misc/Images/etw.webp",
-    "7. Misc/Images/Pasted image 20240724135747.png",
-    "5. Standard Information/Operating Systems/Windows/Powershell/Everything is an Object.md",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md",
+    "7. Misc/Images/Pasted image 20240531131153.png",
+    "7. Misc 1/Images",
+    "7. Misc 1",
     "5. Standard Information/Operating Systems/Windows/Event Log/Useful Windows Event Logs.md",
+    "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities/File Upload Filtering Bypasses.md",
+    "7. Misc/smart-chats",
+    "5. Standard Information/Operating Systems/Windows/Powershell/Everything is an Object.md",
     "5. Standard Information/Operating Systems/Windows/Objects and Security Descriptors.md",
     "conflict-files-obsidian-git.md",
-    "smart-chats",
-    "5. Standard Information/Operating Systems/Windows/Security/Security.md",
-    "7. Misc/Images/image7.webp",
-    "smart-chats/UNTITLED CHAT 2024-06-16 12 11 57.md",
-    "smart-chats/UNTITLED CHAT 2024-06-16 11 55 44.md",
     "5. Standard Information/Operating Systems/Windows/Event Log",
-    "3. Exploitation/Generic Vulnerabilities/Padding Oracle.md",
-    "5. Standard Information/Operating Systems/Windows/Powershell/1. Overview.md",
-    "5. Standard Information/Operating Systems/Linux/Logging.md",
-    "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Scheduled Tasks/1. Guide.md",
-    "4. Post Exploitation/Operating Systems/Windows/Tooling/Default Tooling/Finding Users and Groups.md",
     "5. Standard Information/Operating Systems/Windows/Powershell/Modules",
     "5. Standard Information/Operating Systems/Windows/PowerShell",
     "2. Enumeration/TCP/80. HTTP/Concepts/Interactions",
     "3. Exploitation/Obtaining Remote Shells/Specific Shells/Windows",
-    "2. Enumeration/Other/~. ARP",
-    "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Network",
     "Untitled.canvas"
   ]
 }
