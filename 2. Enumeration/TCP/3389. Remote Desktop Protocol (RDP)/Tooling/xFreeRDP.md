@@ -7,3 +7,7 @@ xFreeRDP is an open-source remote desktop protocol (RDP) client that allows user
 ```shell-session
 xfreerdp /v:<targetIp> /u:User /p:Password
 ```
+
+```shell-session
+xfreerdp /u:Administrator /p:'HTB_@cad3my_lab_W1n10_r00t!@0' /v:10.129.23.147 /dynamic-resolution
+```

@@ -84,7 +84,3 @@ SilkETW.exe -t user -pn Microsoft-Windows-DotNETRuntime -uk 0x2038 -ot file -p C
 
 ![[Pasted image 20240724135747.png]]
 
-
-```shell-session
-xfreerdp /u:Administrator /p:'HTB_@cad3my_lab_W1n10_r00t!@0' /v:10.129.23.147 /dynamic-resolution
-```
