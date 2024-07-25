@@ -36,3 +36,9 @@ Let's consider an example of a Windows API call flow, where a user-mode applicat
 ![[wininternals_syscall.webp]]
 
 `ReadProcessMemory` is a Windows API function that belongs to the `kernel32.dll` library. So, this call is invoked via the `kernel32.dll` module which serves as the user mode interface to the Windows API. Internally, the `kernel32.dll` module interacts with the `NTDLL.DLL` module which  translates to the corresponding Native API call, which is `NtReadVirtualMemory`.
+
+If the request is authorized, the thread is transitioned from user mode into the kernel mode. The kernel maintains a table known as the `System Service Descriptor Table (SSDT)` or the `syscall table (System Call Table)`, which is a data structure that contains pointers to the various system service routines. These routines are responsible for handling system calls made by user-mode applications. Each entry in the syscall table corresponds to a specific system call number, and the associated pointer points to the corresponding kernel function that implements the requested operation.
+
+The syscall responsible for `ReadProcessMemory` is executed in the kernel, where the Windows memory management and process isolation mechanisms are leveraged. The kernel performs necessary validations, access checks, and memory operations to read the memory from the target process. The kernel retrieves the physical memory pages corresponding to the requested virtual addresses and copies the data into the provided buffer.
+
+Once the kernel has finished reading the memory, it transitions the thread back to user mode and control is handed back to the original user mode application. The application can then access the data that was read from the target process's memory and continue its execution.

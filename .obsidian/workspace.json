@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ad074544e25f7927",
+        "id": "c2e1375da968da83",
         "type": "tabs",
         "children": [
           {
-            "id": "e3ec342542d91bb8",
+            "id": "bcfcf9c73c4b7b14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Windows Internal Operations.md",
+                "file": "3. Exploitation/File Types and Data/EXE (Portable Executable).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Windows Internal Operations.md",
+                "file": "3. Exploitation/File Types and Data/EXE (Portable Executable).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Windows Internal Operations.md",
+                "file": "3. Exploitation/File Types and Data/EXE (Portable Executable).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Windows Internal Operations.md"
+                "file": "3. Exploitation/File Types and Data/EXE (Portable Executable).md"
               }
             }
           },
@@ -210,12 +210,20 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "e3ec342542d91bb8",
+  "active": "bcfcf9c73c4b7b14",
   "lastOpenFiles": [
+    "3. Exploitation/File Types and Data/EVTX (Windows Event Logs).md",
+    "4. Post Exploitation/Operating Systems/Windows/Tooling/Default Tooling/Services/Service Controller (sc).md",
+    "2. Enumeration/TCP/389. LDAP/Tooling/LDAPDomainDump.md",
+    "3. Exploitation/File Types and Data/NodeJS.md",
+    "7. Misc/textgenerator/templates/smartConnections/summarize.md",
+    "3. Exploitation/File Types and Data/Control Panel Applications (CPL).md",
+    "3. Exploitation/File Types and Data/DLL.md",
+    "3. Exploitation/File Types and Data/EXE (Portable Executable).md",
+    "5. Standard Information/Operating Systems/Windows/Windows Internal Operations.md",
     "7. Misc/Images/wininternals_syscall.webp",
     "7. Misc/Images/windows_architecture.webp",
     "5. Standard Information/Malware and Malware Analysis/Overview.md",
-    "5. Standard Information/Operating Systems/Windows/Windows Internal Operations.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Useful Windows Event Logs.md",
     "5. Standard Information/Malware and Malware Analysis",
     "5. Standard Information/Operating Systems/Windows/Event Log/Event Tracing for Windows (ETW).md",
@@ -228,7 +236,6 @@
     "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)/GUI Alternatives.md",
     "7. Misc/Images/image76.webp",
     "7. Misc/Images/image60.webp",
-    "3. Exploitation/File Types and Data/EVTX (Windows Event Logs).md",
     "3. Exploitation/File Types and Data/VHD (Virtual Hard Drive).md",
     "4. Post Exploitation/Operating Systems/Windows/Tooling/WinPeas.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)",
@@ -240,19 +247,12 @@
     "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Bring Your Own Land.md",
     "4. Post Exploitation/Operating Systems/Windows/Tooling/Invoke-Obfuscation.md",
     "4. Post Exploitation/Operating Systems/Windows/Tooling/PsGetSystem.md",
-    "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Impersonate Users.md",
     "7. Misc/Images/image35.webp",
-    "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/DLL Hijacking.md",
-    "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Process Injection.md",
-    "3. Exploitation/1. Guide.md",
     "7. Misc/Images/etw.webp",
     "7. Misc/Images/image33.webp",
-    "4. Post Exploitation/Operating Systems/Windows/Tooling/Mimikatz.md",
     "7. Misc/Images/image21 1.webp",
-    "7. Misc/Images/image21.webp",
     "7. Misc 1/Images",
     "7. Misc 1",
-    "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities/File Upload Filtering Bypasses.md",
     "7. Misc/smart-chats",
     "5. Standard Information/Operating Systems/Windows/Event Log",
     "5. Standard Information/Operating Systems/Windows/Powershell/Modules",
