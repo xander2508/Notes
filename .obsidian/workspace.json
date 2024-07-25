@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Windows Internals.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Windows Internal Operations.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 418.5
   },
   "right": {
     "id": "ab865be945a38766",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Windows Internals.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Windows Internal Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Windows Internals.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Windows Internal Operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Windows Internals.md"
+                "file": "5. Standard Information/Operating Systems/Windows/Windows Internal Operations.md"
               }
             }
           },
@@ -213,7 +213,7 @@
   "active": "e3ec342542d91bb8",
   "lastOpenFiles": [
     "5. Standard Information/Malware and Malware Analysis/Overview.md",
-    "5. Standard Information/Operating Systems/Windows/Windows Internals.md",
+    "5. Standard Information/Operating Systems/Windows/Windows Internal Operations.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Useful Windows Event Logs.md",
     "5. Standard Information/Malware and Malware Analysis",
     "5. Standard Information/Operating Systems/Windows/Event Log/Event Tracing for Windows (ETW).md",
