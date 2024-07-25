@@ -179,7 +179,6 @@ This event is generated when Sysmon detects and blocks the creation of executabl
 
 This event is generated when Sysmon detects and blocks file shredding from tools such as [SDelete](https://learn.microsoft.com/en-us/sysinternals/downloads/sdelete).
 
-
 ### Event ID 29: FileExecutableDetected
 
 This event is generated when Sysmon detects the creation of a new executable file (PE format).
