@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Exploitation/File Types and Data/EXE (Portable Executable).md",
+                "file": "3. Exploitation/File Types and Data/Dynamic-link library (DLL).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Exploitation/File Types and Data/EXE (Portable Executable).md",
+                "file": "3. Exploitation/File Types and Data/Dynamic-link library (DLL).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Exploitation/File Types and Data/EXE (Portable Executable).md",
+                "file": "3. Exploitation/File Types and Data/Dynamic-link library (DLL).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Exploitation/File Types and Data/EXE (Portable Executable).md"
+                "file": "3. Exploitation/File Types and Data/Dynamic-link library (DLL).md"
               }
             }
           },
@@ -212,15 +212,17 @@
   },
   "active": "bcfcf9c73c4b7b14",
   "lastOpenFiles": [
+    "3. Exploitation/File Types and Data/C.md",
+    "3. Exploitation/File Types and Data/Portable Executable (EXE).md",
+    "3. Exploitation/File Types and Data/Dynamic-link library (DLL).md",
+    "5. Standard Information/Operating Systems/Windows/Processes.md",
+    "5. Standard Information/Operating Systems/Windows/Windows Internal Operations.md",
     "3. Exploitation/File Types and Data/EVTX (Windows Event Logs).md",
     "4. Post Exploitation/Operating Systems/Windows/Tooling/Default Tooling/Services/Service Controller (sc).md",
     "2. Enumeration/TCP/389. LDAP/Tooling/LDAPDomainDump.md",
     "3. Exploitation/File Types and Data/NodeJS.md",
     "7. Misc/textgenerator/templates/smartConnections/summarize.md",
     "3. Exploitation/File Types and Data/Control Panel Applications (CPL).md",
-    "3. Exploitation/File Types and Data/DLL.md",
-    "3. Exploitation/File Types and Data/EXE (Portable Executable).md",
-    "5. Standard Information/Operating Systems/Windows/Windows Internal Operations.md",
     "7. Misc/Images/wininternals_syscall.webp",
     "7. Misc/Images/windows_architecture.webp",
     "5. Standard Information/Malware and Malware Analysis/Overview.md",
@@ -245,8 +247,6 @@
     "7. Misc/Images/Pasted image 20240724135747.png",
     "7. Misc/Images/image77.webp",
     "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Bring Your Own Land.md",
-    "4. Post Exploitation/Operating Systems/Windows/Tooling/Invoke-Obfuscation.md",
-    "4. Post Exploitation/Operating Systems/Windows/Tooling/PsGetSystem.md",
     "7. Misc/Images/image35.webp",
     "7. Misc/Images/etw.webp",
     "7. Misc/Images/image33.webp",
