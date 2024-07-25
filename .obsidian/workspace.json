@@ -212,6 +212,7 @@
   },
   "active": "e3ec342542d91bb8",
   "lastOpenFiles": [
+    "7. Misc/Images/windows_architecture.webp",
     "5. Standard Information/Malware and Malware Analysis/Overview.md",
     "5. Standard Information/Operating Systems/Windows/Windows Internal Operations.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Useful Windows Event Logs.md",
@@ -253,7 +254,6 @@
     "7. Misc 1",
     "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities/File Upload Filtering Bypasses.md",
     "7. Misc/smart-chats",
-    "5. Standard Information/Operating Systems/Windows/Powershell/Everything is an Object.md",
     "5. Standard Information/Operating Systems/Windows/Event Log",
     "5. Standard Information/Operating Systems/Windows/Powershell/Modules",
     "5. Standard Information/Operating Systems/Windows/PowerShell",
