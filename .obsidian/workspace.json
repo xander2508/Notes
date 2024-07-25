@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Useful Windows Event Logs.md",
+                "file": "5. Standard Information/Malware and Malware Analysis/Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Useful Windows Event Logs.md",
+                "file": "5. Standard Information/Malware and Malware Analysis/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Useful Windows Event Logs.md",
+                "file": "5. Standard Information/Malware and Malware Analysis/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Event Log/Useful Windows Event Logs.md"
+                "file": "5. Standard Information/Malware and Malware Analysis/Overview.md"
               }
             }
           },
@@ -212,12 +212,14 @@
   },
   "active": "e3ec342542d91bb8",
   "lastOpenFiles": [
+    "5. Standard Information/Operating Systems/Windows/Event Log/Useful Windows Event Logs.md",
+    "5. Standard Information/Malware and Malware Analysis/Overview.md",
+    "5. Standard Information/Malware and Malware Analysis",
     "5. Standard Information/Operating Systems/Windows/Event Log/Event Tracing for Windows (ETW).md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)/SilkETW.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Tools/System Monitor (Sysmon).md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)/Logman.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Tools/wevtutil.md",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Useful Windows Event Logs.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Get-WinEvent.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)/GUI Alternatives.md",
@@ -256,7 +258,6 @@
     "5. Standard Information/Operating Systems/Windows/Powershell/Modules",
     "5. Standard Information/Operating Systems/Windows/PowerShell",
     "2. Enumeration/TCP/80. HTTP/Concepts/Interactions",
-    "3. Exploitation/Obtaining Remote Shells/Specific Shells/Windows",
     "Untitled.canvas"
   ]
 }
