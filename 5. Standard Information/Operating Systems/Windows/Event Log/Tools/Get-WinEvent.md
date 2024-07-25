@@ -64,7 +64,7 @@ $endDate   = (Get-Date -Year 2023 -Month 6 -Day 3).Date
 Get-WinEvent -FilterHashtable @{LogName='Microsoft-Windows-Sysmon/Operational'; ID=1,3; StartTime=$startDate; EndTime=$endDate} | Select-Object TimeCreated, ID, ProviderName, LevelDisplayName, Message | Format-Table -AutoSize
 ```
 
-#### Filtering events with FilterHashtable & XML
+#### Filtering events FilterHashtable
 
 Consider an intrusion detection scenario where a suspicious network connection to a particular IP (`52.113.194.132`) has been identified. With Sysmon installed, you can use [Event ID 3 (Network Connection)](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventid=90003) logs to investigate the potential threat.
 
@@ -82,6 +82,28 @@ New-Object PSObject -Property @{
 }  | Where-Object {$_.DestinationIP -eq "52.113.194.132"}
 ```
 
+This script will retrieve all Sysmon network connection events (ID 3), parse the XML data for each event to retrieve specific details (source IP, destination IP, Process GUID, and Process ID), and filter the results to include only events where the destination IP matches the suspected IP.
+
+We can use the `ProcessGuid` to trace back the original process that made the connection, enabling us to understand the process tree and identify any malicious executables or scripts.
+
+The Windows XML EventLog ([[EVTX (Windows Event Logs)]]) format can be found [here](https://github.com/libyal/libevtx/blob/main/documentation/Windows%20XML%20Event%20Log%20(EVTX).asciidoc).
+
+#### Filtering events with XML 
+
+```powershell-session
+$Query = @"
+	<QueryList>
+		<Query Id="0">
+			<Select Path="Microsoft-Windows-Sysmon/Operational">*[System[(EventID=7)]] and *[EventData[Data='mscoree.dll']] or *[EventData[Data='clr.dll']]
+			</Select>
+		</Query>
+	</QueryList>
+	"@
+```
+```powershell-session
+Get-WinEvent -FilterXml $Query | ForEach-Object {Write-Host $_.Message `n}
+```
+
 #### Querying Last Five Events
 
 Here we will list the last five events recorded in the Security log. By default, the newest logs are listed first. If we want to get older logs first, we can reverse the order to list the oldest ones first using the `-Oldest` parameter.
@@ -93,3 +115,39 @@ Get-WinEvent -LogName 'Security' -MaxEvents 5 | Select-Object -ExpandProperty Me
 ```
 
 From here, we could use the `-ExpandProperty` parameter to dig deeper into specific events, list logs from oldest to newest, etc.
+
+
+#### Filtering events with FilterXPath
+
+To use XPath queries with Get-WinEvent, we need to use the `-FilterXPath` parameter.
+
+For instance, if we want to get Process Creation ([Sysmon Event ID 1](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventid=90001)) events in the Sysmon log to identify installation of any [Sysinternals](https://learn.microsoft.com/en-us/sysinternals/) tool we can use the command below. 
+
+**Note**: During the installation of a Sysinternals tool the user must accept the presented EULA. The acceptance action involves the registry key included in the command below.
+
+```powershell-session
+Get-WinEvent -LogName 'Microsoft-Windows-Sysmon/Operational' -FilterXPath "*[EventData[Data[@Name='Image']='C:\Windows\System32\reg.exe']] and *[EventData[Data[@Name='CommandLine']='`"C:\Windows\system32\reg.exe`" ADD HKCU\Software\Sysinternals /v EulaAccepted /t REG_DWORD /d 1 /f']]" | Select-Object TimeCreated, ID, ProviderName, LevelDisplayName, Message | Format-Table -AutoSize
+```
+
+**Note**: `Image` and `CommandLine` can be identified by browsing the XML representation of any Sysmon event with ID 1 through, for example, Event Viewer.
+
+![[image60.webp]]
+
+Suppose we want to investigate any network connections to a particular suspicious IP address (`52.113.194.132`) that Sysmon has logged. To do that we could use the following command.
+
+```powershell-session
+Get-WinEvent -LogName 'Microsoft-Windows-Sysmon/Operational' -FilterXPath "*[System[EventID=3] and EventData[Data[@Name='DestinationIp']='52.113.194.132']]"
+```
+
+
+#### Filtering events based on property values
+
+The `-Property *` parameter, when used with `Select-Object`, instructs the command to select all properties of the objects passed to it. e.g.
+
+```powershell-session
+Get-WinEvent -FilterHashtable @{LogName='Microsoft-Windows-Sysmon/Operational'; ID=1} -MaxEvents 1 | Select-Object -Property *
+```
+
+```powershell-session
+Get-WinEvent -FilterHashtable @{LogName='Microsoft-Windows-Sysmon/Operational'; ID=1} | Where-Object {$_.Properties[21].Value -like "*-enc*"} | Format-List
+```
