@@ -161,3 +161,12 @@ Get-WinEvent -FilterHashtable @{LogName='Microsoft-Windows-Sysmon/Operational'; 
 ![[image76.webp]]
 - `-like "*-enc*"`: This is a comparison operator that matches strings based on a wildcard string, where `*` represents any sequence of characters. In this case, it's looking for any command lines that contain `-enc` anywhere within them.
 - `| Format-List`: Finally, the output of the previous command (the events that meet the specified condition) is passed to the `Format-List` cmdlet. This cmdlet displays the properties of the input objects as a list, making it easier to read and analyse.
+
+Write a Get-WinEvent query which queries events of id 7 for the signed value false
+
+$events = Get-WinEvent -FilterHashtable @{LogName='Security'; ID=7; Level=0}
+foreach ($event in $events) {
+    if ($event.Properties[5].Value -eq $false) {
+        Write-Output $event
+    }
+}
