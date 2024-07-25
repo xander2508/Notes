@@ -158,3 +158,6 @@ Get-WinEvent -FilterHashtable @{LogName='Microsoft-Windows-Sysmon/Operational'; 
 
 - `$_`: In the script block, $_ refers to the current object in the pipeline, i.e., each individual event that was retrieved and passed from the previous command.
 - `.Properties[21].Value`: The `Properties` property of a "Process Create" Sysmon event is an array containing various data about the event. The specific index `21` corresponds to the `ParentCommandLine` property of the event, which holds the exact command line used to start the process.
+![[image76.webp]]
+- `-like "*-enc*"`: This is a comparison operator that matches strings based on a wildcard string, where `*` represents any sequence of characters. In this case, it's looking for any command lines that contain `-enc` anywhere within them.
+- `| Format-List`: Finally, the output of the previous command (the events that meet the specified condition) is passed to the `Format-List` cmdlet. This cmdlet displays the properties of the input objects as a list, making it easier to read and analyse.
