@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/AWS/Infrastructure/Regions.md",
+                "file": "2024-07-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/AWS/Infrastructure/Regions.md",
+                "file": "2024-07-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/AWS/Infrastructure/Regions.md",
+                "file": "2024-07-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/AWS/Infrastructure/Regions.md"
+                "file": "2024-07-26.md"
               }
             }
           },
@@ -212,15 +212,23 @@
   },
   "active": "8ceffdc9031b4aee",
   "lastOpenFiles": [
+    "5. Standard Information/AWS/Services/Service Types/1. Service List.md",
+    "5. Standard Information/AWS/Services/Service Types/Amazon CloudFront.md",
+    "2024-07-26.md",
+    "Untitled.canvas",
+    "5. Standard Information/AWS/Infrastructure/Regions.md",
+    "5. Standard Information/AWS/Services/Service Types/Amazon SDKs.md",
+    "5. Standard Information/AWS/Services/Service Types/AWS Management Console.md",
+    "5. Standard Information/AWS/Services/Service Types/AWS Command Line Interface (AWS CLI).md",
+    "5. Standard Information/AWS/Services/Information/Interacting with AWS.md",
+    "5. Standard Information/AWS/Services/Information/Maintaining Resiliency.md",
+    "7. Misc/Images/Pasted image 20240726134811.jpg",
+    "5. Standard Information/AWS/Services/Information/Scope of AWS Services.md",
     "5. Standard Information/AWS/Infrastructure/Availability Zones.md",
     "5. Standard Information/AWS/Infrastructure/Edge Locations.md",
     "7. Misc/Images/Pasted image 20240726133046.png",
-    "5. Standard Information/AWS/Services/Service Types/Amazon CloudFront.md",
-    "5. Standard Information/AWS/Services/Information/Maintaining Resiliency.md",
     "5. Standard Information/AWS/Services/Service Types",
     "5. Standard Information/AWS/Services/Information",
-    "5. Standard Information/AWS/Services/Information/Scope of AWS services.md",
-    "5. Standard Information/AWS/Infrastructure/Regions.md",
     "5. Standard Information/AWS/What Is AWS.md",
     "5. Standard Information/AWS/Services",
     "5. Standard Information/AWS/Infrastructure",
@@ -239,11 +247,6 @@
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/1. Guide.md",
     "2. Enumeration/TCP/5900. Virtual Network Computing (VNC)/1. Guide.md",
-    "2. Enumeration/TCP/135. RPC/1. Guide.md",
-    "5. Standard Information/Operating Systems/Linux/X Server (X11).md",
-    "4. Post Exploitation/Operating Systems/Windows/Tooling/Default Tooling/Finding Users and Groups.md",
-    "3. Exploitation/File Types and Data/RDP (Remote Desktop Files).md",
-    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/Remote Desktop Connection.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/Tooling",
     "5. Standard Information/Operating Systems/Linux/Malware Analysis",
     "7. Misc/Images/process_injection_fn.webp",
@@ -255,8 +258,6 @@
     "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)",
     "5. Standard Information/Operating Systems/Windows/Event Log/Tools",
     "7. Misc/Images/Pasted image 20240724135747.png",
-    "7. Misc/Images/image77.webp",
-    "7. Misc/Images/image35.webp",
-    "Untitled.canvas"
+    "7. Misc/Images/image77.webp"
   ]
 }
