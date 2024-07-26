@@ -1,6 +1,6 @@
 Regions are geographic locations worldwide where AWS hosts its data centres. AWS Regions are named after the location where they reside. For example, in the United States, the Region in Northern Virginia is called the Northern Virginia Region, and the Region in Oregon is called the Oregon Region. AWS has Regions in Asia Pacific, China, Europe, the Middle East, North America, and South America. And we continue to expand to meet our customers' needs.
 
-Inside every Region is a cluster of [[Availability Zones]].
+A Region is a cluster of [[Availability Zones]].
 
 Each AWS Region is associated with a geographical name and a Region code.
 

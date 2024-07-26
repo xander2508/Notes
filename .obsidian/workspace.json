@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/AWS/Infrastructure/Edge Locations.md",
+                "file": "5. Standard Information/AWS/Infrastructure/Regions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/AWS/Infrastructure/Edge Locations.md",
+                "file": "5. Standard Information/AWS/Infrastructure/Regions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/AWS/Infrastructure/Edge Locations.md",
+                "file": "5. Standard Information/AWS/Infrastructure/Regions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/AWS/Infrastructure/Edge Locations.md"
+                "file": "5. Standard Information/AWS/Infrastructure/Regions.md"
               }
             }
           },
@@ -212,13 +212,13 @@
   },
   "active": "8ceffdc9031b4aee",
   "lastOpenFiles": [
+    "5. Standard Information/AWS/Infrastructure/Availability Zones.md",
+    "5. Standard Information/AWS/Infrastructure/Edge Locations.md",
     "7. Misc/Images/Pasted image 20240726133046.png",
     "5. Standard Information/AWS/Services/Service Types/Amazon CloudFront.md",
     "5. Standard Information/AWS/Services/Information/Maintaining Resiliency.md",
     "5. Standard Information/AWS/Services/Service Types",
     "5. Standard Information/AWS/Services/Information",
-    "5. Standard Information/AWS/Infrastructure/Edge Locations.md",
-    "5. Standard Information/AWS/Infrastructure/Availability Zones.md",
     "5. Standard Information/AWS/Services/Information/Scope of AWS services.md",
     "5. Standard Information/AWS/Infrastructure/Regions.md",
     "5. Standard Information/AWS/What Is AWS.md",
@@ -257,7 +257,6 @@
     "7. Misc/Images/Pasted image 20240724135747.png",
     "7. Misc/Images/image77.webp",
     "7. Misc/Images/image35.webp",
-    "7. Misc/Images/etw.webp",
     "Untitled.canvas"
   ]
 }
