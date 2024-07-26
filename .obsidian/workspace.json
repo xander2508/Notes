@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/SHA256.md",
+                "file": "5. Standard Information/Malware Analysis Overview and Tooling.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/SHA256.md",
+                "file": "5. Standard Information/Malware Analysis Overview and Tooling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/SHA256.md",
+                "file": "5. Standard Information/Malware Analysis Overview and Tooling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/SHA256.md"
+                "file": "5. Standard Information/Malware Analysis Overview and Tooling.md"
               }
             }
           },
@@ -212,6 +212,9 @@
   },
   "active": "bcfcf9c73c4b7b14",
   "lastOpenFiles": [
+    "5. Standard Information/Server Architecture Terms.md",
+    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/SHA256.md",
+    "5. Standard Information/AWS",
     "3. Exploitation/File Types and Data/3. Identifying Malware.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/MD5.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/Import Hashing (IMPHASH).md",
@@ -227,7 +230,6 @@
     "5. Standard Information/Operating Systems/Linux/Malware Analysis/Static Analysis.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/PE Section Hashing.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/Fuzzy Hashing (SSDEEP).md",
-    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/SHA256.md",
     "4. Post Exploitation/Operating Systems/Windows/1. Guide.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Known Flaws/Magic Hashes.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/Tooling/MD5.md",
@@ -239,7 +241,6 @@
     "5. Standard Information/Operating Systems/Linux/Malware Analysis",
     "5. Standard Information/Malware Analysis Overview and Tooling.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Event Tracing for Windows (ETW).md",
-    "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/DLL Hijacking.md",
     "7. Misc/Images/process_injection_fn.webp",
     "7. Misc/Images/wininternals_syscall.webp",
     "7. Misc/Images/windows_architecture.webp",
@@ -257,7 +258,6 @@
     "7. Misc 1",
     "7. Misc/smart-chats",
     "5. Standard Information/Operating Systems/Windows/Event Log",
-    "5. Standard Information/Operating Systems/Windows/Powershell/Modules",
     "Untitled.canvas"
   ]
 }
