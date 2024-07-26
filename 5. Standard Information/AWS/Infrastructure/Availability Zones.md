@@ -6,3 +6,5 @@ Availability Zones also have code names. Because they are located inside [[Regio
 - **sa-east-1b** is an Availability Zone in sa-east-1 (São Paulo Region).
 
 Therefore, if you see that a resource exists in us-east-1c, you can infer that the resource is located in Availability Zone c of the us-east-1 Region.
+
+

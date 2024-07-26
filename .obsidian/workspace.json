@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "5. Standard Information/AWS/Services/Service Types/Amazon CloudFront.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eaee827913c97d7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "5. Standard Information/AWS/Infrastructure/Availability Zones.md",
                 "mode": "source",
                 "source": false
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/AWS/Infrastructure/Availability Zones.md",
+                "file": "5. Standard Information/AWS/Services/Service Types/Amazon CloudFront.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/AWS/Infrastructure/Availability Zones.md",
+                "file": "5. Standard Information/AWS/Services/Service Types/Amazon CloudFront.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/AWS/Infrastructure/Availability Zones.md"
+                "file": "5. Standard Information/AWS/Services/Service Types/Amazon CloudFront.md"
               }
             }
           },
@@ -212,9 +224,16 @@
   },
   "active": "8ceffdc9031b4aee",
   "lastOpenFiles": [
-    "5. Standard Information/AWS/What Is AWS.md",
+    "5. Standard Information/AWS/Services/Information/Maintaining Resiliency.md",
+    "5. Standard Information/AWS/Services/Service Types/Amazon CloudFront.md",
+    "5. Standard Information/AWS/Services/Service Types",
+    "5. Standard Information/AWS/Services/Information",
+    "5. Standard Information/AWS/Infrastructure/Edge Locations.md",
     "5. Standard Information/AWS/Infrastructure/Availability Zones.md",
+    "5. Standard Information/AWS/Services/Information/Scope of AWS services.md",
     "5. Standard Information/AWS/Infrastructure/Regions.md",
+    "5. Standard Information/AWS/What Is AWS.md",
+    "5. Standard Information/AWS/Services",
     "5. Standard Information/AWS/Infrastructure",
     "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities/Cross-Site Request Forgery (XSRF).md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Scripts/Bypass Cross-Site Request Forgery (CSRF).md",
@@ -237,10 +256,6 @@
     "3. Exploitation/File Types and Data/RDP (Remote Desktop Files).md",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/Remote Desktop Connection.md",
     "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Windows/Inline File Transfer.md",
-    "5. Standard Information/Operating Systems/Linux/Malware Analysis/Static Analysis.md",
-    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/PE Section Hashing.md",
-    "4. Post Exploitation/Operating Systems/Windows/1. Guide.md",
-    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/Tooling/MD5.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/Tooling",
     "5. Standard Information/Operating Systems/Linux/Malware Analysis",
     "7. Misc/Images/process_injection_fn.webp",
@@ -255,9 +270,6 @@
     "7. Misc/Images/image77.webp",
     "7. Misc/Images/image35.webp",
     "7. Misc/Images/etw.webp",
-    "7. Misc 1/Images",
-    "7. Misc 1",
-    "7. Misc/smart-chats",
     "Untitled.canvas"
   ]
 }
