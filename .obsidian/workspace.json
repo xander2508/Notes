@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/AWS/User Management/Multi-factor authentication (MFA).md",
+                "file": "5. Standard Information/AWS/User Management/Identity and Access Management (IAM).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/AWS/User Management/Multi-factor authentication (MFA).md",
+                "file": "5. Standard Information/AWS/User Management/Identity and Access Management (IAM).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/AWS/User Management/Multi-factor authentication (MFA).md",
+                "file": "5. Standard Information/AWS/User Management/Identity and Access Management (IAM).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/AWS/User Management/Multi-factor authentication (MFA).md"
+                "file": "5. Standard Information/AWS/User Management/Identity and Access Management (IAM).md"
               }
             }
           },
@@ -214,9 +214,10 @@
   },
   "active": "edefe6c0f3e4bc42",
   "lastOpenFiles": [
+    "5. Standard Information/AWS/User Management/Multi-factor authentication (MFA).md",
+    "7. Misc/Images/Pasted image 20240726164513.png",
     "5. Standard Information/AWS/User Management/AWS root user.md",
     "5. Standard Information/AWS/User Management/Identity and Access Management (IAM).md",
-    "5. Standard Information/AWS/User Management/Multi-factor authentication (MFA).md",
     "5. Standard Information/AWS/AWS Shared Responsibility Model.md",
     "5. Standard Information/AWS/User Management",
     "7. Misc/Images/Pasted image 20240726153834.png",
@@ -250,7 +251,6 @@
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Known Flaws/Magic Hashes.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/Fuzzy Hashing (SSDEEP).md",
     "7. Misc/Images/Pasted image 20240726112201.png",
-    "5. Standard Information/Malware Analysis Overview and Tooling.md",
     "5. Standard Information/AWS",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/Tooling",
     "5. Standard Information/Operating Systems/Linux/Malware Analysis",
@@ -259,7 +259,6 @@
     "7. Misc/Images/windows_architecture.webp",
     "5. Standard Information/Malware and Malware Analysis",
     "7. Misc/Images/image76.webp",
-    "7. Misc/Images/image60.webp",
-    "7. Misc/Images/Pasted image 20240724135747.png"
+    "7. Misc/Images/image60.webp"
   ]
 }
