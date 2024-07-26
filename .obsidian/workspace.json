@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Exploitation/File Types and Data/3. Identifying Malware.md",
+                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Known Flaws/Magic Hashes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "xfreerdp",
+                "query": "hash",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -223,10 +222,15 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "4239703b05c07e67",
+  "active": "744b9316b7030f7b",
   "lastOpenFiles": [
-    "5. Standard Information/Operating Systems/Linux/Malware Analysis/Static Analysis.md",
+    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/Tooling",
+    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/Tooling.md",
     "3. Exploitation/File Types and Data/3. Identifying Malware.md",
+    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Known Flaws/Magic Hashes.md",
+    "4. Post Exploitation/Operating Systems/Windows/1. Guide.md",
+    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/1. Guide.md",
+    "5. Standard Information/Operating Systems/Linux/Malware Analysis/Static Analysis.md",
     "3. Exploitation/File Types and Data/1. Guide.md",
     "3. Exploitation/File Types and Data/2. Programs and Executables Guide.md",
     "5. Standard Information/Operating Systems/Linux/Malware Analysis",
@@ -251,11 +255,6 @@
     "5. Standard Information/Operating Systems/Windows/Event Log/Useful Windows Event Logs.md",
     "5. Standard Information/Malware and Malware Analysis",
     "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)/SilkETW.md",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/System Monitor (Sysmon).md",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)/Logman.md",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/wevtutil.md",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Get-WinEvent.md",
     "7. Misc/Images/image76.webp",
     "7. Misc/Images/image60.webp",
     "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)",
