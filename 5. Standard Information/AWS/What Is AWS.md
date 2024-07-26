@@ -25,7 +25,7 @@ IT resources are only a click away, which means that you reduce the time to make
 
 #### Realize cost savings
 
-Companies can focus on projects that differentiate their business and remove the "undifferentiated heavy lifting", instead of maintaining data centers. With cloud computing, you can focus on your customers, rather than racking, stacking, and powering physical infrastructure.
+Companies can focus on projects that differentiate their business and remove the "undifferentiated heavy lifting", instead of maintaining data centres. With cloud computing, you can focus on your customers, rather than racking, stacking, and powering physical infrastructure.
 
 #### Go global in minutes
 
