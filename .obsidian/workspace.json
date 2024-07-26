@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Malware Analysis Overview and Tooling.md",
+                "file": "5. Standard Information/AWS/What Is AWS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Malware Analysis Overview and Tooling.md",
+                "file": "5. Standard Information/AWS/What Is AWS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Malware Analysis Overview and Tooling.md",
+                "file": "5. Standard Information/AWS/What Is AWS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Malware Analysis Overview and Tooling.md"
+                "file": "5. Standard Information/AWS/What Is AWS.md"
               }
             }
           },
@@ -212,6 +212,9 @@
   },
   "active": "bcfcf9c73c4b7b14",
   "lastOpenFiles": [
+    "7. Misc/Images/Pasted image 20240726112201.png",
+    "5. Standard Information/Malware Analysis Overview and Tooling.md",
+    "5. Standard Information/AWS/What Is AWS.md",
     "5. Standard Information/Server Architecture Terms.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/SHA256.md",
     "5. Standard Information/AWS",
@@ -237,10 +240,7 @@
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/Tooling.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/1. Guide.md",
     "3. Exploitation/File Types and Data/1. Guide.md",
-    "3. Exploitation/File Types and Data/2. Programs and Executables Guide.md",
     "5. Standard Information/Operating Systems/Linux/Malware Analysis",
-    "5. Standard Information/Malware Analysis Overview and Tooling.md",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Event Tracing for Windows (ETW).md",
     "7. Misc/Images/process_injection_fn.webp",
     "7. Misc/Images/wininternals_syscall.webp",
     "7. Misc/Images/windows_architecture.webp",
