@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-07-26.md",
+                "file": "5. Standard Information/AWS/Services/Service Types/Amazon CloudFront.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-07-26.md",
+                "file": "5. Standard Information/AWS/Services/Service Types/Amazon CloudFront.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-07-26.md",
+                "file": "5. Standard Information/AWS/Services/Service Types/Amazon CloudFront.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-07-26.md"
+                "file": "5. Standard Information/AWS/Services/Service Types/Amazon CloudFront.md"
               }
             }
           },
@@ -207,15 +207,18 @@
       "omnisearch:Omnisearch": false,
       "obsidian-importer:Open Importer": false,
       "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "smart-connections:Open: Smart Chat Conversation": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "8ceffdc9031b4aee",
   "lastOpenFiles": [
-    "5. Standard Information/AWS/Services/Service Types/1. Service List.md",
-    "5. Standard Information/AWS/Services/Service Types/Amazon CloudFront.md",
     "2024-07-26.md",
     "Untitled.canvas",
+    "Excalidraw/Drawing 2024-07-26 14.00.12.excalidraw.md",
+    "Excalidraw",
+    "5. Standard Information/AWS/Services/Service Types/1. Service List.md",
+    "5. Standard Information/AWS/Services/Service Types/Amazon CloudFront.md",
     "5. Standard Information/AWS/Infrastructure/Regions.md",
     "5. Standard Information/AWS/Services/Service Types/Amazon SDKs.md",
     "5. Standard Information/AWS/Services/Service Types/AWS Management Console.md",
@@ -245,8 +248,6 @@
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/MD5.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/Import Hashing (IMPHASH).md",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
-    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/1. Guide.md",
-    "2. Enumeration/TCP/5900. Virtual Network Computing (VNC)/1. Guide.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/Tooling",
     "5. Standard Information/Operating Systems/Linux/Malware Analysis",
     "7. Misc/Images/process_injection_fn.webp",
@@ -256,7 +257,6 @@
     "7. Misc/Images/image76.webp",
     "7. Misc/Images/image60.webp",
     "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Tools",
     "7. Misc/Images/Pasted image 20240724135747.png",
     "7. Misc/Images/image77.webp"
   ]
