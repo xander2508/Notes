@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/AWS/What Is AWS.md",
+                "file": "5. Standard Information/AWS/AWS Shared Responsibility Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/AWS/What Is AWS.md",
+                "file": "5. Standard Information/AWS/AWS Shared Responsibility Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/AWS/What Is AWS.md",
+                "file": "5. Standard Information/AWS/AWS Shared Responsibility Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/AWS/What Is AWS.md"
+                "file": "5. Standard Information/AWS/AWS Shared Responsibility Model.md"
               }
             }
           },
@@ -214,29 +214,31 @@
   },
   "active": "edefe6c0f3e4bc42",
   "lastOpenFiles": [
-    "5. Standard Information/AWS/Services/Service Types/1. Service List.md",
-    "5. Standard Information/AWS/Services/Service Types/Amazon SDKs.md",
+    "7. Misc/Images/Pasted image 20240726153834.png",
+    "5. Standard Information/AWS/What Is AWS.md",
+    "5. Standard Information/AWS/Interacting with AWS.md",
+    "5. Standard Information/AWS/AWS Shared Responsibility Model.md",
+    "5. Standard Information/AWS/Services/1. Service List.md",
+    "5. Standard Information/AWS/Services/Amazon SDKs.md",
     "4. Post Exploitation/Operating Systems/1. Guide.md",
     "7. Misc/smart-chats/UNTITLED CHAT 2024-07-24 08 53 45.md",
     "1. Recon/Open Source Intelligence/1. Guide.md",
-    "5. Standard Information/AWS/Services/Service Types/Amazon CloudFront.md",
+    "5. Standard Information/AWS/Services/Amazon CloudFront.md",
     "2024-07-26.md",
     "Untitled.canvas",
     "Excalidraw/Drawing 2024-07-26 14.00.12.excalidraw.md",
     "Excalidraw",
     "5. Standard Information/AWS/Infrastructure/Regions.md",
-    "5. Standard Information/AWS/Services/Service Types/AWS Management Console.md",
-    "5. Standard Information/AWS/Services/Service Types/AWS Command Line Interface (AWS CLI).md",
-    "5. Standard Information/AWS/Services/Information/Interacting with AWS.md",
-    "5. Standard Information/AWS/Services/Information/Maintaining Resiliency.md",
+    "5. Standard Information/AWS/Services/AWS Management Console.md",
+    "5. Standard Information/AWS/Services/AWS Command Line Interface (AWS CLI).md",
+    "5. Standard Information/AWS/Maintaining Resiliency.md",
     "7. Misc/Images/Pasted image 20240726134811.jpg",
-    "5. Standard Information/AWS/Services/Information/Scope of AWS Services.md",
+    "5. Standard Information/AWS/Scope of AWS Services.md",
     "5. Standard Information/AWS/Infrastructure/Availability Zones.md",
     "5. Standard Information/AWS/Infrastructure/Edge Locations.md",
     "7. Misc/Images/Pasted image 20240726133046.png",
     "5. Standard Information/AWS/Services/Service Types",
     "5. Standard Information/AWS/Services/Information",
-    "5. Standard Information/AWS/What Is AWS.md",
     "5. Standard Information/AWS/Services",
     "5. Standard Information/AWS/Infrastructure",
     "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities/Cross-Site Request Forgery (XSRF).md",
@@ -248,8 +250,6 @@
     "5. Standard Information/Server Architecture Terms.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/SHA256.md",
     "5. Standard Information/AWS",
-    "3. Exploitation/File Types and Data/3. Identifying Malware.md",
-    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/MD5.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/Tooling",
     "5. Standard Information/Operating Systems/Linux/Malware Analysis",
     "7. Misc/Images/process_injection_fn.webp",
