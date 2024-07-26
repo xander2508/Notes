@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "3. Exploitation/File Types and Data/3. Identifying Malware.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4239703b05c07e67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "5. Standard Information/Operating Systems/Linux/Malware Analysis/Static Analysis.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,11 +223,12 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "bcfcf9c73c4b7b14",
+  "active": "4239703b05c07e67",
   "lastOpenFiles": [
-    "3. Exploitation/File Types and Data/2. Programs and Executables Guide.md",
-    "3. Exploitation/File Types and Data/1. Guide.md",
+    "3. Exploitation/File Types and Data/3. Identifying Malware.md",
     "5. Standard Information/Operating Systems/Linux/Malware Analysis/Static Analysis.md",
+    "3. Exploitation/File Types and Data/1. Guide.md",
+    "3. Exploitation/File Types and Data/2. Programs and Executables Guide.md",
     "5. Standard Information/Operating Systems/Linux/Malware Analysis",
     "5. Standard Information/Malware Analysis Overview and Tooling.md",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
@@ -242,7 +256,6 @@
     "5. Standard Information/Operating Systems/Windows/Event Log/Tools/wevtutil.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Windows Event Log.md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Get-WinEvent.md",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)/GUI Alternatives.md",
     "7. Misc/Images/image76.webp",
     "7. Misc/Images/image60.webp",
     "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)",
