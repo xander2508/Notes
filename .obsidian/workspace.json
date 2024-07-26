@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/AWS/AWS Shared Responsibility Model.md",
+                "file": "5. Standard Information/AWS/User Management/AWS root user.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/AWS/AWS Shared Responsibility Model.md",
+                "file": "5. Standard Information/AWS/User Management/AWS root user.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/AWS/AWS Shared Responsibility Model.md",
+                "file": "5. Standard Information/AWS/User Management/AWS root user.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/AWS/AWS Shared Responsibility Model.md"
+                "file": "5. Standard Information/AWS/User Management/AWS root user.md"
               }
             }
           },
@@ -214,10 +214,12 @@
   },
   "active": "edefe6c0f3e4bc42",
   "lastOpenFiles": [
+    "5. Standard Information/AWS/AWS Shared Responsibility Model.md",
+    "5. Standard Information/AWS/User Management/AWS root user.md",
+    "5. Standard Information/AWS/User Management",
     "7. Misc/Images/Pasted image 20240726153834.png",
     "5. Standard Information/AWS/What Is AWS.md",
     "5. Standard Information/AWS/Interacting with AWS.md",
-    "5. Standard Information/AWS/AWS Shared Responsibility Model.md",
     "5. Standard Information/AWS/Services/1. Service List.md",
     "5. Standard Information/AWS/Services/Amazon SDKs.md",
     "4. Post Exploitation/Operating Systems/1. Guide.md",
@@ -258,8 +260,6 @@
     "5. Standard Information/Malware and Malware Analysis",
     "7. Misc/Images/image76.webp",
     "7. Misc/Images/image60.webp",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)",
-    "7. Misc/Images/Pasted image 20240724135747.png",
-    "7. Misc/Images/image77.webp"
+    "7. Misc/Images/Pasted image 20240724135747.png"
   ]
 }
