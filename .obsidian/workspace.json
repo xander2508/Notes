@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c2e1375da968da83",
+        "id": "da9caa9120307568",
         "type": "tabs",
         "children": [
           {
-            "id": "bcfcf9c73c4b7b14",
+            "id": "8ceffdc9031b4aee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/Fuzzy Hashing (SSDEEP).md",
+                "file": "5. Standard Information/AWS/Infrastructure/Availability Zones.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vnc",
+                "query": "CSRF",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/Fuzzy Hashing (SSDEEP).md",
+                "file": "5. Standard Information/AWS/Infrastructure/Availability Zones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/Fuzzy Hashing (SSDEEP).md",
+                "file": "5. Standard Information/AWS/Infrastructure/Availability Zones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/Fuzzy Hashing (SSDEEP).md"
+                "file": "5. Standard Information/AWS/Infrastructure/Availability Zones.md"
               }
             }
           },
@@ -210,10 +210,16 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "bcfcf9c73c4b7b14",
+  "active": "8ceffdc9031b4aee",
   "lastOpenFiles": [
-    "5. Standard Information/AWS/Regions.md",
     "5. Standard Information/AWS/What Is AWS.md",
+    "5. Standard Information/AWS/Infrastructure/Availability Zones.md",
+    "5. Standard Information/AWS/Infrastructure/Regions.md",
+    "5. Standard Information/AWS/Infrastructure",
+    "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities/Cross-Site Request Forgery (XSRF).md",
+    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Scripts/Bypass Cross-Site Request Forgery (CSRF).md",
+    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Known Flaws/Magic Hashes.md",
+    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/Fuzzy Hashing (SSDEEP).md",
     "7. Misc/Images/Pasted image 20240726112201.png",
     "5. Standard Information/Malware Analysis Overview and Tooling.md",
     "5. Standard Information/Server Architecture Terms.md",
@@ -233,14 +239,9 @@
     "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Windows/Inline File Transfer.md",
     "5. Standard Information/Operating Systems/Linux/Malware Analysis/Static Analysis.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/PE Section Hashing.md",
-    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/Fuzzy Hashing (SSDEEP).md",
     "4. Post Exploitation/Operating Systems/Windows/1. Guide.md",
-    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Known Flaws/Magic Hashes.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/Tooling/MD5.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/Tooling",
-    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/Tooling.md",
-    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/1. Guide.md",
-    "3. Exploitation/File Types and Data/1. Guide.md",
     "5. Standard Information/Operating Systems/Linux/Malware Analysis",
     "7. Misc/Images/process_injection_fn.webp",
     "7. Misc/Images/wininternals_syscall.webp",
@@ -257,7 +258,6 @@
     "7. Misc 1/Images",
     "7. Misc 1",
     "7. Misc/smart-chats",
-    "5. Standard Information/Operating Systems/Windows/Event Log",
     "Untitled.canvas"
   ]
 }

@@ -9,11 +9,11 @@ Cloud computing is the on-demand delivery of IT resources over the Internet with
 
 #### Pay-as-you-go
 
-The cloud computing model is based on paying only for the resources that you use. This is in contrast to on-premises models of investing in data centers and hardware that might not be fully used.
+The cloud computing model is based on paying only for the resources that you use. This is in contrast to on-premises models of investing in data centres and hardware that might not be fully used.
 
 #### Benefit from massive economies of scale
 
-By using cloud computing, you can achieve a lower cost than you can get on your own. Because usage from hundreds of thousands of customers is aggregated in the cloud, AWS can achieve higher economies of scale, which translates into lower pay-as-you-go prices.
+By using cloud computing, you can achieve a lower cost than you can get on your own. Because usage from hundreds of thousands of customers is aggregated in the cloud, AWS can achieve higher economies of scale, which translates into lower pay-as-you-go prices. See [[Regions]].
 
 #### Stop guessing capacity
 
