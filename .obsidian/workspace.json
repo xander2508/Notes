@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/PE Section Hashing.md",
+                "file": "3. Exploitation/File Types and Data/3. Identifying Malware.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/PE Section Hashing.md",
+                "file": "3. Exploitation/File Types and Data/3. Identifying Malware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/PE Section Hashing.md",
+                "file": "3. Exploitation/File Types and Data/3. Identifying Malware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/PE Section Hashing.md"
+                "file": "3. Exploitation/File Types and Data/3. Identifying Malware.md"
               }
             }
           },
@@ -212,10 +212,11 @@
   },
   "active": "bcfcf9c73c4b7b14",
   "lastOpenFiles": [
-    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/Fuzzy Hashing (SSDEEP).md",
-    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/PE Section Hashing.md",
-    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/Import Hashing (IMPHASH).md",
+    "5. Standard Information/Operating Systems/Linux/Malware Analysis/Static Analysis.md",
     "3. Exploitation/File Types and Data/3. Identifying Malware.md",
+    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/PE Section Hashing.md",
+    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/Fuzzy Hashing (SSDEEP).md",
+    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/Import Hashing (IMPHASH).md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/MD5.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/SHA256.md",
     "4. Post Exploitation/Operating Systems/Windows/1. Guide.md",
@@ -224,7 +225,6 @@
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/Tooling",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/Tooling.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/1. Guide.md",
-    "5. Standard Information/Operating Systems/Linux/Malware Analysis/Static Analysis.md",
     "3. Exploitation/File Types and Data/1. Guide.md",
     "3. Exploitation/File Types and Data/2. Programs and Executables Guide.md",
     "5. Standard Information/Operating Systems/Linux/Malware Analysis",
