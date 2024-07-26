@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/Fuzzy Hashing (SSDEEP).md",
+                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/PE Section Hashing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/Fuzzy Hashing (SSDEEP).md",
+                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/PE Section Hashing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/Fuzzy Hashing (SSDEEP).md",
+                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/PE Section Hashing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/Fuzzy Hashing (SSDEEP).md"
+                "file": "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/PE Section Hashing.md"
               }
             }
           },
@@ -212,8 +212,9 @@
   },
   "active": "bcfcf9c73c4b7b14",
   "lastOpenFiles": [
-    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/Import Hashing (IMPHASH).md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/Fuzzy Hashing (SSDEEP).md",
+    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/PE Section Hashing.md",
+    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/Import Hashing (IMPHASH).md",
     "3. Exploitation/File Types and Data/3. Identifying Malware.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/MD5.md",
     "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/SHA256.md",
@@ -240,7 +241,6 @@
     "5. Standard Information/Operating Systems/Windows/Windows Internal Operations.md",
     "3. Exploitation/File Types and Data/EVTX (Windows Event Logs).md",
     "4. Post Exploitation/Operating Systems/Windows/Tooling/Default Tooling/Services/Service Controller (sc).md",
-    "2. Enumeration/TCP/389. LDAP/Tooling/LDAPDomainDump.md",
     "7. Misc/Images/wininternals_syscall.webp",
     "7. Misc/Images/windows_architecture.webp",
     "5. Standard Information/Malware and Malware Analysis",
