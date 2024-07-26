@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "babcf64e4f4811d2",
+        "id": "ad074544e25f7927",
         "type": "tabs",
         "children": [
           {
-            "id": "8997cf29f2506e9c",
+            "id": "e3ec342542d91bb8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/20. FTP/1. Guide.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Powershell/Everything is an Object.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73a513f185cc994d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tcp",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +79,7 @@
             }
           },
           {
-            "id": "ad253bfab855da22",
+            "id": "9162902093212b34",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -79,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 340.5
   },
   "right": {
     "id": "ab865be945a38766",
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/20. FTP/1. Guide.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/20. FTP/1. Guide.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/20. FTP/1. Guide.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -194,90 +207,82 @@
               "type": "smart-connections-chat-view",
               "state": {}
             }
-          },
-          {
-            "id": "e9650463bb3ccbf2",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
-    "width": 774.5,
+    "width": 547.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": true,
-      "templates:Insert template": true,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "breadcrumbs:Breadcrumbs Visualisation": true,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": true,
-      "omnisearch:Omnisearch": false,
-      "obsidian-importer:Open Importer": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "obsidian-importer:Open Importer": false,
       "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false,
-      "mermaid-tools:Open Mermaid Toolbar": true
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "8997cf29f2506e9c",
+  "active": "73a513f185cc994d",
   "lastOpenFiles": [
-    "2. Enumeration/TCP/443. HTTPS/2. Transport Layer Security (TLS or SSL).md",
-    "5. Standard Information/Networking/Protocols/TCP UDP, Transport Mechanisms.md",
-    "5. Standard Information/Networking/Protocols/OSI Model (ISO OSI).md",
-    "1. Recon/Tooling/Network Analysis/1. Network Traffic Analysis.md",
-    "5. Standard Information/Networking/Protocols",
-    "7. Misc/Images/workflow.webp",
-    "5. Standard Information/Networking/Packet Syntax (BPF).md",
-    "1. Recon/Tooling/Network Analysis",
-    "5. Standard Information/Networking/Network Interception Devices.md",
-    "1. Recon/Tooling/Network Analysis/Traffic Analysis/TCPick.md",
-    "1. Recon/Tooling/Network Analysis/Traffic Analysis/Wireshark.md",
-    "1. Recon/Tooling/Network Analysis/Traffic Analysis/NGrep.md",
-    "1. Recon/Tooling/Network Analysis/Traffic Analysis/Tshark.md",
-    "1. Recon/Tooling/Network Analysis/Traffic Analysis/TCPDump.md",
-    "4. Post Exploitation/Operating Systems/Linux/Concepts and Vulnerabilities/Capabilities.md",
-    "5. Standard Information/Operating Systems/Linux/Default Tooling/TCPDump.md",
-    "1. Recon/Tooling/Network Analysis/Traffic Analysis",
-    "5. Standard Information/Security/Detection Rules/Sigma.md",
+    "5. Standard Information/Operating Systems/Windows/Powershell/Everything is an Object.md",
+    "conflict-files-obsidian-git.md",
     "5. Standard Information/Security/Detection Rules/YARA.md",
-    "3. Exploitation/File Types and Data/Yar (YARA).md",
-    "3. Exploitation/File Types and Data/CRT (Certificate Files).md",
-    "3. Exploitation/File Types and Data/CPL (Control Panel Applications).md",
-    "3. Exploitation/File Types and Data/DLL (Dynamic-link library).md",
-    "3. Exploitation/File Types and Data/Malware, Programs and Executables/Dynamic Analysis/Tooling/Noriben.md",
+    "5. Standard Information/Security/Detection Rules/Sigma.md",
     "5. Standard Information/Security/Malware Analysis Overview and Tooling.md",
     "5. Standard Information/Security/Detection Rules",
-    "5. Standard Information/Operating Systems/Windows/Services/1. Windows Services & Processes.md",
     "5. Standard Information/Security",
-    "5. Standard Information/Operating Systems/Windows/Windows Management Instrumentation (WMI).md",
-    "5. Standard Information/Operating Systems/Windows/Windows Internal Operations.md",
-    "5. Standard Information/Operating Systems/Windows/Security/User Permissions.md",
-    "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Debugging/x64dbg.md",
-    "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Debugging",
-    "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Code Analysis",
-    "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling",
-    "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis",
-    "3. Exploitation/File Types and Data/Malware/Dynamic Analysis/Tools/Sandboxes",
-    "output/attachment/d0dfd26236f912009058fcb755fe3a7c.jpg",
-    "output/attachment/e64951f0110cc9cba636d1296f3f729b.png",
-    "output/attachment/62cf90ae6d4a682679c999cec7aac652.jpg",
-    "output/attachment/e1b3b6f677ca3bca88208ea0477a9f71.png",
-    "output/attachment/c3a3a479dac6f241eccf88d983278fc6.jpg",
-    "output/attachment/f14503a8fd6d0f2839da781f06805621.png",
-    "output/attachment/0af76a69c870aae5134062764bdd48e4.png",
-    "output/attachment/016ecca7f27bf3f17e6eb897828446b7.png",
-    "output/attachment/fee405959990d20365dadda1cc71ab81.jpg",
+    "5. Standard Information/Operating Systems/Windows/User Privileges/SERVICE_START_NAME.md",
+    "5. Standard Information/Operating Systems/Windows/User Privileges",
+    "5. Standard Information/Operating Systems/Windows/Network/Finding Additional Hosts.md",
+    "5. Standard Information/Operating Systems/Windows/Network/Validate DNS.md",
+    "5. Standard Information/Operating Systems/Windows/Network/Network Drives.md",
+    "5. Standard Information/Operating Systems/Windows/Network/Find Open Ports.md",
+    "5. Standard Information/Operating Systems/Windows/Network/Diagnostic on Connections.md",
+    "5. Standard Information/Operating Systems/Windows/Network/Edit Interfaces.md",
+    "5. Standard Information/Operating Systems/Windows/Network/1. Network Information.md",
+    "5. Standard Information/Operating Systems/Windows/Network",
+    "5. Standard Information/Operating Systems/Windows/Default Tooling/Windows Management Instrumentation Command (WMIC).md",
+    "5. Standard Information/Operating Systems/Windows/Default Tooling/Who Am I.md",
+    "5. Standard Information/Operating Systems/Windows/Default Tooling/Session History.md",
+    "5. Standard Information/Operating Systems/Windows/Default Tooling/Process Monitor (Procmon).md",
+    "5. Standard Information/Operating Systems/Windows/Default Tooling/Integrity Control Access Control List (icacls).md",
+    "5. Standard Information/Operating Systems/Windows/Default Tooling/Help.md",
+    "5. Standard Information/Operating Systems/Windows/Default Tooling/Finding Users and Groups.md",
+    "5. Standard Information/Operating Systems/Windows/Default Tooling/Finding Shared Resources.md",
+    "5. Standard Information/Operating Systems/Windows/Default Tooling/1. Guide.md",
+    "5. Standard Information/Operating Systems/Windows/Default Tooling",
+    "5. Standard Information/Operating Systems/Linux/Task Scheduling/Systemd.md",
+    "5. Standard Information/Operating Systems/Linux/Task Scheduling/CRON Jobs.md",
+    "5. Standard Information/Operating Systems/Linux/Task Scheduling",
+    "5. Standard Information/Operating Systems/Linux/Groups/Wheel.md",
+    "5. Standard Information/Operating Systems/Linux/Groups/1. Guide.md",
+    "5. Standard Information/Operating Systems/Linux/Groups",
+    "5. Standard Information/Operating Systems/Linux/Default Tooling/Default Tools",
+    "5. Standard Information/Operating Systems/Linux/Default Tooling/Backup and Restore",
+    "5. Standard Information/Operating Systems/Linux/Default Tooling",
+    "7. Misc/Images/image60.webp",
+    "7. Misc/Images/Pasted image 20240730154132.png",
+    "7. Misc/Images/Pasted image 20240730151125.png",
+    "7. Misc/Images/Pasted image 20240730133633.png",
+    "7. Misc/Images/Pasted image 20240730111311.png",
+    "7. Misc/Images/Pasted image 20240730100642.png",
+    "7. Misc/Images/Pasted image 20240729162432.jpg",
+    "7. Misc/Images/Pasted image 20240729160924.png",
+    "7. Misc/Images/Pasted image 20240729154512.png",
+    "7. Misc/Images/Pasted image 20240729154438.jpg",
     "Untitled.canvas"
   ]
 }
