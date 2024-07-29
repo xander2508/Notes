@@ -54,3 +54,40 @@ A route table contains a set of rules, called routes, that are used to determine
 The main route table is used implicitly by subnets that do not have an explicit route table association. However, you might want to provide different routes on a per-subnet basis for traffic to access resources outside of the VPC.
 
 Each custom route table that you create will have the local route already inside it, allowing communication to flow between all resources and subnets inside the VPC. You can protect your VPC by explicitly associating each new subnet with a custom route table and leaving the main route table in its original default state.
+
+
+# Security
+
+A network access control list (ACL) lets you control what kind of traffic is allowed to enter or leave your subnet. You can configure this by setting up rules that define what you want to filter.
+
+![[Pasted image 20240729160924.png]]
+
+## Default network ACL
+
+Allows all traffic in and out of the subnet.
+
+| Inbound    |                  |              |                |            |                   |
+| ---------- | ---------------- | ------------ | -------------- | ---------- | ----------------- |
+| **Rule #** | **Type**         | **Protocol** | **Port Range** | **Source** | **Allow or Deny** |
+| 100        | All IPv4 traffic | All          | All            | 0.0.0.0/0  | ALLOW             |
+| *          | All IPv4 traffic | All          | All            | 0.0.0.0/0  | DENY              |
+
+| **Outbound** |                  |              |                |                 |                   |
+| ------------ | ---------------- | ------------ | -------------- | --------------- | ----------------- |
+| **Rule #**   | **Type**         | **Protocol** | **Port Range** | **Destination** | **Allow or Deny** |
+| 100          | All IPv4 traffic | All          | All            | 0.0.0.0/0       | ALLOW             |
+| *            | All IPv4 traffic | All          | All            | 0.0.0.0/0       | DENY              |
+## Custom network ACL
+
+| **Inbound** |                  |              |          |                   |                                                                                                                            |
+| ----------- | ---------------- | ------------ | -------- | ----------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| **Rule #**  | **Source IP**    | **Protocol** | **Port** | **Allow or Deny** | **Comments**                                                                                                               |
+| 100         | All IPv4 traffic | TCP          | 443      | ALLOW             | Allows inbound HTTPS traffic from anywhere                                                                                 |
+| 130         | 192.0.2.0/24     | TCP          | 3389     | ALLOW             | Allows inbound RDP traffic to the web servers from your home network’s public IP address range (over the internet gateway) |
+| *           | All IPv4 traffic | All          | All      | DENY              | Denies all inbound traffic not already handled by a preceding rule (not modifiable)                                        |
+
+| **Outbound** |                    |              |            |                   |                                                                                                              |
+| ------------ | ------------------ | ------------ | ---------- | ----------------- | ------------------------------------------------------------------------------------------------------------ |
+| **Rule #**   | **Destination IP** | **Protocol** | **Port**   | **Allow or Deny** | **Comments**                                                                                                 |
+| 120          | 0.0.0.0/0          | TCP          | 1025-65535 | ALLOW             | Allows outbound responses to clients on the internet (serving people visiting the web servers in the subnet) |
+| *            | 0.0.0.0/0          | All          | All        | DENY              | Denies all outbound traffic not already handled by a preceding rule (not modifiable)                         |
