@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/AWS/User Management/Identity and Access Management (IAM)/Identity and Access Management (IAM).md",
+                "file": "5. Standard Information/AWS/User Management/Identity and Access Management (IAM)/IAM Policies.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/AWS/User Management/Identity and Access Management (IAM)/Identity and Access Management (IAM).md",
+                "file": "5. Standard Information/AWS/User Management/Identity and Access Management (IAM)/IAM Policies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/AWS/User Management/Identity and Access Management (IAM)/Identity and Access Management (IAM).md",
+                "file": "5. Standard Information/AWS/User Management/Identity and Access Management (IAM)/IAM Policies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/AWS/User Management/Identity and Access Management (IAM)/Identity and Access Management (IAM).md"
+                "file": "5. Standard Information/AWS/User Management/Identity and Access Management (IAM)/IAM Policies.md"
               }
             }
           },
@@ -214,9 +214,9 @@
   },
   "active": "edefe6c0f3e4bc42",
   "lastOpenFiles": [
+    "5. Standard Information/AWS/User Management/Identity and Access Management (IAM)/Identity and Access Management (IAM).md",
     "5. Standard Information/AWS/User Management/Identity and Access Management (IAM)/IAM User.md",
     "5. Standard Information/AWS/User Management/Identity and Access Management (IAM)/IAM Best Practices.md",
-    "5. Standard Information/AWS/User Management/Identity and Access Management (IAM)/Identity and Access Management (IAM).md",
     "5. Standard Information/AWS/User Management/Identity and Access Management (IAM)/IAM Roles.md",
     "5. Standard Information/AWS/User Management/Identity and Access Management (IAM)/IAM Policies.md",
     "5. Standard Information/AWS/User Management/Identity and Access Management (IAM)/IAM Groups.md",

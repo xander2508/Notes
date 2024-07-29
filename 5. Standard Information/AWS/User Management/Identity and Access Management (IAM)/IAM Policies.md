@@ -23,6 +23,7 @@ This policy has four major JSON elements: _**Version**_, _**Effect**_, _**Act
 - The _**Effect**_ element specifies whether the policy will allow or deny access. In this policy, the Effect is **"Allow"**, which means you’re providing access to a particular resource.
 - The _**Action**_ element describes the type of action that should be allowed or denied. In the example policy, the action is **"*"**. This is called a wildcard, and it is used to symbolize every action inside your AWS account.
 - The _**Resource**_ element specifies the object or objects that the policy statement covers. In the policy example, the resource is the wildcard **"*"**. This represents all resources inside your AWS console.
+- The **Condition** element, as seen below allows conditions to be applied to the policy. Conditions allow for extra granularity in the policies.
 
 Putting this information together, you have a policy that allows you to perform all actions on all resources in your AWS account. This is what we refer to as an administrator policy.  
   
