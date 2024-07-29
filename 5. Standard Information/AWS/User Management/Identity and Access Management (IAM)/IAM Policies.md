@@ -1,0 +1,1 @@
+To manage access and provide permissions to AWS services and resources, you create IAM policies and attach them to an IAM identity.
