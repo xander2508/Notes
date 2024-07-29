@@ -75,3 +75,10 @@ AWS services that are scoped at the Availability Zone level must be architected 
 Although EC2 instances are typically reliable, two are better than one, and three are better than two. Specifying the instance size gives you an advantage when designing your architecture because you can use more smaller instances rather than a few larger ones.
 
 When architecting any application for high availability, consider using at least two EC2 instances in two separate Availability Zones. ­­
+
+# Instance Lifecycle
+
+An EC2 instance transitions between different states from the moment you create it until its termination.
+
+![[Pasted image 20240729133859.png]]
+
