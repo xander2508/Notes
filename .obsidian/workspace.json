@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Architecture/Containers.md",
+                "file": "5. Standard Information/AWS/Services/Compute/Container Services/Amazon Elastic Kubernetes Service (EKS).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Architecture/Containers.md",
+                "file": "5. Standard Information/AWS/Services/Compute/Container Services/Amazon Elastic Kubernetes Service (EKS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Architecture/Containers.md",
+                "file": "5. Standard Information/AWS/Services/Compute/Container Services/Amazon Elastic Kubernetes Service (EKS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Architecture/Containers.md"
+                "file": "5. Standard Information/AWS/Services/Compute/Container Services/Amazon Elastic Kubernetes Service (EKS).md"
               }
             }
           },
@@ -214,14 +214,17 @@
   },
   "active": "edefe6c0f3e4bc42",
   "lastOpenFiles": [
-    "3. Exploitation/Known Application Exploits/Docker.md",
+    "7. Misc/Images/Pasted image 20240729141540.png",
+    "5. Standard Information/AWS/Services/Compute/Container Services/Amazon Elastic Container Service (ECS).md",
+    "5. Standard Information/AWS/Services/Compute/Container Services/Amazon Elastic Kubernetes Service (EKS).md",
     "5. Standard Information/Architecture/Containers.md",
+    "3. Exploitation/Known Application Exploits/Docker.md",
     "5. Standard Information/AWS/Services/Compute/Virtual Machines/Amazon Elastic Compute Cloud (EC2).md",
     "5. Standard Information/Architecture",
     "5. Standard Information/Architecture.md",
     "5. Standard Information/Operating Systems/Untitled",
     "5. Standard Information/AWS/Services/AWS License Manager.md",
-    "5. Standard Information/AWS/Services/Compute/Container Services/AWS Fargate.md",
+    "5. Standard Information/AWS/Services/Compute/Serverless/AWS Fargate.md",
     "5. Standard Information/AWS/Services/Compute/Serverless/AWS Lambda.md",
     "7. Misc/Images/Pasted image 20240729133859.png",
     "7. Misc/Images/Pasted image 20240729115337.jpg",
@@ -251,9 +254,6 @@
     "5. Standard Information/AWS/Services/1. Service List.md",
     "5. Standard Information/AWS/Services/Amazon SDKs.md",
     "4. Post Exploitation/Operating Systems/1. Guide.md",
-    "7. Misc/smart-chats/UNTITLED CHAT 2024-07-24 08 53 45.md",
-    "1. Recon/Open Source Intelligence/1. Guide.md",
-    "5. Standard Information/AWS/Services/Amazon CloudFront.md",
     "Untitled.canvas",
     "Excalidraw",
     "7. Misc/Images/Pasted image 20240726134811.jpg",
