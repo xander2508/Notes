@@ -18,4 +18,15 @@ In the AWS Cloud, the operating system installation is not your responsibility. 
 
 An AMI includes the operating system, storage mapping, architecture type, launch permissions, and any additional preinstalled software applications.
 
-### Relationship between AMIs and EC2 instances
+One advantage of using AMIs is that they are reusable. You could create an AMI from your running instance and use the AMI to start a new instance. That way, your new instance would have the same configurations as your current instance because the configurations set in the AMIs are the same.
+
+![[Pasted image 20240729114812.png]]
+
+| Finding AMIs         |                                                                                                    |
+| -------------------- | -------------------------------------------------------------------------------------------------- |
+| Quick Start AMIs     | Quick Start AMIs are commonly used AMIs created by AWS that you can select to get started quickly. |
+| AWS Marketplace AMIs | AWS Marketplace AMIs provide popular open-source and commercial software from third-party vendors. |
+| My AMIs              | My AMIs are created from your EC2 instances.                                                       |
+| Community AMIs       | Community AMIs are provided by the AWS user community.                                             |
+| Custom image         | Build your own custom image with EC2 Image Builder.                                                |
+Each AMI in the AWS Management Console has an AMI ID, which is prefixed by _ami-_, followed by a random hash of numbers and letters. The IDs are unique to each AWS Region.
