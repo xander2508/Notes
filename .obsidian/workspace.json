@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/AWS/Infrastructure/Networking/Amazon Virtual Private Cloud (VPC).md",
+                "file": "5. Standard Information/AWS/Services/Storage/1. Storage.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/AWS/Infrastructure/Networking/Amazon Virtual Private Cloud (VPC).md",
+                "file": "5. Standard Information/AWS/Services/Storage/1. Storage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/AWS/Infrastructure/Networking/Amazon Virtual Private Cloud (VPC).md",
+                "file": "5. Standard Information/AWS/Services/Storage/1. Storage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/AWS/Infrastructure/Networking/Amazon Virtual Private Cloud (VPC).md"
+                "file": "5. Standard Information/AWS/Services/Storage/1. Storage.md"
               }
             }
           },
@@ -214,9 +214,11 @@
   },
   "active": "edefe6c0f3e4bc42",
   "lastOpenFiles": [
+    "5. Standard Information/AWS/Infrastructure/Networking/Amazon Virtual Private Cloud (VPC).md",
+    "5. Standard Information/AWS/Services/Storage/1. Storage.md",
+    "5. Standard Information/AWS/Services/Storage",
     "5. Standard Information/AWS/Services/Compute/Virtual Machines/Amazon Elastic Compute Cloud (EC2).md",
     "7. Misc/Images/Pasted image 20240729162432.jpg",
-    "5. Standard Information/AWS/Infrastructure/Networking/Amazon Virtual Private Cloud (VPC).md",
     "7. Misc/Images/Pasted image 20240729160924.png",
     "5. Standard Information/AWS/Infrastructure/Networking/AWS Direct Connect.md",
     "7. Misc/Images/Pasted image 20240729154512.png",
@@ -258,7 +260,6 @@
     "5. Standard Information/AWS/User Management/AWS root user.md",
     "5. Standard Information/AWS/User Management/Identity and Access Management (IAM)",
     "5. Standard Information/AWS/User Management",
-    "Untitled.canvas",
-    "Excalidraw"
+    "Untitled.canvas"
   ]
 }
