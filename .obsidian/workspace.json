@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/AWS/Infrastructure/Networking/Amazon Virtual Private Cloud (VPC).md",
+                "file": "5. Standard Information/AWS/Infrastructure/Networking/AWS Direct Connect.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/AWS/Infrastructure/Networking/Amazon Virtual Private Cloud (VPC).md",
+                "file": "5. Standard Information/AWS/Infrastructure/Networking/AWS Direct Connect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/AWS/Infrastructure/Networking/Amazon Virtual Private Cloud (VPC).md",
+                "file": "5. Standard Information/AWS/Infrastructure/Networking/AWS Direct Connect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/AWS/Infrastructure/Networking/Amazon Virtual Private Cloud (VPC).md"
+                "file": "5. Standard Information/AWS/Infrastructure/Networking/AWS Direct Connect.md"
               }
             }
           },
@@ -214,13 +214,18 @@
   },
   "active": "edefe6c0f3e4bc42",
   "lastOpenFiles": [
+    "5. Standard Information/AWS/Infrastructure/Networking/Amazon Virtual Private Cloud (VPC).md",
+    "5. Standard Information/AWS/Infrastructure/Networking/AWS Direct Connect.md",
+    "7. Misc/Images/Pasted image 20240729154512.png",
+    "7. Misc/Images/Pasted image 20240729154438.jpg",
+    "7. Misc/Images/Pasted image 20240729154357.png",
+    "7. Misc/Images/Pasted image 20240729154315.png",
     "7. Misc/Images/Pasted image 20240729154057.png",
     "7. Misc/Images/Pasted image 20240729154031.png",
     "5. Standard Information/AWS/Services/Compute/Serverless/AWS Fargate.md",
     "7. Misc/smart-chats/UNTITLED CHAT 2024-07-24 08 53 45.md",
     "5. Standard Information/AWS/Services/Compute/Container Services/Amazon Elastic Container Service (ECS).md",
     "5. Standard Information/AWS/Services/Compute/Virtual Machines/Amazon Elastic Compute Cloud (EC2).md",
-    "5. Standard Information/AWS/Infrastructure/Networking/Amazon Virtual Private Cloud (VPC).md",
     "5. Standard Information/AWS/Services/Compute/Serverless/1. Serverless.md",
     "5. Standard Information/AWS/Infrastructure/Networking",
     "5. Standard Information/AWS/Services/Compute/Serverless/AWS Lambda.md",
@@ -251,15 +256,9 @@
     "5. Standard Information/AWS/User Management/Identity and Access Management (IAM)/IAM Best Practices.md",
     "5. Standard Information/AWS/User Management/Identity and Access Management (IAM)/IAM Groups.md",
     "5. Standard Information/AWS/User Management/AWS root user.md",
-    "7. Misc/Images/Pasted image 20240729101715.png",
     "5. Standard Information/AWS/User Management/Identity and Access Management (IAM)",
-    "5. Standard Information/AWS/User Management/Multi-factor authentication (MFA).md",
-    "7. Misc/Images/Pasted image 20240726164513.png",
     "5. Standard Information/AWS/User Management",
-    "7. Misc/Images/Pasted image 20240726153834.png",
     "Untitled.canvas",
-    "Excalidraw",
-    "7. Misc/Images/Pasted image 20240726134811.jpg",
-    "7. Misc/Images/Pasted image 20240726133046.png"
+    "Excalidraw"
   ]
 }
