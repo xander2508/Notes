@@ -37,3 +37,20 @@ A virtual private gateway connects your VPC to another private network. When you
 
 ![[Pasted image 20240729154438.jpg]]
 
+# Routing
+
+[Configure Route Tables](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Route_Tables.html)
+
+Nothing comes into a VPC or out of a VPC without explicit setting it through gateways or routing.
+
+A route table contains a set of rules, called routes, that are used to determine where network traffic is directed. AWS assumes that when you create a new VPC with subnets, you want traffic to flow between them. Therefore, the default configuration of the main route table is to allow traffic between all subnets in the local network. The following rules apply to the main route table:
+
+- You cannot delete the main route table.
+- You cannot set a gateway route table as the main route table.
+- You can replace the main route table with a custom subnet route table.
+- You can add, remove, and modify routes in the main route table.
+- You can explicitly associate a subnet with the main route table, even if it's already implicitly associated.
+
+The main route table is used implicitly by subnets that do not have an explicit route table association. However, you might want to provide different routes on a per-subnet basis for traffic to access resources outside of the VPC.
+
+Each custom route table that you create will have the local route already inside it, allowing communication to flow between all resources and subnets inside the VPC. You can protect your VPC by explicitly associating each new subnet with a custom route table and leaving the main route table in its original default state.
