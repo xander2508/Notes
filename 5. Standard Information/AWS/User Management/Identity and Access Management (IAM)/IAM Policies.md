@@ -1,4 +1,4 @@
-To manage access and provide permissions to AWS services and resources, you create IAM policies and attach them to an IAM identity.
+To manage access and provide permissions to AWS services and resources, you create IAM policies and attach them to an IAM identity. IAM identity are [[IAM User]], [[IAM Groups]] or [[IAM Roles]].
 
 Whenever an IAM identity makes a request, AWS evaluates the policies associated with them. For example, if you have a developer inside the developers group who makes a request to an AWS service, AWS evaluates any policies attached to the developers group and any policies attached to the developer user to determine if the request should be allowed or denied.
 
