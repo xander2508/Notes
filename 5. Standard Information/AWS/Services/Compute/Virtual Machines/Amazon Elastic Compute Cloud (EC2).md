@@ -65,7 +65,7 @@ Instance types consist of a prefix identifying the type of workloads they’re o
 
 [Default VPCs](https://docs.aws.amazon.com/vpc/latest/userguide/default-vpc.html)
 
-Unless otherwise specified, when you launch EC2 instances, they are placed in a default virtual private cloud (VPC). Any resource that you put inside the default VPC will be public and accessible by the internet, so you shouldn’t place any customer data or private information in it.
+Unless otherwise specified, when you launch EC2 instances, they are placed in a default [[Amazon Virtual Private Cloud (VPC)]]. Any resource that you put inside the default VPC will be public and accessible by the internet, so you shouldn’t place any customer data or private information in it.
 ### Architecting for high availability
 
 [Reliability Pillar - AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/welcome.html?ref=wellarchitected-wp)

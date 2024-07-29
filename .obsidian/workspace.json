@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Compute/Serverless/1. Serverless.md",
+                "file": "7. Misc/smart-chats/UNTITLED CHAT 2024-07-24 08 53 45.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CSRF",
+                "query": "vpc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Compute/Serverless/1. Serverless.md",
+                "file": "7. Misc/smart-chats/UNTITLED CHAT 2024-07-24 08 53 45.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Compute/Serverless/1. Serverless.md",
+                "file": "7. Misc/smart-chats/UNTITLED CHAT 2024-07-24 08 53 45.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Compute/Serverless/1. Serverless.md"
+                "file": "7. Misc/smart-chats/UNTITLED CHAT 2024-07-24 08 53 45.md"
               }
             }
           },
@@ -212,19 +212,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "edefe6c0f3e4bc42",
+  "active": "744b9316b7030f7b",
   "lastOpenFiles": [
-    "5. Standard Information/AWS/Services/Compute/Serverless/AWS Lambda.md",
-    "5. Standard Information/AWS/Services/Compute/Serverless/1. Serverless.md",
     "5. Standard Information/AWS/Services/Compute/Serverless/AWS Fargate.md",
+    "5. Standard Information/AWS/Services/Compute/Container Services/Amazon Elastic Container Service (ECS).md",
+    "5. Standard Information/AWS/Services/Compute/Virtual Machines/Amazon Elastic Compute Cloud (EC2).md",
+    "5. Standard Information/AWS/Infrastructure/Networking/Amazon Virtual Private Cloud (VPC).md",
+    "5. Standard Information/AWS/Services/Compute/Serverless/1. Serverless.md",
+    "5. Standard Information/AWS/Infrastructure/Networking",
+    "5. Standard Information/AWS/Services/Compute/Serverless/AWS Lambda.md",
     "5. Standard Information/AWS/Services/Compute/Container Services/Amazon Elastic Kubernetes Service (EKS).md",
     "5. Standard Information/AWS/Services/Compute/Container Services/Amazon Elastic Container Registry (ECR).md",
-    "5. Standard Information/AWS/Services/Compute/Container Services/Amazon Elastic Container Service (ECS).md",
     "5. Standard Information/Architecture/Serverless.md",
     "5. Standard Information/Architecture/Containers.md",
     "3. Exploitation/Known Application Exploits/Docker.md",
     "7. Misc/Images/Pasted image 20240729141540.png",
-    "5. Standard Information/AWS/Services/Compute/Virtual Machines/Amazon Elastic Compute Cloud (EC2).md",
     "5. Standard Information/Architecture",
     "5. Standard Information/Architecture.md",
     "5. Standard Information/Operating Systems/Untitled",
@@ -254,12 +256,10 @@
     "5. Standard Information/AWS/User Management",
     "7. Misc/Images/Pasted image 20240726153834.png",
     "5. Standard Information/AWS/Interacting with AWS.md",
-    "5. Standard Information/AWS/Services/1. Service List.md",
     "Untitled.canvas",
     "Excalidraw",
     "7. Misc/Images/Pasted image 20240726134811.jpg",
     "7. Misc/Images/Pasted image 20240726133046.png",
-    "5. Standard Information/AWS/Services/Service Types",
     "7. Misc/Images/Pasted image 20240726112201.png"
   ]
 }
