@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Compute/Serverless/AWS Fargate.md",
+                "file": "5. Standard Information/AWS/Services/Compute/Container Services/Amazon Elastic Kubernetes Service (EKS).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Compute/Serverless/AWS Fargate.md",
+                "file": "5. Standard Information/AWS/Services/Compute/Container Services/Amazon Elastic Kubernetes Service (EKS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Compute/Serverless/AWS Fargate.md",
+                "file": "5. Standard Information/AWS/Services/Compute/Container Services/Amazon Elastic Kubernetes Service (EKS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Compute/Serverless/AWS Fargate.md"
+                "file": "5. Standard Information/AWS/Services/Compute/Container Services/Amazon Elastic Kubernetes Service (EKS).md"
               }
             }
           },
@@ -214,8 +214,9 @@
   },
   "active": "edefe6c0f3e4bc42",
   "lastOpenFiles": [
-    "5. Standard Information/AWS/Services/Compute/Serverless/1. Serverless.md",
+    "5. Standard Information/AWS/Services/Compute/Container Services/Amazon Elastic Container Registry (ECR).md",
     "5. Standard Information/AWS/Services/Compute/Serverless/AWS Fargate.md",
+    "5. Standard Information/AWS/Services/Compute/Serverless/1. Serverless.md",
     "5. Standard Information/AWS/Services/Compute/Container Services/Amazon Elastic Container Service (ECS).md",
     "5. Standard Information/Architecture/Serverless.md",
     "5. Standard Information/AWS/Services/Compute/Container Services/Amazon Elastic Kubernetes Service (EKS).md",
@@ -254,7 +255,6 @@
     "7. Misc/Images/Pasted image 20240726153834.png",
     "5. Standard Information/AWS/Interacting with AWS.md",
     "5. Standard Information/AWS/Services/1. Service List.md",
-    "5. Standard Information/AWS/Services/Amazon SDKs.md",
     "Untitled.canvas",
     "Excalidraw",
     "7. Misc/Images/Pasted image 20240726134811.jpg",
