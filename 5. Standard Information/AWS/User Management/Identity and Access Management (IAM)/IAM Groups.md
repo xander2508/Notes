@@ -7,3 +7,5 @@ Keep in mind the following features of groups:
 - Groups can have many users.
 - Users can belong to many groups.
 - Groups cannot belong to groups.
+
+Groups have [[IAM Policies]] attached to them which handle the permissions. 
