@@ -91,3 +91,7 @@ Allows all traffic in and out of the subnet.
 | **Rule #**   | **Destination IP** | **Protocol** | **Port**   | **Allow or Deny** | **Comments**                                                                                                 |
 | 120          | 0.0.0.0/0          | TCP          | 1025-65535 | ALLOW             | Allows outbound responses to clients on the internet (serving people visiting the web servers in the subnet) |
 | *            | 0.0.0.0/0          | All          | All        | DENY              | Denies all outbound traffic not already handled by a preceding rule (not modifiable)                         |
+
+Network ACLs are considered stateless, so you need to include both the inbound and outbound ports used for the protocol. If you don’t include the outbound range, your server would respond but the traffic would never leave the subnet.
+
+Because network ACLs are configured by default to allow incoming and outgoing traffic, you don’t need to change their initial settings unless you need additional security layers.
