@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/AWS/Services/AWS IAM Identity Center.md",
+                "file": "5. Standard Information/AWS/Services/Compute/Virtual Machines/Amazon Elastic Compute Cloud (EC2).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/AWS/Services/AWS IAM Identity Center.md",
+                "file": "5. Standard Information/AWS/Services/Compute/Virtual Machines/Amazon Elastic Compute Cloud (EC2).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/AWS/Services/AWS IAM Identity Center.md",
+                "file": "5. Standard Information/AWS/Services/Compute/Virtual Machines/Amazon Elastic Compute Cloud (EC2).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/AWS/Services/AWS IAM Identity Center.md"
+                "file": "5. Standard Information/AWS/Services/Compute/Virtual Machines/Amazon Elastic Compute Cloud (EC2).md"
               }
             }
           },
@@ -214,8 +214,15 @@
   },
   "active": "edefe6c0f3e4bc42",
   "lastOpenFiles": [
-    "5. Standard Information/AWS/User Management/Identity and Access Management (IAM)/IAM Roles.md",
+    "5. Standard Information/AWS/Services/Compute/1. Compute Services.md",
+    "5. Standard Information/AWS/Services/Compute/Virtual Machines/Amazon Elastic Compute Cloud (EC2).md",
+    "5. Standard Information/AWS/What Is AWS.md",
+    "5. Standard Information/AWS/Services/Compute/Serverless",
+    "5. Standard Information/AWS/Services/Compute/Container Services",
+    "5. Standard Information/AWS/Services/Compute/Virtual Machines",
+    "5. Standard Information/AWS/Services/Compute",
     "5. Standard Information/AWS/Services/AWS IAM Identity Center.md",
+    "5. Standard Information/AWS/User Management/Identity and Access Management (IAM)/IAM Roles.md",
     "5. Standard Information/AWS/User Management/Identity and Access Management (IAM)/IAM Policies.md",
     "5. Standard Information/AWS/User Management/Identity and Access Management (IAM)/Identity and Access Management (IAM).md",
     "5. Standard Information/AWS/User Management/Identity and Access Management (IAM)/IAM User.md",
@@ -229,7 +236,6 @@
     "5. Standard Information/AWS/AWS Shared Responsibility Model.md",
     "5. Standard Information/AWS/User Management",
     "7. Misc/Images/Pasted image 20240726153834.png",
-    "5. Standard Information/AWS/What Is AWS.md",
     "5. Standard Information/AWS/Interacting with AWS.md",
     "5. Standard Information/AWS/Services/1. Service List.md",
     "5. Standard Information/AWS/Services/Amazon SDKs.md",
@@ -246,17 +252,11 @@
     "5. Standard Information/AWS/Services/AWS Command Line Interface (AWS CLI).md",
     "5. Standard Information/AWS/Maintaining Resiliency.md",
     "7. Misc/Images/Pasted image 20240726134811.jpg",
-    "5. Standard Information/AWS/Scope of AWS Services.md",
-    "5. Standard Information/AWS/Infrastructure/Availability Zones.md",
     "7. Misc/Images/Pasted image 20240726133046.png",
     "5. Standard Information/AWS/Services/Service Types",
     "5. Standard Information/AWS/Services/Information",
     "5. Standard Information/AWS/Services",
-    "5. Standard Information/AWS/Infrastructure",
     "7. Misc/Images/Pasted image 20240726112201.png",
-    "5. Standard Information/AWS",
-    "4. Post Exploitation/Generic Tooling/Hashes and Encryption/Hashes/Tooling",
-    "5. Standard Information/Operating Systems/Linux/Malware Analysis",
     "7. Misc/Images/process_injection_fn.webp",
     "7. Misc/Images/wininternals_syscall.webp",
     "7. Misc/Images/windows_architecture.webp",
