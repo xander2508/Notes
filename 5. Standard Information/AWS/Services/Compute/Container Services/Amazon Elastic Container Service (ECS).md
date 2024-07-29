@@ -1,3 +1,11 @@
+
+[Containers on AWS](https://aws.amazon.com/containers/services/)
+[Amazon Elastic Container Service (Amazon ECS)](https://aws.amazon.com/ecs/)
+[GitHub: Amazon ECS Agent](https://github.com/aws/amazon-ecs-agent)
+[Amazon ECS Container Instances](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ECS_instances.html)
+[Coursera course: Building Containerized Applications on AWS](https://www.coursera.org/learn/containerized-apps-on-aws)
+
+
 Amazon ECS is an end-to-end container orchestration service that helps you spin up new containers. With Amazon ECS, your containers are defined in a task definition that you use to run an individual task or a task within a service. You have the option to run your tasks and services on 
 a serverless infrastructure that's managed by another AWS service called [[AWS Fargate]]. 
 
