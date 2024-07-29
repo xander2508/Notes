@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Storage/1. Storage.md",
+                "file": "5. Standard Information/AWS/Services/Storage/File Storage/Amazon Elastic File System (EFS).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Storage/1. Storage.md",
+                "file": "5. Standard Information/AWS/Services/Storage/File Storage/Amazon Elastic File System (EFS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Storage/1. Storage.md",
+                "file": "5. Standard Information/AWS/Services/Storage/File Storage/Amazon Elastic File System (EFS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Storage/1. Storage.md"
+                "file": "5. Standard Information/AWS/Services/Storage/File Storage/Amazon Elastic File System (EFS).md"
               }
             }
           },
@@ -214,8 +214,10 @@
   },
   "active": "edefe6c0f3e4bc42",
   "lastOpenFiles": [
-    "5. Standard Information/AWS/Infrastructure/Networking/Amazon Virtual Private Cloud (VPC).md",
     "5. Standard Information/AWS/Services/Storage/1. Storage.md",
+    "5. Standard Information/AWS/Services/Storage/File Storage/Amazon Elastic File System (EFS).md",
+    "5. Standard Information/AWS/Services/Storage/File Storage",
+    "5. Standard Information/AWS/Infrastructure/Networking/Amazon Virtual Private Cloud (VPC).md",
     "5. Standard Information/AWS/Services/Storage",
     "5. Standard Information/AWS/Services/Compute/Virtual Machines/Amazon Elastic Compute Cloud (EC2).md",
     "7. Misc/Images/Pasted image 20240729162432.jpg",
@@ -257,9 +259,7 @@
     "5. Standard Information/AWS/User Management/Identity and Access Management (IAM)/IAM User.md",
     "5. Standard Information/AWS/User Management/Identity and Access Management (IAM)/IAM Best Practices.md",
     "5. Standard Information/AWS/User Management/Identity and Access Management (IAM)/IAM Groups.md",
-    "5. Standard Information/AWS/User Management/AWS root user.md",
     "5. Standard Information/AWS/User Management/Identity and Access Management (IAM)",
-    "5. Standard Information/AWS/User Management",
     "Untitled.canvas"
   ]
 }
