@@ -18,3 +18,24 @@ When the Amazon ECS container instances are up and running, you can perform acti
 - Assigning permissions
 - Meeting availability requirements
 
+## Tasks
+
+To prepare your application to run on Amazon ECS, you create a task definition. The task definition is a text file, in JSON format, that describes one or more containers. A task definition is similar to a blueprint that describes the resources that you need to run a container, such as CPU, memory, ports, images, storage, and networking information.  
+  
+Here is a simple task definition that you can use for your corporate directory application. In this example, this runs on the Nginx web server.
+
+```json
+{
+	"family": "webserver",
+	"containerDefinitions": [ {
+		"name": "web",
+		"image": "nginx",
+		"memory": "100",
+		"cpu": "99"
+	} ],
+	"requiresCompatibilities": [ "FARGATE" ],
+	"networkMode": "awsvpc",
+	"memory": "512",
+	"cpu": "256"
+}
+```
