@@ -29,3 +29,16 @@ IAM is integrated with many AWS services by default.
 #### Shared access
 
 You can grant other identities permission to administer and use resources in your AWS account without having to share your password and key.
+
+#### Multi-factor authentication
+
+IAM supports MFA. You can add MFA to your account and to individual users for extra security.
+
+#### Identity federation
+
+IAM supports identity federation, which allows users with passwords elsewhere—like your corporate network or internet identity provider—to get temporary access to your AWS account.
+
+#### Free to use
+
+Any AWS customer can use IAM; the service is offered at no additional charge.
+

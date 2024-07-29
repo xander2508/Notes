@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/AWS/User Management/Identity and Access Management (IAM).md",
+                "file": "5. Standard Information/AWS/User Management/Identity and Access Management (IAM)/Identity and Access Management (IAM) User.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/AWS/User Management/Identity and Access Management (IAM).md",
+                "file": "5. Standard Information/AWS/User Management/Identity and Access Management (IAM)/Identity and Access Management (IAM) User.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/AWS/User Management/Identity and Access Management (IAM).md",
+                "file": "5. Standard Information/AWS/User Management/Identity and Access Management (IAM)/Identity and Access Management (IAM) User.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/AWS/User Management/Identity and Access Management (IAM).md"
+                "file": "5. Standard Information/AWS/User Management/Identity and Access Management (IAM)/Identity and Access Management (IAM) User.md"
               }
             }
           },
@@ -214,8 +214,10 @@
   },
   "active": "edefe6c0f3e4bc42",
   "lastOpenFiles": [
+    "5. Standard Information/AWS/User Management/Identity and Access Management (IAM)/Identity and Access Management (IAM).md",
+    "5. Standard Information/AWS/User Management/Identity and Access Management (IAM)/Identity and Access Management (IAM) User.md",
+    "5. Standard Information/AWS/User Management/Identity and Access Management (IAM)",
     "5. Standard Information/AWS/User Management/AWS root user.md",
-    "5. Standard Information/AWS/User Management/Identity and Access Management (IAM).md",
     "5. Standard Information/AWS/User Management/Multi-factor authentication (MFA).md",
     "7. Misc/Images/Pasted image 20240726164513.png",
     "5. Standard Information/AWS/AWS Shared Responsibility Model.md",
@@ -257,7 +259,6 @@
     "7. Misc/Images/process_injection_fn.webp",
     "7. Misc/Images/wininternals_syscall.webp",
     "7. Misc/Images/windows_architecture.webp",
-    "5. Standard Information/Malware and Malware Analysis",
     "7. Misc/Images/image76.webp",
     "7. Misc/Images/image60.webp"
   ]
