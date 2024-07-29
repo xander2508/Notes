@@ -17,3 +17,15 @@ After you’re authenticated and in your AWS account, you might be curious about
 ## IAM features  
 
 To help control access and manage identities in your AWS account, IAM offers many features to ensure security.
+
+#### Global
+
+IAM is global and not specific to any one Region. You can see and use your IAM configurations from any Region in the AWS Management Console.
+
+#### Integrated with AWS services
+
+IAM is integrated with many AWS services by default.
+
+#### Shared access
+
+You can grant other identities permission to administer and use resources in your AWS account without having to share your password and key.
