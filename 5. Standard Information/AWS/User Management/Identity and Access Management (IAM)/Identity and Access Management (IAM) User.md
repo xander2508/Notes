@@ -1,3 +1,0 @@
-An IAM user represents a person or service that interacts with AWS. You define the user in your AWS account. Any activity done by that user is billed to your account. When you create a user, that user can sign in to gain access to the AWS resources inside your account.
-
-You can also add more users to your account as needed. Each person should have their own login credentials to prevent sharing credentials between users.
