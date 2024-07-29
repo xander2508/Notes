@@ -214,11 +214,14 @@
   },
   "active": "edefe6c0f3e4bc42",
   "lastOpenFiles": [
+    "5. Standard Information/AWS/Services/AWS License Manager.md",
+    "5. Standard Information/AWS/Services/Compute/Virtual Machines/Amazon Elastic Compute Cloud (EC2).md",
+    "5. Standard Information/AWS/Services/Compute/Container Services/AWS Fargate.md",
+    "5. Standard Information/AWS/Services/Compute/Serverless/AWS Lambda.md",
     "7. Misc/Images/Pasted image 20240729133859.png",
     "7. Misc/Images/Pasted image 20240729115337.jpg",
     "7. Misc/Images/Pasted image 20240729114812.png",
     "5. Standard Information/AWS/Services/Compute/1. Compute Services.md",
-    "5. Standard Information/AWS/Services/Compute/Virtual Machines/Amazon Elastic Compute Cloud (EC2).md",
     "5. Standard Information/AWS/What Is AWS.md",
     "5. Standard Information/AWS/Services/Compute/Serverless",
     "5. Standard Information/AWS/Services/Compute/Container Services",
@@ -251,15 +254,12 @@
     "Excalidraw/Drawing 2024-07-26 14.00.12.excalidraw.md",
     "Excalidraw",
     "5. Standard Information/AWS/Infrastructure/Regions.md",
-    "5. Standard Information/AWS/Services/AWS Management Console.md",
-    "5. Standard Information/AWS/Services/AWS Command Line Interface (AWS CLI).md",
     "7. Misc/Images/Pasted image 20240726134811.jpg",
     "7. Misc/Images/Pasted image 20240726133046.png",
     "5. Standard Information/AWS/Services/Service Types",
     "5. Standard Information/AWS/Services/Information",
     "5. Standard Information/AWS/Services",
     "7. Misc/Images/Pasted image 20240726112201.png",
-    "7. Misc/Images/process_injection_fn.webp",
-    "7. Misc/Images/wininternals_syscall.webp"
+    "7. Misc/Images/process_injection_fn.webp"
   ]
 }
