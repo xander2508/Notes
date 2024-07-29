@@ -6,14 +6,16 @@ Whenever an IAM identity makes a request, AWS evaluates the policies associated 
 
 Most policies are stored in AWS as JSON documents with several policy elements. The following example provides admin access through an IAM identity-based policy.
 
+```json
 {
-"Version": "2012-10-17",
-"Statement": [{
-"Effect": "Allow",
-"Action": "*",
-"Resource": "*"
-}]
+	"Version": "2012-10-17",
+	"Statement": [{
+		"Effect": "Allow",
+		"Action": "*",
+		"Resource": "*"
+	}]
 }
+```
 
 This policy has four major JSON elements: _**Version**_, _**Effect**_, _**Action**_, and _**Resource**_.
 
