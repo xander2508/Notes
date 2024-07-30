@@ -4,6 +4,7 @@ Amazon S3 is an object storage service. Object storage stores data in a flat str
 
 In Amazon S3, you store your objects in containers called buckets. When you store an object in a bucket, the combination of a bucket name, key, and version ID uniquely identifies the object.
 
+ S3 store data in a minimum of three Availability Zones
 ### Amazon S3 bucket names
 
 Amazon S3 supports global buckets. Therefore, each bucket name must be unique across all AWS accounts in all AWS Regions within a partition. A partition is a grouping of Regions, of which AWS currently has three: Standard Regions, China Regions, and AWS GovCloud (US). 
