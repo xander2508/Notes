@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/AWS/Infrastructure/Amazon EC2 Auto Scaling.md",
+                "file": "5. Standard Information/AWS/Services/Amazon EC2 Auto Scaling.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/AWS/Infrastructure/Amazon EC2 Auto Scaling.md",
+                "file": "5. Standard Information/AWS/Services/Amazon EC2 Auto Scaling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/AWS/Infrastructure/Amazon EC2 Auto Scaling.md",
+                "file": "5. Standard Information/AWS/Services/Amazon EC2 Auto Scaling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/AWS/Infrastructure/Amazon EC2 Auto Scaling.md"
+                "file": "5. Standard Information/AWS/Services/Amazon EC2 Auto Scaling.md"
               }
             }
           },
@@ -224,8 +224,8 @@
   },
   "active": "edefe6c0f3e4bc42",
   "lastOpenFiles": [
-    "5. Standard Information/AWS/Infrastructure/Elastic Load Balancing.md",
-    "5. Standard Information/AWS/Infrastructure/Amazon EC2 Auto Scaling.md",
+    "5. Standard Information/AWS/Infrastructure/Elastic Load Balancing (ELB).md",
+    "5. Standard Information/AWS/Services/Amazon EC2 Auto Scaling.md",
     "7. Misc/Images/Pasted image 20240730151125.png",
     "5. Standard Information/AWS/Infrastructure/Availability.md",
     "5. Standard Information/AWS/Infrastructure/Availability Zones.md",
