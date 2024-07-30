@@ -92,3 +92,40 @@ Amazon S3 storage classes let you change your storage tier when your data charac
 | **S3 Glacier Flexible Retrieval**                  | S3 Glacier Flexible Retrieval offers low-cost storage for archived data that is accessed 1–2 times per year. With S3 Glacier Flexible Retrieval, your data can be accessed in as little as 1–5 minutes using an expedited retrieval. You can also request free bulk retrievals in up to 5–12 hours. It is an ideal solution for backup, disaster recovery, offsite data storage needs, and for when some data occasionally must be retrieved in minutes.                                                                              |
 | **S3 Glacier Deep Archive**                        | S3 Glacier Deep Archive is the lowest-cost Amazon S3 storage class. It supports long-term retention and digital preservation for data that might be accessed once or twice a year. Data stored in the S3 Glacier Deep Archive storage class has a default retrieval time of 12 hours. It is designed for customers that retain data sets for 7–10 years or longer, to meet regulatory compliance requirements. Examples include those in highly regulated industries, such as the financial services, healthcare, and public sectors. |
 | **S3 on Outposts**                                 | Amazon S3 on Outposts delivers object storage to your on-premises AWS Outposts environment using S3 API's and features. For workloads that require satisfying local data residency requirements or need to keep data close to on premises applications for performance reasons, the S3 Outposts storage class is the ideal option.                                                                                                                                                                                                    |
+
+
+## Amazon S3 Versioning
+
+Without Amazon S3 versioning, every time you upload an object called employee.jpg to the employees bucket, it will overwrite the original object.  
+This can be an issue for several reasons, including the following:
+
+- **Common names:** The employee.jpg object name is a common name for an employee photo object. You or someone else who has access to the bucket might not have intended to overwrite it; but once it's overwritten, the original object can't be accessed.
+- **Version preservation:** You might want to preserve different versions of employee.jpg. Without versioning, if you wanted to create a new version of employee.jpg, you would need to upload the object and choose a different name for it. Having several objects all with slight differences in naming variations can cause confusion and clutter in S3 buckets.
+
+Versioning keeps multiple versions of a single object in the same bucket. This preserves old versions of an object without using different names, which helps with object recovery from accidental deletions, accidental overwrites, or application failures.
+
+If you enable versioning for a bucket, Amazon S3 automatically generates a unique version ID for the object.
+
+By using versioning-enabled buckets, you can recover objects from accidental deletion or overwrite. The following are examples:
+
+- Deleting an object does not remove the object permanently. Instead, Amazon S3 puts a marker on the object that shows that you tried to delete it. If you want to restore the object, you can remove the marker and the object is reinstated.
+- If you overwrite an object, it results in a new object version in the bucket. You still have access to previous versions of the object.
+
+### Versioning states
+
+Buckets can be in one of three states. The versioning state applies to all objects in the bucket. Storage costs are incurred for all objects in your bucket, including all versions. To reduce your Amazon S3 bill, you might want to delete previous versions of your objects when they are no longer needed.
+
+#### Unversioned (default)
+
+No new and existing objects in the bucket have a version.
+
+#### Versioning-enabled
+
+Versioning is enabled for all objects in the bucket. After you version-enable a bucket, it can never return to an unversioned state. However, you can suspend versioning on that bucket.
+
+#### Versioning-suspended
+
+Versioning is suspended for new objects. All new objects in the bucket will not have a version. However, all existing objects keep their object versions.
+
+
+## Managing your Storage Lifecycle
