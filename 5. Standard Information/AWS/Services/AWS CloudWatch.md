@@ -1,3 +1,12 @@
+
+[Amazon CloudWatch Pricing](https://aws.amazon.com/cloudwatch/pricing/)
+[Amazon CloudWatch](https://aws.amazon.com/cloudwatch/)
+[Getting Started with Amazon CloudWatch](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/GettingStarted.html)
+[What Is Amazon CloudWatch Logs?](https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/WhatIsCloudWatchLogs.html)
+[AWS services that publish CloudWatch metrics](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/aws-services-cloudwatch-metrics.html)
+[View available metrics](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/viewing_metrics_with_cloudwatch.html)
+[Amazon SNS](https://aws.amazon.com/sns/)
+
 CloudWatch is a monitoring and observability service that collects your resource data and provides actionable insights into your applications. With CloudWatch, you can respond to system-wide performance changes, optimize resource usage, and get a unified view of operational health.
 
 You can use CloudWatch to do the following:
@@ -57,9 +66,9 @@ Log group is composed of log streams which all share the same retention and perm
 
 ## CloudWatch alarms
 
-You can create CloudWatch alarms to automatically initiate actions based on sustained state changes of your metrics. You configure when alarms are invoked and the action that is performed.
+You can create CloudWatch alarms to automatically initiate actions based on sustained state changes of your metrics. You configure when alarms are invoked and the action that is performed. Alarms should ignore spikes and only respond to continuous issues like CPU usage over 90% for 5 mins.
 
-Actions can be an Amazon EC2 action, an automatic scaling action, or a notification sent to Amazon Simple Notification Service (Amazon SNS).
+Actions can be an Amazon EC2 action, an automatic scaling action, or a notification sent to Amazon Simple Notification Service (Amazon SNS). You can even set up an alarm to invoke an Amazon SNS notification that invokes a Lambda function. The Lambda function then calls any AWS API to manage your resources and troubleshoot operational issues. By using AWS services together like this, you can respond to events more quickly.
 
 Alarms have three states: OK, ALARM, INSUFFICIEN_DATA
 
