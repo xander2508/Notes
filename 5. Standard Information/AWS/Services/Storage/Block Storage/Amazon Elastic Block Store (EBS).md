@@ -37,5 +37,34 @@ Amazon EBS provides high availability and high durability block storage to run b
 
 #### Big data analytics engines
 
-
 Amazon EBS offers data persistence, dynamic performance adjustments, and the ability to detach and reattach volumes, so you can resize clusters for big data analytics.
+
+
+## EBS volume types
+
+EBS volumes are organized into two main categories: solid-state drives (SSDs) and hard-disk drives (HDDs). 
+
+SSDs are used for transactional workloads with frequent read/write operations with small I/O size. 
+
+HDDs are used for large streaming workloads that need high throughput performance.  
+
+AWS offers two types of each.
+
+|                                   | **General Purpose**   <br>**SSD volumes**                                                 |           | **Provisioned IOPS**   <br>**SSD volumes**                                           |             |     |
+| --------------------------------- | ----------------------------------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------ | ----------- | --- |
+| **Volume type**                   | gp3                                                                                       | gp2       | io2 Block Express                                                                    | io2         | io1 |
+| **Description**                   | Provides a balance of price and performance for a wide variety of transactional workloads |           | Provides high-performance SSD designed for latency-sensitive transactional workloads |             |     |
+| **Volume size**                   | 1 GiB–16 TiB                                                                              |           | 4 GiB–64 TiB                                                                         | 4GiB–16 TiB |     |
+| **Max IOPS**   <br>**per volume** | 16,000                                                                                    |           | 256,000                                                                              | 64,000      |     |
+| **Max throughput per volume**     | 1,000 MiB/s                                                                               | 250 MiB/s | 4,000 MiB/s                                                                          | 1,000 MiB/s |     |
+| **Amazon EBS Multi-attach**       | Not supported                                                                             |           | Supported                                                                            |             |     |
+
+
+|                               | **Throughput Optimized HDD volumes**                                            | **Cold HDD volumes**                                                |
+| ----------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| **Volume type**               | st1                                                                             | sc1                                                                 |
+| **Description**               | A low-cost HDD designed for frequently accessed, throughput-intensive workloads | The lowest cost HDD designed for less frequently accessed workloads |
+| **Volume size**               | 125 GiB–16 TiB                                                                  |                                                                     |
+| **Max IOPS per volume**       | 500                                                                             | 250                                                                 |
+| **Max throughput per volume** | 500 MiB/s                                                                       | 250 MiB/s                                                           |
+| **Amazon EBS Multi-attach**   | Not supported                                                                   |                                                                     |
