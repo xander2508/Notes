@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/AWS/Infrastructure/Availability.md",
+                "file": "5. Standard Information/AWS/Infrastructure/Elastic Load Balancing.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/AWS/Infrastructure/Availability.md",
+                "file": "5. Standard Information/AWS/Infrastructure/Elastic Load Balancing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/AWS/Infrastructure/Availability.md",
+                "file": "5. Standard Information/AWS/Infrastructure/Elastic Load Balancing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/AWS/Infrastructure/Availability.md"
+                "file": "5. Standard Information/AWS/Infrastructure/Elastic Load Balancing.md"
               }
             }
           },
@@ -224,8 +224,11 @@
   },
   "active": "edefe6c0f3e4bc42",
   "lastOpenFiles": [
-    "5. Standard Information/AWS/Infrastructure/Availability Zones.md",
+    "5. Standard Information/AWS/Infrastructure/Amazon EC2 Auto Scaling.md",
+    "5. Standard Information/AWS/Infrastructure/Elastic Load Balancing.md",
+    "7. Misc/Images/Pasted image 20240730151125.png",
     "5. Standard Information/AWS/Infrastructure/Availability.md",
+    "5. Standard Information/AWS/Infrastructure/Availability Zones.md",
     "5. Standard Information/AWS/Services/AWS CloudWatch.md",
     "5. Standard Information/AWS/Services/Storage/Databases/1. Databases.md",
     "5. Standard Information/AWS/Services/Storage/Databases/Amazon DynamoDB.md",
@@ -258,13 +261,10 @@
     "5. Standard Information/AWS/Services/Compute/Virtual Machines/Amazon Elastic Compute Cloud (EC2).md",
     "7. Misc/Images/Pasted image 20240729162432.jpg",
     "7. Misc/Images/Pasted image 20240729160924.png",
-    "5. Standard Information/AWS/Infrastructure/Networking/AWS Direct Connect.md",
     "7. Misc/Images/Pasted image 20240729154512.png",
     "7. Misc/Images/Pasted image 20240729154438.jpg",
     "7. Misc/Images/Pasted image 20240729154357.png",
     "7. Misc/Images/Pasted image 20240729154315.png",
-    "7. Misc/Images/Pasted image 20240729154057.png",
-    "5. Standard Information/AWS/Services/Compute/Serverless/AWS Fargate.md",
     "5. Standard Information/AWS/Infrastructure/Networking",
     "5. Standard Information/Architecture",
     "5. Standard Information/Operating Systems/Untitled",
