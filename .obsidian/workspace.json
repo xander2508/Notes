@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Storage/Databases/Amazon RDS.md",
+                "file": "5. Standard Information/AWS/Services/Storage/Databases/Amazon Keyspaces (for Apache Cassandra).md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Storage/Databases/Amazon RDS.md",
+                "file": "5. Standard Information/AWS/Services/Storage/Databases/Amazon Keyspaces (for Apache Cassandra).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Storage/Databases/Amazon RDS.md",
+                "file": "5. Standard Information/AWS/Services/Storage/Databases/Amazon Keyspaces (for Apache Cassandra).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Storage/Databases/Amazon RDS.md"
+                "file": "5. Standard Information/AWS/Services/Storage/Databases/Amazon Keyspaces (for Apache Cassandra).md"
               }
             }
           },
@@ -224,8 +224,13 @@
   },
   "active": "edefe6c0f3e4bc42",
   "lastOpenFiles": [
-    "5. Standard Information/AWS/Services/Storage/Block Storage/Amazon Elastic Block Store (EBS).md",
+    "5. Standard Information/AWS/Services/Storage/Databases/Amazon DocumentDB.md",
+    "5. Standard Information/AWS/Services/Storage/Databases/Amazon Keyspaces (for Apache Cassandra).md",
+    "5. Standard Information/AWS/Services/Storage/Databases/Amazon MemoryDB for Redis.md",
+    "5. Standard Information/AWS/Services/Storage/Databases/Amazon ElastiCache.md",
+    "5. Standard Information/AWS/Services/Storage/Databases/Amazon DynamoDB.md",
     "5. Standard Information/AWS/Services/Storage/Databases/Amazon RDS.md",
+    "5. Standard Information/AWS/Services/Storage/Block Storage/Amazon Elastic Block Store (EBS).md",
     "5. Standard Information/AWS/Infrastructure/Databases.md",
     "5. Standard Information/AWS/Services/Storage/Databases",
     "7. Misc/Images/Pasted image 20240730111311.png",
@@ -261,13 +266,8 @@
     "5. Standard Information/AWS/Services/Compute/Container Services/Amazon Elastic Container Registry (ECR).md",
     "5. Standard Information/Architecture/Serverless.md",
     "5. Standard Information/Architecture/Containers.md",
-    "3. Exploitation/Known Application Exploits/Docker.md",
     "5. Standard Information/Architecture",
-    "5. Standard Information/Architecture.md",
     "5. Standard Information/Operating Systems/Untitled",
-    "5. Standard Information/AWS/Services/AWS License Manager.md",
-    "5. Standard Information/AWS/Services/Compute/1. Compute Services.md",
-    "5. Standard Information/AWS/What Is AWS.md",
     "5. Standard Information/AWS/Services/Compute/Serverless",
     "5. Standard Information/AWS/Services/Compute/Container Services",
     "Untitled.canvas"
