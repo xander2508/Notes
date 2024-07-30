@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Storage/Block Storage/Amazon Elastic Block Store (EBS).md",
+                "file": "5. Standard Information/AWS/Services/Storage/Object Storage/Amazon Simple Storage Service (Amazon S3).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Storage/Block Storage/Amazon Elastic Block Store (EBS).md",
+                "file": "5. Standard Information/AWS/Services/Storage/Object Storage/Amazon Simple Storage Service (Amazon S3).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Storage/Block Storage/Amazon Elastic Block Store (EBS).md",
+                "file": "5. Standard Information/AWS/Services/Storage/Object Storage/Amazon Simple Storage Service (Amazon S3).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Storage/Block Storage/Amazon Elastic Block Store (EBS).md"
+                "file": "5. Standard Information/AWS/Services/Storage/Object Storage/Amazon Simple Storage Service (Amazon S3).md"
               }
             }
           },
@@ -214,8 +214,11 @@
   },
   "active": "edefe6c0f3e4bc42",
   "lastOpenFiles": [
-    "5. Standard Information/AWS/Services/Storage/Block Storage/Amazon EC2 Instance Store.md",
+    "7. Misc/Images/Pasted image 20240730100642.png",
     "5. Standard Information/AWS/Services/Storage/Block Storage/Amazon Elastic Block Store (EBS).md",
+    "5. Standard Information/AWS/Services/Storage/Object Storage/Amazon Simple Storage Service (Amazon S3).md",
+    "5. Standard Information/AWS/Services/Storage/Object Storage",
+    "5. Standard Information/AWS/Services/Storage/Block Storage/Amazon EC2 Instance Store.md",
     "5. Standard Information/AWS/Services/Storage/File Storage/Amazon FSx.md",
     "5. Standard Information/AWS/Services/Storage/Block Storage",
     "5. Standard Information/AWS/Services/Storage/File Storage/Amazon Elastic File System (EFS).md",
@@ -255,11 +258,8 @@
     "5. Standard Information/AWS/Services/Compute/Serverless",
     "5. Standard Information/AWS/Services/Compute/Container Services",
     "5. Standard Information/AWS/Services/Compute/Virtual Machines",
-    "5. Standard Information/AWS/Services/Compute",
     "5. Standard Information/AWS/Services/AWS IAM Identity Center.md",
     "5. Standard Information/AWS/User Management/Identity and Access Management (IAM)/IAM Roles.md",
-    "5. Standard Information/AWS/User Management/Identity and Access Management (IAM)/IAM Policies.md",
-    "5. Standard Information/AWS/User Management/Identity and Access Management (IAM)/Identity and Access Management (IAM).md",
     "Untitled.canvas"
   ]
 }
