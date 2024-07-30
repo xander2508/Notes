@@ -1,3 +1,8 @@
+
+[Amazon RDS](https://aws.amazon.com/rds/)
+[Configuring an Amazon RDS DB Instance](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_RDS_Configuring.html)
+[Backing up and restoring an Amazon RDS DB instance](https://docs.aws.amazon.com//AmazonRDS/latest/UserGuide/CHAP_CommonTasks.BackupRestore.html)
+
 Amazon RDS is a managed database service customers can use to create and manage relational databases in the cloud without the operational burden of traditional database management.
 
 Amazon RDS supports most of the popular RDBMSs, ranging from commercial options to open-source options and even a specific AWS option. Supported Amazon RDS engines include the following:
@@ -56,3 +61,19 @@ If you restore data from a manual snapshot, it creates a new DB instance using t
 
 
 ## Redundancy with Amazon RDS Multi-AZ
+
+In an Amazon RDS Multi-AZ deployment, Amazon RDS creates a redundant copy of your database in another Availability Zone. You end up with two copies of your database—a primary copy in a subnet in one Availability Zone and a standby copy in a subnet in a second Availability Zone.
+
+The primary copy of your database provides access to your data so that applications can query and display the information. The data in the primary copy is synchronously replicated to the standby copy. The standby copy is not considered an active database, and it does not get queried by applications.
+
+In an automatic failover, the standby database is promoted to the primary role, and queries are redirected to the new primary database.
+
+The reason you can select multiple subnets for an Amazon RDS database is because of the Multi-AZ configuration. You will want to ensure that you have subnets in different Availability Zones for your primary and standby copies.
+
+## Amazon RDS Security
+
+[Security in Amazon RDS](https://docs.aws.amazon.com//AmazonRDS/latest/UserGuide/UsingWithRDS.html)
+
+Network ACLs and security groups help users dictate the flow of traffic. If you want to restrict the actions and resources others can access, you can use AWS Identity and Access Management (IAM) policies.
+
+All data, snapshots and backups are encrypted at rest
