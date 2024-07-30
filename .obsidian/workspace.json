@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Storage/Databases/1. Databases.md",
+                "file": "5. Standard Information/AWS/Services/AWS CloudWatch.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Storage/Databases/1. Databases.md",
+                "file": "5. Standard Information/AWS/Services/AWS CloudWatch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Storage/Databases/1. Databases.md",
+                "file": "5. Standard Information/AWS/Services/AWS CloudWatch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Storage/Databases/1. Databases.md"
+                "file": "5. Standard Information/AWS/Services/AWS CloudWatch.md"
               }
             }
           },
@@ -224,6 +224,8 @@
   },
   "active": "edefe6c0f3e4bc42",
   "lastOpenFiles": [
+    "5. Standard Information/AWS/Services/Storage/Databases/1. Databases.md",
+    "5. Standard Information/AWS/Services/AWS CloudWatch.md",
     "5. Standard Information/AWS/Services/Storage/Databases/Amazon DynamoDB.md",
     "5. Standard Information/AWS/Services/AWS CloudTrail.md",
     "5. Standard Information/AWS/Services/AWS Key Management Service (KMS).md",
@@ -237,7 +239,6 @@
     "5. Standard Information/AWS/Services/Storage/Databases/Amazon Quantum Ledger Database (Amazon QLDB).md",
     "5. Standard Information/AWS/Services/Storage/Databases/Amazon Timestream.md",
     "5. Standard Information/AWS/Services/Storage/Block Storage/Amazon Elastic Block Store (EBS).md",
-    "5. Standard Information/AWS/Services/Storage/Databases/1. Databases.md",
     "5. Standard Information/AWS/Services/Storage/Databases",
     "7. Misc/Images/Pasted image 20240730111311.png",
     "5. Standard Information/AWS/Services/Amazon CloudFront.md",
@@ -264,7 +265,6 @@
     "5. Standard Information/AWS/Services/Compute/Serverless/AWS Fargate.md",
     "7. Misc/smart-chats/UNTITLED CHAT 2024-07-24 08 53 45.md",
     "5. Standard Information/AWS/Services/Compute/Container Services/Amazon Elastic Container Service (ECS).md",
-    "5. Standard Information/AWS/Services/Compute/Serverless/1. Serverless.md",
     "5. Standard Information/AWS/Infrastructure/Networking",
     "5. Standard Information/Architecture",
     "5. Standard Information/Operating Systems/Untitled",
