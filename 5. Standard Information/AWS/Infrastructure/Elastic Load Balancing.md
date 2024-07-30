@@ -56,6 +56,10 @@ An Application Load Balancer can authenticate users before they can pass through
 - Microsoft Active Directory
 - Others
 
+ To pass HTTPS traffic through an Application Load Balancer, an SSL certificate is provided one of the following ways:
+- Importing a certificate by way of IAM or ACM services
+- Creating a certificate for free using ACM
+
 If requests must be sent to the same backend server because the application is stateful, use the sticky session feature. This feature uses an HTTP cookie to remember which server to send the traffic to across connections.
 
 ### Network Load Balancer
