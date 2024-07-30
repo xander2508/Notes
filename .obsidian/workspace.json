@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Storage/Object Storage/Amazon Simple Storage Service (Amazon S3).md",
+                "file": "5. Standard Information/AWS/Services/Storage/Databases/Amazon RDS.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,6 +64,16 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "9ac58542641d0e97",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "com.maxymillion.zen",
+              "state": {},
+              "pinned": true
+            }
           }
         ]
       }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Storage/Object Storage/Amazon Simple Storage Service (Amazon S3).md",
+                "file": "5. Standard Information/AWS/Services/Storage/Databases/Amazon RDS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Storage/Object Storage/Amazon Simple Storage Service (Amazon S3).md",
+                "file": "5. Standard Information/AWS/Services/Storage/Databases/Amazon RDS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Storage/Object Storage/Amazon Simple Storage Service (Amazon S3).md"
+                "file": "5. Standard Information/AWS/Services/Storage/Databases/Amazon RDS.md"
               }
             }
           },
@@ -214,9 +224,14 @@
   },
   "active": "edefe6c0f3e4bc42",
   "lastOpenFiles": [
-    "7. Misc/Images/Pasted image 20240730100642.png",
     "5. Standard Information/AWS/Services/Storage/Block Storage/Amazon Elastic Block Store (EBS).md",
+    "5. Standard Information/AWS/Services/Storage/Databases/Amazon RDS.md",
+    "5. Standard Information/AWS/Infrastructure/Databases.md",
+    "5. Standard Information/AWS/Services/Storage/Databases",
+    "7. Misc/Images/Pasted image 20240730111311.png",
+    "5. Standard Information/AWS/Services/Amazon CloudFront.md",
     "5. Standard Information/AWS/Services/Storage/Object Storage/Amazon Simple Storage Service (Amazon S3).md",
+    "7. Misc/Images/Pasted image 20240730100642.png",
     "5. Standard Information/AWS/Services/Storage/Object Storage",
     "5. Standard Information/AWS/Services/Storage/Block Storage/Amazon EC2 Instance Store.md",
     "5. Standard Information/AWS/Services/Storage/File Storage/Amazon FSx.md",
@@ -247,19 +262,14 @@
     "5. Standard Information/Architecture/Serverless.md",
     "5. Standard Information/Architecture/Containers.md",
     "3. Exploitation/Known Application Exploits/Docker.md",
-    "7. Misc/Images/Pasted image 20240729141540.png",
     "5. Standard Information/Architecture",
     "5. Standard Information/Architecture.md",
     "5. Standard Information/Operating Systems/Untitled",
     "5. Standard Information/AWS/Services/AWS License Manager.md",
-    "7. Misc/Images/Pasted image 20240729133859.png",
     "5. Standard Information/AWS/Services/Compute/1. Compute Services.md",
     "5. Standard Information/AWS/What Is AWS.md",
     "5. Standard Information/AWS/Services/Compute/Serverless",
     "5. Standard Information/AWS/Services/Compute/Container Services",
-    "5. Standard Information/AWS/Services/Compute/Virtual Machines",
-    "5. Standard Information/AWS/Services/AWS IAM Identity Center.md",
-    "5. Standard Information/AWS/User Management/Identity and Access Management (IAM)/IAM Roles.md",
     "Untitled.canvas"
   ]
 }
