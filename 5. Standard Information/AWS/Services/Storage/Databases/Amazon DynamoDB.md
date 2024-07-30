@@ -13,3 +13,14 @@ With DynamoDB, you can do the following:
 - Monitor resource usage and performance metrics using the AWS Management Console.
 
 DynamoDB automatically spreads the data and traffic for your tables over a sufficient number of servers to handle your throughput and storage requirements. It does this while maintaining consistent, fast performance. All your data is stored on SSDs and is automatically replicated across multiple Availability Zones in a Region, providing built-in high availability and data durability.
+
+
+## DynamoDB core components
+
+In DynamoDB, tables, items, and attributes are the core components that you work with. A table is a collection of items, and each item is a collection of attributes. DynamoDB uses primary keys to uniquely identify each item in a table and secondary indexes to provide more querying flexibility.
+
+![[Pasted image 20240730133633.png]]
+
+## DynamoDB use cases
+
+
