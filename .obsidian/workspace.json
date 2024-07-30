@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Storage/Databases/Amazon Keyspaces (for Apache Cassandra).md",
+                "file": "5. Standard Information/AWS/Services/Storage/Databases/Amazon Quantum Ledger Database (Amazon QLDB).md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Storage/Databases/Amazon Keyspaces (for Apache Cassandra).md",
+                "file": "5. Standard Information/AWS/Services/Storage/Databases/Amazon Quantum Ledger Database (Amazon QLDB).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Storage/Databases/Amazon Keyspaces (for Apache Cassandra).md",
+                "file": "5. Standard Information/AWS/Services/Storage/Databases/Amazon Quantum Ledger Database (Amazon QLDB).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Storage/Databases/Amazon Keyspaces (for Apache Cassandra).md"
+                "file": "5. Standard Information/AWS/Services/Storage/Databases/Amazon Quantum Ledger Database (Amazon QLDB).md"
               }
             }
           },
@@ -224,8 +224,11 @@
   },
   "active": "edefe6c0f3e4bc42",
   "lastOpenFiles": [
-    "5. Standard Information/AWS/Services/Storage/Databases/Amazon DocumentDB.md",
+    "5. Standard Information/AWS/Services/Storage/Databases/Amazon Timestream.md",
+    "5. Standard Information/AWS/Services/Storage/Databases/Amazon Quantum Ledger Database (Amazon QLDB).md",
+    "5. Standard Information/AWS/Services/Storage/Databases/Amazon Neptune.md",
     "5. Standard Information/AWS/Services/Storage/Databases/Amazon Keyspaces (for Apache Cassandra).md",
+    "5. Standard Information/AWS/Services/Storage/Databases/Amazon DocumentDB.md",
     "5. Standard Information/AWS/Services/Storage/Databases/Amazon MemoryDB for Redis.md",
     "5. Standard Information/AWS/Services/Storage/Databases/Amazon ElastiCache.md",
     "5. Standard Information/AWS/Services/Storage/Databases/Amazon DynamoDB.md",
@@ -263,9 +266,6 @@
     "5. Standard Information/AWS/Infrastructure/Networking",
     "5. Standard Information/AWS/Services/Compute/Serverless/AWS Lambda.md",
     "5. Standard Information/AWS/Services/Compute/Container Services/Amazon Elastic Kubernetes Service (EKS).md",
-    "5. Standard Information/AWS/Services/Compute/Container Services/Amazon Elastic Container Registry (ECR).md",
-    "5. Standard Information/Architecture/Serverless.md",
-    "5. Standard Information/Architecture/Containers.md",
     "5. Standard Information/Architecture",
     "5. Standard Information/Operating Systems/Untitled",
     "5. Standard Information/AWS/Services/Compute/Serverless",
