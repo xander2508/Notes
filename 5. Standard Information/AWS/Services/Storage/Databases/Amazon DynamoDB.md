@@ -24,3 +24,8 @@ In DynamoDB, tables, items, and attributes are the core components that you work
 ## DynamoDB use cases
 
 
+- You are experiencing scalability problems with other traditional database systems.
+- You are actively engaged in developing an application or service.
+- You are working with an OLTP workload.
+- You care deploying a mission-critical application that must be highly available at all times without manual intervention.
+- You require a high level of data durability, regardless of your backup-and-restore strategy.
