@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/AWS/Services/AWS CloudWatch.md",
+                "file": "5. Standard Information/AWS/Infrastructure/Availability.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/AWS/Services/AWS CloudWatch.md",
+                "file": "5. Standard Information/AWS/Infrastructure/Availability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/AWS/Services/AWS CloudWatch.md",
+                "file": "5. Standard Information/AWS/Infrastructure/Availability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/AWS/Services/AWS CloudWatch.md"
+                "file": "5. Standard Information/AWS/Infrastructure/Availability.md"
               }
             }
           },
@@ -224,8 +224,10 @@
   },
   "active": "edefe6c0f3e4bc42",
   "lastOpenFiles": [
-    "5. Standard Information/AWS/Services/Storage/Databases/1. Databases.md",
+    "5. Standard Information/AWS/Infrastructure/Availability Zones.md",
+    "5. Standard Information/AWS/Infrastructure/Availability.md",
     "5. Standard Information/AWS/Services/AWS CloudWatch.md",
+    "5. Standard Information/AWS/Services/Storage/Databases/1. Databases.md",
     "5. Standard Information/AWS/Services/Storage/Databases/Amazon DynamoDB.md",
     "5. Standard Information/AWS/Services/AWS CloudTrail.md",
     "5. Standard Information/AWS/Services/AWS Key Management Service (KMS).md",
@@ -263,8 +265,6 @@
     "7. Misc/Images/Pasted image 20240729154315.png",
     "7. Misc/Images/Pasted image 20240729154057.png",
     "5. Standard Information/AWS/Services/Compute/Serverless/AWS Fargate.md",
-    "7. Misc/smart-chats/UNTITLED CHAT 2024-07-24 08 53 45.md",
-    "5. Standard Information/AWS/Services/Compute/Container Services/Amazon Elastic Container Service (ECS).md",
     "5. Standard Information/AWS/Infrastructure/Networking",
     "5. Standard Information/Architecture",
     "5. Standard Information/Operating Systems/Untitled",
