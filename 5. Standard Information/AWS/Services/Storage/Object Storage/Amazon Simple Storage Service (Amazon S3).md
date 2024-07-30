@@ -1,3 +1,6 @@
+
+[Amazon S3](https://aws.amazon.com/s3/)
+
 Amazon Simple Storage Service (Amazon S3) is a standalone storage solution that isn’t tied to compute. With Amazon S3, you can retrieve your data from anywhere on the web.
 
 Amazon S3 is an object storage service. Object storage stores data in a flat structure. An object is a file combined with metadata. You can store as many of these objects as you want. All the characteristics of object storage are also characteristics of Amazon S3.
@@ -6,6 +9,8 @@ In Amazon S3, you store your objects in containers called buckets. When you stor
 
  S3 store data in a minimum of three Availability Zones
 ### Amazon S3 bucket names
+
+[Bucket Naming Rules](https://docs.aws.amazon.com/AmazonS3/latest/userguide/bucketnamingrules.html)
 
 Amazon S3 supports global buckets. Therefore, each bucket name must be unique across all AWS accounts in all AWS Regions within a partition. A partition is a grouping of Regions, of which AWS currently has three: Standard Regions, China Regions, and AWS GovCloud (US). 
 
@@ -52,7 +57,9 @@ A public resource means that everyone on the internet can see it.
 
 To be more specific about who can do what with your Amazon S3 resources, Amazon S3 provides several security management features: [[IAM Policies]], S3 bucket policies, and encryption to develop and implement your own security policies.
 
-### IAM Policies
+### IAM Policies 
+
+[Bucket Policy Examples](https://docs.aws.amazon.com/en_us/AmazonS3/latest/userguide/example-bucket-policies.html)
 
 Access policies that you attach to your resources are referred to as _resource-based policies_ and access policies attached to users in your account are called *user policies*
 
@@ -79,6 +86,8 @@ Amazon S3 reinforces encryption in transit (as it travels to and from Amazon S3)
 
 
 ## Amazon S3 Storage Classes
+
+[Amazon S3 Storage Classes](https://aws.amazon.com/s3/storage-classes/)
 
 Amazon S3 storage classes let you change your storage tier when your data characteristics change. For example, if you are accessing your old photos infrequently, you might want to change the storage class for the photos to save costs.
 
@@ -113,6 +122,8 @@ By using versioning-enabled buckets, you can recover objects from accidental del
 
 ### Versioning states
 
+[Using Versioning in S3 Buckets](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Versioning.html)
+
 Buckets can be in one of three states. The versioning state applies to all objects in the bucket. Storage costs are incurred for all objects in your bucket, including all versions. To reduce your Amazon S3 bill, you might want to delete previous versions of your objects when they are no longer needed.
 
 #### Unversioned (default)
@@ -129,3 +140,10 @@ Versioning is suspended for new objects. All new objects in the bucket will not 
 
 
 ## Managing your Storage Lifecycle
+
+When you define a lifecycle configuration for an object or group of objects, you can choose to automate between two types of actions: transition and expiration.
+
+- **Transition actions** define when objects should transition to another storage class.
+- **Expiration actions** define when objects expire and should be permanently deleted.
+
+For example, you might transition objects to S3 Standard-IA storage class 30 days after you create them. Or you might archive objects to the S3 Glacier Deep Archive storage class 1 year after creating them.
