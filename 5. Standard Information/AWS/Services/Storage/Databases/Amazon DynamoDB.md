@@ -1,4 +1,9 @@
-DynamoDB is a fully managed NoSQL database that provides fast, consistent performance at any scale. 
+
+[Amazon DynamoDB](https://aws.amazon.com/dynamodb/#)
+[What is Amazon DynamoDB?](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html)
+[AWS Database Blog](https://aws.amazon.com/blogs/database/how-to-determine-if-amazon-dynamodb-is-appropriate-for-your-needs-and-then-plan-your-migration/)
+
+DynamoDB is a fully managed serverless NoSQL database that provides fast, consistent performance at any scale. 
 
 It has a flexible billing model, tight integration with infrastructure as code (IaC), and a hands-off operational model. 
 
@@ -29,3 +34,10 @@ In DynamoDB, tables, items, and attributes are the core components that you work
 - You are working with an OLTP workload.
 - You care deploying a mission-critical application that must be highly available at all times without manual intervention.
 - You require a high level of data durability, regardless of your backup-and-restore strategy.
+
+## DynamoDB security
+
+- DynamoDB provides a highly durable storage infrastructure designed for mission-critical and primary data storage. Data is redundantly stored on multiple devices across multiple facilities in a DynamoDB Region.  
+- All user data stored in DynamoDB is fully encrypted at rest. DynamoDB encryption at rest provides enhanced security by encrypting all your data at rest using encryption keys stored in [[AWS Key Management Service (KMS)]].
+- IAM administrators control who can be authenticated and authorized to use DynamoDB resources. You can use [[IAM Policies]] to manage access permissions and implement security policies.
+- As a managed service, DynamoDB is protected by the AWS global network security procedures.
