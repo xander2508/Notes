@@ -68,7 +68,7 @@ Log group is composed of log streams which all share the same retention and perm
 
 You can create CloudWatch alarms to automatically initiate actions based on sustained state changes of your metrics. You configure when alarms are invoked and the action that is performed. Alarms should ignore spikes and only respond to continuous issues like CPU usage over 90% for 5 mins.
 
-Actions can be an Amazon EC2 action, an automatic scaling action, or a notification sent to Amazon Simple Notification Service (Amazon SNS). You can even set up an alarm to invoke an Amazon SNS notification that invokes a Lambda function. The Lambda function then calls any AWS API to manage your resources and troubleshoot operational issues. By using AWS services together like this, you can respond to events more quickly.
+Actions can be an Amazon EC2 action, an automatic scaling action, or a notification sent to [[Amazon Simple Notification Service (Amazon SNS)]]. You can even set up an alarm to invoke an Amazon SNS notification that invokes a Lambda function. The Lambda function then calls any AWS API to manage your resources and troubleshoot operational issues. By using AWS services together like this, you can respond to events more quickly.
 
 Alarms have three states: OK, ALARM, INSUFFICIEN_DATA
 
