@@ -8,8 +8,13 @@ AWS CAF assists in visualizing the future state of your customer’s organizatio
 
 - Envision
 	- Connect your business goals and outcomes to enabling technologies, identifying key measures, and helping you prioritize your cloud initiatives.
+	- List goals and hopes 
 - Alignment
 	- Create a usable action plan that helps you determine what cloud adoption means to your customer’s organization. It surfaces key benefits for stakeholders, establishes the best approach, and drives clarity to guide the organization's change management during their cloud journey
+	- Create a plan
 - Launch
 	- Launch workstreams for production cloud deployment, completing your cloud projects, proactively addressing stakeholder's concerns, and starting to use the cloud for incremental business value.
+	- Run the plan
 - Scale
+	- Measure success and iterate to deliver against your organization’s business plans. Expand production pilots to ensure that the business benefits associated with your organization’s cloud investments are realized and sustained.
+	- Measure success and repeat
