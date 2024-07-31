@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Artificial Intelligence/Machine Learning/Amazon SageMaker.md",
+                "file": "5. Standard Information/AWS/Services/Artificial Intelligence/Amazon Augmented AI.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Artificial Intelligence/Machine Learning/Amazon SageMaker.md",
+                "file": "5. Standard Information/AWS/Services/Artificial Intelligence/Amazon Augmented AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Artificial Intelligence/Machine Learning/Amazon SageMaker.md",
+                "file": "5. Standard Information/AWS/Services/Artificial Intelligence/Amazon Augmented AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Artificial Intelligence/Machine Learning/Amazon SageMaker.md"
+                "file": "5. Standard Information/AWS/Services/Artificial Intelligence/Amazon Augmented AI.md"
               }
             }
           },
@@ -224,8 +224,11 @@
   },
   "active": "edefe6c0f3e4bc42",
   "lastOpenFiles": [
-    "5. Standard Information/AWS/Services/Artificial Intelligence/Amazon Lex.md",
+    "5. Standard Information/AWS/Services/Security/AWS Shield.md",
+    "5. Standard Information/AWS/Services/Artificial Intelligence/Amazon Augmented AI.md",
+    "5. Standard Information/AWS/Services/Security/Amazon GuardDuty.md",
     "5. Standard Information/AWS/Services/Artificial Intelligence/Machine Learning/Amazon SageMaker.md",
+    "5. Standard Information/AWS/Services/Artificial Intelligence/Amazon Lex.md",
     "5. Standard Information/AWS/Services/Artificial Intelligence/Machine Learning",
     "5. Standard Information/AWS/Services/Artificial Intelligence/Amazon Fraud Detector.md",
     "5. Standard Information/AWS/Services/Artificial Intelligence/Amazon Comprehend.md",
@@ -239,7 +242,6 @@
     "5. Standard Information/AWS/Sales/Cloud Economics.md",
     "5. Standard Information/AWS/Sales/AWS Free Tier.md",
     "5. Standard Information/AWS/Services/AWS Trusted Advisor.md",
-    "5. Standard Information/AWS/Services/Security/Amazon GuardDuty.md",
     "5. Standard Information/AWS/Services/Security/Amazon Inspector.md",
     "5. Standard Information/AWS/Services/Security/AWS Web Application Firewall (AWS WAF).md",
     "5. Standard Information/AWS/Services/Security/AWS IAM Identity Center.md",
@@ -248,11 +250,9 @@
     "5. Standard Information/AWS/Services/AWS CloudFormation.md",
     "5. Standard Information/AWS/Services/Security",
     "5. Standard Information/AWS/Services/Security/AWS Key Management Service (KMS).md",
-    "5. Standard Information/AWS/Services/Security/AWS Shield.md",
     "5. Standard Information/AWS/Services/AWS Artifact.md",
     "5. Standard Information/AWS/User Management/AWS Organizations.md",
     "5. Standard Information/AWS/Services/Storage/Databases/Amazon DynamoDB.md",
-    "5. Standard Information/AWS/Services/Storage/Databases/AWS Database Migration Service (AWS DMS).md",
     "5. Standard Information/AWS/Sales",
     "7. Misc/Images/Pasted image 20240730154132.png",
     "7. Misc/Images/Pasted image 20240730151125.png",
