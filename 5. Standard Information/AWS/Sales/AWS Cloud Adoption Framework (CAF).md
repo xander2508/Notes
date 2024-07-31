@@ -18,3 +18,18 @@ AWS CAF assists in visualizing the future state of your customer’s organizatio
 - Scale
 	- Measure success and iterate to deliver against your organization’s business plans. Expand production pilots to ensure that the business benefits associated with your organization’s cloud investments are realized and sustained.
 	- Measure success and repeat
+
+AWS provides seven common approaches, which include: refactor, replatform, repurchase, rehost, relocate, retain, and retire. Because each application is unique, enterprises often use multiple strategies for separate applications.
+
+#### Relocate
+
+Relocate means to move applications or workloads to the cloud with minimal downtime and without any change to your existing operations or technical stack.
+
+A common use case for this migration scenario is to quickly relocated to AWS using the infrastructure that’s most familiar to your customer. A relocate strategy would be the fastest method to use in this type of scenario.
+#### Rehost
+
+"lift and shift"
+
+In this approach, applications or workloads are migrated to AWS without any changes to the underlying operating system or application stack. Customers can use lift and shift strategy to quickly migrate, and then focus on application modernization. After the application is in the cloud, it will be more convenient to get to a cloud optimized state.
+
+#### Replatform
