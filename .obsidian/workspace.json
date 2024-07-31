@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Storage/Databases/Amazon DynamoDB.md",
+                "file": "5. Standard Information/AWS/User Management/AWS Organizations.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Storage/Databases/Amazon DynamoDB.md",
+                "file": "5. Standard Information/AWS/User Management/AWS Organizations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Storage/Databases/Amazon DynamoDB.md",
+                "file": "5. Standard Information/AWS/User Management/AWS Organizations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Storage/Databases/Amazon DynamoDB.md"
+                "file": "5. Standard Information/AWS/User Management/AWS Organizations.md"
               }
             }
           },
@@ -224,6 +224,8 @@
   },
   "active": "edefe6c0f3e4bc42",
   "lastOpenFiles": [
+    "5. Standard Information/AWS/Services/Storage/Databases/Amazon DynamoDB.md",
+    "5. Standard Information/AWS/User Management/AWS Organizations.md",
     "5. Standard Information/AWS/Services/Storage/Databases/AWS Database Migration Service (AWS DMS).md",
     "5. Standard Information/AWS/Services/Storage/Databases/Amazon Redshift.md",
     "5. Standard Information/AWS/Services/Storage/Databases/Amazon RDS.md",
@@ -249,11 +251,9 @@
     "7. Misc/Images/Pasted image 20240730151125.png",
     "5. Standard Information/AWS/Infrastructure/Availability.md",
     "5. Standard Information/AWS/Infrastructure/Availability Zones.md",
-    "5. Standard Information/AWS/Services/Storage/Databases/Amazon DynamoDB.md",
     "5. Standard Information/AWS/Services/AWS CloudTrail.md",
     "5. Standard Information/AWS/Services/AWS Key Management Service (KMS).md",
     "7. Misc/Images/Pasted image 20240730133633.png",
-    "5. Standard Information/AWS/Services/Storage/Databases/Amazon DocumentDB.md",
     "5. Standard Information/AWS/Services/Storage/Databases",
     "7. Misc/Images/Pasted image 20240730111311.png",
     "7. Misc/Images/Pasted image 20240730100642.png",
