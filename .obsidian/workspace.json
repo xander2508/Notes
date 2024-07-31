@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Storage/Databases/Amazon RDS.md",
+                "file": "5. Standard Information/AWS/Services/Storage/Databases/Amazon Redshift.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,8 +75,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Storage/Databases/Amazon RDS.md",
+                "file": "5. Standard Information/AWS/Services/Storage/Databases/Amazon Redshift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Storage/Databases/Amazon RDS.md",
+                "file": "5. Standard Information/AWS/Services/Storage/Databases/Amazon Redshift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Storage/Databases/Amazon RDS.md"
+                "file": "5. Standard Information/AWS/Services/Storage/Databases/Amazon Redshift.md"
               }
             }
           },
@@ -223,8 +222,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dcd2adc30e57ac2e",
+  "active": "edefe6c0f3e4bc42",
   "lastOpenFiles": [
+    "5. Standard Information/AWS/Services/Storage/Databases/Amazon RDS.md",
+    "5. Standard Information/AWS/Services/Storage/Databases/Amazon Redshift.md",
     "5. Standard Information/AWS/Services/Storage/Databases/1. Databases.md",
     "5. Standard Information/AWS/Services/Storage/File Storage/Amazon Elastic File System (EFS).md",
     "5. Standard Information/AWS/Services/Storage/Object Storage/Amazon Simple Storage Service (Amazon S3).md",
@@ -253,8 +254,6 @@
     "7. Misc/Images/Pasted image 20240730133633.png",
     "5. Standard Information/AWS/Services/Storage/Databases/Amazon DocumentDB.md",
     "5. Standard Information/AWS/Services/Storage/Databases/Amazon Neptune.md",
-    "5. Standard Information/AWS/Services/Storage/Databases/Amazon ElastiCache.md",
-    "5. Standard Information/AWS/Services/Storage/Databases/Amazon MemoryDB for Redis.md",
     "5. Standard Information/AWS/Services/Storage/Databases",
     "7. Misc/Images/Pasted image 20240730111311.png",
     "7. Misc/Images/Pasted image 20240730100642.png",
