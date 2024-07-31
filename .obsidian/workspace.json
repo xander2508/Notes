@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Security/AWS Web Application Firewall (AWS WAF).md",
+                "file": "5. Standard Information/AWS/Services/Security/Amazon GuardDuty.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Security/AWS Web Application Firewall (AWS WAF).md",
+                "file": "5. Standard Information/AWS/Services/Security/Amazon GuardDuty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Security/AWS Web Application Firewall (AWS WAF).md",
+                "file": "5. Standard Information/AWS/Services/Security/Amazon GuardDuty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Security/AWS Web Application Firewall (AWS WAF).md"
+                "file": "5. Standard Information/AWS/Services/Security/Amazon GuardDuty.md"
               }
             }
           },
@@ -224,11 +224,13 @@
   },
   "active": "edefe6c0f3e4bc42",
   "lastOpenFiles": [
+    "5. Standard Information/AWS/Services/Security/Amazon Inspector.md",
+    "5. Standard Information/AWS/Services/Security/Amazon GuardDuty.md",
+    "5. Standard Information/AWS/Services/Security/AWS Web Application Firewall (AWS WAF).md",
     "5. Standard Information/AWS/Services/Security/AWS IAM Identity Center.md",
     "5. Standard Information/AWS/Services/AWS CloudWatch.md",
     "5. Standard Information/AWS/Services/Security/AWS CloudTrail.md",
     "5. Standard Information/AWS/Services/AWS CloudFormation.md",
-    "5. Standard Information/AWS/Services/Security/AWS Web Application Firewall (AWS WAF).md",
     "5. Standard Information/AWS/Services/Security",
     "5. Standard Information/AWS/Services/Security/AWS Key Management Service (KMS).md",
     "5. Standard Information/AWS/Services/Security/AWS Shield.md",
@@ -249,8 +251,6 @@
     "5. Standard Information/AWS/Services/Amazon Simple Queue Service (Amazon SQS).md",
     "5. Standard Information/AWS/Services/Amazon Simple Notification Service (Amazon SNS).md",
     "5. Standard Information/AWS/Sales/Cloud Economics.md",
-    "5. Standard Information/AWS/Sales/AWS Well-Architected Framework.md",
-    "5. Standard Information/AWS/Sales/AWS Cloud Adoption Framework (CAF).md",
     "5. Standard Information/AWS/Sales",
     "7. Misc/Images/Pasted image 20240730154132.png",
     "7. Misc/Images/Pasted image 20240730151125.png",
