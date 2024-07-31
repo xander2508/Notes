@@ -1,5 +1,5 @@
 
-AWS CAF organises guidance into six areas of focus called perspectives.
+AWS CAF organises guidance into six areas of focus called perspectives. AWS CAF helps to uncover existing gaps an organization might have and gets it to a stage of readiness.
 
 Each perspective is used to create work streams that uncover gaps in existing skills and processes which are recorded as inputs.
 
