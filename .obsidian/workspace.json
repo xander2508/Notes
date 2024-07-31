@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Security/Amazon GuardDuty.md",
+                "file": "5. Standard Information/AWS/Services/AWS Trusted Advisor.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Security/Amazon GuardDuty.md",
+                "file": "5. Standard Information/AWS/Services/AWS Trusted Advisor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Security/Amazon GuardDuty.md",
+                "file": "5. Standard Information/AWS/Services/AWS Trusted Advisor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Security/Amazon GuardDuty.md"
+                "file": "5. Standard Information/AWS/Services/AWS Trusted Advisor.md"
               }
             }
           },
@@ -222,10 +222,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "edefe6c0f3e4bc42",
+  "active": "744b9316b7030f7b",
   "lastOpenFiles": [
-    "5. Standard Information/AWS/Services/Security/Amazon Inspector.md",
     "5. Standard Information/AWS/Services/Security/Amazon GuardDuty.md",
+    "5. Standard Information/AWS/Services/AWS Trusted Advisor.md",
+    "5. Standard Information/AWS/Services/Security/Amazon Inspector.md",
     "5. Standard Information/AWS/Services/Security/AWS Web Application Firewall (AWS WAF).md",
     "5. Standard Information/AWS/Services/Security/AWS IAM Identity Center.md",
     "5. Standard Information/AWS/Services/AWS CloudWatch.md",
@@ -250,7 +251,6 @@
     "5. Standard Information/AWS/Services/Amazon CloudFront.md",
     "5. Standard Information/AWS/Services/Amazon Simple Queue Service (Amazon SQS).md",
     "5. Standard Information/AWS/Services/Amazon Simple Notification Service (Amazon SNS).md",
-    "5. Standard Information/AWS/Sales/Cloud Economics.md",
     "5. Standard Information/AWS/Sales",
     "7. Misc/Images/Pasted image 20240730154132.png",
     "7. Misc/Images/Pasted image 20240730151125.png",
