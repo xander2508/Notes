@@ -33,3 +33,16 @@ A common use case for this migration scenario is to quickly relocated to AWS usi
 In this approach, applications or workloads are migrated to AWS without any changes to the underlying operating system or application stack. Customers can use lift and shift strategy to quickly migrate, and then focus on application modernization. After the application is in the cloud, it will be more convenient to get to a cloud optimized state.
 
 #### Replatform
+
+"lift, tinker, and shift"
+
+In practice, this could look like modernizing the database layer of your customer’s application to a managed service. Which means spending less time on day-to-day operations and more time focused on your business logic.
+
+#### Repurchase
+
+This means replacing your existing application with a different version or product. This approach makes sense when you are looking for a strategy that provides more business value than the existing, on-premises application. Such benefits include accessibility from anywhere, no infrastructure maintenance, and pay-as-you-go pricing models. Repurchasing the application typically reduces costs associated with maintenance, infrastructure, and licensing.
+
+#### Refactor
+
+This means re-designing application architecture or rewriting an application before the migration to make it a cloud-native application. Overall, it’s taking monolithic applications and breaking them down to modular architecture, which is beneficial for adding new features, improving performance, and scaling to meet your customers’ current resources.
+
