@@ -46,3 +46,9 @@ This means replacing your existing application with a different version or produ
 
 This means re-designing application architecture or rewriting an application before the migration to make it a cloud-native application. Overall, it’s taking monolithic applications and breaking them down to modular architecture, which is beneficial for adding new features, improving performance, and scaling to meet your customers’ current resources.
 
+#### Retire
+
+This is useful if your customers discover that an application is no longer necessary and can be decommissioned. After doing an audit of on-premises applications, you may be surprised with how many applications are up and running but simply are no longer needed or not being used!
+#### Retain
+
+Your customers can retain the application for now, or revisit at a later date. This strategy is useful if some applications can’t be immediately migrated due to licensing or other reasons. Retain could also be the appropriate strategy if your customer recently invested in upgrading their current system and you want to postpone migrating the application until the next refresh.
