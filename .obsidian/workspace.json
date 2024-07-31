@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/AWS/Infrastructure/AWS Snow Family.md",
+                "file": "5. Standard Information/AWS/Services/Artificial Intelligence/Machine Learning/Amazon SageMaker.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/AWS/Infrastructure/AWS Snow Family.md",
+                "file": "5. Standard Information/AWS/Services/Artificial Intelligence/Machine Learning/Amazon SageMaker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/AWS/Infrastructure/AWS Snow Family.md",
+                "file": "5. Standard Information/AWS/Services/Artificial Intelligence/Machine Learning/Amazon SageMaker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/AWS/Infrastructure/AWS Snow Family.md"
+                "file": "5. Standard Information/AWS/Services/Artificial Intelligence/Machine Learning/Amazon SageMaker.md"
               }
             }
           },
@@ -222,11 +222,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "744b9316b7030f7b",
+  "active": "edefe6c0f3e4bc42",
   "lastOpenFiles": [
-    "5. Standard Information/AWS/Services/Untitled",
-    "5. Standard Information/AWS/Sales/AWS Cloud Adoption Framework (CAF).md",
+    "5. Standard Information/AWS/Services/Artificial Intelligence/Amazon Lex.md",
+    "5. Standard Information/AWS/Services/Artificial Intelligence/Machine Learning/Amazon SageMaker.md",
+    "5. Standard Information/AWS/Services/Artificial Intelligence/Machine Learning",
+    "5. Standard Information/AWS/Services/Artificial Intelligence/Amazon Fraud Detector.md",
+    "5. Standard Information/AWS/Services/Artificial Intelligence/Amazon Comprehend.md",
+    "5. Standard Information/AWS/Services/Artificial Intelligence/Amazon Transcribe.md",
     "5. Standard Information/AWS/Infrastructure/AWS Snow Family.md",
+    "5. Standard Information/AWS/Services/Artificial Intelligence",
+    "5. Standard Information/AWS/Sales/AWS Cloud Adoption Framework (CAF).md",
     "5. Standard Information/AWS/Services/AWS Marketplace.md",
     "5. Standard Information/AWS/Sales/AWS Billing & Cost Management Dashboard.md",
     "5. Standard Information/AWS/Sales/AWS Pricing Concepts.md",
@@ -247,10 +253,6 @@
     "5. Standard Information/AWS/User Management/AWS Organizations.md",
     "5. Standard Information/AWS/Services/Storage/Databases/Amazon DynamoDB.md",
     "5. Standard Information/AWS/Services/Storage/Databases/AWS Database Migration Service (AWS DMS).md",
-    "5. Standard Information/AWS/Services/Storage/Databases/Amazon Redshift.md",
-    "5. Standard Information/AWS/Services/Storage/Databases/Amazon RDS.md",
-    "5. Standard Information/AWS/Services/Storage/Databases/1. Databases.md",
-    "5. Standard Information/AWS/Services/Storage/File Storage/Amazon Elastic File System (EFS).md",
     "5. Standard Information/AWS/Sales",
     "7. Misc/Images/Pasted image 20240730154132.png",
     "7. Misc/Images/Pasted image 20240730151125.png",
@@ -268,8 +270,6 @@
     "7. Misc/Images/Pasted image 20240729154438.jpg",
     "7. Misc/Images/Pasted image 20240729154357.png",
     "5. Standard Information/AWS/Infrastructure/Networking",
-    "5. Standard Information/Architecture",
-    "5. Standard Information/Operating Systems/Untitled",
     "Untitled.canvas"
   ]
 }
