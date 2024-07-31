@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/AWS/User Management/AWS Organizations.md",
+                "file": "5. Standard Information/AWS/Services/Security/AWS Web Application Firewall (AWS WAF).md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/AWS/User Management/AWS Organizations.md",
+                "file": "5. Standard Information/AWS/Services/Security/AWS Web Application Firewall (AWS WAF).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/AWS/User Management/AWS Organizations.md",
+                "file": "5. Standard Information/AWS/Services/Security/AWS Web Application Firewall (AWS WAF).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/AWS/User Management/AWS Organizations.md"
+                "file": "5. Standard Information/AWS/Services/Security/AWS Web Application Firewall (AWS WAF).md"
               }
             }
           },
@@ -224,8 +224,17 @@
   },
   "active": "edefe6c0f3e4bc42",
   "lastOpenFiles": [
-    "5. Standard Information/AWS/Services/Storage/Databases/Amazon DynamoDB.md",
+    "5. Standard Information/AWS/Services/Security/AWS IAM Identity Center.md",
+    "5. Standard Information/AWS/Services/AWS CloudWatch.md",
+    "5. Standard Information/AWS/Services/Security/AWS CloudTrail.md",
+    "5. Standard Information/AWS/Services/AWS CloudFormation.md",
+    "5. Standard Information/AWS/Services/Security/AWS Web Application Firewall (AWS WAF).md",
+    "5. Standard Information/AWS/Services/Security",
+    "5. Standard Information/AWS/Services/Security/AWS Key Management Service (KMS).md",
+    "5. Standard Information/AWS/Services/Security/AWS Shield.md",
+    "5. Standard Information/AWS/Services/AWS Artifact.md",
     "5. Standard Information/AWS/User Management/AWS Organizations.md",
+    "5. Standard Information/AWS/Services/Storage/Databases/Amazon DynamoDB.md",
     "5. Standard Information/AWS/Services/Storage/Databases/AWS Database Migration Service (AWS DMS).md",
     "5. Standard Information/AWS/Services/Storage/Databases/Amazon Redshift.md",
     "5. Standard Information/AWS/Services/Storage/Databases/Amazon RDS.md",
@@ -234,25 +243,17 @@
     "5. Standard Information/AWS/Services/Storage/Object Storage/Amazon Simple Storage Service (Amazon S3).md",
     "5. Standard Information/AWS/Services/Storage/1. Storage.md",
     "5. Standard Information/AWS/Services/Amazon Route 53.md",
-    "5. Standard Information/AWS/Services/AWS CloudFormation.md",
     "5. Standard Information/AWS/Services/AWS Elastic Beanstalk.md",
     "5. Standard Information/AWS/Infrastructure/Edge Locations.md",
     "5. Standard Information/AWS/Services/Amazon CloudFront.md",
     "5. Standard Information/AWS/Services/Amazon Simple Queue Service (Amazon SQS).md",
     "5. Standard Information/AWS/Services/Amazon Simple Notification Service (Amazon SNS).md",
-    "5. Standard Information/AWS/Services/AWS CloudWatch.md",
     "5. Standard Information/AWS/Sales/Cloud Economics.md",
     "5. Standard Information/AWS/Sales/AWS Well-Architected Framework.md",
     "5. Standard Information/AWS/Sales/AWS Cloud Adoption Framework (CAF).md",
-    "5. Standard Information/AWS/Services/Amazon EC2 Auto Scaling.md",
     "5. Standard Information/AWS/Sales",
     "7. Misc/Images/Pasted image 20240730154132.png",
-    "5. Standard Information/AWS/Infrastructure/Elastic Load Balancing (ELB).md",
     "7. Misc/Images/Pasted image 20240730151125.png",
-    "5. Standard Information/AWS/Infrastructure/Availability.md",
-    "5. Standard Information/AWS/Infrastructure/Availability Zones.md",
-    "5. Standard Information/AWS/Services/AWS CloudTrail.md",
-    "5. Standard Information/AWS/Services/AWS Key Management Service (KMS).md",
     "7. Misc/Images/Pasted image 20240730133633.png",
     "5. Standard Information/AWS/Services/Storage/Databases",
     "7. Misc/Images/Pasted image 20240730111311.png",
@@ -269,7 +270,6 @@
     "5. Standard Information/AWS/Infrastructure/Networking",
     "5. Standard Information/Architecture",
     "5. Standard Information/Operating Systems/Untitled",
-    "5. Standard Information/AWS/Services/Compute/Serverless",
     "Untitled.canvas"
   ]
 }
