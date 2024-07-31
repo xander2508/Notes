@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/AWS/Services/AWS CloudFormation.md",
+                "file": "5. Standard Information/AWS/Services/Amazon Route 53.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/AWS/Services/AWS CloudFormation.md",
+                "file": "5. Standard Information/AWS/Services/Amazon Route 53.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/AWS/Services/AWS CloudFormation.md",
+                "file": "5. Standard Information/AWS/Services/Amazon Route 53.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/AWS/Services/AWS CloudFormation.md"
+                "file": "5. Standard Information/AWS/Services/Amazon Route 53.md"
               }
             }
           },
@@ -224,8 +224,9 @@
   },
   "active": "edefe6c0f3e4bc42",
   "lastOpenFiles": [
-    "5. Standard Information/AWS/Services/AWS Elastic Beanstalk.md",
     "5. Standard Information/AWS/Services/AWS CloudFormation.md",
+    "5. Standard Information/AWS/Services/Amazon Route 53.md",
+    "5. Standard Information/AWS/Services/AWS Elastic Beanstalk.md",
     "5. Standard Information/AWS/Infrastructure/Edge Locations.md",
     "5. Standard Information/AWS/Services/Amazon CloudFront.md",
     "5. Standard Information/AWS/Services/Amazon Simple Queue Service (Amazon SQS).md",
@@ -253,7 +254,6 @@
     "5. Standard Information/AWS/Services/Storage/Databases/Amazon Keyspaces (for Apache Cassandra).md",
     "5. Standard Information/AWS/Services/Storage/Databases/Amazon RDS.md",
     "5. Standard Information/AWS/Services/Storage/Databases/Amazon Quantum Ledger Database (Amazon QLDB).md",
-    "5. Standard Information/AWS/Services/Storage/Databases/Amazon Timestream.md",
     "5. Standard Information/AWS/Services/Storage/Databases",
     "7. Misc/Images/Pasted image 20240730111311.png",
     "7. Misc/Images/Pasted image 20240730100642.png",
