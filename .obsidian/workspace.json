@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/AWS/Sales/AWS Well-Architected Framework.md",
+                "file": "5. Standard Information/AWS/Sales/Cloud Economics.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/AWS/Sales/AWS Well-Architected Framework.md",
+                "file": "5. Standard Information/AWS/Sales/Cloud Economics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/AWS/Sales/AWS Well-Architected Framework.md",
+                "file": "5. Standard Information/AWS/Sales/Cloud Economics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/AWS/Sales/AWS Well-Architected Framework.md"
+                "file": "5. Standard Information/AWS/Sales/Cloud Economics.md"
               }
             }
           },
@@ -224,9 +224,10 @@
   },
   "active": "edefe6c0f3e4bc42",
   "lastOpenFiles": [
+    "5. Standard Information/AWS/Sales/AWS Well-Architected Framework.md",
+    "5. Standard Information/AWS/Sales/Cloud Economics.md",
     "5. Standard Information/AWS/Sales/AWS Cloud Adoption Framework (CAF).md",
     "5. Standard Information/AWS/Services/AWS CloudWatch.md",
-    "5. Standard Information/AWS/Sales/AWS Well-Architected Framework.md",
     "5. Standard Information/AWS/Services/Amazon EC2 Auto Scaling.md",
     "5. Standard Information/AWS/Sales",
     "7. Misc/Images/Pasted image 20240730154132.png",
@@ -258,7 +259,6 @@
     "5. Standard Information/AWS/Services/Storage/File Storage/Amazon FSx.md",
     "5. Standard Information/AWS/Services/Storage/Block Storage",
     "5. Standard Information/AWS/Services/Storage/File Storage/Amazon Elastic File System (EFS).md",
-    "5. Standard Information/AWS/Services/Storage/1. Storage.md",
     "5. Standard Information/AWS/Services/Storage/File Storage",
     "5. Standard Information/AWS/Services/Storage",
     "7. Misc/Images/Pasted image 20240729162432.jpg",
