@@ -41,3 +41,6 @@ In DynamoDB, tables, items, and attributes are the core components that you work
 - All user data stored in DynamoDB is fully encrypted at rest. DynamoDB encryption at rest provides enhanced security by encrypting all your data at rest using encryption keys stored in [[AWS Key Management Service (KMS)]].
 - IAM administrators control who can be authenticated and authorized to use DynamoDB resources. You can use [[IAM Policies]] to manage access permissions and implement security policies.
 - As a managed service, DynamoDB is protected by the AWS global network security procedures.
+
+
+[**Amazon DynamoDB Accelerator (DAX)**](https://aws.amazon.com/dynamodb/dax/) is an in-memory cache for DynamoDB.
