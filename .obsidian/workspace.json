@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/AWS/Sales/AWS Billing & Cost Management Dashboard.md",
+                "file": "5. Standard Information/AWS/Services/AWS Marketplace.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/AWS/Sales/AWS Billing & Cost Management Dashboard.md",
+                "file": "5. Standard Information/AWS/Services/AWS Marketplace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/AWS/Sales/AWS Billing & Cost Management Dashboard.md",
+                "file": "5. Standard Information/AWS/Services/AWS Marketplace.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/AWS/Sales/AWS Billing & Cost Management Dashboard.md"
+                "file": "5. Standard Information/AWS/Services/AWS Marketplace.md"
               }
             }
           },
@@ -224,8 +224,9 @@
   },
   "active": "edefe6c0f3e4bc42",
   "lastOpenFiles": [
-    "5. Standard Information/AWS/Sales/AWS Pricing Concepts.md",
     "5. Standard Information/AWS/Sales/AWS Billing & Cost Management Dashboard.md",
+    "5. Standard Information/AWS/Services/AWS Marketplace.md",
+    "5. Standard Information/AWS/Sales/AWS Pricing Concepts.md",
     "5. Standard Information/AWS/Sales/Cloud Economics.md",
     "5. Standard Information/AWS/Sales/AWS Free Tier.md",
     "5. Standard Information/AWS/Services/AWS Trusted Advisor.md",
@@ -250,7 +251,6 @@
     "5. Standard Information/AWS/Services/Storage/Object Storage/Amazon Simple Storage Service (Amazon S3).md",
     "5. Standard Information/AWS/Services/Storage/1. Storage.md",
     "5. Standard Information/AWS/Services/Amazon Route 53.md",
-    "5. Standard Information/AWS/Services/AWS Elastic Beanstalk.md",
     "5. Standard Information/AWS/Sales",
     "7. Misc/Images/Pasted image 20240730154132.png",
     "7. Misc/Images/Pasted image 20240730151125.png",
