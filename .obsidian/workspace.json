@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Amazon Route 53.md",
+                "file": "5. Standard Information/AWS/Services/Storage/Databases/Amazon RDS.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"SNS\"",
+                "query": "Aurora",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Amazon Route 53.md",
+                "file": "5. Standard Information/AWS/Services/Storage/Databases/Amazon RDS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Amazon Route 53.md",
+                "file": "5. Standard Information/AWS/Services/Storage/Databases/Amazon RDS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Amazon Route 53.md"
+                "file": "5. Standard Information/AWS/Services/Storage/Databases/Amazon RDS.md"
               }
             }
           },
@@ -222,10 +223,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "edefe6c0f3e4bc42",
+  "active": "dcd2adc30e57ac2e",
   "lastOpenFiles": [
-    "5. Standard Information/AWS/Services/AWS CloudFormation.md",
+    "5. Standard Information/AWS/Services/Storage/Databases/1. Databases.md",
+    "5. Standard Information/AWS/Services/Storage/File Storage/Amazon Elastic File System (EFS).md",
+    "5. Standard Information/AWS/Services/Storage/Object Storage/Amazon Simple Storage Service (Amazon S3).md",
+    "5. Standard Information/AWS/Services/Storage/1. Storage.md",
     "5. Standard Information/AWS/Services/Amazon Route 53.md",
+    "5. Standard Information/AWS/Services/AWS CloudFormation.md",
     "5. Standard Information/AWS/Services/AWS Elastic Beanstalk.md",
     "5. Standard Information/AWS/Infrastructure/Edge Locations.md",
     "5. Standard Information/AWS/Services/Amazon CloudFront.md",
@@ -242,7 +247,6 @@
     "7. Misc/Images/Pasted image 20240730151125.png",
     "5. Standard Information/AWS/Infrastructure/Availability.md",
     "5. Standard Information/AWS/Infrastructure/Availability Zones.md",
-    "5. Standard Information/AWS/Services/Storage/Databases/1. Databases.md",
     "5. Standard Information/AWS/Services/Storage/Databases/Amazon DynamoDB.md",
     "5. Standard Information/AWS/Services/AWS CloudTrail.md",
     "5. Standard Information/AWS/Services/AWS Key Management Service (KMS).md",
@@ -251,9 +255,6 @@
     "5. Standard Information/AWS/Services/Storage/Databases/Amazon Neptune.md",
     "5. Standard Information/AWS/Services/Storage/Databases/Amazon ElastiCache.md",
     "5. Standard Information/AWS/Services/Storage/Databases/Amazon MemoryDB for Redis.md",
-    "5. Standard Information/AWS/Services/Storage/Databases/Amazon Keyspaces (for Apache Cassandra).md",
-    "5. Standard Information/AWS/Services/Storage/Databases/Amazon RDS.md",
-    "5. Standard Information/AWS/Services/Storage/Databases/Amazon Quantum Ledger Database (Amazon QLDB).md",
     "5. Standard Information/AWS/Services/Storage/Databases",
     "7. Misc/Images/Pasted image 20240730111311.png",
     "7. Misc/Images/Pasted image 20240730100642.png",
