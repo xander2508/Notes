@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Exploitation/File Types and Data/Malware/Static Analysis.md",
+                "file": "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Scheduled Tasks/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Exploitation/File Types and Data/Malware/Static Analysis.md",
+                "file": "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Scheduled Tasks/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Exploitation/File Types and Data/Malware/Static Analysis.md",
+                "file": "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Scheduled Tasks/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Exploitation/File Types and Data/Malware/Static Analysis.md"
+                "file": "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Scheduled Tasks/1. Guide.md"
               }
             }
           },
@@ -222,8 +222,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "744b9316b7030f7b",
+  "active": "d646b36b0314f071",
   "lastOpenFiles": [
+    "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Registry/Delete Registry Properties.md",
+    "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Registry/New Registry Keys.md",
+    "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Network/Validate DNS.md",
+    "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Network/Network Drives.md",
+    "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Network/Finding Additional Hosts.md",
+    "3. Exploitation/File Types and Data/Malware/Static Analysis.md",
     "3. Exploitation/File Types and Data/Malware/Linux",
     "5. Standard Information/Operating Systems/Windows/Default Tooling/1. Guide.md",
     "5. Standard Information/Operating Systems/Windows/Default Tooling/Windows Management Instrumentation Command (WMIC).md",
@@ -248,12 +254,7 @@
     "3. Exploitation/Known Exploits/OpenSSL",
     "3. Exploitation/Known Exploits/Docker.md",
     "3. Exploitation/File Types and Data/PCAP.md",
-    "3. Exploitation/File Types and Data/PCAPnG.md",
-    "1. Recon/Tooling/Untitled.md",
-    "3. Exploitation/Known Exploits/TAR.md",
-    "2. Enumeration/TCP/80. HTTP/Tooling/Intercept and Analysis/Fiddler.md",
     "2. Enumeration/TCP/80. HTTP/Tooling/Intercept and Analysis",
-    "3. Exploitation/Known Exploits/Encryption/Padding Oracle.md",
     "3. Exploitation/File Types and Data/Malware",
     "5. Standard Information/AWS.zip",
     "5. Standard Information/AWS.zip.tmp",
@@ -264,7 +265,6 @@
     "output/attachment/62cf90ae6d4a682679c999cec7aac652.jpg",
     "output/attachment/e1b3b6f677ca3bca88208ea0477a9f71.png",
     "output/attachment/c3a3a479dac6f241eccf88d983278fc6.jpg",
-    "output/Services",
     "output/attachment/f14503a8fd6d0f2839da781f06805621.png",
     "output/attachment/0af76a69c870aae5134062764bdd48e4.png",
     "output/attachment/016ecca7f27bf3f17e6eb897828446b7.png",
