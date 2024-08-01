@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Scheduled Tasks/1. Guide.md",
+                "file": "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Process Injection.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Scheduled Tasks/1. Guide.md",
+                "file": "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Process Injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Scheduled Tasks/1. Guide.md",
+                "file": "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Process Injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Scheduled Tasks/1. Guide.md"
+                "file": "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Process Injection.md"
               }
             }
           },
@@ -222,13 +222,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d646b36b0314f071",
+  "active": "744b9316b7030f7b",
   "lastOpenFiles": [
-    "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Registry/Delete Registry Properties.md",
-    "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Registry/New Registry Keys.md",
-    "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Network/Validate DNS.md",
-    "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Network/Network Drives.md",
-    "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Network/Finding Additional Hosts.md",
+    "5. Standard Information/Operating Systems/Windows/User Privileges/SERVICE_START_NAME.md",
+    "5. Standard Information/Operating Systems/Windows/Scheduled Tasks/1. Guide.md",
+    "5. Standard Information/Operating Systems/Windows/Registry/Delete Registry Properties.md",
+    "5. Standard Information/Operating Systems/Windows/Registry/New Registry Keys.md",
+    "5. Standard Information/Operating Systems/Windows/Network/Validate DNS.md",
+    "5. Standard Information/Operating Systems/Windows/Network/Network Drives.md",
+    "5. Standard Information/Operating Systems/Windows/Network/Finding Additional Hosts.md",
     "3. Exploitation/File Types and Data/Malware/Static Analysis.md",
     "3. Exploitation/File Types and Data/Malware/Linux",
     "5. Standard Information/Operating Systems/Windows/Default Tooling/1. Guide.md",
@@ -252,8 +254,6 @@
     "2. Enumeration/TCP/80. HTTP/1. Guide.md",
     "3. Exploitation/Known Exploits/Bash.md",
     "3. Exploitation/Known Exploits/OpenSSL",
-    "3. Exploitation/Known Exploits/Docker.md",
-    "3. Exploitation/File Types and Data/PCAP.md",
     "2. Enumeration/TCP/80. HTTP/Tooling/Intercept and Analysis",
     "3. Exploitation/File Types and Data/Malware",
     "5. Standard Information/AWS.zip",
