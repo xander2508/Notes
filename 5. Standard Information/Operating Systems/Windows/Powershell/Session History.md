@@ -1,2 +1,2 @@
 
-See [[4. Post Exploitation/Operating Systems/Windows/Tooling/Default Tooling/Session History|Session History]]
+See [[5. Standard Information/Operating Systems/Windows/Default Tooling/Session History|Session History]]
