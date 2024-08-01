@@ -1,10 +1,6 @@
 
 1. Is there an authentication sequence present, see [[Wireshark#Authentication Sequence]]
 
-
-
-
-
 # Authentication Sequence
 
 1. Identify the application
