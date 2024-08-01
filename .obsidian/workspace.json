@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "419f25fa75fa03eb",
+        "id": "b437d95d833ff1c3",
         "type": "tabs",
         "children": [
           {
-            "id": "b71efce48d79366a",
+            "id": "d646b36b0314f071",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Exploitation/File Types and Data/Untitled.md",
+                "file": "3. Exploitation/Known Exploits/Bash.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Exploitation/File Types and Data/Untitled.md",
+                "file": "3. Exploitation/Known Exploits/Bash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Exploitation/File Types and Data/Untitled.md",
+                "file": "3. Exploitation/Known Exploits/Bash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Exploitation/File Types and Data/Untitled.md"
+                "file": "3. Exploitation/Known Exploits/Bash.md"
               }
             }
           },
@@ -222,16 +222,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b71efce48d79366a",
+  "active": "744b9316b7030f7b",
   "lastOpenFiles": [
+    "3. Exploitation/Known Exploits/OpenSSL",
+    "3. Exploitation/Known Exploits/Docker.md",
     "1. Recon/Tooling/Wireshark.md",
-    "3. Exploitation/File Types and Data/Untitled.md",
+    "3. Exploitation/File Types and Data/PCAP.md",
+    "3. Exploitation/File Types and Data/PCAPnG.md",
     "1. Recon/Tooling/Untitled.md",
-    "3. Exploitation/Known Application Exploits/TAR.md",
+    "3. Exploitation/Known Exploits/TAR.md",
     "2. Enumeration/TCP/80. HTTP/Tooling/Intercept and Analysis/Fiddler.md",
     "2. Enumeration/TCP/80. HTTP/Tooling/Intercept and Analysis",
     "3. Exploitation/Generic Vulnerabilities/Padding Oracle.md",
-    "3. Exploitation/Generic Vulnerabilities/Heartbleed.md",
+    "3. Exploitation/Known Exploits/OpenSSL/Heartbleed.md",
     "2. Enumeration/TCP/6379. Redis/1. Guide.md",
     "3. Exploitation/File Types and Data/Malware/Dynamic Analysis.md",
     "3. Exploitation/File Types and Data/3. Identifying Malware.md",
@@ -259,10 +262,7 @@
     "output/Services/1. Service List.md",
     "output/Services",
     "output/Infrastructure/AWS Snow Family.md",
-    "output/Infrastructure/Elastic Load Balancing (ELB).md",
     "output/attachment/f14503a8fd6d0f2839da781f06805621.png",
-    "output/Infrastructure/Availability.md",
-    "output/Infrastructure/Networking/AWS Direct Connect.md",
     "output/attachment/0af76a69c870aae5134062764bdd48e4.png",
     "output/Infrastructure/Networking",
     "output/attachment/016ecca7f27bf3f17e6eb897828446b7.png",
