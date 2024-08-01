@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/AWS/Sales/AWS Cloud Adoption Framework (CAF).md",
+                "file": "5. Standard Information/AWS/Maintaining Resiliency.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Database Migration Service",
+                "query": "path:\"5. Standard Information/AWS/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/AWS/Sales/AWS Cloud Adoption Framework (CAF).md",
+                "file": "5. Standard Information/AWS/Maintaining Resiliency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/AWS/Sales/AWS Cloud Adoption Framework (CAF).md",
+                "file": "5. Standard Information/AWS/Maintaining Resiliency.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/AWS/Sales/AWS Cloud Adoption Framework (CAF).md"
+                "file": "5. Standard Information/AWS/Maintaining Resiliency.md"
               }
             }
           },
@@ -224,6 +224,43 @@
   },
   "active": "edefe6c0f3e4bc42",
   "lastOpenFiles": [
+    "output/What Is AWS.md",
+    "5. Standard Information/AWS/Maintaining Resiliency.md",
+    "5. Standard Information/AWS/Interacting with AWS.md",
+    "5. Standard Information/AWS/AWS Shared Responsibility Model.md",
+    "5. Standard Information/Architecture/Containers.md",
+    "output/Services/Compute/Virtual Machines/Amazon Elastic Compute Cloud (EC2).md",
+    "output/Services/Compute/Virtual Machines",
+    "output/Services/Compute",
+    "output/attachment/d0dfd26236f912009058fcb755fe3a7c.jpg",
+    "output/attachment/e64951f0110cc9cba636d1296f3f729b.png",
+    "output/attachment/62cf90ae6d4a682679c999cec7aac652.jpg",
+    "output/attachment/e1b3b6f677ca3bca88208ea0477a9f71.png",
+    "output/Services/AWS Management Console.md",
+    "output/attachment/c3a3a479dac6f241eccf88d983278fc6.jpg",
+    "output/Services/AWS Command Line Interface (AWS CLI).md",
+    "output/Services/Amazon SDKs.md",
+    "output/Services/Amazon CloudFront.md",
+    "output/Services/1. Service List.md",
+    "output/Services",
+    "output/Infrastructure/AWS Snow Family.md",
+    "output/Infrastructure/Elastic Load Balancing (ELB).md",
+    "output/attachment/f14503a8fd6d0f2839da781f06805621.png",
+    "output/Infrastructure/Availability.md",
+    "output/Infrastructure/Networking/AWS Direct Connect.md",
+    "output/attachment/0af76a69c870aae5134062764bdd48e4.png",
+    "output/Infrastructure/Networking/Amazon Virtual Private Cloud (VPC).md",
+    "output/Infrastructure/Networking",
+    "output/attachment/016ecca7f27bf3f17e6eb897828446b7.png",
+    "output/attachment/fee405959990d20365dadda1cc71ab81.jpg",
+    "output/attachment/d2090a4db3fb9aff5b5c611163bbba99.png",
+    "output/Infrastructure/Edge Locations.md",
+    "output/Infrastructure/Availability Zones.md",
+    "output/Infrastructure/Regions.md",
+    "output/Infrastructure",
+    "output/attachment",
+    "output",
+    "5. Standard Information/AWS/Sales/AWS Cloud Adoption Framework (CAF).md",
     "5. Standard Information/AWS/Sales/AWS Billing & Cost Management Dashboard.md",
     "5. Standard Information/AWS/Services/Artificial Intelligence/Amazon Augmented AI.md",
     "5. Standard Information/AWS/Services/Security/AWS Shield.md",
@@ -231,45 +268,8 @@
     "5. Standard Information/AWS/Services/Artificial Intelligence/Machine Learning/Amazon SageMaker.md",
     "5. Standard Information/AWS/Services/Artificial Intelligence/Amazon Lex.md",
     "5. Standard Information/AWS/Services/Artificial Intelligence/Machine Learning",
-    "5. Standard Information/AWS/Services/Artificial Intelligence/Amazon Fraud Detector.md",
-    "5. Standard Information/AWS/Services/Artificial Intelligence/Amazon Comprehend.md",
-    "5. Standard Information/AWS/Services/Artificial Intelligence/Amazon Transcribe.md",
-    "5. Standard Information/AWS/Infrastructure/AWS Snow Family.md",
     "5. Standard Information/AWS/Services/Artificial Intelligence",
-    "5. Standard Information/AWS/Sales/AWS Cloud Adoption Framework (CAF).md",
-    "5. Standard Information/AWS/Services/AWS Marketplace.md",
-    "5. Standard Information/AWS/Sales/AWS Pricing Concepts.md",
-    "5. Standard Information/AWS/Sales/Cloud Economics.md",
-    "5. Standard Information/AWS/Sales/AWS Free Tier.md",
-    "5. Standard Information/AWS/Services/AWS Trusted Advisor.md",
-    "5. Standard Information/AWS/Services/Security/Amazon Inspector.md",
-    "5. Standard Information/AWS/Services/Security/AWS Web Application Firewall (AWS WAF).md",
-    "5. Standard Information/AWS/Services/Security/AWS IAM Identity Center.md",
-    "5. Standard Information/AWS/Services/AWS CloudWatch.md",
-    "5. Standard Information/AWS/Services/Security/AWS CloudTrail.md",
-    "5. Standard Information/AWS/Services/AWS CloudFormation.md",
     "5. Standard Information/AWS/Services/Security",
-    "5. Standard Information/AWS/Services/Security/AWS Key Management Service (KMS).md",
-    "5. Standard Information/AWS/Services/AWS Artifact.md",
-    "5. Standard Information/AWS/User Management/AWS Organizations.md",
-    "5. Standard Information/AWS/Services/Storage/Databases/Amazon DynamoDB.md",
-    "5. Standard Information/AWS/Sales",
-    "7. Misc/Images/Pasted image 20240730154132.png",
-    "7. Misc/Images/Pasted image 20240730151125.png",
-    "7. Misc/Images/Pasted image 20240730133633.png",
-    "5. Standard Information/AWS/Services/Storage/Databases",
-    "7. Misc/Images/Pasted image 20240730111311.png",
-    "7. Misc/Images/Pasted image 20240730100642.png",
-    "5. Standard Information/AWS/Services/Storage/Object Storage",
-    "5. Standard Information/AWS/Services/Storage/Block Storage",
-    "5. Standard Information/AWS/Services/Storage/File Storage",
-    "5. Standard Information/AWS/Services/Storage",
-    "7. Misc/Images/Pasted image 20240729162432.jpg",
-    "7. Misc/Images/Pasted image 20240729160924.png",
-    "7. Misc/Images/Pasted image 20240729154512.png",
-    "7. Misc/Images/Pasted image 20240729154438.jpg",
-    "7. Misc/Images/Pasted image 20240729154357.png",
-    "5. Standard Information/AWS/Infrastructure/Networking",
     "Untitled.canvas"
   ]
 }
