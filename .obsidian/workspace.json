@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Default Tooling/Process Monitor (ProcMon).md",
+                "file": "3. Exploitation/File Types and Data/Malware/Dynamic Analysis/Tools/Noriben.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 418.5
+    "width": 254.5
   },
   "right": {
     "id": "ab865be945a38766",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Default Tooling/Process Monitor (ProcMon).md",
+                "file": "3. Exploitation/File Types and Data/Malware/Dynamic Analysis/Tools/Noriben.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Default Tooling/Process Monitor (ProcMon).md",
+                "file": "3. Exploitation/File Types and Data/Malware/Dynamic Analysis/Tools/Noriben.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Default Tooling/Process Monitor (ProcMon).md"
+                "file": "3. Exploitation/File Types and Data/Malware/Dynamic Analysis/Tools/Noriben.md"
               }
             }
           },
@@ -223,6 +223,7 @@
   },
   "active": "8997cf29f2506e9c",
   "lastOpenFiles": [
+    "5. Standard Information/Operating Systems/Windows/Default Tooling/Process Monitor (ProcMon).md",
     "3. Exploitation/File Types and Data/Malware/Dynamic Analysis/Tools/Noriben.md",
     "3. Exploitation/File Types and Data/Malware/Dynamic Analysis/1. Guide.md",
     "3. Exploitation/File Types and Data/Malware/Dynamic Analysis/Tools/Sandboxes",
@@ -240,7 +241,6 @@
     "5. Standard Information/Operating Systems/Windows/Default Tooling/Finding Users and Groups.md",
     "5. Standard Information/Operating Systems/Windows/Default Tooling/1. Guide.md",
     "5. Standard Information/Operating Systems/Windows/Default Tooling/Finding Shared Resources.md",
-    "5. Standard Information/Operating Systems/Windows/Default Tooling/Process Monitor (ProcMon).md",
     "5. Standard Information/Operating Systems/Windows/Scheduled Tasks/1. Guide.md",
     "3. Exploitation/File Types and Data/CHM (MS Windows HtmlHelp Data).md",
     "3. Exploitation/File Types and Data/Malware/Dynamic Analysis.md",
