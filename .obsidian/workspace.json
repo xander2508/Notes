@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Security/Detection Rules/YARA.md",
+                "file": "5. Standard Information/Security/Detection Rules/Sigma.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Security/Detection Rules/YARA.md",
+                "file": "5. Standard Information/Security/Detection Rules/Sigma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Security/Detection Rules/YARA.md",
+                "file": "5. Standard Information/Security/Detection Rules/Sigma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Security/Detection Rules/YARA.md"
+                "file": "5. Standard Information/Security/Detection Rules/Sigma.md"
               }
             }
           },
@@ -194,8 +194,17 @@
               "type": "smart-connections-chat-view",
               "state": {}
             }
+          },
+          {
+            "id": "e9650463bb3ccbf2",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
@@ -218,13 +227,17 @@
       "obsidian-importer:Open Importer": true,
       "smart-connections:Open: View Smart Connections": false,
       "smart-connections:Open: Smart Chat Conversation": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": true
     }
   },
   "active": "8997cf29f2506e9c",
   "lastOpenFiles": [
-    "5. Standard Information/Security/Detection Rules/Untitled.md",
     "5. Standard Information/Security/Detection Rules/YARA.md",
+    "5. Standard Information/Security/Detection Rules/Sigma.md",
+    "3. Exploitation/File Types and Data/Yar (YARA).md",
+    "3. Exploitation/File Types and Data/CRT (Certificate Files).md",
+    "3. Exploitation/File Types and Data/CPL (Control Panel Applications).md",
+    "3. Exploitation/File Types and Data/DLL (Dynamic-link library).md",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Dynamic Analysis/Tooling/Noriben.md",
     "5. Standard Information/Security/Malware Analysis Overview and Tooling.md",
     "5. Standard Information/Security/Detection Rules",
@@ -255,10 +268,6 @@
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Dynamic Analysis/Tooling/Registry",
     "5. Standard Information/Operating Systems/Windows/Scheduled Tasks.md",
     "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Generic Enumeration Commands.md",
-    "5. Standard Information/Operating Systems/Windows/Default Tooling/Finding Users and Groups.md",
-    "5. Standard Information/Operating Systems/Windows/Default Tooling/1. Guide.md",
-    "5. Standard Information/Operating Systems/Windows/Default Tooling/Finding Shared Resources.md",
-    "5. Standard Information/Operating Systems/Windows/Scheduled Tasks/1. Guide.md",
     "output/attachment/d0dfd26236f912009058fcb755fe3a7c.jpg",
     "output/attachment/e64951f0110cc9cba636d1296f3f729b.png",
     "output/attachment/62cf90ae6d4a682679c999cec7aac652.jpg",

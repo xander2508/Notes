@@ -10,7 +10,21 @@ rule Shell_Sandbox_Detection {
         $sandbox_string
 }
 ```
+## Detecting Malware Using Yara Rules
 
+We can then use this rule to scan a directory as follows.
+
+```shell-session
+yara rules.yar /home/htb-student/Samples/MalwareAnalysis/
+```
+
+## YARA Documentation
+
+- Yara documentation : [https://yara.readthedocs.io/en/stable/writingrules.html](https://yara.readthedocs.io/en/stable/writingrules.html)
+- Yara resources - [https://github.com/InQuest/awesome-yara](https://github.com/InQuest/awesome-yara)
+- The DFIR Report - [https://github.com/The-DFIR-Report/Yara-Rules](https://github.com/The-DFIR-Report/Yara-Rules)
+
+# Generation Tooling
 
 ## yarGen
 
@@ -42,7 +56,21 @@ rule _home_htb_student_Samples_MalwareAnalysis_Test_shell {
       $s6 = "  VirtualQuery failed for %d bytes at address %p" fullword ascii
       $s7 = "[-] Error code is : %lu" fullword ascii
       $s8 = "C:\\Program Files\\VMware\\VMware Tools\\" fullword ascii
-      $s9 = "Failed to open the registry key." fullword ascii
+      $s9 = "Failed to open the registry key." fullword asciiquadrantChart
+		title Reach and engagement of campaigns
+		x-axis Low Reach --> High Reach
+		y-axis Low Engagement --> High Engagement
+		quadrant-1 We should expand
+		quadrant-2 Need to promote
+		quadrant-3 Re-evaluate
+		quadrant-4 May be improved
+		Campaign A: [0.3, 0.6]
+		Campaign B: [0.45, 0.23]
+		Campaign C: [0.57, 0.69]
+		Campaign D: [0.78, 0.34]
+		Campaign E: [0.40, 0.34]
+		Campaign F: [0.35, 0.78]
+
       $s10 = "  VirtualProtect failed with code 0x%x" fullword ascii
       $s11 = "Connection sent to C2" fullword ascii
       $s12 = "VPAPAPAPI" fullword ascii
@@ -59,10 +87,3 @@ rule _home_htb_student_Samples_MalwareAnalysis_Test_shell {
       1 of ($x*) and 4 of them
 }
 ```
-
-
-
-flowchart TD
-Start --> Stop
-
-
