@@ -217,13 +217,15 @@
       "omnisearch:Omnisearch": false,
       "obsidian-importer:Open Importer": true,
       "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "smart-connections:Open: Smart Chat Conversation": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "744b9316b7030f7b",
+  "active": "8997cf29f2506e9c",
   "lastOpenFiles": [
-    "3. Exploitation/File Types and Data/Malware, Programs and Executables/Dynamic Analysis/Tooling/Noriben.md",
+    "5. Standard Information/Security/Detection Rules/Untitled.md",
     "5. Standard Information/Security/Detection Rules/YARA.md",
+    "3. Exploitation/File Types and Data/Malware, Programs and Executables/Dynamic Analysis/Tooling/Noriben.md",
     "5. Standard Information/Security/Malware Analysis Overview and Tooling.md",
     "5. Standard Information/Security/Detection Rules",
     "5. Standard Information/Operating Systems/Windows/Services/1. Windows Services & Processes.md",
@@ -257,7 +259,6 @@
     "5. Standard Information/Operating Systems/Windows/Default Tooling/1. Guide.md",
     "5. Standard Information/Operating Systems/Windows/Default Tooling/Finding Shared Resources.md",
     "5. Standard Information/Operating Systems/Windows/Scheduled Tasks/1. Guide.md",
-    "3. Exploitation/File Types and Data/CHM (MS Windows HtmlHelp Data).md",
     "output/attachment/d0dfd26236f912009058fcb755fe3a7c.jpg",
     "output/attachment/e64951f0110cc9cba636d1296f3f729b.png",
     "output/attachment/62cf90ae6d4a682679c999cec7aac652.jpg",

@@ -59,3 +59,10 @@ rule _home_htb_student_Samples_MalwareAnalysis_Test_shell {
       1 of ($x*) and 4 of them
 }
 ```
+
+
+
+flowchart TD
+Start --> Stop
+
+
