@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Networking/Packet Syntax (BPF).md",
+                "file": "1. Recon/Tooling/Network Analysis/1. Network Traffic Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Networking/Packet Syntax (BPF).md",
+                "file": "1. Recon/Tooling/Network Analysis/1. Network Traffic Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Networking/Packet Syntax (BPF).md",
+                "file": "1. Recon/Tooling/Network Analysis/1. Network Traffic Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Networking/Packet Syntax (BPF).md"
+                "file": "1. Recon/Tooling/Network Analysis/1. Network Traffic Analysis.md"
               }
             }
           },
@@ -232,16 +232,19 @@
   },
   "active": "8997cf29f2506e9c",
   "lastOpenFiles": [
-    "5. Standard Information/Networking/Network Interception Devices.md",
+    "7. Misc/Images/workflow.webp",
     "5. Standard Information/Networking/Packet Syntax (BPF).md",
-    "1. Recon/Tooling/Traffic Analysis/TCPick.md",
-    "1. Recon/Tooling/Traffic Analysis/Wireshark.md",
-    "1. Recon/Tooling/Traffic Analysis/NGrep.md",
-    "1. Recon/Tooling/Traffic Analysis/Tshark.md",
-    "1. Recon/Tooling/Traffic Analysis/TCPDump.md",
+    "1. Recon/Tooling/Network Analysis/1. Network Traffic Analysis.md",
+    "1. Recon/Tooling/Network Analysis",
+    "5. Standard Information/Networking/Network Interception Devices.md",
+    "1. Recon/Tooling/Network Analysis/Traffic Analysis/TCPick.md",
+    "1. Recon/Tooling/Network Analysis/Traffic Analysis/Wireshark.md",
+    "1. Recon/Tooling/Network Analysis/Traffic Analysis/NGrep.md",
+    "1. Recon/Tooling/Network Analysis/Traffic Analysis/Tshark.md",
+    "1. Recon/Tooling/Network Analysis/Traffic Analysis/TCPDump.md",
     "4. Post Exploitation/Operating Systems/Linux/Concepts and Vulnerabilities/Capabilities.md",
     "5. Standard Information/Operating Systems/Linux/Default Tooling/TCPDump.md",
-    "1. Recon/Tooling/Traffic Analysis",
+    "1. Recon/Tooling/Network Analysis/Traffic Analysis",
     "5. Standard Information/Security/Detection Rules/Sigma.md",
     "5. Standard Information/Security/Detection Rules/YARA.md",
     "3. Exploitation/File Types and Data/Yar (YARA).md",
@@ -259,15 +262,12 @@
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Debugging/x64dbg.md",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Dynamic Analysis/Tooling/Internet/INetSim.md",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Dynamic Analysis/Tooling/Internet/FakeNet-NG.md",
-    "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Code Analysis/IDA.md",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Debugging",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Code Analysis",
-    "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Code Analysis/Ghidra.md",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis",
     "3. Exploitation/File Types and Data/Malware/Dynamic Analysis/Tools/Sandboxes",
     "3. Exploitation/File Types and Data/Malware/Dynamic Analysis/Untitled",
-    "3. Exploitation/File Types and Data/Malware, Programs and Executables/Dynamic Analysis/Tooling/Internet",
     "output/attachment/d0dfd26236f912009058fcb755fe3a7c.jpg",
     "output/attachment/e64951f0110cc9cba636d1296f3f729b.png",
     "output/attachment/62cf90ae6d4a682679c999cec7aac652.jpg",
