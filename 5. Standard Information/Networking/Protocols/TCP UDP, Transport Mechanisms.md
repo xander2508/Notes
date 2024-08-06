@@ -10,3 +10,23 @@ The Transport Layer has several mechanisms to help ensure the seamless delivery 
 | `Receipt of data`          | Sequence and Acknowledgement numbers are utilized to account for data.     | UDP does not care.                                                      |
 | `Speed`                    | TCP has more overhead and is slower because of its built-in functions.     | UDP is fast but unreliable.                                             |
 
+## TCP Three-way Handshake
+
+One of the ways TCP ensures the delivery of data from server to client is the utilization of sessions. These sessions are established through what is called a three-way handshake. To make this happen, TCP utilizes an option in the TCP header called flags. We will not deep dive into TCP flags now; know that the common flags we will see in a three-way handshake are Synchronization (`SYN`) and acknowledgment (`ACK`). When a host requests to have a conversation with a server over TCP;
+
+1. The `client` sends a packet with the SYN flag set to on along with other negotiable options in the TCP header.
+    
+    1. This is a synchronization packet. It will only be set in the first packet from host and server and enables establishing a session by allowing both ends to agree on a sequence number to start communicating with.
+    2. This is crucial for the tracking of packets. Along with the sequence number sync, many other options are negotiated in this phase to include window size, maximum segment size, and selective acknowledgments.
+2. The `server` will respond with a TCP packet that includes a SYN flag set for the sequence number negotiation and an ACK flag set to acknowledge the previous SYN packet sent by the host.
+    
+    1. The server will also include any changes to the TCP options it requires set in the options fields of the TCP header.
+3. The `client` will respond with a TCP packet with an ACK flag set agreeing to the negotiation.
+    
+    1. This packet is the end of the three-way handshake and established the connection between client and server.
+
+
+Before session termination, we should see a packet pattern of:
+1. `FIN, ACK`
+2. `FIN, ACK`,
+3. `ACK`
