@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Security/Detection Rules/Sigma.md",
+                "file": "1. Recon/Tooling/Traffic Analysis/Wireshark.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "yara",
+                "query": "tcpdum",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Security/Detection Rules/Sigma.md",
+                "file": "1. Recon/Tooling/Traffic Analysis/Wireshark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Security/Detection Rules/Sigma.md",
+                "file": "1. Recon/Tooling/Traffic Analysis/Wireshark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Security/Detection Rules/Sigma.md"
+                "file": "1. Recon/Tooling/Traffic Analysis/Wireshark.md"
               }
             }
           },
@@ -204,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -232,8 +232,14 @@
   },
   "active": "8997cf29f2506e9c",
   "lastOpenFiles": [
-    "5. Standard Information/Security/Detection Rules/YARA.md",
+    "1. Recon/Tooling/Traffic Analysis/Tshark.md",
+    "1. Recon/Tooling/Traffic Analysis/TCPDump.md",
+    "4. Post Exploitation/Operating Systems/Linux/Concepts and Vulnerabilities/Capabilities.md",
+    "5. Standard Information/Operating Systems/Linux/Default Tooling/TCPDump.md",
+    "1. Recon/Tooling/Traffic Analysis/Wireshark.md",
+    "1. Recon/Tooling/Traffic Analysis",
     "5. Standard Information/Security/Detection Rules/Sigma.md",
+    "5. Standard Information/Security/Detection Rules/YARA.md",
     "3. Exploitation/File Types and Data/Yar (YARA).md",
     "3. Exploitation/File Types and Data/CRT (Certificate Files).md",
     "3. Exploitation/File Types and Data/CPL (Control Panel Applications).md",
@@ -259,15 +265,9 @@
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Dynamic Analysis/1. Guide.md",
-    "5. Standard Information/Operating Systems/Windows/Default Tooling/Process Monitor (ProcMon).md",
     "3. Exploitation/File Types and Data/Malware/Dynamic Analysis/Tools/Sandboxes",
     "3. Exploitation/File Types and Data/Malware/Dynamic Analysis/Untitled",
-    "3. Exploitation/File Types and Data/Malware, Programs and Executables/Dynamic Analysis/Tooling/Internet/FakeDNS.md",
-    "3. Exploitation/File Types and Data/Malware, Programs and Executables/Dynamic Analysis/Tooling/Registry/RegShot.md",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Dynamic Analysis/Tooling/Internet",
-    "3. Exploitation/File Types and Data/Malware, Programs and Executables/Dynamic Analysis/Tooling/Registry",
-    "5. Standard Information/Operating Systems/Windows/Scheduled Tasks.md",
-    "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Generic Enumeration Commands.md",
     "output/attachment/d0dfd26236f912009058fcb755fe3a7c.jpg",
     "output/attachment/e64951f0110cc9cba636d1296f3f729b.png",
     "output/attachment/62cf90ae6d4a682679c999cec7aac652.jpg",
