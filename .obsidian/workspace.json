@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Debugging/x64dbg.md",
+                "file": "5. Standard Information/Security/Malware Analysis Overview and Tooling.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 365.5
   },
   "right": {
     "id": "ab865be945a38766",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Debugging/x64dbg.md",
+                "file": "5. Standard Information/Security/Malware Analysis Overview and Tooling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Debugging/x64dbg.md",
+                "file": "5. Standard Information/Security/Malware Analysis Overview and Tooling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Debugging/x64dbg.md"
+                "file": "5. Standard Information/Security/Malware Analysis Overview and Tooling.md"
               }
             }
           },
@@ -221,11 +221,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8997cf29f2506e9c",
+  "active": "744b9316b7030f7b",
   "lastOpenFiles": [
+    "5. Standard Information/Security/Detection rules",
+    "5. Standard Information/Operating Systems/Windows/Services/1. Windows Services & Processes.md",
+    "5. Standard Information/Security",
+    "5. Standard Information/Operating Systems/Windows/Windows Management Instrumentation (WMI).md",
+    "5. Standard Information/Operating Systems/Windows/Windows Internal Operations.md",
+    "5. Standard Information/Operating Systems/Windows/Security/User Permissions.md",
+    "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Debugging/x64dbg.md",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Dynamic Analysis/Tooling/Internet/INetSim.md",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Dynamic Analysis/Tooling/Internet/FakeNet-NG.md",
-    "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Debugging/x64dbg.md",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Code Analysis/IDA.md",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Debugging",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Code Analysis",
@@ -253,12 +259,6 @@
     "5. Standard Information/Operating Systems/Windows/Scheduled Tasks/1. Guide.md",
     "3. Exploitation/File Types and Data/CHM (MS Windows HtmlHelp Data).md",
     "3. Exploitation/File Types and Data/Malware/Dynamic Analysis.md",
-    "3. Exploitation/File Types and Data/Malware, Programs and Executables/Dynamic Analysis",
-    "3. Exploitation/File Types and Data/Languages/C.md",
-    "3. Exploitation/File Types and Data/Untitled.md",
-    "4. Post Exploitation/Operating Systems/Linux/Concepts and Vulnerabilities/Passwd File.md",
-    "4. Post Exploitation/Operating Systems/Linux/Concepts and Vulnerabilities/Valuable Files.md",
-    "4. Post Exploitation/Operating Systems/Linux/Concepts and Vulnerabilities/Uploading Files to Machine.md",
     "output/attachment/d0dfd26236f912009058fcb755fe3a7c.jpg",
     "output/attachment/e64951f0110cc9cba636d1296f3f729b.png",
     "output/attachment/62cf90ae6d4a682679c999cec7aac652.jpg",
