@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Security/Malware Analysis Overview and Tooling.md",
+                "file": "5. Standard Information/Security/Detection Rules/YARA.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ghidra",
+                "query": "yara",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,7 @@
             }
           },
           {
-            "id": "9ac58542641d0e97",
+            "id": "ad253bfab855da22",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Security/Malware Analysis Overview and Tooling.md",
+                "file": "5. Standard Information/Security/Detection Rules/YARA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Security/Malware Analysis Overview and Tooling.md",
+                "file": "5. Standard Information/Security/Detection Rules/YARA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Security/Malware Analysis Overview and Tooling.md"
+                "file": "5. Standard Information/Security/Detection Rules/YARA.md"
               }
             }
           },
@@ -217,13 +217,15 @@
       "omnisearch:Omnisearch": false,
       "obsidian-importer:Open Importer": true,
       "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "744b9316b7030f7b",
   "lastOpenFiles": [
-    "5. Standard Information/Security/Detection rules",
+    "3. Exploitation/File Types and Data/Malware, Programs and Executables/Dynamic Analysis/Tooling/Noriben.md",
+    "5. Standard Information/Security/Detection Rules/YARA.md",
+    "5. Standard Information/Security/Malware Analysis Overview and Tooling.md",
+    "5. Standard Information/Security/Detection Rules",
     "5. Standard Information/Operating Systems/Windows/Services/1. Windows Services & Processes.md",
     "5. Standard Information/Security",
     "5. Standard Information/Operating Systems/Windows/Windows Management Instrumentation (WMI).md",
@@ -242,7 +244,6 @@
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Dynamic Analysis/1. Guide.md",
-    "3. Exploitation/File Types and Data/Malware, Programs and Executables/Dynamic Analysis/Tooling/Noriben.md",
     "5. Standard Information/Operating Systems/Windows/Default Tooling/Process Monitor (ProcMon).md",
     "3. Exploitation/File Types and Data/Malware/Dynamic Analysis/Tools/Sandboxes",
     "3. Exploitation/File Types and Data/Malware/Dynamic Analysis/Untitled",
@@ -250,7 +251,6 @@
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Dynamic Analysis/Tooling/Registry/RegShot.md",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Dynamic Analysis/Tooling/Internet",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Dynamic Analysis/Tooling/Registry",
-    "3. Exploitation/File Types and Data/Malware, Programs and Executables/Dynamic Analysis/Tooling",
     "5. Standard Information/Operating Systems/Windows/Scheduled Tasks.md",
     "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Generic Enumeration Commands.md",
     "5. Standard Information/Operating Systems/Windows/Default Tooling/Finding Users and Groups.md",
@@ -258,7 +258,6 @@
     "5. Standard Information/Operating Systems/Windows/Default Tooling/Finding Shared Resources.md",
     "5. Standard Information/Operating Systems/Windows/Scheduled Tasks/1. Guide.md",
     "3. Exploitation/File Types and Data/CHM (MS Windows HtmlHelp Data).md",
-    "3. Exploitation/File Types and Data/Malware/Dynamic Analysis.md",
     "output/attachment/d0dfd26236f912009058fcb755fe3a7c.jpg",
     "output/attachment/e64951f0110cc9cba636d1296f3f729b.png",
     "output/attachment/62cf90ae6d4a682679c999cec7aac652.jpg",
