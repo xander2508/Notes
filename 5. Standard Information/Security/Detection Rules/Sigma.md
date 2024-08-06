@@ -21,3 +21,10 @@ falsepositives:
 ```
 
 In this instance, the rule is designed to identify when the file `svchost.exe` is dropped in the `Temp` directory.
+
+
+## Sigma Documentation
+
+- Sigma documentation : [https://github.com/SigmaHQ/sigma/wiki/Specification](https://github.com/SigmaHQ/sigma/wiki/Specification)
+- Sigma resources - [https://github.com/SigmaHQ/sigma/tree/master/rules](https://github.com/SigmaHQ/sigma/tree/master/rules)
+- The DFIR Report - [https://github.com/The-DFIR-Report/Sigma-Rules/tree/main/rules](https://github.com/The-DFIR-Report/Sigma-Rules/tree/main/rules)
