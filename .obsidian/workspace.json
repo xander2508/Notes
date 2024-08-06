@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Networking/Network Interception Devices.md",
+                "file": "5. Standard Information/Networking/Packet Syntax (BPF).md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Networking/Network Interception Devices.md",
+                "file": "5. Standard Information/Networking/Packet Syntax (BPF).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Networking/Network Interception Devices.md",
+                "file": "5. Standard Information/Networking/Packet Syntax (BPF).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Networking/Network Interception Devices.md"
+                "file": "5. Standard Information/Networking/Packet Syntax (BPF).md"
               }
             }
           },
@@ -232,8 +232,9 @@
   },
   "active": "8997cf29f2506e9c",
   "lastOpenFiles": [
-    "1. Recon/Tooling/Traffic Analysis/TCPick.md",
     "5. Standard Information/Networking/Network Interception Devices.md",
+    "5. Standard Information/Networking/Packet Syntax (BPF).md",
+    "1. Recon/Tooling/Traffic Analysis/TCPick.md",
     "1. Recon/Tooling/Traffic Analysis/Wireshark.md",
     "1. Recon/Tooling/Traffic Analysis/NGrep.md",
     "1. Recon/Tooling/Traffic Analysis/Tshark.md",
@@ -262,7 +263,6 @@
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Debugging",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Code Analysis",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Code Analysis/Ghidra.md",
-    "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Debugging/GDB.md",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis",
     "3. Exploitation/File Types and Data/Malware/Dynamic Analysis/Tools/Sandboxes",
