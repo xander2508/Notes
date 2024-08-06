@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Recon/Tooling/Traffic Analysis/Wireshark.md",
+                "file": "1. Recon/Tooling/Traffic Analysis/TCPick.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tcpdum",
+                "query": "wireshark",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Recon/Tooling/Traffic Analysis/Wireshark.md",
+                "file": "1. Recon/Tooling/Traffic Analysis/TCPick.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Recon/Tooling/Traffic Analysis/Wireshark.md",
+                "file": "1. Recon/Tooling/Traffic Analysis/TCPick.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Recon/Tooling/Traffic Analysis/Wireshark.md"
+                "file": "1. Recon/Tooling/Traffic Analysis/TCPick.md"
               }
             }
           },
@@ -232,11 +232,13 @@
   },
   "active": "8997cf29f2506e9c",
   "lastOpenFiles": [
+    "1. Recon/Tooling/Traffic Analysis/Wireshark.md",
+    "1. Recon/Tooling/Traffic Analysis/TCPick.md",
+    "1. Recon/Tooling/Traffic Analysis/NGrep.md",
     "1. Recon/Tooling/Traffic Analysis/Tshark.md",
     "1. Recon/Tooling/Traffic Analysis/TCPDump.md",
     "4. Post Exploitation/Operating Systems/Linux/Concepts and Vulnerabilities/Capabilities.md",
     "5. Standard Information/Operating Systems/Linux/Default Tooling/TCPDump.md",
-    "1. Recon/Tooling/Traffic Analysis/Wireshark.md",
     "1. Recon/Tooling/Traffic Analysis",
     "5. Standard Information/Security/Detection Rules/Sigma.md",
     "5. Standard Information/Security/Detection Rules/YARA.md",
@@ -261,10 +263,8 @@
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Code Analysis/Ghidra.md",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Debugging/GDB.md",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/BinWalk.md",
-    "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Static Analysis.md",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis",
-    "3. Exploitation/File Types and Data/Malware, Programs and Executables/Dynamic Analysis/1. Guide.md",
     "3. Exploitation/File Types and Data/Malware/Dynamic Analysis/Tools/Sandboxes",
     "3. Exploitation/File Types and Data/Malware/Dynamic Analysis/Untitled",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Dynamic Analysis/Tooling/Internet",
