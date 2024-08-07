@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Recon/Tooling/Network Analysis/1. Network Traffic Analysis.md",
+                "file": "1. Recon/Tooling/Network Analysis/2. Filtering Traffic.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Recon/Tooling/Network Analysis/1. Network Traffic Analysis.md",
+                "file": "1. Recon/Tooling/Network Analysis/2. Filtering Traffic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Recon/Tooling/Network Analysis/1. Network Traffic Analysis.md",
+                "file": "1. Recon/Tooling/Network Analysis/2. Filtering Traffic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Recon/Tooling/Network Analysis/1. Network Traffic Analysis.md"
+                "file": "1. Recon/Tooling/Network Analysis/2. Filtering Traffic.md"
               }
             }
           },
@@ -232,8 +232,10 @@
   },
   "active": "8997cf29f2506e9c",
   "lastOpenFiles": [
-    "1. Recon/Tooling/Network Analysis/Traffic Analysis/Wireshark.md",
     "1. Recon/Tooling/Network Analysis/1. Network Traffic Analysis.md",
+    "1. Recon/Tooling/Network Analysis/2. Filtering Traffic.md",
+    "1. Recon/Tooling/Network Analysis/Untitled",
+    "1. Recon/Tooling/Network Analysis/Traffic Analysis/Wireshark.md",
     "2. Enumeration/TCP/20. FTP/1. Guide.md",
     "2. Enumeration/TCP/443. HTTPS/2. Transport Layer Security (TLS or SSL).md",
     "5. Standard Information/Networking/Protocols/TCP UDP, Transport Mechanisms.md",
@@ -263,12 +265,10 @@
     "5. Standard Information/Security",
     "5. Standard Information/Operating Systems/Windows/Windows Management Instrumentation (WMI).md",
     "5. Standard Information/Operating Systems/Windows/Windows Internal Operations.md",
-    "5. Standard Information/Operating Systems/Windows/Security/User Permissions.md",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Debugging",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Code Analysis",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis",
-    "3. Exploitation/File Types and Data/Malware/Dynamic Analysis/Tools/Sandboxes",
     "output/attachment/d0dfd26236f912009058fcb755fe3a7c.jpg",
     "output/attachment/e64951f0110cc9cba636d1296f3f729b.png",
     "output/attachment/62cf90ae6d4a682679c999cec7aac652.jpg",
