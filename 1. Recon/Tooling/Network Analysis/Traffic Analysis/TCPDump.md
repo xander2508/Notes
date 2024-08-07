@@ -39,3 +39,8 @@ These switches can be chained together to craft how the tool output is shown to 
 |w file.pcap|Write into a file|
 
 
+#### Listing Available Interfaces 
+
+```shell-session
+sudo tcpdump -D
+```
