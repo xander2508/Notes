@@ -6,7 +6,6 @@ To capture network traffic from "off the wire," it uses the libraries `pcap` a
 
 TCPDump is available for most Unix systems and Unix derivatives, such as AIX, BSD, Linux, Solaris, and is supplied by many manufacturers already in the system. Due to the direct access to the hardware, we need the `root` or the `administrator's` privileges to run this tool. For us that means we will have to utilize `sudo` to execute TCPDump as seen in the examples below. `TCPDump` often comes preinstalled on the majority of Linux operating systems.
 
-
 #### Install Tcpdump
 
 ```shell-session
@@ -17,3 +16,5 @@ sudo apt install tcpdump
 ```
 tcpdump -i any -w log.pcap
 ```
+
+#### Basic Capture Options
