@@ -9,6 +9,10 @@ TCPDump is available for most Unix systems and Unix derivatives, such as AIX, BS
 Theoretically, we can use `tcpdump` to create an IDS/IPS system by having a Bash script analyze the intercepted packets according to a specific pattern. We can then set conditions to, for example, ban a particular IP address that has sent too many ICMP echo requests for a certain period.
 #### Install Tcpdump
 
+```
+which tcpdump
+```
+
 ```shell-session
 sudo apt install tcpdump 
 ```
