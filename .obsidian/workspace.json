@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/20. FTP/1. Guide.md",
+                "file": "1. Recon/Tooling/Network Analysis/1. Network Traffic Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/20. FTP/1. Guide.md",
+                "file": "1. Recon/Tooling/Network Analysis/1. Network Traffic Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/20. FTP/1. Guide.md",
+                "file": "1. Recon/Tooling/Network Analysis/1. Network Traffic Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/20. FTP/1. Guide.md"
+                "file": "1. Recon/Tooling/Network Analysis/1. Network Traffic Analysis.md"
               }
             }
           },
@@ -232,6 +232,7 @@
   },
   "active": "8997cf29f2506e9c",
   "lastOpenFiles": [
+    "2. Enumeration/TCP/20. FTP/1. Guide.md",
     "2. Enumeration/TCP/443. HTTPS/2. Transport Layer Security (TLS or SSL).md",
     "5. Standard Information/Networking/Protocols/TCP UDP, Transport Mechanisms.md",
     "5. Standard Information/Networking/Protocols/OSI Model (ISO OSI).md",
@@ -263,7 +264,6 @@
     "5. Standard Information/Operating Systems/Windows/Windows Management Instrumentation (WMI).md",
     "5. Standard Information/Operating Systems/Windows/Windows Internal Operations.md",
     "5. Standard Information/Operating Systems/Windows/Security/User Permissions.md",
-    "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Debugging/x64dbg.md",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Debugging",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Code Analysis",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling",
