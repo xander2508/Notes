@@ -18,3 +18,5 @@ tcpdump -i any -w log.pcap
 ```
 
 #### Basic Capture Options
+
+These switches can be chained together to craft how the tool output is shown to us in STDOUT and what is saved to the capture file. This is not an exhaustive list, and there are many more we can use, but these are the most common and valuable.
