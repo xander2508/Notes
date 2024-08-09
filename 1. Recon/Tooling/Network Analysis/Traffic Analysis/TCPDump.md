@@ -54,3 +54,8 @@ These switches can be chained together to craft how the tool output is shown to 
 |Sequence and Acknowledgement Numbers|`Red` This section shows the sequence and acknowledgment numbers used to track the TCP segment. Our example is utilizing low numbers to assume that relative sequence and ack numbers are being displayed.|
 |Protocol Options|`Blue` Here, we will see any negotiated TCP values established between the client and server, such as window size, selective acknowledgments, window scale factors, and more.|
 |Notes / Next Header|`White` Misc notes the dissector found will be present here. As the traffic we are looking at is encapsulated, we may see more header information for different protocols. In our example, we can see the TCPDump dissector recognizes FTP traffic within the encapsulation to display it for us.|
+
+
+## Filtering 
+
+See [Berkeley packet filters - IBM Documentation](https://www.ibm.com/docs/en/qsip/7.4?topic=queries-berkeley-packet-filters)
