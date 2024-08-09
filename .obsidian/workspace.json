@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Recon/Tooling/Network Analysis/Traffic Analysis/TCPDump.md",
+                "file": "2. Enumeration/TCP/194. IRC/Tooling/HexChat.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tcp",
+                "query": "hex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Recon/Tooling/Network Analysis/Traffic Analysis/TCPDump.md",
+                "file": "2. Enumeration/TCP/194. IRC/Tooling/HexChat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Recon/Tooling/Network Analysis/Traffic Analysis/TCPDump.md",
+                "file": "2. Enumeration/TCP/194. IRC/Tooling/HexChat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Recon/Tooling/Network Analysis/Traffic Analysis/TCPDump.md"
+                "file": "2. Enumeration/TCP/194. IRC/Tooling/HexChat.md"
               }
             }
           },
@@ -232,6 +233,14 @@
   },
   "active": "8997cf29f2506e9c",
   "lastOpenFiles": [
+    "3. Exploitation/File Types and Data/ZIP.md",
+    "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Debugging/x64dbg.md",
+    "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Debugging/GDB.md",
+    "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Code Analysis/IDA.md",
+    "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Code Analysis/Ghidra.md",
+    "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Static Analysis.md",
+    "3. Exploitation/File Types and Data/3. Identifying Malware.md",
+    "1. Recon/Tooling/Network Analysis/Traffic Analysis/TCPDump.md",
     "7. Misc/Images/breakdown.webp",
     "1. Recon/Tooling/Network Analysis/4. Easy Wins.md",
     "1. Recon/Tooling/Network Analysis/1. Network Traffic Analysis.md",
@@ -251,18 +260,11 @@
     "1. Recon/Tooling/Network Analysis/Traffic Analysis/TCPick.md",
     "1. Recon/Tooling/Network Analysis/Traffic Analysis/NGrep.md",
     "1. Recon/Tooling/Network Analysis/Traffic Analysis/Tshark.md",
-    "1. Recon/Tooling/Network Analysis/Traffic Analysis/TCPDump.md",
     "4. Post Exploitation/Operating Systems/Linux/Concepts and Vulnerabilities/Capabilities.md",
     "5. Standard Information/Operating Systems/Linux/Default Tooling/TCPDump.md",
     "1. Recon/Tooling/Network Analysis/Traffic Analysis",
     "5. Standard Information/Security/Detection Rules/Sigma.md",
     "5. Standard Information/Security/Detection Rules/YARA.md",
-    "3. Exploitation/File Types and Data/Yar (YARA).md",
-    "3. Exploitation/File Types and Data/CRT (Certificate Files).md",
-    "3. Exploitation/File Types and Data/CPL (Control Panel Applications).md",
-    "3. Exploitation/File Types and Data/DLL (Dynamic-link library).md",
-    "3. Exploitation/File Types and Data/Malware, Programs and Executables/Dynamic Analysis/Tooling/Noriben.md",
-    "5. Standard Information/Security/Malware Analysis Overview and Tooling.md",
     "5. Standard Information/Security/Detection Rules",
     "5. Standard Information/Security",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Debugging",
@@ -277,7 +279,6 @@
     "output/attachment/f14503a8fd6d0f2839da781f06805621.png",
     "output/attachment/0af76a69c870aae5134062764bdd48e4.png",
     "output/attachment/016ecca7f27bf3f17e6eb897828446b7.png",
-    "output/attachment/fee405959990d20365dadda1cc71ab81.jpg",
     "Untitled.canvas"
   ]
 }
