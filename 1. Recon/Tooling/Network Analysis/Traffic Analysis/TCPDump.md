@@ -75,3 +75,12 @@ See [Berkeley packet filters - IBM Documentation](https://www.ibm.com/docs/en/qs
 | or                   | `or` allows for a match on either of two conditions. It does not have to meet both. It can be tricky.<br><br>```shell-session<br>sudo tcpdump -r sus.pcap icmp or host 172.16.146.1<br>```                                                                                                                                                                                                              |
 | not                  | `not` is a modifier saying anything but x. For example, not UDP.<br><br>```shell-session<br>sudo tcpdump -r sus.pcap not icmp<br>```<br>                                                                                                                                                                                                                                                                |
 
+### Filtering Packet Internals 
+
+We can dig as deep as we wish into the packets we captured. It requires a bit of knowledge of how the protocols are structured, however. For example, if we wanted to see only packets with the TCP SYN flag set, we could use the following command:
+
+```shell-session
+sudo tcpdump -i eth0 'tcp[13] &2 != 0'
+```
+
+This is counting to the 13th byte in the structure and looking at the 2nd bit. If it is set to 1 or ON, the SYN flag is set.
