@@ -84,3 +84,7 @@ sudo tcpdump -i eth0 'tcp[13] &2 != 0'
 ```
 
 This is counting to the 13th byte in the structure and looking at the 2nd bit. If it is set to 1 or ON, the SYN flag is set.
+
+## Notes
+
+1. Turning absolute sequence numbers on `(-S)` will be extremely helpful in determining conversations.
