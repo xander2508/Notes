@@ -20,4 +20,4 @@ This allows the attacker to intercept, modify, or block traffic between two comm
 
 ## Detecting ARP Spoofing 
 
-A key red flag we need to monitor is any anomaly in traffic emanating from a specific host. For instance, one host incessantly broadcasting ARP requests and replies to another host could be a telltale sign of ARP spoofing.
+A key red flag we need to monitor is any anomaly in traffic emanating from a specific host. For instance, one host incessantly broadcasting ARP requests and replies to another host could be a tell-tale sign of ARP spoofing.
