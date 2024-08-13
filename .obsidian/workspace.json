@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/Other/~. ARP/Concepts/Vulnerabilities/ARP Poisoning & Spoofing.md",
+                "file": "2. Enumeration/Other/~. ARP/Concepts/Vulnerabilities/ARP Scanning & Denial-of-Service.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/Other/~. ARP/Concepts/Vulnerabilities/ARP Poisoning & Spoofing.md",
+                "file": "2. Enumeration/Other/~. ARP/Concepts/Vulnerabilities/ARP Scanning & Denial-of-Service.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/Other/~. ARP/Concepts/Vulnerabilities/ARP Poisoning & Spoofing.md",
+                "file": "2. Enumeration/Other/~. ARP/Concepts/Vulnerabilities/ARP Scanning & Denial-of-Service.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/Other/~. ARP/Concepts/Vulnerabilities/ARP Poisoning & Spoofing.md"
+                "file": "2. Enumeration/Other/~. ARP/Concepts/Vulnerabilities/ARP Scanning & Denial-of-Service.md"
               }
             }
           },
@@ -232,8 +232,9 @@
   },
   "active": "a29c4b164fdbd065",
   "lastOpenFiles": [
-    "5. Standard Information/Networking/Protocols/MAC Addresses.md",
     "2. Enumeration/Other/~. ARP/Concepts/Vulnerabilities/ARP Poisoning & Spoofing.md",
+    "2. Enumeration/Other/~. ARP/Concepts/Vulnerabilities/ARP Scanning & Denial-of-Service.md",
+    "5. Standard Information/Networking/Protocols/MAC Addresses.md",
     "2. Enumeration/Other/~. ARP/Traffic Analysis.md",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Traffic Analysis.md",
     "2. Enumeration/Other/~. ARP/1. Guide.md",
@@ -266,7 +267,6 @@
     "1. Recon/Tooling/Network Analysis/3. Network Analysis Steps.md",
     "1. Recon/Tooling/Network Analysis/Traffic Analysis/TCPDump.md",
     "1. Recon/Tooling/Network Analysis/Traffic Analysis/TCPick.md",
-    "1. Recon/Tooling/Network Analysis/2. Filtering Traffic.md",
     "7. Misc/Images/breakdown.webp",
     "5. Standard Information/Networking/Protocols",
     "7. Misc/Images/workflow.webp",
