@@ -117,3 +117,25 @@ Filtering for JPEG image files:
 ```
 http && image-jfif
 ```
+
+
+#### Decrypt Data 
+
+To apply the key in Wireshark:
+
+1. go to Edit → Preferences → Protocols → TLS
+2. On the TLS page, select Edit by RSA keys list → a new window will open.![[import-ws.webp]]
+
+##### Import An RDP Key
+
+| **Steps**                                                           |
+| ------------------------------------------------------------------- |
+| Click the + to add a new key                                        |
+| Type in the IP address of the RDP server `10.129.43.29`             |
+| Type in the port used `3389`                                        |
+| Protocol filed equals `tpkt` or `blank`.                            |
+| Browse to the `server.key` file and add it in the key file section. |
+| Save and refresh your pcap file.                                    |
+
+![[import-steps.webp]]
+
