@@ -80,3 +80,7 @@ Here is a table of common and helpful display filters with a description of each
 #### Statistics Tab
 
 The plugins here can give us detailed reports about the network traffic being utilized. It can show us everything from the top talkers in our environment to specific conversations and even breakdown by IP and protocol.
+
+#### Analyze Tab
+
+From the Analyze tab, we can utilize plugins that allow us to do things such as following TCP streams, filter on conversation types, prepare new packet filters and examine the expert info Wireshark generates about the traffic.
