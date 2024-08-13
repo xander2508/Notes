@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Recon/Tooling/Network Analysis/Traffic Analysis/Wireshark.md",
+                "file": "2. Enumeration/TCP/20. FTP/Network Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Recon/Tooling/Network Analysis/Traffic Analysis/Wireshark.md",
+                "file": "2. Enumeration/TCP/20. FTP/Network Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Recon/Tooling/Network Analysis/Traffic Analysis/Wireshark.md",
+                "file": "2. Enumeration/TCP/20. FTP/Network Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Recon/Tooling/Network Analysis/Traffic Analysis/Wireshark.md"
+                "file": "2. Enumeration/TCP/20. FTP/Network Analysis.md"
               }
             }
           },
@@ -230,15 +230,18 @@
       "mermaid-tools:Open Mermaid Toolbar": true
     }
   },
-  "active": "744b9316b7030f7b",
+  "active": "8997cf29f2506e9c",
   "lastOpenFiles": [
+    "2. Enumeration/TCP/20. FTP/1. Guide.md",
+    "2. Enumeration/TCP/20. FTP/Network Analysis.md",
+    "2. Enumeration/TCP/21. FTP Control/1. Guide.md",
+    "1. Recon/Tooling/Network Analysis/1. Analysis Overview.md",
+    "1. Recon/Tooling/Network Analysis/Traffic Analysis/Wireshark.md",
     "1. Recon/Tooling/Network Analysis/Untitled",
     "1. Recon/Tooling/Network Analysis/Traffic Analysis/TShark.md",
-    "1. Recon/Tooling/Network Analysis/Traffic Analysis/Wireshark.md",
     "7. Misc/Images/wireshark-interface.webp",
     "1. Recon/Tooling/Network Analysis/Traffic Analysis/Termshark.md",
     "7. Misc/Images/termshark.webp",
-    "1. Recon/Tooling/Network Analysis/1. Analysis Overview.md",
     "2. Enumeration/TCP/53. DNS/1. Guide.md",
     "1. Recon/Tooling/Network Analysis/3. Network Analysis Steps.md",
     "1. Recon/Tooling/Network Analysis/Traffic Analysis/TCPDump.md",
@@ -259,8 +262,6 @@
     "3. Exploitation/File Types and Data/3. Identifying Malware.md",
     "7. Misc/Images/breakdown.webp",
     "1. Recon/Tooling/Network Analysis/4. Easy Wins.md",
-    "2. Enumeration/TCP/20. FTP/1. Guide.md",
-    "2. Enumeration/TCP/443. HTTPS/2. Transport Layer Security (TLS or SSL).md",
     "5. Standard Information/Networking/Protocols",
     "7. Misc/Images/workflow.webp",
     "1. Recon/Tooling/Network Analysis",
