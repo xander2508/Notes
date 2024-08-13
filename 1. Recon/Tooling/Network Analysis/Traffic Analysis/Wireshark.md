@@ -73,3 +73,6 @@ Here is a table of common and helpful display filters with a description of each
 |tcp.port == x|filter by a specific tcp port.|
 |tcp.port / udp.port != x|will capture everything except the port specified|
 |and / or / not|AND will concatenate, OR will find either of two options, NOT will exclude your input option.|
+
+
+## Plugins
