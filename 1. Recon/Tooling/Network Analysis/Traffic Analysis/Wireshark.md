@@ -100,3 +100,14 @@ Search:
 ```
 tcp.stream eq 0
 ```
+
+##### Extracting Data and Files From a Capture
+
+Wireshark can recover many different types of data from streams. It requires you to have captured the entire conversation. Otherwise, this ability will fail to put an incomplete datagram back together.
+
+To extract files from a stream:
+
+- stop your capture.
+- Select the File radial → Export → , then select the protocol format to extract from.
+- (DICOM, HTTP, SMB, etc.)
+
