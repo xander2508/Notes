@@ -20,3 +20,8 @@ If the GUI is not accessible see [[TShark]]
 ```shell-session
 sudo apt install wireshark 
 ```
+
+## Wireshark Guide
+
+![[wireshark-interface.webp]]
+

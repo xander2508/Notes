@@ -17,3 +17,23 @@ If a GUI is available see [[Wireshark]].
 |P|Will print the packet summary while writing into a file (-W)|
 |x|will add Hex and ASCII output into the capture.|
 |h|See the help menu|
+
+#### TShark Help
+
+```shell-session
+tshark -h
+```
+
+#### TShark Basic Usage
+
+##### Capturing and writing:
+
+```shell-session
+tshark -i 1 -w /tmp/test.pcap
+```
+
+##### Applying Filters
+
+```shell-session
+sudo tshark -i eth0 -f "host 172.16.146.2"
+```
