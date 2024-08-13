@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "babcf64e4f4811d2",
+        "id": "aaf534af1d5a13cf",
         "type": "tabs",
         "children": [
           {
-            "id": "8997cf29f2506e9c",
+            "id": "a29c4b164fdbd065",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Traffic Analysis.md",
+                "file": "2. Enumeration/TCP/80. HTTP/Applications/Apache.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Traffic Analysis.md",
+                "file": "2. Enumeration/TCP/80. HTTP/Applications/Apache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Traffic Analysis.md",
+                "file": "2. Enumeration/TCP/80. HTTP/Applications/Apache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Traffic Analysis.md"
+                "file": "2. Enumeration/TCP/80. HTTP/Applications/Apache.md"
               }
             }
           },
@@ -230,12 +230,20 @@
       "mermaid-tools:Open Mermaid Toolbar": true
     }
   },
-  "active": "8997cf29f2506e9c",
+  "active": "a29c4b164fdbd065",
   "lastOpenFiles": [
+    "2. Enumeration/TCP/80. HTTP/Applications/Drupal.md",
+    "2. Enumeration/TCP/80. HTTP/Applications/Sharepoint.md",
+    "2. Enumeration/TCP/80. HTTP/Applications/Microsoft IIS.md",
+    "2. Enumeration/TCP/80. HTTP/Applications/H2 Database.md",
+    "3. Exploitation/Known Exploits/Applications/SQL.md",
+    "3. Exploitation/Known Exploits/Applications/SSH.md",
+    "3. Exploitation/Known Exploits/Applications/Python.md",
+    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Traffic Analysis.md",
+    "3. Exploitation/Known Exploits/Applications",
     "1. Recon/Tooling/Network Analysis/Traffic Analysis/Wireshark.md",
     "7. Misc/Images/import-steps.webp",
     "7. Misc/Images/import-ws.webp",
-    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Traffic Analysis.md",
     "2. Enumeration/TCP/20. FTP/Traffic Analysis.md",
     "1. Recon/Tooling/Network Analysis/Traffic Analysis/Termshark.md",
     "1. Recon/Tooling/Network Analysis/1. Analysis Overview.md",
@@ -256,12 +264,6 @@
     "5. Standard Information/Networking/Protocols/TCP UDP, Transport Mechanisms.md",
     "5. Standard Information/Request for Comments (RFC).md",
     "5. Standard Information/Architecture/Server Architecture Terms.md",
-    "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Code Analysis/Ghidra.md",
-    "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Code Analysis/IDA.md",
-    "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Debugging/GDB.md",
-    "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Debugging/x64dbg.md",
-    "3. Exploitation/File Types and Data/ZIP.md",
-    "2. Enumeration/TCP/194. IRC/Tooling/HexChat.md",
     "7. Misc/Images/breakdown.webp",
     "5. Standard Information/Networking/Protocols",
     "7. Misc/Images/workflow.webp",
@@ -272,7 +274,6 @@
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Debugging",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Code Analysis",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling",
-    "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis",
     "output/attachment/d0dfd26236f912009058fcb755fe3a7c.jpg",
     "output/attachment/e64951f0110cc9cba636d1296f3f729b.png",
     "output/attachment/62cf90ae6d4a682679c999cec7aac652.jpg",
