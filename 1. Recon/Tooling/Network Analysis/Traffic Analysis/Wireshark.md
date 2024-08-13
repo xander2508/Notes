@@ -110,4 +110,10 @@ To extract files from a stream:
 - stop your capture.
 - Select the File radial → Export → , then select the protocol format to extract from.
 - (DICOM, HTTP, SMB, etc.)
+* To export the images: Select “File → Export Objects → HTTP → `file.JPG`.
 
+Filtering for JPEG image files:
+
+```
+http && image-jfif
+```
