@@ -81,6 +81,22 @@ Here is a table of common and helpful display filters with a description of each
 
 The plugins here can give us detailed reports about the network traffic being utilized. It can show us everything from the top talkers in our environment to specific conversations and even breakdown by IP and protocol.
 
-#### Analyze Tab
+#### Analyse Tab
 
-From the Analyze tab, we can utilize plugins that allow us to do things such as following TCP streams, filter on conversation types, prepare new packet filters and examine the expert info Wireshark generates about the traffic.
+From the Analyse tab, we can utilize plugins that allow us to do things such as following TCP streams, filter on conversation types, prepare new packet filters and examine the expert info Wireshark generates about the traffic.
+
+##### Following TCP Streams
+
+Wireshark can stitch TCP packets back together to recreate the entire stream in a readable format. This ability also allows us to pull data (`images, files, etc.`) out of the capture. This works for almost any protocol that utilizes TCP as a transport mechanism.
+
+To utilize this feature:
+
+- right-click on a packet from the stream we wish to recreate.
+- select follow → TCP
+- this will open a new window with the stream stitched back together. From here, we can see the entire conversation.
+
+Search:
+
+```
+tcp.stream eq 0
+```
