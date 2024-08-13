@@ -232,8 +232,9 @@
   },
   "active": "a29c4b164fdbd065",
   "lastOpenFiles": [
-    "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts/Vulnerabilities/Denial-of-Service.md",
+    "1. Recon/Tooling/Network Analysis/Wi-Fi Capture.md",
     "2. Enumeration/Other/~. 802.11 (WiFi)/1. Guide.md",
+    "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts/Vulnerabilities/Denial-of-Service.md",
     "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts/Vulnerabilities",
     "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts",
     "2. Enumeration/Other/~. ARP/Concepts/Vulnerabilities/ARP Scanning & Denial-of-Service.md",
@@ -269,7 +270,6 @@
     "7. Misc/Images/wireshark-interface.webp",
     "7. Misc/Images/termshark.webp",
     "2. Enumeration/TCP/53. DNS/1. Guide.md",
-    "1. Recon/Tooling/Network Analysis/3. Network Analysis Steps.md",
     "7. Misc/Images/breakdown.webp",
     "5. Standard Information/Networking/Protocols",
     "7. Misc/Images/workflow.webp",
