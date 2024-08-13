@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Recon/Tooling/Network Analysis/1. Analysis Overview.md",
+                "file": "2. Enumeration/TCP/53. DNS/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Recon/Tooling/Network Analysis/1. Analysis Overview.md",
+                "file": "2. Enumeration/TCP/53. DNS/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Recon/Tooling/Network Analysis/1. Analysis Overview.md",
+                "file": "2. Enumeration/TCP/53. DNS/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Recon/Tooling/Network Analysis/1. Analysis Overview.md"
+                "file": "2. Enumeration/TCP/53. DNS/1. Guide.md"
               }
             }
           },
@@ -232,8 +232,9 @@
   },
   "active": "8997cf29f2506e9c",
   "lastOpenFiles": [
-    "1. Recon/Tooling/Network Analysis/3. Network Analysis Steps.md",
     "1. Recon/Tooling/Network Analysis/1. Analysis Overview.md",
+    "2. Enumeration/TCP/53. DNS/1. Guide.md",
+    "1. Recon/Tooling/Network Analysis/3. Network Analysis Steps.md",
     "1. Recon/Tooling/Network Analysis/Traffic Analysis/TCPDump.md",
     "1. Recon/Tooling/Network Analysis/Traffic Analysis/TCPick.md",
     "1. Recon/Tooling/Network Analysis/2. Filtering Traffic.md",
@@ -262,7 +263,6 @@
     "5. Standard Information/Networking/Packet Syntax (BPF).md",
     "1. Recon/Tooling/Network Analysis",
     "5. Standard Information/Networking/Network Interception Devices.md",
-    "1. Recon/Tooling/Network Analysis/Traffic Analysis/NGrep.md",
     "1. Recon/Tooling/Network Analysis/Traffic Analysis",
     "5. Standard Information/Security/Detection Rules",
     "5. Standard Information/Security",
