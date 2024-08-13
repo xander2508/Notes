@@ -230,8 +230,9 @@
       "mermaid-tools:Open Mermaid Toolbar": true
     }
   },
-  "active": "744b9316b7030f7b",
+  "active": "a29c4b164fdbd065",
   "lastOpenFiles": [
+    "7. Misc/Images/deauth-attack.webp",
     "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts/Vulnerabilities/Deauthentication Attacks.md",
     "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts/Vulnerabilities/Denial-of-Service.md",
     "2. Enumeration/Other/~. 802.11 (WiFi)/1. Guide.md",
@@ -267,7 +268,6 @@
     "2. Enumeration/TCP/21. FTP Control/1. Guide.md",
     "2. Enumeration/TCP/20. FTP/1. Guide.md",
     "1. Recon/Tooling/Network Analysis/Untitled",
-    "1. Recon/Tooling/Network Analysis/Traffic Analysis/TShark.md",
     "7. Misc/Images/wireshark-interface.webp",
     "7. Misc/Images/termshark.webp",
     "7. Misc/Images/breakdown.webp",
