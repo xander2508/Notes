@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/Other/~. ARP/Concepts/Vulnerabilities/ARP Scanning & Denial-of-Service.md",
+                "file": "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts/Vulnerabilities/Denial-of-Service.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/Other/~. ARP/Concepts/Vulnerabilities/ARP Scanning & Denial-of-Service.md",
+                "file": "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts/Vulnerabilities/Denial-of-Service.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/Other/~. ARP/Concepts/Vulnerabilities/ARP Scanning & Denial-of-Service.md",
+                "file": "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts/Vulnerabilities/Denial-of-Service.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/Other/~. ARP/Concepts/Vulnerabilities/ARP Scanning & Denial-of-Service.md"
+                "file": "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts/Vulnerabilities/Denial-of-Service.md"
               }
             }
           },
@@ -232,8 +232,13 @@
   },
   "active": "a29c4b164fdbd065",
   "lastOpenFiles": [
-    "2. Enumeration/Other/~. ARP/Concepts/Vulnerabilities/ARP Poisoning & Spoofing.md",
+    "2. Enumeration/Other/~. 802.11 (WiFi)/1. Guide.md",
+    "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts/Vulnerabilities/Denial-of-Service.md",
+    "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts/Vulnerabilities",
+    "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts",
     "2. Enumeration/Other/~. ARP/Concepts/Vulnerabilities/ARP Scanning & Denial-of-Service.md",
+    "2. Enumeration/Other/~. 802.11 (WiFi)",
+    "2. Enumeration/Other/~. ARP/Concepts/Vulnerabilities/ARP Poisoning & Spoofing.md",
     "5. Standard Information/Networking/Protocols/MAC Addresses.md",
     "2. Enumeration/Other/~. ARP/Traffic Analysis.md",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Traffic Analysis.md",
@@ -265,15 +270,10 @@
     "7. Misc/Images/termshark.webp",
     "2. Enumeration/TCP/53. DNS/1. Guide.md",
     "1. Recon/Tooling/Network Analysis/3. Network Analysis Steps.md",
-    "1. Recon/Tooling/Network Analysis/Traffic Analysis/TCPDump.md",
-    "1. Recon/Tooling/Network Analysis/Traffic Analysis/TCPick.md",
     "7. Misc/Images/breakdown.webp",
     "5. Standard Information/Networking/Protocols",
     "7. Misc/Images/workflow.webp",
     "1. Recon/Tooling/Network Analysis",
-    "1. Recon/Tooling/Network Analysis/Traffic Analysis",
-    "5. Standard Information/Security/Detection Rules",
-    "5. Standard Information/Security",
     "output/attachment/d0dfd26236f912009058fcb755fe3a7c.jpg",
     "output/attachment/e64951f0110cc9cba636d1296f3f729b.png",
     "output/attachment/62cf90ae6d4a682679c999cec7aac652.jpg",
