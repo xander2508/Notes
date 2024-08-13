@@ -40,3 +40,20 @@ sudo apt install wireshark
     - The Packet Bytes window allows us to look at the packet contents in ASCII or hex output. As we select a field from the windows above, it will be highlighted in the Packet Bytes window and show us where that bit or byte falls within the overall packet.
     - This is a great way to validate that what we see in the Details pane is accurate and the interpretation Wireshark made matches the packet output.
     - Each line in the output contains the data offset, sixteen hexadecimal bytes, and sixteen ASCII bytes. Non-printable bytes are replaced with a period in the ASCII format.
+
+#### Capture Filters
+
+`Capture Filters-` are entered before the capture is started. [Berkeley packet filters - IBM Documentation](https://www.ibm.com/docs/en/qsip/7.4?topic=queries-berkeley-packet-filters)
+Here is a table of common and helpful capture filters with a description of each:
+
+|**Capture Filters**|**Result**|
+|:-:|---|
+|host x.x.x.x|Capture only traffic pertaining to a certain host|
+|net x.x.x.x/24|Capture traffic to or from a specific network (using slash notation to specify the mask)|
+|src/dst net x.x.x.x/24|Using src or dst net will only capture traffic sourcing from the specified network or destined to the target network|
+|port #|will filter out all traffic except the port you specify|
+|not port #|will capture everything except the port specified|
+|port # and #|AND will concatenate your specified ports|
+|portrange x-x|portrange will grab traffic from all ports within the range only|
+|ip / ether / tcp|These filters will only grab traffic from specified protocol headers.|
+|broadcast / multicast / unicast|Grabs a specific type of traffic. one to one, one to many, or one to all.|
