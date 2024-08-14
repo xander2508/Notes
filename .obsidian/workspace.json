@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/AWS/Services/AWS Config.md",
+                "file": "5. Standard Information/AWS/Services/Security/Amazon Macie.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/AWS/Services/AWS Config.md",
+                "file": "5. Standard Information/AWS/Services/Security/Amazon Macie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/AWS/Services/AWS Config.md",
+                "file": "5. Standard Information/AWS/Services/Security/Amazon Macie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/AWS/Services/AWS Config.md"
+                "file": "5. Standard Information/AWS/Services/Security/Amazon Macie.md"
               }
             }
           },
@@ -232,8 +232,9 @@
   },
   "active": "bb56d5503bf7ca00",
   "lastOpenFiles": [
-    "5. Standard Information/AWS/Services/AWS Transit Gateway.md",
     "5. Standard Information/AWS/Services/AWS Config.md",
+    "5. Standard Information/AWS/Services/Security/Amazon Macie.md",
+    "5. Standard Information/AWS/Services/AWS Transit Gateway.md",
     "5. Standard Information/AWS/Services/Amazon Health.md",
     "5. Standard Information/AWS/Services/Amazon Connect.md",
     "5. Standard Information/AWS/Services/Deployment/AWS CodeCommit.md",
@@ -262,7 +263,6 @@
     "1. Recon/Tooling/Network Analysis/Wi-Fi Capture.md",
     "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts/Vulnerabilities",
     "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts",
-    "2. Enumeration/Other/~. ARP/Concepts/Vulnerabilities/ARP Scanning & Denial-of-Service.md",
     "2. Enumeration/Other/~. 802.11 (WiFi)",
     "2. Enumeration/Other/~. ARP/Concepts/Information",
     "2. Enumeration/Other/~. ARP/Concepts/Vulnerabilities",
