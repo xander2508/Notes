@@ -13,6 +13,7 @@ Use the [**AWS Billing & Cost Management dashboard**](https://docs.aws.amazon.c
 
 The consolidated billing feature of AWS Organizations enables you to receive a single bill for all AWS accounts in your organization. By consolidating, you can easily track the combined costs of all the linked accounts in your organization. The default maximum number of accounts allowed for an organization is 4, but you can contact AWS Support to increase your quota, if needed.
 
+All accounts can receive the hourly cost benefit of the Reserved Instances.
 ## AWS Budgets
 
 In [**AWS Budgets**](https://aws.amazon.com/aws-cost-management/aws-budgets), you can create budgets to plan your service usage, service costs, and instance reservations.
