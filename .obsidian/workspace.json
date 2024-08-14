@@ -66,7 +66,7 @@
             }
           },
           {
-            "id": "ad253bfab855da22",
+            "id": "b5e71d10eaf6ee6c",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -225,9 +225,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true,
       "omnisearch:Omnisearch": false,
       "obsidian-importer:Open Importer": true,
+      "mermaid-tools:Open Mermaid Toolbar": true,
       "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false,
-      "mermaid-tools:Open Mermaid Toolbar": true
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "a29c4b164fdbd065",
