@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/AWS/Sales/AWS Cloud Adoption Framework (CAF).md",
+                "file": "5. Standard Information/AWS/Services/Compute/Virtual Machines/Amazon Elastic Compute Cloud (EC2).md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/AWS/Sales/AWS Cloud Adoption Framework (CAF).md",
+                "file": "5. Standard Information/AWS/Services/Compute/Virtual Machines/Amazon Elastic Compute Cloud (EC2).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/AWS/Sales/AWS Cloud Adoption Framework (CAF).md",
+                "file": "5. Standard Information/AWS/Services/Compute/Virtual Machines/Amazon Elastic Compute Cloud (EC2).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/AWS/Sales/AWS Cloud Adoption Framework (CAF).md"
+                "file": "5. Standard Information/AWS/Services/Compute/Virtual Machines/Amazon Elastic Compute Cloud (EC2).md"
               }
             }
           },
@@ -224,6 +224,16 @@
   },
   "active": "bb56d5503bf7ca00",
   "lastOpenFiles": [
+    "5. Standard Information/AWS/Services/Compute/Serverless/AWS Lambda.md",
+    "5. Standard Information/AWS/Services/Compute/Serverless/AWS Fargate.md",
+    "5. Standard Information/AWS/Services/Compute/Container Services/Amazon Elastic Kubernetes Service (EKS).md",
+    "5. Standard Information/AWS/Services/Compute/Container Services/Amazon Elastic Container Service (ECS).md",
+    "5. Standard Information/AWS/Services/Compute/Container Services/Amazon Elastic Container Registry (ECR).md",
+    "5. Standard Information/AWS/Sales/Cloud Economics.md",
+    "5. Standard Information/AWS/Sales/AWS Well-Architected Framework.md",
+    "5. Standard Information/AWS/Sales/AWS Pricing Concepts.md",
+    "5. Standard Information/AWS/Sales/AWS Free Tier.md",
+    "5. Standard Information/AWS/Sales/AWS Cloud Adoption Framework (CAF).md",
     "5. Standard Information/AWS/Sales/AWS Billing & Cost Management Dashboard.md",
     "5. Standard Information/AWS/Services/Security/Amazon GuardDuty.md",
     "5. Standard Information/AWS/Services/Security/Amazon Macie.md",
@@ -240,19 +250,9 @@
     "5. Standard Information/AWS/Services/Deployment",
     "5. Standard Information/AWS/Services/Deployment/AWS CloudFormation.md",
     "5. Standard Information/AWS/Services/Compute/Virtual Machines/Amazon Elastic Compute Cloud (EC2).md",
-    "5. Standard Information/AWS/Services/Compute/Container Services/Amazon Elastic Container Service (ECS).md",
-    "5. Standard Information/AWS/Services/Compute/Container Services/Amazon Elastic Container Registry (ECR).md",
     "5. Standard Information/AWS/Services/AWS Marketplace.md",
-    "5. Standard Information/AWS/Services/Storage/Block Storage/Amazon Elastic Block Store (EBS).md",
-    "5. Standard Information/AWS/Services/AWS CloudWatch.md",
-    "5. Standard Information/AWS/Services/Storage/Block Storage/Amazon EC2 Instance Store.md",
-    "5. Standard Information/AWS/Maintaining Resiliency.md",
-    "5. Standard Information/AWS/Scope of AWS Services.md",
-    "5. Standard Information/AWS/What Is AWS.md",
-    "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts/Vulnerabilities/Denial-of-Service.md",
     "5. Standard Information/AWS/AWS.zip",
     "7. Misc/Images/deauth-attack.webp",
-    "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts/Vulnerabilities/Deauthentication Attacks.md",
     "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts/Vulnerabilities",
     "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts",
     "2. Enumeration/Other/~. 802.11 (WiFi)",
