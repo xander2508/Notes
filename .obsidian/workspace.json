@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Security/Amazon Macie.md",
+                "file": "5. Standard Information/AWS/Sales/AWS Cloud Adoption Framework (CAF).md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Security/Amazon Macie.md",
+                "file": "5. Standard Information/AWS/Sales/AWS Cloud Adoption Framework (CAF).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Security/Amazon Macie.md",
+                "file": "5. Standard Information/AWS/Sales/AWS Cloud Adoption Framework (CAF).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Security/Amazon Macie.md"
+                "file": "5. Standard Information/AWS/Sales/AWS Cloud Adoption Framework (CAF).md"
               }
             }
           },
@@ -224,9 +224,11 @@
   },
   "active": "bb56d5503bf7ca00",
   "lastOpenFiles": [
+    "5. Standard Information/AWS/Sales/AWS Billing & Cost Management Dashboard.md",
+    "5. Standard Information/AWS/Services/Security/Amazon GuardDuty.md",
+    "5. Standard Information/AWS/Services/Security/Amazon Macie.md",
     "5. Standard Information/AWS/Services/Security/AWS Security Bulletins.md",
     "5. Standard Information/AWS/Services/AWS Transit Gateway.md",
-    "5. Standard Information/AWS/Services/Security/Amazon Macie.md",
     "5. Standard Information/AWS/Services/AWS Config.md",
     "5. Standard Information/AWS/Services/Amazon Health.md",
     "5. Standard Information/AWS/Services/Amazon Connect.md",
@@ -237,7 +239,6 @@
     "5. Standard Information/AWS/AWS CodeDeploy.md",
     "5. Standard Information/AWS/Services/Deployment",
     "5. Standard Information/AWS/Services/Deployment/AWS CloudFormation.md",
-    "5. Standard Information/AWS/Sales/AWS Billing & Cost Management Dashboard.md",
     "5. Standard Information/AWS/Services/Compute/Virtual Machines/Amazon Elastic Compute Cloud (EC2).md",
     "5. Standard Information/AWS/Services/Compute/Container Services/Amazon Elastic Container Service (ECS).md",
     "5. Standard Information/AWS/Services/Compute/Container Services/Amazon Elastic Container Registry (ECR).md",
@@ -252,7 +253,6 @@
     "5. Standard Information/AWS/AWS.zip",
     "7. Misc/Images/deauth-attack.webp",
     "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts/Vulnerabilities/Deauthentication Attacks.md",
-    "2. Enumeration/Other/~. 802.11 (WiFi)/1. Guide.md",
     "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts/Vulnerabilities",
     "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts",
     "2. Enumeration/Other/~. 802.11 (WiFi)",
