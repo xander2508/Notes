@@ -6,3 +6,5 @@
 This ties the lifecycle of the data to the lifecycle of the EC2 instance. If you delete the instance, the instance store is also deleted. Because of this, instance store is considered ephemeral storage.
 
 It’s ideal for temporary storage of information that changes frequently, such as buffers, caches, scratch data, and other temporary content.
+
+It can survive a reboot but nothing else.

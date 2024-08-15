@@ -1,3 +1,7 @@
+
+[TCP Protocol](https://tools.ietf.org/html/rfc793)
+[UDP Protocol](https://tools.ietf.org/html/rfc768)
+
 The Transport Layer has several mechanisms to help ensure the seamless delivery of data from source to destination. Think about the Transport layer as a control hub. Application data from the higher layers have to traverse down the stack to the Transport layer. This layer directs how the traffic will be encapsulated and thrown to the lower layer protocols ( IP and MAC ). Once the data reaches its intended recipient, the Transport layer, working with the Network / Internet layer protocols, is responsible for reassembling the encapsulated data back in the correct order. The two mechanisms used to accomplish this task are the Transmission Control (`TCP`) and the User Datagram Protocol (`UDP`).
 
 #### TCP VS. UDP

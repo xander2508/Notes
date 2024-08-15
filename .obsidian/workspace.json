@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ad074544e25f7927",
+        "id": "722cb5db25fd9037",
         "type": "tabs",
         "children": [
           {
-            "id": "e3ec342542d91bb8",
+            "id": "bb56d5503bf7ca00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Powershell/Everything is an Object.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73a513f185cc994d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "5. Standard Information/AWS/Services/Security/AWS Security Bulletins.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +67,7 @@
             }
           },
           {
-            "id": "9162902093212b34",
+            "id": "b5e71d10eaf6ee6c",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -108,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "5. Standard Information/AWS/Services/Security/AWS Security Bulletins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "5. Standard Information/AWS/Services/Security/AWS Security Bulletins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "5. Standard Information/AWS/Services/Security/AWS Security Bulletins.md"
               }
             }
           },
@@ -228,58 +216,65 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
-      "obsidian-importer:Open Importer": false,
+      "breadcrumbs:Breadcrumbs Visualisation": true,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "omnisearch:Omnisearch": false,
+      "obsidian-importer:Open Importer": true,
+      "mermaid-tools:Open Mermaid Toolbar": true,
       "smart-connections:Open: View Smart Connections": false,
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "73a513f185cc994d",
+  "active": "bb56d5503bf7ca00",
   "lastOpenFiles": [
-    "7. Misc/smart-chats",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Event Tracing for Windows (ETW).md",
-    "4. Post Exploitation/Operating Systems/Windows/Tooling/Invoke-Obfuscation.md",
-    "4. Post Exploitation/Operating Systems/Windows/Tooling/PsGetSystem.md",
-    "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Bring Your Own Land.md",
-    "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Impersonate Users.md",
-    "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Process Injection.md",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)/SilkETW.md",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)/Logman.md",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)/GUI Alternatives.md",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/wevtutil.md",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/System Monitor (Sysmon).md",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Get-WinEvent.md",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/Event Tracing for Windows (ETW)",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Tools",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Querying Logs.md",
-    "7. Misc/Images/image77.webp",
-    "7. Misc/Images/image35.webp",
-    "7. Misc/Images/image33.webp",
-    "7. Misc/Images/image21.webp",
-    "7. Misc/Images/image21 1.webp",
-    "7. Misc/Images/image15.webp",
-    "7. Misc/Images/image14.webp",
-    "7. Misc/Images/etw.webp",
-    "7. Misc/Images/Pasted image 20240724135747.png",
-    "5. Standard Information/Operating Systems/Windows/Powershell/Everything is an Object.md",
-    "conflict-files-obsidian-git.md",
-    "smart-chats",
-    "5. Standard Information/Operating Systems/Windows/Security/Security.md",
-    "7. Misc/Images/image7.webp",
-    "smart-chats/UNTITLED CHAT 2024-06-16 12 11 57.md",
-    "smart-chats/UNTITLED CHAT 2024-06-16 11 55 44.md",
-    "5. Standard Information/Operating Systems/Windows/Event Log",
-    "3. Exploitation/Generic Vulnerabilities/Padding Oracle.md",
-    "5. Standard Information/Operating Systems/Windows/Powershell/1. Overview.md",
-    "5. Standard Information/Operating Systems/Linux/Logging.md",
-    "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Scheduled Tasks/1. Guide.md",
-    "5. Standard Information/Operating Systems/Windows/Powershell/Modules",
-    "5. Standard Information/Operating Systems/Windows/PowerShell",
-    "2. Enumeration/TCP/80. HTTP/Concepts/Interactions",
-    "3. Exploitation/Obtaining Remote Shells/Specific Shells/Windows",
-    "2. Enumeration/Other/~. ARP",
-    "4. Post Exploitation/Operating Systems/Windows/Concepts and Vulnerabilities/Network",
+    "5. Standard Information/AWS/Services/Security/Amazon Macie.md",
+    "5. Standard Information/AWS/Services/Security/AWS Security Bulletins.md",
+    "5. Standard Information/AWS/Services/AWS Config.md",
+    "5. Standard Information/AWS/Services/AWS Transit Gateway.md",
+    "5. Standard Information/AWS/Services/Amazon Health.md",
+    "5. Standard Information/AWS/Services/Amazon Connect.md",
+    "5. Standard Information/AWS/Services/Deployment/AWS CodeCommit.md",
+    "5. Standard Information/AWS/Services/Deployment/AWS OpsWorks.md",
+    "5. Standard Information/AWS/Services/Deployment/AWS CodePipeline.md",
+    "5. Standard Information/AWS/Services/Deployment/AWS Elastic Beanstalk.md",
+    "5. Standard Information/AWS/AWS CodeDeploy.md",
+    "5. Standard Information/AWS/Services/Deployment",
+    "5. Standard Information/AWS/Services/Deployment/AWS CloudFormation.md",
+    "5. Standard Information/AWS/Sales/AWS Billing & Cost Management Dashboard.md",
+    "5. Standard Information/AWS/Services/Compute/Virtual Machines/Amazon Elastic Compute Cloud (EC2).md",
+    "5. Standard Information/AWS/Services/Compute/Container Services/Amazon Elastic Container Service (ECS).md",
+    "5. Standard Information/AWS/Services/Compute/Container Services/Amazon Elastic Container Registry (ECR).md",
+    "5. Standard Information/AWS/Services/AWS Marketplace.md",
+    "5. Standard Information/AWS/Services/Storage/Block Storage/Amazon Elastic Block Store (EBS).md",
+    "5. Standard Information/AWS/Services/AWS CloudWatch.md",
+    "5. Standard Information/AWS/Services/Storage/Block Storage/Amazon EC2 Instance Store.md",
+    "5. Standard Information/AWS/Maintaining Resiliency.md",
+    "5. Standard Information/AWS/Scope of AWS Services.md",
+    "5. Standard Information/AWS/What Is AWS.md",
+    "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts/Vulnerabilities/Denial-of-Service.md",
+    "5. Standard Information/AWS/AWS.zip",
+    "7. Misc/Images/deauth-attack.webp",
+    "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts/Vulnerabilities/Deauthentication Attacks.md",
+    "2. Enumeration/Other/~. 802.11 (WiFi)/1. Guide.md",
+    "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts/Vulnerabilities",
+    "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts",
+    "2. Enumeration/Other/~. 802.11 (WiFi)",
+    "2. Enumeration/Other/~. ARP/Concepts/Information",
+    "2. Enumeration/Other/~. ARP/Concepts/Vulnerabilities",
+    "2. Enumeration/Other/~. ARP/Concepts",
+    "3. Exploitation/Known Exploits/Applications",
+    "7. Misc/Images/import-steps.webp",
+    "7. Misc/Images/import-ws.webp",
+    "1. Recon/Tooling/Network Analysis/Untitled",
+    "7. Misc/Images/wireshark-interface.webp",
+    "7. Misc/Images/termshark.webp",
+    "7. Misc/Images/breakdown.webp",
+    "7. Misc/Images/workflow.webp",
+    "output/attachment/d0dfd26236f912009058fcb755fe3a7c.jpg",
+    "output/attachment/e64951f0110cc9cba636d1296f3f729b.png",
+    "output/attachment/62cf90ae6d4a682679c999cec7aac652.jpg",
     "Untitled.canvas"
   ]
 }
