@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Security/AWS Security Bulletins.md",
+                "file": "5. Standard Information/AWS/Services/Security/Amazon Macie.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Security/AWS Security Bulletins.md",
+                "file": "5. Standard Information/AWS/Services/Security/Amazon Macie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Security/AWS Security Bulletins.md",
+                "file": "5. Standard Information/AWS/Services/Security/Amazon Macie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Security/AWS Security Bulletins.md"
+                "file": "5. Standard Information/AWS/Services/Security/Amazon Macie.md"
               }
             }
           },
@@ -224,10 +224,10 @@
   },
   "active": "bb56d5503bf7ca00",
   "lastOpenFiles": [
-    "5. Standard Information/AWS/Services/Security/Amazon Macie.md",
     "5. Standard Information/AWS/Services/Security/AWS Security Bulletins.md",
-    "5. Standard Information/AWS/Services/AWS Config.md",
     "5. Standard Information/AWS/Services/AWS Transit Gateway.md",
+    "5. Standard Information/AWS/Services/Security/Amazon Macie.md",
+    "5. Standard Information/AWS/Services/AWS Config.md",
     "5. Standard Information/AWS/Services/Amazon Health.md",
     "5. Standard Information/AWS/Services/Amazon Connect.md",
     "5. Standard Information/AWS/Services/Deployment/AWS CodeCommit.md",
