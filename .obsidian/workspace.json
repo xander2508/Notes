@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Recon/Port Scanning/Tooling/AutoRecon.md",
+                "file": "1. Recon/Port Scanning/Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Recon/Port Scanning/Tooling/AutoRecon.md",
+                "file": "1. Recon/Port Scanning/Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Recon/Port Scanning/Tooling/AutoRecon.md",
+                "file": "1. Recon/Port Scanning/Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Recon/Port Scanning/Tooling/AutoRecon.md"
+                "file": "1. Recon/Port Scanning/Types.md"
               }
             }
           },
@@ -230,10 +230,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "744b9316b7030f7b",
+  "active": "bb56d5503bf7ca00",
   "lastOpenFiles": [
-    "1. Recon/Port Scanning/Tooling/Nmap.md",
     "1. Recon/Port Scanning/Tooling/AutoRecon.md",
+    "1. Recon/Port Scanning/Types.md",
+    "1. Recon/Port Scanning/Tooling/Nmap.md",
     "5. Standard Information/Networking/Protocols/TCP UDP, Transport Mechanisms.md",
     "1. Recon/Port Scanning/Tooling",
     "1. Recon/1. Guide.md",
@@ -273,7 +274,6 @@
     "2. Enumeration/TCP/80. HTTP/Concepts/Attacks",
     "2. Enumeration/TCP/80. HTTP/Concepts/Untitled.md",
     "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts/Vulnerabilities/Denial-of-Service",
-    "5. Standard Information/AWS/Services/Security/AWS Security Bulletins.md",
     "5. Standard Information/AWS/Services/Deployment",
     "5. Standard Information/AWS/AWS.zip",
     "7. Misc/Images/deauth-attack.webp",
