@@ -1,4 +1,3 @@
-## Deauthentication Attacks
 
 Among the more frequent attacks we might witness or detect is a deauthentication/dissociation attack. This is a commonplace link-layer precursor attack that adversaries might employ for several reasons:
 
@@ -15,3 +14,9 @@ The client device cannot really discern the difference without additional contro
 In most scenarios, basic tools like `aireplay-ng` and `mdk4` employ reason `code 7` for deauthentication.
 
 ### Identifying Deauthentication Attacks
+
+Suppose we wanted to take a look at the deauthentication frames from our BSSID or an attacker pretending to send these from our BSSID, we could use the following Wireshark filter:
+
+```
+(wlan.bssid == xx:xx:xx:xx:xx:xx) and (wlan.fc.type == 00) and (wlan.fc.type_subtype == 12)
+```

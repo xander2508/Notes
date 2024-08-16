@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Compute/Virtual Machines/Amazon Elastic Compute Cloud (EC2).md",
+                "file": "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts/Vulnerabilities/Denial-of-Service/Deauthentication Attacks.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             }
           },
           {
-            "id": "04fd3b5fed12cb10",
+            "id": "b5e71d10eaf6ee6c",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 365.5
   },
   "right": {
     "id": "ab865be945a38766",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Compute/Virtual Machines/Amazon Elastic Compute Cloud (EC2).md",
+                "file": "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts/Vulnerabilities/Denial-of-Service/Deauthentication Attacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Compute/Virtual Machines/Amazon Elastic Compute Cloud (EC2).md",
+                "file": "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts/Vulnerabilities/Denial-of-Service/Deauthentication Attacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Compute/Virtual Machines/Amazon Elastic Compute Cloud (EC2).md"
+                "file": "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts/Vulnerabilities/Denial-of-Service/Deauthentication Attacks.md"
               }
             }
           },
@@ -194,52 +194,49 @@
               "type": "smart-connections-chat-view",
               "state": {}
             }
+          },
+          {
+            "id": "e9650463bb3ccbf2",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 547.5,
+    "width": 774.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "mermaid-tools:Open Mermaid Toolbar": true,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": true,
-      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
       "command-palette:Open command palette": false,
       "breadcrumbs:Breadcrumbs Visualisation": true,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": true,
       "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "omnisearch:Omnisearch": false,
       "obsidian-importer:Open Importer": true,
+      "mermaid-tools:Open Mermaid Toolbar": true,
       "smart-connections:Open: View Smart Connections": false,
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "bb56d5503bf7ca00",
   "lastOpenFiles": [
-    "5. Standard Information/AWS/Services/Compute/Serverless/AWS Lambda.md",
-    "5. Standard Information/AWS/Services/Compute/Serverless/AWS Fargate.md",
-    "5. Standard Information/AWS/Services/Compute/Container Services/Amazon Elastic Kubernetes Service (EKS).md",
-    "5. Standard Information/AWS/Services/Compute/Container Services/Amazon Elastic Container Service (ECS).md",
-    "5. Standard Information/AWS/Services/Compute/Container Services/Amazon Elastic Container Registry (ECR).md",
-    "5. Standard Information/AWS/Sales/Cloud Economics.md",
-    "5. Standard Information/AWS/Sales/AWS Well-Architected Framework.md",
-    "5. Standard Information/AWS/Sales/AWS Pricing Concepts.md",
-    "5. Standard Information/AWS/Sales/AWS Free Tier.md",
-    "5. Standard Information/AWS/Sales/AWS Cloud Adoption Framework (CAF).md",
-    "5. Standard Information/AWS/Sales/AWS Billing & Cost Management Dashboard.md",
-    "5. Standard Information/AWS/Services/Security/Amazon GuardDuty.md",
-    "5. Standard Information/AWS/Services/Security/Amazon Macie.md",
+    "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts/Vulnerabilities/Denial-of-Service",
     "5. Standard Information/AWS/Services/Security/AWS Security Bulletins.md",
-    "5. Standard Information/AWS/Services/AWS Transit Gateway.md",
+    "5. Standard Information/AWS/Services/Security/Amazon Macie.md",
     "5. Standard Information/AWS/Services/AWS Config.md",
+    "5. Standard Information/AWS/Services/AWS Transit Gateway.md",
     "5. Standard Information/AWS/Services/Amazon Health.md",
     "5. Standard Information/AWS/Services/Amazon Connect.md",
     "5. Standard Information/AWS/Services/Deployment/AWS CodeCommit.md",
@@ -249,10 +246,21 @@
     "5. Standard Information/AWS/AWS CodeDeploy.md",
     "5. Standard Information/AWS/Services/Deployment",
     "5. Standard Information/AWS/Services/Deployment/AWS CloudFormation.md",
+    "5. Standard Information/AWS/Sales/AWS Billing & Cost Management Dashboard.md",
     "5. Standard Information/AWS/Services/Compute/Virtual Machines/Amazon Elastic Compute Cloud (EC2).md",
+    "5. Standard Information/AWS/Services/Compute/Container Services/Amazon Elastic Container Service (ECS).md",
+    "5. Standard Information/AWS/Services/Compute/Container Services/Amazon Elastic Container Registry (ECR).md",
     "5. Standard Information/AWS/Services/AWS Marketplace.md",
+    "5. Standard Information/AWS/Services/Storage/Block Storage/Amazon Elastic Block Store (EBS).md",
+    "5. Standard Information/AWS/Services/AWS CloudWatch.md",
+    "5. Standard Information/AWS/Services/Storage/Block Storage/Amazon EC2 Instance Store.md",
+    "5. Standard Information/AWS/Maintaining Resiliency.md",
+    "5. Standard Information/AWS/Scope of AWS Services.md",
+    "5. Standard Information/AWS/What Is AWS.md",
+    "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts/Vulnerabilities/Denial-of-Service/Deauthentication Attacks.md",
     "5. Standard Information/AWS/AWS.zip",
     "7. Misc/Images/deauth-attack.webp",
+    "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts/Vulnerabilities/Deauthentication Attacks.md",
     "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts/Vulnerabilities",
     "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts",
     "2. Enumeration/Other/~. 802.11 (WiFi)",
