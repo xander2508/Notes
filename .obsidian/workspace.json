@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/80. HTTP/Concepts/Information/Detecting Strange HTTP Headers.md",
+                "file": "2. Enumeration/TCP/80. HTTP/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Tunnelling",
+                "query": "ssl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/80. HTTP/Concepts/Information/Detecting Strange HTTP Headers.md",
+                "file": "2. Enumeration/TCP/22. SSH/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/80. HTTP/Concepts/Information/Detecting Strange HTTP Headers.md",
+                "file": "2. Enumeration/TCP/22. SSH/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/80. HTTP/Concepts/Information/Detecting Strange HTTP Headers.md"
+                "file": "2. Enumeration/TCP/22. SSH/1. Guide.md"
               }
             }
           },
@@ -243,10 +242,15 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "c618bb54ee868ce0",
+  "active": "bb56d5503bf7ca00",
   "lastOpenFiles": [
-    "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/ICMP Tunnelling.md",
+    "2. Enumeration/TCP/80. HTTP/1. Guide.md",
+    "3. Exploitation/File Types and Data/2. Programs and Executables Guide.md",
+    "2. Enumeration/TCP/80. HTTP/3. TLS and SSL Handshakes.md",
+    "2. Enumeration/TCP/80. HTTP/2. Information.md",
+    "3. Exploitation/Known Exploits/Networking and Packet/SSL Renegotiation Attacks.md",
     "2. Enumeration/TCP/80. HTTP/Concepts/Information/Detecting Strange HTTP Headers.md",
+    "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/ICMP Tunnelling.md",
     "7. Misc/Images/3-ICMP-tunneling.webp",
     "7. Misc/Images/Pasted image 20240816161106.jpg",
     "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/SSH Tunnelling.md",
@@ -275,19 +279,14 @@
     "1. Recon/Network Analysis/Traffic Analysis/Wireshark.md",
     "1. Recon/Network Analysis/Traffic Analysis/TShark.md",
     "3. Exploitation/Known Exploits/Networking and Packet/IP Source & Destination Spoofing Attacks/Initialization Vector Generation.md",
-    "3. Exploitation/Known Exploits/Networking and Packet/IP Source & Destination Spoofing Attacks.md",
     "3. Exploitation/Known Exploits/Networking and Packet/IP Source & Destination Spoofing Attacks",
     "3. Exploitation/Known Exploits/Networking and Packet",
     "7. Misc/Images/4-frag.webp",
     "7. Misc/Images/2-frag.webp",
-    "2. Enumeration/Other/~. ICMP/1. Guide.md",
     "3. Exploitation/Evasion",
-    "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts/Vulnerabilities/Denial-of-Service/Rogue Access Point & Evil-Twin Attacks.md",
     "3. Exploitation/Known Exploits/User Interaction/HTTP",
     "3. Exploitation/Known Exploits/User Interaction",
-    "3. Exploitation/Known Exploits/Untitled.md",
     "7. Misc/Images/3-evil-twin.webp",
-    "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts/Vulnerabilities/Denial-of-Service/Deauthentication Attacks.md",
     "2. Enumeration/TCP/80. HTTP/Concepts/Attacks",
     "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts/Vulnerabilities/Denial-of-Service",
     "5. Standard Information/AWS/Services/Deployment",
