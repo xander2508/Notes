@@ -20,3 +20,9 @@ Suppose we wanted to take a look at the deauthentication frames from our BSSID o
 ```
 (wlan.bssid == xx:xx:xx:xx:xx:xx) and (wlan.fc.type == 00) and (wlan.fc.type_subtype == 12)
 ```
+
+If we wanted to verify this was done by an attacker, we should be able to filter even further for only deauthentication requests with reason `code 7`. As mentioned, `aireplay-ng` and `mdk4`, which are common attack tools, utilize this reason code by default. We could do with the following wireshark filter.
+
+```
+(wlan.bssid == F8:14:FE:4D:E6:F1) and (wlan.fc.type == 00) and (wlan.fc.type_subtype == 12) and (wlan.fixed.reason_code == 7)
+```
