@@ -5,8 +5,9 @@ Addressing rogue access points and evil-twin attacks can seem like a gargantuan 
 A Rogue Access Point (RAP) is a wireless access point that has been installed on a network without authorization. These devices are often used by attackers to intercept sensitive information, such as login credentials or financial data, from unsuspecting users who connect to them. Rogue Access Points can be set up by physically connecting a device to the network or by using software to create a virtual access point.
 
 A rogue access point primarily serves as a tool to circumvent perimeter controls in place. An adversary might install such an access point to sidestep network controls and segmentation barriers, which could, in many cases, take the form of hotspots or tethered connections. These rogue points have even been known to infiltrate air-gapped networks. Their primary function is to provide unauthorized access to restricted sections of a network. The critical point to remember here is that rogue access points are directly connected to the network.
+#### Finding Rogue Access Points
 
-
+On the other hand, detecting rogue access points can often be a simple task of checking our network device lists. In the case of hotspot-based rogue access points (such as Windows hotspots), we might scrutinize wireless networks in our immediate vicinity. If we encounter an unrecognizable wireless network with a strong signal, particularly if it lacks encryption, this could indicate that a user has established a rogue access point to navigate around our perimeter controls.
 ## Evil-Twin
 
 An Evil-Twin router is a type of rogue access point that is set up to mimic a legitimate Wi-Fi network in order to trick users into connecting to it. This allows attackers to intercept sensitive information such as usernames, passwords, and credit card numbers.
@@ -54,3 +55,9 @@ Under such circumstances, we could explore other aspects of the beacon frame, su
 
 Despite comprehensive security awareness training, some users may fall prey to attacks like these. Fortunately, in the case of open network style evil-twin attacks, we can view most higher-level traffic in an unencrypted format.
 
+If we detect ARP requests emanating from a client device connected to the suspicious network, we would identify this as a potential compromise indicator. In such instances, we should record pertinent details about the client device to further our incident response efforts.
+
+1. `Its MAC address`
+2. `Its host name`
+
+Consequently, we might be able to instigate password resets and other reactive measures to prevent further infringement of our environment.
