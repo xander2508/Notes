@@ -139,3 +139,8 @@ To apply the key in Wireshark:
 
 ![[import-steps.webp]]
 
+#### Fragmentation 
+
+If our Wireshark is not reassembling packets for our inspection, we can make a quick change in our preferences for the IPv4 protocol.
+
+![[4-frag.webp]]
