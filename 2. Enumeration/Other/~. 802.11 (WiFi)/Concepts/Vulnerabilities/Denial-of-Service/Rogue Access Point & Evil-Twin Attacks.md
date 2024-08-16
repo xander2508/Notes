@@ -46,3 +46,11 @@ When we switch to the illegitimate access point's RSN information, we may find i
 
 ![[3-evil-twin.webp]]
 
+We should always probe additional fields for discrepancies, particularly when dealing with more sophisticated evil-twin attacks. For example, an attacker might employ the same cipher that our access point uses, making the detection of this attack more challenging.
+
+Under such circumstances, we could explore other aspects of the beacon frame, such as vendor-specific information, which is likely absent from the attacker's access point.
+
+#### Identifying a Fallen User
+
+Despite comprehensive security awareness training, some users may fall prey to attacks like these. Fortunately, in the case of open network style evil-twin attacks, we can view most higher-level traffic in an unencrypted format.
+
