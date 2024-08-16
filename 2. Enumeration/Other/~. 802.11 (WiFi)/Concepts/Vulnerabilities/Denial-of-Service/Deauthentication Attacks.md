@@ -26,3 +26,9 @@ If we wanted to verify this was done by an attacker, we should be able to filter
 ```
 (wlan.bssid == F8:14:FE:4D:E6:F1) and (wlan.fc.type == 00) and (wlan.fc.type_subtype == 12) and (wlan.fixed.reason_code == 7)
 ```
+
+#### Mitigations 
+
+1. `Enable IEEE 802.11w (Management Frame Protection)`
+2. `Utilize WPA3-SAE`
+3. `Modify our WIDS/WIPS detection rules`
