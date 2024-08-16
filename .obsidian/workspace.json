@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/ICMP Tunnelling.md",
+                "file": "2. Enumeration/TCP/80. HTTP/Concepts/Information/Detecting Strange HTTP Headers.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/ICMP Tunnelling.md",
+                "file": "2. Enumeration/TCP/80. HTTP/Concepts/Information/Detecting Strange HTTP Headers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/ICMP Tunnelling.md",
+                "file": "2. Enumeration/TCP/80. HTTP/Concepts/Information/Detecting Strange HTTP Headers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/ICMP Tunnelling.md"
+                "file": "2. Enumeration/TCP/80. HTTP/Concepts/Information/Detecting Strange HTTP Headers.md"
               }
             }
           },
@@ -245,10 +245,11 @@
   },
   "active": "c618bb54ee868ce0",
   "lastOpenFiles": [
+    "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/ICMP Tunnelling.md",
+    "2. Enumeration/TCP/80. HTTP/Concepts/Information/Detecting Strange HTTP Headers.md",
     "7. Misc/Images/3-ICMP-tunneling.webp",
     "7. Misc/Images/Pasted image 20240816161106.jpg",
     "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/SSH Tunnelling.md",
-    "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/ICMP Tunnelling.md",
     "7. Misc/Images/basic-tunnel-1.webp",
     "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling",
     "2. Enumeration/TCP/22. SSH/1. Guide.md",
@@ -286,7 +287,6 @@
     "3. Exploitation/Known Exploits/User Interaction",
     "3. Exploitation/Known Exploits/Untitled.md",
     "7. Misc/Images/3-evil-twin.webp",
-    "7. Misc/Images/2-evil-twin.webp",
     "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts/Vulnerabilities/Denial-of-Service/Deauthentication Attacks.md",
     "2. Enumeration/TCP/80. HTTP/Concepts/Attacks",
     "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts/Vulnerabilities/Denial-of-Service",
