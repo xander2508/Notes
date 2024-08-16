@@ -232,6 +232,8 @@
   },
   "active": "bb56d5503bf7ca00",
   "lastOpenFiles": [
+    "7. Misc/Images/3-evil-twin.webp",
+    "7. Misc/Images/2-evil-twin.webp",
     "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts/Vulnerabilities/Denial-of-Service/Deauthentication Attacks.md",
     "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts/Vulnerabilities/Denial-of-Service/Rogue Access Point & Evil-Twin Attacks.md",
     "2. Enumeration/TCP/80. HTTP/Concepts/Attacks/Hostile Portal Attacks.md",
@@ -260,7 +262,6 @@
     "5. Standard Information/AWS/Services/Compute/Container Services/Amazon Elastic Container Registry (ECR).md",
     "5. Standard Information/AWS/Services/AWS Marketplace.md",
     "5. Standard Information/AWS/Services/Storage/Block Storage/Amazon Elastic Block Store (EBS).md",
-    "5. Standard Information/AWS/Services/AWS CloudWatch.md",
     "5. Standard Information/AWS/AWS.zip",
     "7. Misc/Images/deauth-attack.webp",
     "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts/Vulnerabilities",
@@ -277,7 +278,6 @@
     "7. Misc/Images/workflow.webp",
     "output/attachment/d0dfd26236f912009058fcb755fe3a7c.jpg",
     "output/attachment/e64951f0110cc9cba636d1296f3f729b.png",
-    "output/attachment/62cf90ae6d4a682679c999cec7aac652.jpg",
     "Untitled.canvas"
   ]
 }

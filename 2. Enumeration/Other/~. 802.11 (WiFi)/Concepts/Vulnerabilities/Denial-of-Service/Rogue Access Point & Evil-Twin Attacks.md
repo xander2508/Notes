@@ -35,3 +35,14 @@ To conclusively ascertain whether this is an anomaly or an Airodump-ng error, we
 ```
 (wlan.fc.type == 00) and (wlan.fc.type_subtype == 8)
 ```
+
+Beacon analysis is crucial in differentiating between genuine and fraudulent access points. One of the initial places to start is the `Robust Security Network (RSN)` information. This data communicates valuable information to clients about the supported ciphers, among other things.
+
+Our legitimate access point's RSN information.
+
+![[2-evil-twin.webp]]
+
+When we switch to the illegitimate access point's RSN information, we may find it conspicuously missing.
+
+![[3-evil-twin.webp]]
+
