@@ -32,3 +32,12 @@ If we wanted to verify this was done by an attacker, we should be able to filter
 1. `Enable IEEE 802.11w (Management Frame Protection)`
 2. `Utilize WPA3-SAE`
 3. `Modify our WIDS/WIPS detection rules`
+
+
+#### Finding Failed Authentication Attempts
+
+Suppose an attacker was to attempt to connect to our wireless network. We might notice an excessive amount of association requests coming from one device. To filter for these we could use the following.
+
+```
+(wlan.bssid == F8:14:FE:4D:E6:F1) and (wlan.fc.type == 00) and (wlan.fc.type_subtype == 0) or (wlan.fc.type_subtype == 1) or (wlan.fc.type_subtype == 11)
+```
