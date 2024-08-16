@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Exploitation/Known Exploits/Networking and Packet/TCP Connection Resets & Hijacking.md",
+                "file": "2. Enumeration/TCP/22. SSH/1. Guide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c618bb54ee868ce0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/ICMP Tunnelling.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hex",
+                "query": "tag:#Tunnelling",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Exploitation/Known Exploits/Networking and Packet/TCP Connection Resets & Hijacking.md",
+                "file": "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/ICMP Tunnelling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Exploitation/Known Exploits/Networking and Packet/TCP Connection Resets & Hijacking.md",
+                "file": "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/ICMP Tunnelling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Exploitation/Known Exploits/Networking and Packet/TCP Connection Resets & Hijacking.md"
+                "file": "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/ICMP Tunnelling.md"
               }
             }
           },
@@ -230,10 +243,17 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "bb56d5503bf7ca00",
+  "active": "c618bb54ee868ce0",
   "lastOpenFiles": [
-    "1. Recon/Port Scanning/Types.md",
+    "7. Misc/Images/3-ICMP-tunneling.webp",
+    "7. Misc/Images/Pasted image 20240816161106.jpg",
+    "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/SSH Tunnelling.md",
+    "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/ICMP Tunnelling.md",
+    "7. Misc/Images/basic-tunnel-1.webp",
+    "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling",
+    "2. Enumeration/TCP/22. SSH/1. Guide.md",
     "3. Exploitation/Known Exploits/Networking and Packet/TCP Connection Resets & Hijacking.md",
+    "1. Recon/Port Scanning/Types.md",
     "1. Recon/Port Scanning/Tooling/AutoRecon.md",
     "1. Recon/Port Scanning/Tooling/Nmap.md",
     "5. Standard Information/Networking/Protocols/TCP UDP, Transport Mechanisms.md",
@@ -268,16 +288,9 @@
     "7. Misc/Images/3-evil-twin.webp",
     "7. Misc/Images/2-evil-twin.webp",
     "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts/Vulnerabilities/Denial-of-Service/Deauthentication Attacks.md",
-    "3. Exploitation/Known Exploits/User Interaction/HTTP/Hostile Portal Attacks.md",
-    "3. Exploitation/Operating System Specific/Windows/Active Directory/Attacks and Exploits.md",
-    "3. Exploitation/Operating System Specific/Windows/Active Directory/1. Guide.md",
-    "3. Exploitation/Operating System Specific/Windows/Active Directory/AD Hostile Portal Attacks.md",
     "2. Enumeration/TCP/80. HTTP/Concepts/Attacks",
     "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts/Vulnerabilities/Denial-of-Service",
     "5. Standard Information/AWS/Services/Deployment",
-    "5. Standard Information/AWS/AWS.zip",
-    "7. Misc/Images/deauth-attack.webp",
-    "7. Misc/Images/import-steps.webp",
     "Untitled.canvas"
   ]
 }
