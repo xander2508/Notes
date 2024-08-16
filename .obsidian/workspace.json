@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Exploitation/Known Exploits/Networking and Packet/IP Source & Destination Spoofing Attacks/LAND Attacks.md",
+                "file": "3. Exploitation/Known Exploits/Networking and Packet/IP Time-to-Live Attacks.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Exploitation/Known Exploits/Networking and Packet/IP Source & Destination Spoofing Attacks/LAND Attacks.md",
+                "file": "3. Exploitation/Known Exploits/Networking and Packet/IP Time-to-Live Attacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Exploitation/Known Exploits/Networking and Packet/IP Source & Destination Spoofing Attacks/LAND Attacks.md",
+                "file": "3. Exploitation/Known Exploits/Networking and Packet/IP Time-to-Live Attacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Exploitation/Known Exploits/Networking and Packet/IP Source & Destination Spoofing Attacks/LAND Attacks.md"
+                "file": "3. Exploitation/Known Exploits/Networking and Packet/IP Time-to-Live Attacks.md"
               }
             }
           },
@@ -232,9 +232,11 @@
   },
   "active": "bb56d5503bf7ca00",
   "lastOpenFiles": [
+    "7. Misc/Images/ttl-attack-diagram.webp",
+    "3. Exploitation/Known Exploits/Networking and Packet/IP Source & Destination Spoofing Attacks/LAND Attacks.md",
+    "3. Exploitation/Known Exploits/Networking and Packet/IP Time-to-Live Attacks.md",
     "3. Exploitation/Known Exploits/Networking and Packet/IP Source & Destination Spoofing Attacks/SMURF Attacks.md",
     "Random Source attacks.md",
-    "3. Exploitation/Known Exploits/Networking and Packet/IP Source & Destination Spoofing Attacks/LAND Attacks.md",
     "3. Exploitation/Known Exploits/Networking and Packet/IP Source & Destination Spoofing Attacks/Random Source Attack DDoS.md",
     "3. Exploitation/Known Exploits/Networking and Packet/IP Source & Destination Spoofing Attacks/Decoy Scanning.md",
     "7. Misc/Images/0_VGlb9wnI2jEGzg5E.webp",
@@ -270,8 +272,6 @@
     "5. Standard Information/AWS/Services/Security/Amazon Macie.md",
     "5. Standard Information/AWS/Services/AWS Config.md",
     "5. Standard Information/AWS/Services/AWS Transit Gateway.md",
-    "5. Standard Information/AWS/Services/Amazon Health.md",
-    "5. Standard Information/AWS/Services/Amazon Connect.md",
     "5. Standard Information/AWS/Services/Deployment",
     "5. Standard Information/AWS/AWS.zip",
     "7. Misc/Images/deauth-attack.webp",
