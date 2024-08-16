@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Exploitation/Known Exploits/Networking and Packet/Packet Abuse of Fragmentation.md",
+                "file": "3. Exploitation/Known Exploits/Networking and Packet/IP Source & Destination Spoofing Attacks/Random Source Attack DDoS.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Exploitation/Known Exploits/Networking and Packet/Packet Abuse of Fragmentation.md",
+                "file": "3. Exploitation/Known Exploits/Networking and Packet/IP Source & Destination Spoofing Attacks/Random Source Attack DDoS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Exploitation/Known Exploits/Networking and Packet/Packet Abuse of Fragmentation.md",
+                "file": "3. Exploitation/Known Exploits/Networking and Packet/IP Source & Destination Spoofing Attacks/Random Source Attack DDoS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Exploitation/Known Exploits/Networking and Packet/Packet Abuse of Fragmentation.md"
+                "file": "3. Exploitation/Known Exploits/Networking and Packet/IP Source & Destination Spoofing Attacks/Random Source Attack DDoS.md"
               }
             }
           },
@@ -233,6 +233,8 @@
   "active": "bb56d5503bf7ca00",
   "lastOpenFiles": [
     "3. Exploitation/Known Exploits/Networking and Packet/IP Source & Destination Spoofing Attacks/Decoy Scanning.md",
+    "7. Misc/Images/0_VGlb9wnI2jEGzg5E.webp",
+    "3. Exploitation/Known Exploits/Networking and Packet/Packet Abuse of Fragmentation.md",
     "7. Misc/Images/2-decoy.webp",
     "7. Misc/Images/1-decoy.webp",
     "3. Exploitation/Known Exploits/Networking and Packet/IP Source & Destination Spoofing Attacks/1. Guide.md",
@@ -246,7 +248,6 @@
     "3. Exploitation/Known Exploits/Networking and Packet/IP Source & Destination Spoofing Attacks",
     "3. Exploitation/Known Exploits/Networking and Packet",
     "7. Misc/Images/4-frag.webp",
-    "3. Exploitation/Known Exploits/Networking and Packet/Packet Abuse of Fragmentation.md",
     "7. Misc/Images/2-frag.webp",
     "2. Enumeration/Other/~. ICMP/1. Guide.md",
     "3. Exploitation/Evasion",
@@ -276,7 +277,6 @@
     "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts/Vulnerabilities",
     "7. Misc/Images/import-steps.webp",
     "7. Misc/Images/import-ws.webp",
-    "7. Misc/Images/wireshark-interface.webp",
     "Untitled.canvas"
   ]
 }
