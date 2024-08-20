@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tools/InterPlanetary File System.md",
+                "file": "1. Recon/Network Analysis/1. Analysis Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "windows diff",
+                "query": "rfc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tools/InterPlanetary File System.md",
+                "file": "1. Recon/Network Analysis/1. Analysis Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tools/InterPlanetary File System.md",
+                "file": "1. Recon/Network Analysis/1. Analysis Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tools/InterPlanetary File System.md"
+                "file": "1. Recon/Network Analysis/1. Analysis Overview.md"
               }
             }
           },
@@ -232,8 +232,14 @@
   },
   "active": "5d6920b90fee13f8",
   "lastOpenFiles": [
-    "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/DNS Tunnelling.md",
+    "1. Recon/Network Analysis/3. Network Analysis Steps.md",
+    "1. Recon/Network Analysis/2. Filtering Traffic.md",
+    "2. Enumeration/TCP/23. Telnet/1. Guide.md",
+    "7. Misc/Images/Internet.webp",
+    "1. Recon/1. Guide.md",
     "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tools/InterPlanetary File System.md",
+    "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/DNS Tunnelling.md",
+    "2. Enumeration/TCP/23. Telnet",
     "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tools",
     "7. Misc/Images/4-DNSTraffic.webp",
     "7. Misc/Images/3-DNSTraffic.webp",
@@ -259,25 +265,19 @@
     "1. Recon/Port Scanning/Tooling/Nmap.md",
     "5. Standard Information/Networking/Protocols/TCP UDP, Transport Mechanisms.md",
     "1. Recon/Port Scanning/Tooling",
-    "1. Recon/1. Guide.md",
     "3. Exploitation/Known Exploits/Networking and Packet/IP Time-to-Live Attacks.md",
     "7. Misc/Images/ttl-attack-diagram.webp",
     "3. Exploitation/Known Exploits/Networking and Packet/IP Source & Destination Spoofing Attacks/LAND Attacks.md",
     "3. Exploitation/Known Exploits/Networking and Packet/IP Source & Destination Spoofing Attacks/SMURF Attacks.md",
     "Random Source attacks.md",
-    "3. Exploitation/Known Exploits/Networking and Packet/IP Source & Destination Spoofing Attacks/Random Source Attack DDoS.md",
-    "3. Exploitation/Known Exploits/Networking and Packet/IP Source & Destination Spoofing Attacks/Decoy Scanning.md",
     "7. Misc/Images/0_VGlb9wnI2jEGzg5E.webp",
-    "3. Exploitation/Known Exploits/Networking and Packet/Packet Abuse of Fragmentation.md",
     "7. Misc/Images/2-decoy.webp",
     "7. Misc/Images/1-decoy.webp",
     "3. Exploitation/Known Exploits/Networking and Packet/IP Source & Destination Spoofing Attacks",
     "3. Exploitation/Known Exploits/Networking and Packet",
-    "7. Misc/Images/4-frag.webp",
     "3. Exploitation/Evasion",
     "3. Exploitation/Known Exploits/User Interaction/HTTP",
     "3. Exploitation/Known Exploits/User Interaction",
-    "2. Enumeration/TCP/80. HTTP/Concepts/Attacks",
     "Untitled.canvas"
   ]
 }
