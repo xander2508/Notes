@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/DNS Tunnelling.md",
+                "file": "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tools/InterPlanetary File System.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/DNS Tunnelling.md",
+                "file": "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tools/InterPlanetary File System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/DNS Tunnelling.md",
+                "file": "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tools/InterPlanetary File System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/DNS Tunnelling.md"
+                "file": "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tools/InterPlanetary File System.md"
               }
             }
           },
@@ -232,10 +232,12 @@
   },
   "active": "5d6920b90fee13f8",
   "lastOpenFiles": [
+    "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/DNS Tunnelling.md",
+    "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tools/InterPlanetary File System.md",
+    "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tools",
     "7. Misc/Images/4-DNSTraffic.webp",
     "7. Misc/Images/3-DNSTraffic.webp",
     "1. Recon/Network Analysis/1. Analysis Overview.md",
-    "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/DNS Tunnelling.md",
     "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/SSH Tunnelling.md",
     "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/ICMP Tunnelling.md",
     "2. Enumeration/TCP/53. DNS/1. Guide.md",
@@ -272,12 +274,10 @@
     "3. Exploitation/Known Exploits/Networking and Packet/IP Source & Destination Spoofing Attacks",
     "3. Exploitation/Known Exploits/Networking and Packet",
     "7. Misc/Images/4-frag.webp",
-    "7. Misc/Images/2-frag.webp",
     "3. Exploitation/Evasion",
     "3. Exploitation/Known Exploits/User Interaction/HTTP",
     "3. Exploitation/Known Exploits/User Interaction",
     "2. Enumeration/TCP/80. HTTP/Concepts/Attacks",
-    "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts/Vulnerabilities/Denial-of-Service",
     "Untitled.canvas"
   ]
 }
