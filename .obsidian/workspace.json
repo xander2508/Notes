@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Default Tooling/Process Monitor (ProcMon).md",
+                "file": "5. Standard Information/Penetration Testing/Stages/4. Exploitation.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Default Tooling/Process Monitor (ProcMon).md",
+                "file": "5. Standard Information/Penetration Testing/Stages/4. Exploitation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Default Tooling/Process Monitor (ProcMon).md",
+                "file": "5. Standard Information/Penetration Testing/Stages/4. Exploitation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Default Tooling/Process Monitor (ProcMon).md"
+                "file": "5. Standard Information/Penetration Testing/Stages/4. Exploitation.md"
               }
             }
           },
@@ -232,6 +232,8 @@
   },
   "active": "5d6920b90fee13f8",
   "lastOpenFiles": [
+    "7. Misc/Images/0-PT-Process-EX.webp",
+    "5. Standard Information/Operating Systems/Windows/Default Tooling/Process Monitor (ProcMon).md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Tools/System Monitor (Sysmon).md",
     "5. Standard Information/Penetration Testing/Stages/3. Vulnerability Assessment/Vulnerability Research and Analysis.md",
     "5. Standard Information/Penetration Testing/Stages/3. Vulnerability Assessment/3. Vulnerability Assessment.md",
@@ -261,8 +263,6 @@
     "5. Standard Information/Penetration Testing/Stages/7. Proof-of-Concept.md",
     "5. Standard Information/Penetration Testing/Stages/6. Lateral Movement.md",
     "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation.md",
-    "5. Standard Information/Penetration Testing/Stages/4. Exploitation.md",
-    "5. Standard Information/Penetration Testing/2. Testing Methods.md",
     "5. Standard Information/Penetration Testing/Stages",
     "5. Standard Information/Penetration Testing/Laws and Regulations",
     "7. Misc/Images/0-PT-Process-PRE.webp",
