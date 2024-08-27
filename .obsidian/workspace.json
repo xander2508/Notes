@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/6. Lateral Movement/Pivoting.md",
+                "file": "5. Standard Information/Penetration Testing/Stages/6. Lateral Movement/6. Lateral Movement.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/6. Lateral Movement/Pivoting.md",
+                "file": "5. Standard Information/Penetration Testing/Stages/6. Lateral Movement/6. Lateral Movement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/6. Lateral Movement/Pivoting.md",
+                "file": "5. Standard Information/Penetration Testing/Stages/6. Lateral Movement/6. Lateral Movement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/6. Lateral Movement/Pivoting.md"
+                "file": "5. Standard Information/Penetration Testing/Stages/6. Lateral Movement/6. Lateral Movement.md"
               }
             }
           },
@@ -232,11 +232,12 @@
   },
   "active": "5d6920b90fee13f8",
   "lastOpenFiles": [
+    "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/2. Information Gathering.md",
     "5. Standard Information/Penetration Testing/Stages/6. Lateral Movement/6. Lateral Movement.md",
+    "5. Standard Information/Penetration Testing/Stages/6. Lateral Movement/Evasive Testing.md",
     "5. Standard Information/Penetration Testing/Stages/6. Lateral Movement/Pivoting.md",
     "7. Misc/Images/0-PT-Process-LA.webp",
     "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Privilege Escalation.md",
-    "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/2. Information Gathering.md",
     "5. Standard Information/Penetration Testing/Stages/6. Lateral Movement",
     "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Data Exfiltration.md",
     "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/5. Post-Exploitation.md",
@@ -267,7 +268,6 @@
     "1. Recon/Open Source Intelligence/1. Guide.md",
     "7. Misc/Images/0-PT-Process-IG.webp",
     "5. Standard Information/Penetration Testing/Stages/2. Information Gathering",
-    "5. Standard Information/Penetration Testing/Stages/1. Pre-Engagement/1. Pre-Engagement.md",
     "5. Standard Information/Penetration Testing/Stages/1. Pre-Engagement",
     "5. Standard Information/Penetration Testing/Stages",
     "5. Standard Information/Penetration Testing/Laws and Regulations",
