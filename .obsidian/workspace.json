@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "388ed4fd35ea2ae5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/1. Pre-Engagement.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -243,7 +230,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "388ed4fd35ea2ae5",
+  "active": "5d6920b90fee13f8",
   "lastOpenFiles": [
     "5. Standard Information/Penetration Testing/Laws and Regulations/2. Non-Disclosure Agreement (NDA).md",
     "5. Standard Information/Penetration Testing/Stages/1. Pre-Engagement.md",
