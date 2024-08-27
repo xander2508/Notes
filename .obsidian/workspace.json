@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/3. Vulnerability Assessment/Vulnerability Research and Analysis.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Default Tooling/Process Monitor (ProcMon).md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rfc",
+                "query": "process hacker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/3. Vulnerability Assessment/Vulnerability Research and Analysis.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Default Tooling/Process Monitor (ProcMon).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/3. Vulnerability Assessment/Vulnerability Research and Analysis.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Default Tooling/Process Monitor (ProcMon).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/3. Vulnerability Assessment/Vulnerability Research and Analysis.md"
+                "file": "5. Standard Information/Operating Systems/Windows/Default Tooling/Process Monitor (ProcMon).md"
               }
             }
           },
@@ -232,8 +232,9 @@
   },
   "active": "5d6920b90fee13f8",
   "lastOpenFiles": [
-    "5. Standard Information/Penetration Testing/Stages/3. Vulnerability Assessment/3. Vulnerability Assessment.md",
+    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/System Monitor (Sysmon).md",
     "5. Standard Information/Penetration Testing/Stages/3. Vulnerability Assessment/Vulnerability Research and Analysis.md",
+    "5. Standard Information/Penetration Testing/Stages/3. Vulnerability Assessment/3. Vulnerability Assessment.md",
     "5. Standard Information/Penetration Testing/Stages/3. Vulnerability Assessment",
     "5. Standard Information/Penetration Testing/Stages/Untitled.md",
     "7. Misc/Images/0-PT-Process-VA.webp",
@@ -263,7 +264,6 @@
     "5. Standard Information/Penetration Testing/Stages/4. Exploitation.md",
     "5. Standard Information/Penetration Testing/2. Testing Methods.md",
     "5. Standard Information/Penetration Testing/Stages",
-    "5. Standard Information/Penetration Testing/Laws and Regulations/1. Laws and Regulations.md",
     "5. Standard Information/Penetration Testing/Laws and Regulations",
     "7. Misc/Images/0-PT-Process-PRE.webp",
     "7. Misc/Images/0-PT-Process.webp",
