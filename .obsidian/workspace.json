@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Laws and Regulations/1. Laws and Regulations.md",
+                "file": "5. Standard Information/Penetration Testing/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 317.5
   },
   "right": {
     "id": "ab865be945a38766",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Laws and Regulations/1. Laws and Regulations.md",
+                "file": "5. Standard Information/Penetration Testing/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Laws and Regulations/1. Laws and Regulations.md",
+                "file": "5. Standard Information/Penetration Testing/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Laws and Regulations/1. Laws and Regulations.md"
+                "file": "5. Standard Information/Penetration Testing/1. Guide.md"
               }
             }
           },
@@ -232,15 +232,15 @@
   },
   "active": "5d6920b90fee13f8",
   "lastOpenFiles": [
+    "5. Standard Information/Penetration Testing/2. Testing Methods.md",
+    "5. Standard Information/Penetration Testing/1. Guide.md",
+    "5. Standard Information/Penetration Testing/Laws and Regulations/1. Laws and Regulations.md",
     "5. Standard Information/Penetration Testing/Laws and Regulations/China.md",
     "5. Standard Information/Penetration Testing/Laws and Regulations/India.md",
     "5. Standard Information/Penetration Testing/Laws and Regulations/UK.md",
     "5. Standard Information/Penetration Testing/Laws and Regulations/Europe.md",
     "5. Standard Information/Penetration Testing/Laws and Regulations/USA.md",
-    "5. Standard Information/Penetration Testing/Laws and Regulations/1. Laws and Regulations.md",
     "5. Standard Information/Penetration Testing/Laws and Regulations",
-    "5. Standard Information/Penetration Testing/2. Testing Methods.md",
-    "5. Standard Information/Penetration Testing/1. Guide.md",
     "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/DNS Tunnelling.md",
     "7. Misc/Images/0-PT-Process-PRE.webp",
     "7. Misc/Images/0-PT-Process.webp",
