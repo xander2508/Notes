@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/4. Exploitation.md",
+                "file": "5. Standard Information/Penetration Testing/Stages/4. Exploitation/Prioritization of Possible Attacks.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/4. Exploitation.md",
+                "file": "5. Standard Information/Penetration Testing/Stages/4. Exploitation/Prioritization of Possible Attacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/4. Exploitation.md",
+                "file": "5. Standard Information/Penetration Testing/Stages/4. Exploitation/Prioritization of Possible Attacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/4. Exploitation.md"
+                "file": "5. Standard Information/Penetration Testing/Stages/4. Exploitation/Prioritization of Possible Attacks.md"
               }
             }
           },
@@ -232,6 +232,10 @@
   },
   "active": "5d6920b90fee13f8",
   "lastOpenFiles": [
+    "5. Standard Information/Penetration Testing/Stages/4. Exploitation/4. Exploitation.md",
+    "5. Standard Information/Penetration Testing/Stages/4. Exploitation/Prioritization of Possible Attacks.md",
+    "5. Standard Information/Penetration Testing/Stages/4. Exploitation/Untitled",
+    "5. Standard Information/Penetration Testing/Stages/4. Exploitation",
     "7. Misc/Images/0-PT-Process-EX.webp",
     "5. Standard Information/Operating Systems/Windows/Default Tooling/Process Monitor (ProcMon).md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Tools/System Monitor (Sysmon).md",
@@ -262,7 +266,6 @@
     "5. Standard Information/Penetration Testing/1. Guide.md",
     "5. Standard Information/Penetration Testing/Stages/7. Proof-of-Concept.md",
     "5. Standard Information/Penetration Testing/Stages/6. Lateral Movement.md",
-    "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation.md",
     "5. Standard Information/Penetration Testing/Stages",
     "5. Standard Information/Penetration Testing/Laws and Regulations",
     "7. Misc/Images/0-PT-Process-PRE.webp",
@@ -273,11 +276,8 @@
     "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tools",
     "7. Misc/Images/4-DNSTraffic.webp",
     "7. Misc/Images/3-DNSTraffic.webp",
-    "1. Recon/Network Analysis/Untitled",
     "7. Misc/Images/3-ICMP-tunneling.webp",
     "7. Misc/Images/Pasted image 20240816161106.jpg",
-    "7. Misc/Images/basic-tunnel-1.webp",
-    "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling",
     "Untitled.canvas"
   ]
 }
