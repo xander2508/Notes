@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Pillaging.md",
+                "file": "5. Standard Information/Penetration Testing/Stages/3. Vulnerability Assessment.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Pillaging.md",
+                "file": "5. Standard Information/Penetration Testing/Stages/3. Vulnerability Assessment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Pillaging.md",
+                "file": "5. Standard Information/Penetration Testing/Stages/3. Vulnerability Assessment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Pillaging.md"
+                "file": "5. Standard Information/Penetration Testing/Stages/3. Vulnerability Assessment.md"
               }
             }
           },
@@ -232,8 +232,9 @@
   },
   "active": "5d6920b90fee13f8",
   "lastOpenFiles": [
-    "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/2. Information Gathering.md",
+    "7. Misc/Images/0-PT-Process-VA.webp",
     "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Pillaging.md",
+    "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/2. Information Gathering.md",
     "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Host Enumeration.md",
     "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Service Enumeration.md",
     "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Infrastructure Enumeration.md",
@@ -261,7 +262,6 @@
     "5. Standard Information/Penetration Testing/Stages",
     "5. Standard Information/Penetration Testing/Laws and Regulations/1. Laws and Regulations.md",
     "5. Standard Information/Penetration Testing/Laws and Regulations/China.md",
-    "5. Standard Information/Penetration Testing/Laws and Regulations/India.md",
     "5. Standard Information/Penetration Testing/Laws and Regulations",
     "7. Misc/Images/0-PT-Process-PRE.webp",
     "7. Misc/Images/0-PT-Process.webp",
