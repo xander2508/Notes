@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Recon/Open Source Intelligence/1. Guide.md",
+                "file": "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Pillaging.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Recon/Open Source Intelligence/1. Guide.md",
+                "file": "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Pillaging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Recon/Open Source Intelligence/1. Guide.md",
+                "file": "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Pillaging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Recon/Open Source Intelligence/1. Guide.md"
+                "file": "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Pillaging.md"
               }
             }
           },
@@ -233,6 +233,12 @@
   "active": "5d6920b90fee13f8",
   "lastOpenFiles": [
     "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/2. Information Gathering.md",
+    "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Pillaging.md",
+    "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Host Enumeration.md",
+    "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Service Enumeration.md",
+    "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Infrastructure Enumeration.md",
+    "1. Recon/1. Guide.md",
+    "1. Recon/Network Analysis/3. Network Analysis Steps.md",
     "1. Recon/Open Source Intelligence/1. Guide.md",
     "7. Misc/Images/0-PT-Process-IG.webp",
     "5. Standard Information/Penetration Testing/Stages/2. Information Gathering",
@@ -256,16 +262,10 @@
     "5. Standard Information/Penetration Testing/Laws and Regulations/1. Laws and Regulations.md",
     "5. Standard Information/Penetration Testing/Laws and Regulations/China.md",
     "5. Standard Information/Penetration Testing/Laws and Regulations/India.md",
-    "5. Standard Information/Penetration Testing/Laws and Regulations/UK.md",
-    "5. Standard Information/Penetration Testing/Laws and Regulations/Europe.md",
-    "5. Standard Information/Penetration Testing/Laws and Regulations/USA.md",
     "5. Standard Information/Penetration Testing/Laws and Regulations",
-    "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/DNS Tunnelling.md",
     "7. Misc/Images/0-PT-Process-PRE.webp",
     "7. Misc/Images/0-PT-Process.webp",
-    "1. Recon/Network Analysis/1. Analysis Overview.md",
     "5. Standard Information/Penetration Testing",
-    "1. Recon/Network Analysis/3. Network Analysis Steps.md",
     "7. Misc/Images/Internet.webp",
     "2. Enumeration/TCP/23. Telnet",
     "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tools",
