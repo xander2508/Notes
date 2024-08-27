@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Persistence.md",
+                "file": "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Privilege Escalation.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Persistence.md",
+                "file": "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Privilege Escalation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Persistence.md",
+                "file": "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Privilege Escalation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Persistence.md"
+                "file": "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Privilege Escalation.md"
               }
             }
           },
@@ -233,7 +233,11 @@
   "active": "5d6920b90fee13f8",
   "lastOpenFiles": [
     "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/5. Post-Exploitation.md",
+    "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Privilege Escalation.md",
+    "5. Standard Information/Penetration Testing/Stages/3. Vulnerability Assessment/3. Vulnerability Assessment.md",
     "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Persistence.md",
+    "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Vulnerability Assessment.md",
+    "4. Post Exploitation/Command Line Restrictions.md",
     "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Pillaging.md",
     "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Evasive Testing.md",
     "5. Standard Information/Penetration Testing/Stages/4. Exploitation/4. Exploitation.md",
@@ -247,7 +251,6 @@
     "5. Standard Information/Operating Systems/Windows/Default Tooling/Process Monitor (ProcMon).md",
     "5. Standard Information/Operating Systems/Windows/Event Log/Tools/System Monitor (Sysmon).md",
     "5. Standard Information/Penetration Testing/Stages/3. Vulnerability Assessment/Vulnerability Research and Analysis.md",
-    "5. Standard Information/Penetration Testing/Stages/3. Vulnerability Assessment/3. Vulnerability Assessment.md",
     "5. Standard Information/Penetration Testing/Stages/3. Vulnerability Assessment",
     "5. Standard Information/Penetration Testing/Stages/Untitled.md",
     "7. Misc/Images/0-PT-Process-VA.webp",
@@ -263,10 +266,7 @@
     "5. Standard Information/Penetration Testing/Stages/1. Pre-Engagement/Kick-Off Meeting.md",
     "5. Standard Information/Penetration Testing/Stages/1. Pre-Engagement/Contractors Agreement.md",
     "5. Standard Information/Penetration Testing/Stages/1. Pre-Engagement/Pre-Engagement Meeting.md",
-    "5. Standard Information/Penetration Testing/Stages/1. Pre-Engagement/Rules of Engagement.md",
-    "5. Standard Information/Penetration Testing/Stages/1. Pre-Engagement/Scoping Questionnaire.md",
     "5. Standard Information/Penetration Testing/Stages/1. Pre-Engagement",
-    "5. Standard Information/Penetration Testing/Laws and Regulations/2. Non-Disclosure Agreement (NDA).md",
     "5. Standard Information/Penetration Testing/Stages",
     "5. Standard Information/Penetration Testing/Laws and Regulations",
     "7. Misc/Images/0-PT-Process-PRE.webp",
