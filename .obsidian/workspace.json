@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/3. Vulnerability Assessment.md",
+                "file": "5. Standard Information/Penetration Testing/Stages/3. Vulnerability Assessment/Vulnerability Research and Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/3. Vulnerability Assessment.md",
+                "file": "5. Standard Information/Penetration Testing/Stages/3. Vulnerability Assessment/Vulnerability Research and Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/3. Vulnerability Assessment.md",
+                "file": "5. Standard Information/Penetration Testing/Stages/3. Vulnerability Assessment/Vulnerability Research and Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/3. Vulnerability Assessment.md"
+                "file": "5. Standard Information/Penetration Testing/Stages/3. Vulnerability Assessment/Vulnerability Research and Analysis.md"
               }
             }
           },
@@ -232,6 +232,10 @@
   },
   "active": "5d6920b90fee13f8",
   "lastOpenFiles": [
+    "5. Standard Information/Penetration Testing/Stages/3. Vulnerability Assessment/3. Vulnerability Assessment.md",
+    "5. Standard Information/Penetration Testing/Stages/3. Vulnerability Assessment/Vulnerability Research and Analysis.md",
+    "5. Standard Information/Penetration Testing/Stages/3. Vulnerability Assessment",
+    "5. Standard Information/Penetration Testing/Stages/Untitled.md",
     "7. Misc/Images/0-PT-Process-VA.webp",
     "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Pillaging.md",
     "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/2. Information Gathering.md",
@@ -257,11 +261,9 @@
     "5. Standard Information/Penetration Testing/Stages/6. Lateral Movement.md",
     "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation.md",
     "5. Standard Information/Penetration Testing/Stages/4. Exploitation.md",
-    "5. Standard Information/Penetration Testing/Stages/3. Vulnerability Assessment.md",
     "5. Standard Information/Penetration Testing/2. Testing Methods.md",
     "5. Standard Information/Penetration Testing/Stages",
     "5. Standard Information/Penetration Testing/Laws and Regulations/1. Laws and Regulations.md",
-    "5. Standard Information/Penetration Testing/Laws and Regulations/China.md",
     "5. Standard Information/Penetration Testing/Laws and Regulations",
     "7. Misc/Images/0-PT-Process-PRE.webp",
     "7. Misc/Images/0-PT-Process.webp",
@@ -276,8 +278,6 @@
     "7. Misc/Images/Pasted image 20240816161106.jpg",
     "7. Misc/Images/basic-tunnel-1.webp",
     "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling",
-    "1. Recon/Port Scanning/Tooling",
-    "7. Misc/Images/ttl-attack-diagram.webp",
     "Untitled.canvas"
   ]
 }
