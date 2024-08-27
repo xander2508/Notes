@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/1. Pre-Engagement.md",
+                "file": "5. Standard Information/Penetration Testing/Stages/1. Pre-Engagement/1. Pre-Engagement.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/1. Pre-Engagement.md",
+                "file": "5. Standard Information/Penetration Testing/Stages/1. Pre-Engagement/1. Pre-Engagement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/1. Pre-Engagement.md",
+                "file": "5. Standard Information/Penetration Testing/Stages/1. Pre-Engagement/1. Pre-Engagement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/1. Pre-Engagement.md"
+                "file": "5. Standard Information/Penetration Testing/Stages/1. Pre-Engagement/1. Pre-Engagement.md"
               }
             }
           },
@@ -232,8 +232,13 @@
   },
   "active": "5d6920b90fee13f8",
   "lastOpenFiles": [
+    "5. Standard Information/Penetration Testing/Stages/1. Pre-Engagement/Kick-Off Meeting.md",
+    "5. Standard Information/Penetration Testing/Stages/1. Pre-Engagement/1. Pre-Engagement.md",
+    "5. Standard Information/Penetration Testing/Stages/1. Pre-Engagement/Pre-Engagement Meeting.md",
+    "5. Standard Information/Penetration Testing/Stages/1. Pre-Engagement/Rules of Engagement.md",
+    "5. Standard Information/Penetration Testing/Stages/1. Pre-Engagement/Scoping Questionnaire.md",
+    "5. Standard Information/Penetration Testing/Stages/1. Pre-Engagement",
     "5. Standard Information/Penetration Testing/Laws and Regulations/2. Non-Disclosure Agreement (NDA).md",
-    "5. Standard Information/Penetration Testing/Stages/1. Pre-Engagement.md",
     "5. Standard Information/Penetration Testing/Stages/8. Post-Engagement.md",
     "5. Standard Information/Penetration Testing/1. Guide.md",
     "5. Standard Information/Penetration Testing/Stages/7. Proof-of-Concept.md",
@@ -260,14 +265,10 @@
     "1. Recon/Network Analysis/2. Filtering Traffic.md",
     "2. Enumeration/TCP/23. Telnet/1. Guide.md",
     "7. Misc/Images/Internet.webp",
-    "1. Recon/1. Guide.md",
-    "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tools/InterPlanetary File System.md",
     "2. Enumeration/TCP/23. Telnet",
     "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tools",
     "7. Misc/Images/4-DNSTraffic.webp",
     "7. Misc/Images/3-DNSTraffic.webp",
-    "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/SSH Tunnelling.md",
-    "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/ICMP Tunnelling.md",
     "1. Recon/Network Analysis/Untitled",
     "7. Misc/Images/3-ICMP-tunneling.webp",
     "7. Misc/Images/Pasted image 20240816161106.jpg",
@@ -277,7 +278,6 @@
     "7. Misc/Images/ttl-attack-diagram.webp",
     "7. Misc/Images/0_VGlb9wnI2jEGzg5E.webp",
     "3. Exploitation/Known Exploits/Networking and Packet/IP Source & Destination Spoofing Attacks",
-    "3. Exploitation/Known Exploits/Networking and Packet",
     "Untitled.canvas"
   ]
 }
