@@ -230,8 +230,9 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "744b9316b7030f7b",
+  "active": "5d6920b90fee13f8",
   "lastOpenFiles": [
+    "7. Misc/Images/0-PT-Process-IG.webp",
     "5. Standard Information/Penetration Testing/Stages/2. Information Gathering",
     "5. Standard Information/Penetration Testing/Stages/1. Pre-Engagement/1. Pre-Engagement.md",
     "5. Standard Information/Penetration Testing/Stages/1. Pre-Engagement/Kick-Off Meeting.md",
@@ -277,7 +278,6 @@
     "1. Recon/Port Scanning/Tooling",
     "7. Misc/Images/ttl-attack-diagram.webp",
     "7. Misc/Images/0_VGlb9wnI2jEGzg5E.webp",
-    "3. Exploitation/Known Exploits/Networking and Packet/IP Source & Destination Spoofing Attacks",
     "Untitled.canvas"
   ]
 }
