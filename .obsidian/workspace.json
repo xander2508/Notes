@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "722cb5db25fd9037",
+        "id": "7636d7772f14424d",
         "type": "tabs",
         "children": [
           {
-            "id": "bb56d5503bf7ca00",
+            "id": "5d6920b90fee13f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Compute/Virtual Machines/Amazon Elastic Compute Cloud (EC2).md",
+                "file": "5. Standard Information/Penetration Testing/Stages/6. Lateral Movement/6. Lateral Movement.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hex",
+                "query": "Pillaging",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,7 @@
             }
           },
           {
-            "id": "9481c658c5385853",
+            "id": "e89950facde7b2ec",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 317.5
   },
   "right": {
     "id": "ab865be945a38766",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Compute/Virtual Machines/Amazon Elastic Compute Cloud (EC2).md",
+                "file": "5. Standard Information/Penetration Testing/Stages/6. Lateral Movement/6. Lateral Movement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Compute/Virtual Machines/Amazon Elastic Compute Cloud (EC2).md",
+                "file": "5. Standard Information/Penetration Testing/Stages/6. Lateral Movement/6. Lateral Movement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/AWS/Services/Compute/Virtual Machines/Amazon Elastic Compute Cloud (EC2).md"
+                "file": "5. Standard Information/Penetration Testing/Stages/6. Lateral Movement/6. Lateral Movement.md"
               }
             }
           },
@@ -194,82 +194,90 @@
               "type": "smart-connections-chat-view",
               "state": {}
             }
+          },
+          {
+            "id": "e9650463bb3ccbf2",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 547.5,
+    "width": 774.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "mermaid-tools:Open Mermaid Toolbar": true,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": true,
-      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
       "command-palette:Open command palette": false,
       "breadcrumbs:Breadcrumbs Visualisation": true,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": true,
       "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "omnisearch:Omnisearch": false,
       "obsidian-importer:Open Importer": true,
+      "mermaid-tools:Open Mermaid Toolbar": true,
       "smart-connections:Open: View Smart Connections": false,
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "bb56d5503bf7ca00",
+  "active": "5d6920b90fee13f8",
   "lastOpenFiles": [
-    "5. Standard Information/AWS/Services/Compute/Serverless/AWS Lambda.md",
-    "5. Standard Information/AWS/Services/Compute/Serverless/AWS Fargate.md",
-    "5. Standard Information/AWS/Services/Compute/Container Services/Amazon Elastic Kubernetes Service (EKS).md",
-    "5. Standard Information/AWS/Services/Compute/Container Services/Amazon Elastic Container Service (ECS).md",
-    "5. Standard Information/AWS/Services/Compute/Container Services/Amazon Elastic Container Registry (ECR).md",
-    "5. Standard Information/AWS/Sales/Cloud Economics.md",
-    "5. Standard Information/AWS/Sales/AWS Well-Architected Framework.md",
-    "5. Standard Information/AWS/Sales/AWS Pricing Concepts.md",
-    "5. Standard Information/AWS/Sales/AWS Free Tier.md",
-    "5. Standard Information/AWS/Sales/AWS Cloud Adoption Framework (CAF).md",
-    "5. Standard Information/AWS/Sales/AWS Billing & Cost Management Dashboard.md",
-    "5. Standard Information/AWS/Services/Security/Amazon GuardDuty.md",
-    "5. Standard Information/AWS/Services/Security/Amazon Macie.md",
-    "5. Standard Information/AWS/Services/Security/AWS Security Bulletins.md",
-    "5. Standard Information/AWS/Services/AWS Transit Gateway.md",
-    "5. Standard Information/AWS/Services/AWS Config.md",
-    "5. Standard Information/AWS/Services/Amazon Health.md",
-    "5. Standard Information/AWS/Services/Amazon Connect.md",
-    "5. Standard Information/AWS/Services/Deployment/AWS CodeCommit.md",
-    "5. Standard Information/AWS/Services/Deployment/AWS OpsWorks.md",
-    "5. Standard Information/AWS/Services/Deployment/AWS CodePipeline.md",
-    "5. Standard Information/AWS/Services/Deployment/AWS Elastic Beanstalk.md",
-    "5. Standard Information/AWS/AWS CodeDeploy.md",
-    "5. Standard Information/AWS/Services/Deployment",
-    "5. Standard Information/AWS/Services/Deployment/AWS CloudFormation.md",
-    "5. Standard Information/AWS/Services/Compute/Virtual Machines/Amazon Elastic Compute Cloud (EC2).md",
-    "5. Standard Information/AWS/Services/AWS Marketplace.md",
-    "5. Standard Information/AWS/AWS.zip",
-    "7. Misc/Images/deauth-attack.webp",
-    "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts/Vulnerabilities",
-    "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts",
-    "2. Enumeration/Other/~. 802.11 (WiFi)",
-    "2. Enumeration/Other/~. ARP/Concepts/Information",
-    "2. Enumeration/Other/~. ARP/Concepts/Vulnerabilities",
-    "2. Enumeration/Other/~. ARP/Concepts",
-    "3. Exploitation/Known Exploits/Applications",
-    "7. Misc/Images/import-steps.webp",
-    "7. Misc/Images/import-ws.webp",
-    "1. Recon/Tooling/Network Analysis/Untitled",
-    "7. Misc/Images/wireshark-interface.webp",
-    "7. Misc/Images/termshark.webp",
-    "7. Misc/Images/breakdown.webp",
-    "7. Misc/Images/workflow.webp",
-    "output/attachment/d0dfd26236f912009058fcb755fe3a7c.jpg",
-    "output/attachment/e64951f0110cc9cba636d1296f3f729b.png",
-    "output/attachment/62cf90ae6d4a682679c999cec7aac652.jpg",
+    "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/2. Information Gathering.md",
+    "5. Standard Information/Penetration Testing/Stages/6. Lateral Movement/6. Lateral Movement.md",
+    "5. Standard Information/Penetration Testing/Stages/6. Lateral Movement/Evasive Testing.md",
+    "5. Standard Information/Penetration Testing/Stages/6. Lateral Movement/Pivoting.md",
+    "7. Misc/Images/0-PT-Process-LA.webp",
+    "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Privilege Escalation.md",
+    "5. Standard Information/Penetration Testing/Stages/6. Lateral Movement",
+    "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Data Exfiltration.md",
+    "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/5. Post-Exploitation.md",
+    "5. Standard Information/Penetration Testing/Stages/3. Vulnerability Assessment/3. Vulnerability Assessment.md",
+    "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Persistence.md",
+    "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Vulnerability Assessment.md",
+    "4. Post Exploitation/Command Line Restrictions.md",
+    "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Pillaging.md",
+    "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Evasive Testing.md",
+    "5. Standard Information/Penetration Testing/Stages/4. Exploitation/4. Exploitation.md",
+    "5. Standard Information/Penetration Testing/Stages/4. Exploitation/Untitled",
+    "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation",
+    "5. Standard Information/Penetration Testing/Stages/4. Exploitation/Preparation for the Attack.md",
+    "5. Standard Information/Penetration Testing/Stages/4. Exploitation/Prioritization of Possible Attacks.md",
+    "5. Standard Information/Penetration Testing/Stages/4. Exploitation",
+    "7. Misc/Images/0-PT-Process-EX.webp",
+    "5. Standard Information/Operating Systems/Windows/Default Tooling/Process Monitor (ProcMon).md",
+    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/System Monitor (Sysmon).md",
+    "5. Standard Information/Penetration Testing/Stages/3. Vulnerability Assessment/Vulnerability Research and Analysis.md",
+    "5. Standard Information/Penetration Testing/Stages/3. Vulnerability Assessment",
+    "5. Standard Information/Penetration Testing/Stages/Untitled.md",
+    "7. Misc/Images/0-PT-Process-VA.webp",
+    "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Host Enumeration.md",
+    "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Service Enumeration.md",
+    "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Infrastructure Enumeration.md",
+    "1. Recon/1. Guide.md",
+    "1. Recon/Network Analysis/3. Network Analysis Steps.md",
+    "1. Recon/Open Source Intelligence/1. Guide.md",
+    "7. Misc/Images/0-PT-Process-IG.webp",
+    "5. Standard Information/Penetration Testing/Stages/2. Information Gathering",
+    "5. Standard Information/Penetration Testing/Stages/1. Pre-Engagement",
+    "5. Standard Information/Penetration Testing/Stages",
+    "5. Standard Information/Penetration Testing/Laws and Regulations",
+    "7. Misc/Images/0-PT-Process-PRE.webp",
+    "7. Misc/Images/0-PT-Process.webp",
+    "5. Standard Information/Penetration Testing",
+    "7. Misc/Images/Internet.webp",
+    "7. Misc/Images/4-DNSTraffic.webp",
+    "7. Misc/Images/3-DNSTraffic.webp",
+    "7. Misc/Images/3-ICMP-tunneling.webp",
     "Untitled.canvas"
   ]
 }

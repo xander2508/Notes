@@ -1,5 +1,6 @@
 To enhance our event log coverage, we can extend the capabilities by incorporating Sysmon, which offers additional event logging capabilities.
 
+
 `System Monitor (Sysmon)` is a Windows system service and device driver that remains resident across system reboots to monitor and log system activity to the Windows event log. Sysmon provides detailed information about process creation, network connections, changes to file creation time, and more.
 
 Sysmon's primary components include:
