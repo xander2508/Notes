@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/8. Post-Engagement.md",
+                "file": "1. Recon/Port Scanning/Tooling/Nmap.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/8. Post-Engagement.md",
+                "file": "1. Recon/Port Scanning/Tooling/Nmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/8. Post-Engagement.md",
+                "file": "1. Recon/Port Scanning/Tooling/Nmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/8. Post-Engagement.md"
+                "file": "1. Recon/Port Scanning/Tooling/Nmap.md"
               }
             }
           },
@@ -230,10 +230,12 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "744b9316b7030f7b",
+  "active": "5d6920b90fee13f8",
   "lastOpenFiles": [
-    "5. Standard Information/Penetration Testing/Stages/1. Pre-Engagement/1. Pre-Engagement.md",
+    "1. Recon/1. Guide.md",
+    "1. Recon/Tooling/Responder.md",
     "5. Standard Information/Penetration Testing/Stages/8. Post-Engagement.md",
+    "5. Standard Information/Penetration Testing/Stages/1. Pre-Engagement/1. Pre-Engagement.md",
     "5. Standard Information/Penetration Testing/Stages/8. Post-Engagement",
     "5. Standard Information/Penetration Testing/Stages/7. Proof-of-Concept.md",
     "5. Standard Information/Penetration Testing/Stages/6. Lateral Movement/6. Lateral Movement.md",
@@ -265,8 +267,6 @@
     "5. Standard Information/Penetration Testing/Stages/Untitled.md",
     "7. Misc/Images/0-PT-Process-VA.webp",
     "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Host Enumeration.md",
-    "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Service Enumeration.md",
-    "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Infrastructure Enumeration.md",
     "7. Misc/Images/0-PT-Process-IG.webp",
     "5. Standard Information/Penetration Testing/Stages/2. Information Gathering",
     "5. Standard Information/Penetration Testing/Stages/1. Pre-Engagement",
