@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Recon/Port Scanning/Tooling/Nmap.md",
+                "file": "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tools/InterPlanetary File System.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Recon/Port Scanning/Tooling/Nmap.md",
+                "file": "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tools/InterPlanetary File System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Recon/Port Scanning/Tooling/Nmap.md",
+                "file": "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tools/InterPlanetary File System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Recon/Port Scanning/Tooling/Nmap.md"
+                "file": "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tools/InterPlanetary File System.md"
               }
             }
           },
@@ -232,8 +232,13 @@
   },
   "active": "5d6920b90fee13f8",
   "lastOpenFiles": [
-    "1. Recon/Port Scanning/Types.md",
+    "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/DNS Tunnelling.md",
+    "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/ICMP Tunnelling.md",
+    "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Webservers.md",
+    "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Downloading Files.md",
+    "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/1. Guide.md",
     "1. Recon/Port Scanning/Tooling/Nmap.md",
+    "1. Recon/Port Scanning/Types.md",
     "1. Recon/Port Scanning/Tooling/NmapAutomator.md",
     "1. Recon/1. Guide.md",
     "1. Recon/Tooling/Responder.md",
@@ -256,15 +261,10 @@
     "4. Post Exploitation/Command Line Restrictions.md",
     "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Pillaging.md",
     "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Evasive Testing.md",
-    "5. Standard Information/Penetration Testing/Stages/4. Exploitation/4. Exploitation.md",
     "5. Standard Information/Penetration Testing/Stages/4. Exploitation/Untitled",
     "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation",
-    "5. Standard Information/Penetration Testing/Stages/4. Exploitation/Preparation for the Attack.md",
-    "5. Standard Information/Penetration Testing/Stages/4. Exploitation/Prioritization of Possible Attacks.md",
     "5. Standard Information/Penetration Testing/Stages/4. Exploitation",
     "7. Misc/Images/0-PT-Process-EX.webp",
-    "5. Standard Information/Operating Systems/Windows/Default Tooling/Process Monitor (ProcMon).md",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/System Monitor (Sysmon).md",
     "5. Standard Information/Penetration Testing/Stages/3. Vulnerability Assessment",
     "7. Misc/Images/0-PT-Process-VA.webp",
     "7. Misc/Images/0-PT-Process-IG.webp",
