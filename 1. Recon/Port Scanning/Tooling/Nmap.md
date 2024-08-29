@@ -28,6 +28,18 @@ Nmap offers many different types of scans that can be used to obtain various res
 nmap <scan types> <options> <target>
 ```
 
+#### SYN Scan 
+
+- If our target sends an `SYN-ACK` flagged packet back to the scanned port, Nmap detects that the port is `open`.
+- If the packet receives an `RST` flag, it is an indicator that the port is `closed`.
+- If Nmap does not receive a packet back, it will display it as `filtered`. Depending on the firewall configuration, certain packets may be dropped or ignored by the firewall.
+- See [[Types#Excessive SYN Flags]]
+
+```shell-session
+sudo nmap -sS
+```
+
+
 # Command Examples
 
 1. `nmap -sV -sT -sC arkham.htb`
