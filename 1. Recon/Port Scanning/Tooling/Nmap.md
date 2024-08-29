@@ -12,6 +12,11 @@ The tool is one of the most used tools by network administrators and IT security
 - Response analysis
 - Identify open ports
 - Vulnerability assessment as well.
+
+#### Host Discovery
+
+[Putting It All Together: Host Discovery Strategies | Nmap Network Scanning](https://nmap.org/book/host-discovery-strategies.html)
+
 ## Nmap Architecture
 
 Nmap offers many different types of scans that can be used to obtain various results about our targets. Basically, Nmap can be divided into the following scanning techniques:
@@ -39,7 +44,45 @@ nmap <scan types> <options> <target>
 sudo nmap -sS
 ```
 
+#### Disable Port Scanning
 
+Detect which hosts are open.
+
+```shell-session
+sudo nmap -sn 10.129.2.0/24
+```
+
+#### Scan from IP List
+
+```shell-session
+sudo nmap -iL hosts.txt
+```
+
+#### Ping scan
+
+```shell-session
+sudo nmap 10.129.2.18 -PE
+```
+
+#### Packet Trace 
+
+```shell-session
+sudo nmap 10.129.2.18 --packet-trace 
+```
+
+#### Reason for Alive
+
+Another way to determine why Nmap has our target marked as "alive" is with the "`--reason`" option.
+
+```shell-session
+sudo nmap 10.129.2.18 --reason 
+```
+
+#### Disable ARP Ping 
+
+```shell-session
+ sudo nmap 10.129.2.18 --disable-arp-ping 
+```
 # Command Examples
 
 1. `nmap -sV -sT -sC arkham.htb`
