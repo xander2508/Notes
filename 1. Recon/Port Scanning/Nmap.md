@@ -33,6 +33,8 @@ Nmap offers many different types of scans that can be used to obtain various res
 nmap <scan types> <options> <target>
 ```
 
+
+### Scan Options
 #### SYN Scan 
 
 - If our target sends an `SYN-ACK` flagged packet back to the scanned port, Nmap detects that the port is `open`.
@@ -52,16 +54,30 @@ Detect which hosts are open.
 sudo nmap -sn 10.129.2.0/24
 ```
 
-#### Scan from IP List
-
-```shell-session
-sudo nmap -iL hosts.txt
-```
-
 #### Ping scan
 
 ```shell-session
 sudo nmap 10.129.2.18 -PE
+```
+#### Connect Scan
+
+The Nmap [TCP Connect Scan](https://nmap.org/book/scan-methods-connect-scan.html) (`-sT`) uses the TCP three-way handshake to determine if a specific port on a target host is open or closed. The scan sends an `SYN` packet to the target port and waits for a response. It is considered open if the target port responds with an `SYN-ACK` packet and closed if it responds with an `RST` packet.
+
+The `Connect` scan is useful because it is the most accurate way to determine the state of a port, and it is also the most stealthy. Unlike other types of scans, such as the SYN scan, the Connect scan does not leave any unfinished connections or unsent packets on the target host, which makes it less likely to be detected by intrusion detection systems (IDS) or intrusion prevention systems (IPS). It is useful when we want to map the network and don't want to disturb the services running behind it, thus causing a minimal impact and sometimes considered a more polite scan method.
+
+```shell-session
+sudo nmap 10.129.2.28 -p 443 -sT 
+```
+#### UDP Scan
+
+```shell-session
+sudo nmap 10.129.2.28 -p 86 -sU
+```
+### Extra Features 
+#### Scan from IP List
+
+```shell-session
+sudo nmap -iL hosts.txt
 ```
 
 #### Packet Trace 
@@ -84,24 +100,14 @@ sudo nmap 10.129.2.18 --reason
 
 #### Disable Features
 
-|                      |                          |
-| -------------------- | ------------------------ |
 | `-n`                 | Disables DNS resolution. |
+| -------------------- | ------------------------ |
 | `--disable-arp-ping` | Disables ARP ping.       |
 | `-Pn`                | Disable ICMP echo        |
-#### Connect Scan
+#### Top 100 Ports
 
-The Nmap [TCP Connect Scan](https://nmap.org/book/scan-methods-connect-scan.html) (`-sT`) uses the TCP three-way handshake to determine if a specific port on a target host is open or closed. The scan sends an `SYN` packet to the target port and waits for a response. It is considered open if the target port responds with an `SYN-ACK` packet and closed if it responds with an `RST` packet.
-
-The `Connect` scan is useful because it is the most accurate way to determine the state of a port, and it is also the most stealthy. Unlike other types of scans, such as the SYN scan, the Connect scan does not leave any unfinished connections or unsent packets on the target host, which makes it less likely to be detected by intrusion detection systems (IDS) or intrusion prevention systems (IPS). It is useful when we want to map the network and don't want to disturb the services running behind it, thus causing a minimal impact and sometimes considered a more polite scan method.
-
-```shell-session
-sudo nmap 10.129.2.28 -p 443 -sT 
-```
-
-
-
-
+| `-F` | Scans top 100 ports. |
+| ---- | -------------------- |
 ## Results 
 
 | **State**          | **Description**                                                                                                                                                                                         |
