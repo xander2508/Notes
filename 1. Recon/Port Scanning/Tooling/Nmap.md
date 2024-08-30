@@ -84,7 +84,7 @@ sudo nmap 10.129.2.18 --reason
 | -------------------- | ------------------------ |
 | `-n`                 | Disables DNS resolution. |
 | `--disable-arp-ping` | Disables ARP ping.       |
-| -Pn                  | Disable ICMP echo        |
+| `-Pn`                | Disable ICMP echo        |
 ## Results 
 
 | **State**          | **Description**                                                                                                                                                                                         |
