@@ -34,3 +34,6 @@ sudo nmap <target> --script <category>
 ```shell-session
 sudo nmap <target> --script <script-name>,<script-name>,...
 ```
+
+More information about NSE scripts and the corresponding categories we can find at: [https://nmap.org/nsedoc/index.html](https://nmap.org/nsedoc/index.html)
+

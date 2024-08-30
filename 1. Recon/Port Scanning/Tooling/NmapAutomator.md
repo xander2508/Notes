@@ -4,3 +4,4 @@
 ```
 sudo ./nmapAutomator.sh --host 10.10.10.239 --type All - double check ports
 ```
+
