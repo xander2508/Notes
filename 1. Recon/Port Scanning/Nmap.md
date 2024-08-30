@@ -95,7 +95,6 @@ sudo nmap 10.129.2.28 -p 445 --reason  -sV
 ```shell-session
 sudo nmap -iL hosts.txt
 ```
-
 #### Packet Trace 
 
 This allows us to see the specific information sent and received. This allows us to make educated guesses regarding sates of ports. 
@@ -107,7 +106,6 @@ It may also show us more information from port banners than shown with just `-sV
 ```shell-session
 sudo nmap 10.129.2.18 --packet-trace 
 ```
-
 #### Reason for Alive
 
 Another way to determine why Nmap has our target marked as "alive" is with the "`--reason`" option.
@@ -115,7 +113,6 @@ Another way to determine why Nmap has our target marked as "alive" is with the "
 ```shell-session
 sudo nmap 10.129.2.18 --reason 
 ```
-
 #### Disable Features
 
 | `-n`                 | Disables DNS resolution. |
@@ -134,7 +131,48 @@ sudo nmap 10.129.2.18 --reason
 - XML output (`-oX`) with the `.xml` file extension
 - `-oA target` Saves the results in all formats, starting the name of each file with 'target'.
 
+#### Performance
 
+[Timing and Performance | Nmap Network Scanning](https://nmap.org/book/man-performance.html)
+
+| Option                                                                             | Description                     |
+| ---------------------------------------------------------------------------------- | ------------------------------- |
+| `-T <0-5>`                                                                         | How fast                        |
+| `--min-parallelism <number>`                                                       | How frequent                    |
+| `--max-rtt-timeout <time>`/`--min-RTT-timeout <time>`/`--initial-rtt-timeout 50ms` | Timeouts of packets             |
+| `--min-rate <number>`                                                              | How many packets simultaneously |
+| `--max-retries <number>`                                                           | Max retries                     |
+
+`Nmap` offers six different timing templates (`-T <0-5>`) for us to use. These values (`0-5`) determine the aggressiveness of our scans. This can also have negative effects if the scan is too aggressive, and security systems may block us due to the produced network traffic. The default timing template used when we have defined nothing else is the normal (`-T 3`).
+
+- `-T 0` / `-T paranoid`
+- `-T 1` / `-T sneaky`
+- `-T 2` / `-T polite`
+- `-T 3` / `-T normal`
+- `-T 4` / `-T aggressive`
+- `-T 5` / `-T insane`
+
+The exact used options with their values we can find here: [https://nmap.org/book/performance-timing-templates.html](https://nmap.org/book/performance-timing-templates.html)
+
+|                                                   | T0                                        | T1         | T2         | T3         | T4         | T5         |
+| ------------------------------------------------- | ----------------------------------------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+| Name                                              | Paranoid                                  | Sneaky     | Polite     | Normal     | Aggressive | Insane     |
+| `min-rtt-timeout`                                 | 100 ms                                    | 100 ms     | 100 ms     | 100 ms     | 100 ms     | 50 ms      |
+| `max-rtt-timeout`                                 | 5 minutes                                 | 15 seconds | 10 seconds | 10 seconds | 1250 ms    | 300 ms     |
+| `initial-rtt-timeout`                             | 5 minutes                                 | 15 seconds | 1 second   | 1 second   | 500 ms     | 250 ms     |
+| `max-retries`                                     | 10                                        | 10         | 10         | 10         | 6          | 2          |
+| Initial (and minimum) scan delay (`--scan-delay`) | 5 minutes                                 | 15 seconds | 400 ms     | 0          | 0          | 0          |
+| Maximum TCP scan delay                            | 5 minutes                                 | 15,000     | 1 second   | 1 second   | 10 ms      | 5 ms       |
+| Maximum UDP scan delay                            | 5 minutes                                 | 15 seconds | 1 second   | 1 second   | 1 second   | 1 second   |
+| `host-timeout`                                    | 0                                         | 0          | 0          | 0          | 0          | 15 minutes |
+| `script-timeout`                                  | 0                                         | 0          | 0          | 0          | 0          | 10 minutes |
+| `min-parallelism`                                 | Dynamic, not affected by timing templates |            |            |            |            |            |
+| `max-parallelism`                                 | 1                                         | 1          | 1          | Dynamic    | Dynamic    | Dynamic    |
+| `min-hostgroup`                                   | Dynamic, not affected by timing templates |            |            |            |            |            |
+| `max-hostgroup`                                   | Dynamic, not affected by timing templates |            |            |            |            |            |
+| `min-rate`                                        | No minimum rate limit                     |            |            |            |            |            |
+| `max-rate`                                        | No maximum rate limit                     |            |            |            |            |            |
+| `defeat-rst-ratelimit`                            | Not enabled by default                    |            |            |            |            |            |
 ## Results 
 
 | **State**          | **Description**                                                                                                                                                                                         |
