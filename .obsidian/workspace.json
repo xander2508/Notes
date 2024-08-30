@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Data Exfiltration.md",
+                "file": "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/2. Information Gathering.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Data Exfiltration.md",
+                "file": "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/2. Information Gathering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Data Exfiltration.md",
+                "file": "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/2. Information Gathering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Data Exfiltration.md"
+                "file": "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/2. Information Gathering.md"
               }
             }
           },
@@ -176,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 446.5
+    "width": 446.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,11 +198,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "744b9316b7030f7b",
+  "active": "6d1291543aa69a3f",
   "lastOpenFiles": [
+    "5. Standard Information/Penetration Testing/1. Guide.md",
+    "1. Recon/1. Guide.md",
+    "2. Enumeration/TCP/80. HTTP/1. Guide.md",
+    "2. Enumeration/TCP/80. HTTP/Applications/Apache.md",
+    "2. Enumeration/TCP/80. HTTP/Applications/Sharepoint.md",
+    "1. Recon/Tooling/Responder.md",
+    "1. Recon/Port Scanning/Types.md",
+    "1. Recon/Port Scanning/1. Overview.md",
+    "1. Recon/Open Source Intelligence (OSINT)/1. Guide.md",
+    "1. Recon/Open Source Intelligence (OSINT)/Sherlock.md",
+    "1. Recon/Network Analysis/1. Analysis Overview.md",
+    "1. Recon/Network Analysis/2. Filtering Traffic.md",
+    "1. Recon/Network Analysis/4. Easy Wins.md",
+    "1. Recon/Network Analysis/3. Network Analysis Steps.md",
+    "1. Recon/Network Analysis/Traffic Analysis/NGrep.md",
+    "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Data Exfiltration.md",
     "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Evasive Testing.md",
     "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Persistence.md",
-    "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Data Exfiltration.md",
     "7. Misc/textgenerator/templates/default/getEmailNeg.md",
     "5. Standard Information/Penetration Testing/Stages/8. Post-Engagement.md",
     "5. Standard Information/Penetration Testing/Stages/7. Proof-of-Concept.md",
@@ -210,23 +226,8 @@
     "5. Standard Information/Operating Systems/Windows/Tooling/Files/Sort Files.md",
     "5. Standard Information/Operating Systems/Windows/Tooling/Files/Search in File.md",
     "5. Standard Information/Operating Systems/Windows/Tooling/Files/Read Files.md",
-    "5. Standard Information/Operating Systems/Windows/Tooling/Files/List Files (dir).md",
-    "5. Standard Information/Operating Systems/Windows/Tooling/Files/Finding Files.md",
-    "5. Standard Information/Operating Systems/Windows/Tooling/Files/Delete Files.md",
-    "5. Standard Information/Operating Systems/Windows/Tooling/Files/Copy Files.md",
-    "5. Standard Information/Operating Systems/Windows/Tooling/Files/Compare Files.md",
-    "5. Standard Information/Operating Systems/Windows/File Systems/File System Enumeration Information.md",
-    "5. Standard Information/Operating Systems/Windows/File Systems/NTFS (New Technology File System).md",
-    "5. Standard Information/Operating Systems/Windows/File Systems/FAT32.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Unquoted Path.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/SMB Traversing Users.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Saved Credentials.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/AutoRun SysInternals.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/AppLocker.md",
-    "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Passwd File.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information",
-    "4. Post-Exploitation/Operating Systems/Linux/Concepts/Vulnerabilities/Message of the Day (MOTD).md",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Vulnerabilities",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information",
     "8. Reports/Hack the Box",
