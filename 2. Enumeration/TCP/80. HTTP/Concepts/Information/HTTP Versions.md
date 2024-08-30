@@ -1,3 +1,11 @@
+---
+tags:
+  - Enumeration
+  - TCP
+  - HTTP
+  - Concepts
+  - Information
+---
 - HTTP/0.9: The first version of HTTP, introduced in 1991, was a simple protocol that allowed for transferring plain text data between a client and a server. It only supported the GET method and did not include headers or status codes.
 
 - HTTP/1.0: This version, released in 1996, introduced several improvements such as support for different types of data, caching mechanisms, and the POST method. It also included headers for request and response metadata.

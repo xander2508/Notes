@@ -1,3 +1,11 @@
+---
+tags:
+  - Enumeration
+  - TCP
+  - HTTP
+  - Concepts
+  - Information
+---
 
 ```shell-session
 curl http://admin:admin@<SERVER_IP>:<PORT>/

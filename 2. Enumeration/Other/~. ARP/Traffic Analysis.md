@@ -1,3 +1,9 @@
+---
+tags:
+  - Enumeration
+  - Misc
+  - ARP
+---
 
 See [[1. Analysis Overview]]
 

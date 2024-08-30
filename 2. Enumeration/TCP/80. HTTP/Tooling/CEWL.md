@@ -1,3 +1,10 @@
+---
+tags:
+  - Enumeration
+  - TCP
+  - HTTP
+  - Tooling
+---
 # Description
 
 The CEWL tool is a powerful command-line tool used for generating custom wordlists by crawling a target website or text file. It extracts words from the specified source and creates a list of unique words that can be used for various purposes, such as password cracking, penetration testing, or data analysis. 

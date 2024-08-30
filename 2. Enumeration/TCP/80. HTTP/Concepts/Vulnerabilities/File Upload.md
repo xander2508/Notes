@@ -1,3 +1,11 @@
+---
+tags:
+  - Enumeration
+  - TCP
+  - HTTP
+  - Concepts
+  - Vulnerabilities
+---
 # Guide
 
 1. Upload web shell, see [[3. Exploitation/Obtaining Remote Shells/1. Guide|Guide]]

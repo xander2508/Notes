@@ -1,3 +1,8 @@
+---
+tags:
+  - Enumeration
+  - TCP
+---
 
 [mount(8) - Linux manual page](https://www.man7.org/linux/man-pages/man8/mount.8.html)
 

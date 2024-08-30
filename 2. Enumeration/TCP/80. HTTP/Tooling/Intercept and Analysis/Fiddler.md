@@ -1,3 +1,11 @@
+---
+tags:
+  - Enumeration
+  - TCP
+  - HTTP
+  - Tooling
+  - Intercept-and-Analysis
+---
 
 [Web Debugging Proxy and Troubleshooting Tools|Fiddler](https://www.telerik.com/fiddler)
 

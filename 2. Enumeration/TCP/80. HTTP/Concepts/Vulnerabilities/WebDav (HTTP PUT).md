@@ -1,3 +1,11 @@
+---
+tags:
+  - Enumeration
+  - TCP
+  - HTTP
+  - Concepts
+  - Vulnerabilities
+---
 Web Distributed Authoring and Versioning (WebDAV) is an HTTP extension designed to allow people to create and modify web sites using HTTP. It was originally started in 1996, when this didn’t seem like a terrible idea.
 # Guide
 1. [HTB: Granny | 0xdf hacks stuff](https://0xdf.gitlab.io/2019/03/06/htb-granny.html)

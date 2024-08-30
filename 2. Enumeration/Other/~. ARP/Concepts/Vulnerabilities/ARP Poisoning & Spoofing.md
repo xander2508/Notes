@@ -1,3 +1,11 @@
+---
+tags:
+  - Enumeration
+  - Misc
+  - ARP
+  - Concepts
+  - Vulnerabilities
+---
 ARP poisoning, also known as ARP spoofing, is a type of cyber attack where an attacker sends falsified Address Resolution Protocol (ARP) messages over a local area network. This results in linking the attacker's MAC address with the IP address of a legitimate network device or server. 
 
 This allows the attacker to intercept, modify, or block traffic between two communicating devices on the same network.

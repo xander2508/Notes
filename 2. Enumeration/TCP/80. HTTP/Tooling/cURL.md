@@ -1,3 +1,10 @@
+---
+tags:
+  - Enumeration
+  - TCP
+  - HTTP
+  - Tooling
+---
 cURL (CURL):
 - cURL (pronounced as "see URL") is a command-line tool and library for transferring data with URLs.
 - It supports various protocols such as HTTP, HTTPS, FTP, FTPS, SCP, SFTP, and more.

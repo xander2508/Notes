@@ -1,3 +1,11 @@
+---
+tags:
+  - Enumeration
+  - TCP
+  - HTTP
+  - Tooling
+  - Fuzzing
+---
 # User Agent
 
 Apply the following to any command

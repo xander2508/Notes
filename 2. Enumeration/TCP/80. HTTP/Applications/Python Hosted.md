@@ -1,3 +1,10 @@
+---
+tags:
+  - Enumeration
+  - TCP
+  - HTTP
+  - Applications
+---
 
 Check for the following vulnerabilities
 1. Generic misconfigurations

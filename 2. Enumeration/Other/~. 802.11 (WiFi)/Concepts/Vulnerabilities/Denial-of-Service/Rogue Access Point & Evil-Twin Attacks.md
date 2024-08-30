@@ -1,3 +1,13 @@
+---
+tags:
+  - Enumeration
+  - Misc
+  - 802-11
+  - Concepts
+  - Vulnerabilities
+  - Denial-of-Service
+  - WiFi
+---
 Addressing rogue access points and evil-twin attacks can seem like a gargantuan task due to their often elusive nature. Nevertheless, with the appropriate strategies in place, these illegitimate access points can be detected and managed effectively.
 
 ## Rogue Access Point

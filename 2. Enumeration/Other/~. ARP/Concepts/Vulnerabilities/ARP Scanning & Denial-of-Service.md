@@ -1,3 +1,11 @@
+---
+tags:
+  - Enumeration
+  - Misc
+  - ARP
+  - Concepts
+  - Vulnerabilities
+---
 ## Detecting Scanning
 
 Some typical red flags indicative of ARP scanning are:

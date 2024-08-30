@@ -1,3 +1,8 @@
+---
+tags:
+  - Enumeration
+  - TCP
+---
 
 [GitHub - miranda-ng/miranda-ng: Miranda NG: Next Generation of Miranda IM](https://github.com/miranda-ng/miranda-ng)
 

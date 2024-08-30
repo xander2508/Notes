@@ -1,3 +1,13 @@
+---
+tags:
+  - Enumeration
+  - Misc
+  - 802-11
+  - Concepts
+  - Vulnerabilities
+  - Denial-of-Service
+  - WiFi
+---
 
 Among the more frequent attacks we might witness or detect is a deauthentication/dissociation attack. This is a commonplace link-layer precursor attack that adversaries might employ for several reasons:
 

@@ -1,3 +1,8 @@
+---
+tags:
+  - Enumeration
+  - TCP
+---
 
 See [[1. Analysis Overview]]
 
