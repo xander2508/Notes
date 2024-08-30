@@ -1,3 +1,7 @@
+---
+tags:
+  - Recon
+---
 
 
 ## Scan Types

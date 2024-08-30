@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Traffic-Analysis",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -198,7 +198,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "744b9316b7030f7b",
+  "active": "3f4a95f364cdaa04",
   "lastOpenFiles": [
     "1. Recon/Network Analysis/Traffic Analysis/TShark.md",
     "1. Recon/Network Analysis/Traffic Analysis/Termshark.md",

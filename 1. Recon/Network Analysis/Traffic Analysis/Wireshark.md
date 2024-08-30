@@ -1,9 +1,11 @@
 ---
 tags:
   - Traffic-Analysis
+  - Recon
+  - Network-Analysis
 ---
 
-[Wireshark](https://www.wireshark.org/) is a graphical network traffic analyzer. It captures and decodes frames off the wire and allows for an in-depth look into the environment. It can run many different dissectors against the traffic to characterize the protocols and applications and provide insight into what is happening.
+[Wireshark](https://www.wireshark.org/) is a graphical network traffic analyser. It captures and decodes frames off the wire and allows for an in-depth look into the environment. It can run many different dissectors against the traffic to characterize the protocols and applications and provide insight into what is happening.
 
 If the GUI is not accessible see [[TShark]]
 

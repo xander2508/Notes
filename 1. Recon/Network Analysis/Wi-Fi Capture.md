@@ -1,3 +1,8 @@
+---
+tags:
+  - Recon
+  - Network-Analysis
+---
 Let's assume we do possess a Wi-Fi interface capable of monitor mode. We could enumerate our wireless interfaces in Linux using the following command:
 
 ```shell-session
