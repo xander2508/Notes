@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8. Reports/Templates/Test.md",
+                "file": "8. Reports/Hack the Box/1.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8. Reports/Templates/Test.md",
+                "file": "8. Reports/Hack the Box/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8. Reports/Templates/Test.md",
+                "file": "8. Reports/Hack the Box/1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8. Reports/Templates/Test.md"
+                "file": "8. Reports/Hack the Box/1.md"
               }
             }
           },
@@ -232,8 +232,10 @@
   },
   "active": "94590b84574df2c4",
   "lastOpenFiles": [
-    "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/DNS Tunnelling.md",
     "8. Reports/Templates/Test.md",
+    "8. Reports/Hack the Box/1.md",
+    "8. Reports/Hack the Box",
+    "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/DNS Tunnelling.md",
     "8. Reports/Templates/Untitled",
     "8. Reports/Templates",
     "8. Reports/Untitled.md",
@@ -265,12 +267,10 @@
     "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/1. Guide.md",
     "1. Recon/Tooling/Responder.md",
     "5. Standard Information/Penetration Testing/Stages/8. Post-Engagement.md",
-    "5. Standard Information/Penetration Testing/Stages/1. Pre-Engagement/1. Pre-Engagement.md",
     "5. Standard Information/Penetration Testing/Stages/8. Post-Engagement",
     "7. Misc/Images/0-PT-Process-LA.webp",
     "5. Standard Information/Penetration Testing/Stages/6. Lateral Movement",
     "5. Standard Information/Penetration Testing/Stages/4. Exploitation/Untitled",
-    "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation",
     "7. Misc/Images/0-PT-Process-EX.webp",
     "7. Misc/Images/0-PT-Process-VA.webp",
     "7. Misc/Images/0-PT-Process-IG.webp",
