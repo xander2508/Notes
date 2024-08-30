@@ -1,6 +1,7 @@
 ---
 tags:
   - Recon
+  - Port-Scanning
 ---
 
 ## Connect Type

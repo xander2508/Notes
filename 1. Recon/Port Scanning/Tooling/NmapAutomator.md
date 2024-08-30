@@ -1,6 +1,8 @@
 ---
 tags:
   - Recon
+  - Port-Scanning
+  - Tooling
 ---
 [GitHub - 21y4d/nmapAutomator: A script that you can run in the background!](https://github.com/21y4d/nmapAutomator)
 

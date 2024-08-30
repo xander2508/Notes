@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Recon/Network Analysis/Traffic Analysis/Wireshark.md",
+                "file": "1. Recon/Port Scanning/Tooling/Nmap/Scripts.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Recon/Network Analysis/Traffic Analysis/Wireshark.md",
+                "file": "1. Recon/Port Scanning/Tooling/Nmap/Scripts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Recon/Network Analysis/Traffic Analysis/Wireshark.md",
+                "file": "1. Recon/Port Scanning/Tooling/Nmap/Scripts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Recon/Network Analysis/Traffic Analysis/Wireshark.md"
+                "file": "1. Recon/Port Scanning/Tooling/Nmap/Scripts.md"
               }
             }
           },
@@ -176,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 774.5,
-    "collapsed": true
+    "width": 774.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,15 +197,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f4a95f364cdaa04",
+  "active": "6d1291543aa69a3f",
   "lastOpenFiles": [
+    "1. Recon/Port Scanning/Tooling/Nmap/Options.md",
+    "1. Recon/Port Scanning/Tooling/Nmap/1. Overview.md",
+    "1. Recon/Open Source Intelligence (OSINT)/Sherlock.md",
+    "1. Recon/Open Source Intelligence (OSINT)/1. Guide.md",
+    "1. Recon/Network Analysis/Traffic Analysis/Wireshark.md",
     "1. Recon/Network Analysis/Traffic Analysis/TShark.md",
     "1. Recon/Network Analysis/Traffic Analysis/Termshark.md",
     "1. Recon/Network Analysis/Traffic Analysis/TCPick.md",
     "1. Recon/Network Analysis/Traffic Analysis/TCPDump.md",
     "1. Recon/Network Analysis/Traffic Analysis/NGrep.md",
     "1. Recon/Network Analysis/1. Analysis Overview.md",
-    "1. Recon/Network Analysis/Traffic Analysis/Wireshark.md",
     "1. Recon/1. Guide.md",
     "orphaned files output.md",
     "1. Recon/Network Analysis/Wi-Fi Capture.md",
@@ -228,12 +231,8 @@
     "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/2. Information Gathering.md",
     "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Infrastructure Enumeration.md",
     "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Enumeration",
-    "1. Recon/Port Scanning/Nmap/1. Overview.md",
-    "1. Recon/Port Scanning/Nmap/Scripts.md",
-    "1. Recon/Port Scanning/Nmap/Options.md",
-    "1. Recon/Port Scanning/Types.md",
-    "1. Recon/Port Scanning/Nmap",
-    "3. Exploitation/Known Exploits/Networking and Packet/IP Source & Destination Spoofing Attacks/Decoy Scanning.md",
+    "1. Recon/Port Scanning/Tooling/Nmap/Scripts.md",
+    "1. Recon/Port Scanning/Tooling/Nmap",
     "5. Standard Information/Penetration Testing/Reporting/Tooling",
     "5. Standard Information/Penetration Testing/Stages/8. Post-Engagement",
     "7. Misc/Images/0-PT-Process-LA.webp",
