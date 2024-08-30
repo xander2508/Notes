@@ -98,6 +98,8 @@ This allows us to see the specific information sent and received. This allows us
 
 If we receive an `ICMP` reply with `type 3` and `error code 3`, which indicates that the desired port is unreachable. Nevertheless, if we know that the host is alive, we can strongly assume that the firewall on this port is rejecting the packets, and we will have to take a closer look at this port later.
 
+It may also show us more information from port banners than shown with just `-sV`. It just takes a bit more reading.
+
 ```shell-session
 sudo nmap 10.129.2.18 --packet-trace 
 ```
