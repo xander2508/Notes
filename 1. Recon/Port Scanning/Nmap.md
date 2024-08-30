@@ -33,8 +33,13 @@ Nmap offers many different types of scans that can be used to obtain various res
 nmap <scan types> <options> <target>
 ```
 
-
 ### Scan Options
+
+#### Scan All Ports 
+
+```
+nmap 10.0.0.0 -p-
+```
 #### SYN Scan 
 
 - If our target sends an `SYN-ACK` flagged packet back to the scanned port, Nmap detects that the port is `open`.
