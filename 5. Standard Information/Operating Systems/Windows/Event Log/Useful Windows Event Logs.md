@@ -1,3 +1,9 @@
+---
+tags:
+  - OperatingSystems
+  - Windows
+  - EventLog
+---
 Find below an indicative (non-exhaustive) list of useful Windows event logs.
 1. **Interesting Logs** 
 	* [Event ID 4624](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventid=4624) `(Successful Logon)`: This event records successful logon events. This information is vital for establishing normal user behaviour. Abnormal behaviour, such as logon attempts at odd hours or from different locations, could signify a potential security threat.

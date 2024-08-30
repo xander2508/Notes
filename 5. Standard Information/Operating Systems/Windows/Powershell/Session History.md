@@ -1,2 +1,8 @@
+---
+tags:
+  - OperatingSystems
+  - Windows
+  - PowerShell
+---
 
-See [[5. Standard Information/Operating Systems/Windows/Default Tooling/Session History|Session History]]
+See [[5. Standard Information/Operating Systems/Windows/Tooling/Session History|Session History]]

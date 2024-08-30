@@ -1,3 +1,9 @@
+---
+tags:
+  - PenetrationTesting
+  - Stages
+  - InformationGathering
+---
  This methodology is nested in 6 layers and represents, metaphorically speaking, boundaries that we try to pass with the enumeration process:
 
 ![[Pasted image 20240830141213.png]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Exploitation/Operating Systems/1. Guide.md",
+                "file": "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Data Exfiltration.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#communication",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Exploitation/Operating Systems/1. Guide.md",
+                "file": "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Data Exfiltration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Exploitation/Operating Systems/1. Guide.md",
+                "file": "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Data Exfiltration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Exploitation/Operating Systems/1. Guide.md"
+                "file": "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Data Exfiltration.md"
               }
             }
           },
@@ -199,32 +199,36 @@
   },
   "active": "744b9316b7030f7b",
   "lastOpenFiles": [
-    "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tooling/InterPlanetary File System.md",
-    "3. Exploitation/Known Exploits/Encryption/OpenSSL/Heartbleed.md",
-    "3. Exploitation/Known Exploits/Encryption/Padding Oracle.md",
-    "3. Exploitation/Known Exploits/Networking and Packets/IP Source & Destination Spoofing Attacks/1. Guide.md",
-    "3. Exploitation/Known Exploits/Networking and Packets/Packet Abuse of Fragmentation.md",
-    "3. Exploitation/Known Exploits/Networking and Packets/IP Time-to-Live Attacks.md",
-    "3. Exploitation/File Types and Data/1. Guide.md",
-    "3. Exploitation/File Types and Data/Malware, Programs and Executables/Dynamic Analysis/Tooling/Internet/FakeDNS.md",
-    "2. Enumeration/TCP/27017. MongoDB/1. Guide.md",
-    "2. Enumeration/TCP/5000. Universal Plug and Play Event (UPnP)/1. Guide.md",
-    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Traffic Analysis.md",
-    "2. Enumeration/TCP/3306. MySQL (SQL)/1. Guide.md",
-    "2. Enumeration/TCP/3128. Squid Proxy/1. Guide.md",
-    "2. Enumeration/TCP/2049. Network File System (NFS)/Tooling/Mount.md",
-    "2. Enumeration/TCP/465. Simple Mail Transfer Protocol (SMTP SSL)/1. Guide.md",
-    "2. Enumeration/TCP/636. Lightweight Directory Access Protocol (LDAPS)/1. Guide.md",
-    "orphaned files output.md",
-    "2. Enumeration/TCP/587. Simple Mail Transfer Protocol (SMTP SSL)/1. Guide.md",
-    "2. Enumeration/TCP/445. Server Message Block (SMB)/Concepts/Access Control/Windows Defender Firewall Considerations.md",
-    "2. Enumeration/TCP/445. Server Message Block (SMB)/Concepts/Access Control/Permissions.md",
-    "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/Tooling/RpcClient.md",
-    "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/Tooling/RpcDump.md",
-    "2. Enumeration/Other/~. 802.11 (WiFi)/Concepts/Vulnerabilities/Denial-of-Service/Rogue Access Point & Evil-Twin Attacks.md",
-    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/DnsEnum.md",
-    "2. Enumeration/Other/~. 802.11 (WiFi)/1. Guide.md",
-    "2. Enumeration/Other/~. ARP/Traffic Analysis.md",
+    "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Evasive Testing.md",
+    "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Persistence.md",
+    "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Data Exfiltration.md",
+    "7. Misc/textgenerator/templates/default/getEmailNeg.md",
+    "5. Standard Information/Penetration Testing/Stages/8. Post-Engagement.md",
+    "5. Standard Information/Penetration Testing/Stages/7. Proof-of-Concept.md",
+    "5. Standard Information/Penetration Testing/Stages/4. Exploitation/4. Exploitation.md",
+    "5. Standard Information/Operating Systems/Windows/Tooling/Files/Writing to Files.md",
+    "5. Standard Information/Operating Systems/Windows/Tooling/Files/Sort Files.md",
+    "5. Standard Information/Operating Systems/Windows/Tooling/Files/Search in File.md",
+    "5. Standard Information/Operating Systems/Windows/Tooling/Files/Read Files.md",
+    "5. Standard Information/Operating Systems/Windows/Tooling/Files/List Files (dir).md",
+    "5. Standard Information/Operating Systems/Windows/Tooling/Files/Finding Files.md",
+    "5. Standard Information/Operating Systems/Windows/Tooling/Files/Delete Files.md",
+    "5. Standard Information/Operating Systems/Windows/Tooling/Files/Copy Files.md",
+    "5. Standard Information/Operating Systems/Windows/Tooling/Files/Compare Files.md",
+    "5. Standard Information/Operating Systems/Windows/File Systems/File System Enumeration Information.md",
+    "5. Standard Information/Operating Systems/Windows/File Systems/NTFS (New Technology File System).md",
+    "5. Standard Information/Operating Systems/Windows/File Systems/FAT32.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Unquoted Path.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/SMB Traversing Users.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Saved Credentials.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/AutoRun SysInternals.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/AppLocker.md",
+    "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Passwd File.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities",
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information",
+    "4. Post-Exploitation/Operating Systems/Linux/Concepts/Vulnerabilities/Message of the Day (MOTD).md",
+    "4. Post-Exploitation/Operating Systems/Linux/Concepts/Vulnerabilities",
+    "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information",
     "8. Reports/Hack the Box",
     "8. Reports/Templates/Untitled",
     "8. Reports/Templates",
@@ -233,11 +237,7 @@
     "7. Misc/Images/Pasted image 20240830141213.png",
     "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Enumeration",
     "1. Recon/Port Scanning/Tooling/Nmap",
-    "5. Standard Information/Penetration Testing/Reporting/Tooling",
-    "5. Standard Information/Penetration Testing/Stages/8. Post-Engagement",
     "7. Misc/Images/0-PT-Process-LA.webp",
-    "5. Standard Information/Penetration Testing/Stages/6. Lateral Movement",
-    "5. Standard Information/Penetration Testing/Stages/4. Exploitation/Untitled",
     "7. Misc/Images/0-PT-Process-EX.webp",
     "7. Misc/Images/0-PT-Process-VA.webp",
     "7. Misc/Images/0-PT-Process-IG.webp",

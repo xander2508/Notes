@@ -1,3 +1,9 @@
+---
+tags:
+  - OperatingSystems
+  - Windows
+  - Security
+---
 
 ## Security Identifier (SID)
 

@@ -1,3 +1,9 @@
+---
+tags:
+  - OperatingSystems
+  - Windows
+  - Security
+---
 See [[Users and Groups]]
 
 | Account                 | Description                                                                                                                                                                                                                                                            |

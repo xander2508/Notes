@@ -1,3 +1,7 @@
+---
+tags:
+  - Cryptography
+---
 | **Algorithm**                                | **Acronym** | **Security**                                                               |
 | -------------------------------------------- | ----------- | -------------------------------------------------------------------------- |
 | `Diffie-Hellman`                             | `DH`        | Relatively secure and computationally efficient                            |

@@ -1,3 +1,9 @@
+---
+tags:
+  - OperatingSystems
+  - Linux
+  - TaskScheduling
+---
 [Linux Privilege Escalation by Exploiting Cronjobs - Hacking Articles](https://www.hackingarticles.in/linux-privilege-escalation-by-exploiting-cron-jobs/)
 [Cron Jobs – Linux Privilege Escalation - Juggernaut-Sec](https://juggernaut-sec.com/cron-jobs-lpe/)
 

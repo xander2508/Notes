@@ -1,3 +1,7 @@
+---
+tags:
+  - Networking
+---
 
 - `Dedicated Proxy` / `Forward Proxy`
 - `Reverse Proxy`

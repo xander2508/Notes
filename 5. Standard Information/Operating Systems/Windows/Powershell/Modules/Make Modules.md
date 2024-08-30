@@ -1,3 +1,10 @@
+---
+tags:
+  - OperatingSystems
+  - Windows
+  - PowerShell
+  - Modules
+---
 ### Module Manifest
 
 A module manifest is a simple `.psd1` file that contains a hash table. The keys and values in the hash table perform the following functions:

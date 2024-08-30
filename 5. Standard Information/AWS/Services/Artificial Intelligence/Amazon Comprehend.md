@@ -1,1 +1,0 @@
-Discover patterns in text

@@ -1,3 +1,9 @@
+---
+tags:
+  - OperatingSystems
+  - Windows
+  - FileSystems
+---
 
 - What system information can we pull from our target host?
 - What other system(s) is our target host interacting with over the network?
