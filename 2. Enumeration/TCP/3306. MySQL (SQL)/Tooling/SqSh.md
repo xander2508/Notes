@@ -2,6 +2,9 @@
 tags:
   - Enumeration
   - TCP
+  - MySQL
+  - SQL
+  - Tooling
 ---
  Interactive database shell 
  

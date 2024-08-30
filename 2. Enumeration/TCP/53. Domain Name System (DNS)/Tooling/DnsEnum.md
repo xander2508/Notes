@@ -3,7 +3,7 @@ tags:
   - Enumeration
   - TCP
   - DNS
-  - Domain-Name-System
+  - DomainNameSystem
   - Tooling
 ---
 

@@ -2,7 +2,7 @@
 tags:
   - Enumeration
   - TCP
-  - Internet-Relay-Chat
+  - InternetRelayChat
   - IRC
   - Tooling
 ---

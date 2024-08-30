@@ -1,8 +1,8 @@
 ---
 tags:
-  - Traffic-Analysis
+  - TrafficAnalysis
   - Recon
-  - Network-Analysis
+  - NetworkAnalysis
 ---
 
 [TShark](https://www.wireshark.org/docs/man-pages/tshark.html) is a network packet analyser much like TCPDump. It will capture packets from a live network or read and decode from a file. 

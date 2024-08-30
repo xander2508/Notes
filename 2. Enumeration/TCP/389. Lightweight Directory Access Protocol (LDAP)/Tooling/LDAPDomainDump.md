@@ -2,7 +2,7 @@
 tags:
   - Enumeration
   - TCP
-  - Lightweight-Directory-Access-Protocol
+  - LightweightDirectoryAccessProtocol
   - LDAP
   - Tooling
 ---

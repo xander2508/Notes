@@ -2,10 +2,10 @@
 tags:
   - Enumeration
   - TCP
-  - Server-Message-Block
+  - ServerMessageBlock
   - SMB
   - Concepts
-  - Access-Control
+  - AccessControl
 ---
 The Windows Defender Firewall may block access to the SMB share.
 

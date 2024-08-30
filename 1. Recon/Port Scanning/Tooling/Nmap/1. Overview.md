@@ -1,7 +1,7 @@
 ---
 tags:
   - Recon
-  - Port-Scanning
+  - PortScanning
   - Nmap
   - Tooling
 ---

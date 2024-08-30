@@ -2,10 +2,10 @@
 tags:
   - Enumeration
   - TCP
-  - Server-Message-Block
+  - ServerMessageBlock
   - SMB
   - Concepts
-  - Access-Control
+  - AccessControl
 ---
 NTFS permissions and share permissions are often understood to be the same. Please know that they are not the same but often apply to the same shared resource. Let’s take a look at the individual permissions that can be set to secure/grant objects access to a network share hosted on a Windows OS running the NTFS file system.
 

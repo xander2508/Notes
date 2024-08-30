@@ -2,6 +2,9 @@
 tags:
   - Enumeration
   - TCP
+  - RemoteDesktopProtocol
+  - RDP
+  - Tooling
 ---
 [xfreerdp(1): FreeRDP X11 client - Linux man page](https://linux.die.net/man/1/xfreerdp)
 

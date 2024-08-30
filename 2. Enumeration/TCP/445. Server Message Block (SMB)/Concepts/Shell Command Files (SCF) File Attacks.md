@@ -2,7 +2,7 @@
 tags:
   - Enumeration
   - TCP
-  - Server-Message-Block
+  - ServerMessageBlock
   - SMB
   - Concepts
 ---

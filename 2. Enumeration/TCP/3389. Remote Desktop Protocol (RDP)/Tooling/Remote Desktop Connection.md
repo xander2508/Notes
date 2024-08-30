@@ -2,6 +2,9 @@
 tags:
   - Enumeration
   - TCP
+  - RemoteDesktopProtocol
+  - RDP
+  - Tooling
 ---
 
 - Remote Desktop Connection is a feature in Windows operating systems that allows users to access and control their desktop or laptop computer from another device, such as a laptop, tablet, or smartphone.
