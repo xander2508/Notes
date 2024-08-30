@@ -119,7 +119,7 @@ sudo nmap 10.129.2.18 --reason
 #### Output Formats
 
 - Normal output (`-oN`) with the `.nmap` file extension
-- Grepable output (`-oG`) with the `.gnmap` file extension
+- Greppable output (`-oG`) with the `.gnmap` file extension
 - XML output (`-oX`) with the `.xml` file extension
 - `-oA target` Saves the results in all formats, starting the name of each file with 'target'.
 
