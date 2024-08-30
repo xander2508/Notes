@@ -43,4 +43,4 @@ To commence capturing traffic from our clients and network, we can employ `airo
 sudo airodump-ng -c 4 --bssid F8:14:FE:4D:E6:F1 wlan0 -w raw
 ```
 
-We can use `tcpdump` to achieve similar outcomes, but airodump-ng proves equally effective.
+We can use `tcpdump` to achieve similar outcomes, but Airodump-ng proves equally effective.
