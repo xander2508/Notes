@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Recon/Port Scanning/Tooling/Nmap.md",
+                "file": "1. Recon/Port Scanning/Nmap.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Recon/Port Scanning/Tooling/Nmap.md",
+                "file": "1. Recon/Port Scanning/Nmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Recon/Port Scanning/Tooling/Nmap.md",
+                "file": "1. Recon/Port Scanning/Nmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Recon/Port Scanning/Tooling/Nmap.md"
+                "file": "1. Recon/Port Scanning/Nmap.md"
               }
             }
           },
@@ -235,7 +235,7 @@
     "1. Recon/Port Scanning/Types.md",
     "1. Recon/Port Scanning/Tooling/NmapAutomator.md",
     "2. Enumeration/Other/~. ICMP/1. Guide.md",
-    "1. Recon/Port Scanning/Tooling/Nmap.md",
+    "1. Recon/Port Scanning/Nmap.md",
     "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tools/InterPlanetary File System.md",
     "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/DNS Tunnelling.md",
     "4. Post Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/ICMP Tunnelling.md",
