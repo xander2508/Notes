@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/80. HTTP/1. Guide.md",
+                "file": "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Infrastructure Enumeration.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/80. HTTP/1. Guide.md",
+                "file": "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Infrastructure Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/80. HTTP/1. Guide.md",
+                "file": "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Infrastructure Enumeration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/80. HTTP/1. Guide.md"
+                "file": "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Infrastructure Enumeration.md"
               }
             }
           },
@@ -200,19 +200,20 @@
   },
   "active": "6d1291543aa69a3f",
   "lastOpenFiles": [
+    "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Host Enumeration.md",
+    "1. Recon/Open Source Intelligence (OSINT)/1. Guide.md",
     "1. Recon/1. Guide.md",
+    "2. Enumeration/TCP/80. HTTP/1. Guide.md",
     "2. Enumeration/UDP/161. Simple Network Management Protocol (SNMP)/1. Guide.md",
     "1. Recon/Network Analysis/Wi-Fi Capture.md",
     "2. Enumeration/Other/~. 802.11 (WiFi)/1. Guide.md",
     "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/2. Information Gathering.md",
     "5. Standard Information/Penetration Testing/1. Guide.md",
-    "2. Enumeration/TCP/80. HTTP/1. Guide.md",
     "2. Enumeration/TCP/80. HTTP/Applications/Apache.md",
     "2. Enumeration/TCP/80. HTTP/Applications/Sharepoint.md",
     "1. Recon/Tooling/Responder.md",
     "1. Recon/Port Scanning/Types.md",
     "1. Recon/Port Scanning/1. Overview.md",
-    "1. Recon/Open Source Intelligence (OSINT)/1. Guide.md",
     "1. Recon/Open Source Intelligence (OSINT)/Sherlock.md",
     "1. Recon/Network Analysis/1. Analysis Overview.md",
     "1. Recon/Network Analysis/2. Filtering Traffic.md",
@@ -225,7 +226,6 @@
     "7. Misc/textgenerator/templates/default/getEmailNeg.md",
     "5. Standard Information/Penetration Testing/Stages/8. Post-Engagement.md",
     "5. Standard Information/Penetration Testing/Stages/7. Proof-of-Concept.md",
-    "5. Standard Information/Penetration Testing/Stages/4. Exploitation/4. Exploitation.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Vulnerabilities",
