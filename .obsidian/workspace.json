@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Host Enumeration.md",
+                "file": "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Enumeration Methodology.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Host Enumeration.md",
+                "file": "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Enumeration Methodology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Host Enumeration.md",
+                "file": "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Enumeration Methodology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Host Enumeration.md"
+                "file": "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Enumeration Methodology.md"
               }
             }
           },
@@ -232,11 +232,13 @@
   },
   "active": "5d6920b90fee13f8",
   "lastOpenFiles": [
+    "1. Recon/1. Guide.md",
+    "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Enumeration Methodology.md",
+    "7. Misc/Images/Pasted image 20240830141213.png",
+    "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Host Enumeration.md",
     "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Service Enumeration.md",
     "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/2. Information Gathering.md",
     "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Infrastructure Enumeration.md",
-    "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Host Enumeration.md",
-    "1. Recon/1. Guide.md",
     "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Enumeration",
     "1. Recon/Port Scanning/Nmap/1. Overview.md",
     "1. Recon/Port Scanning/Nmap/Scripts.md",
@@ -260,8 +262,6 @@
     "5. Standard Information/Penetration Testing/Stages/1. Pre-Engagement/1. Pre-Engagement.md",
     "5. Standard Information/Penetration Testing/Stages/8. Post-Engagement",
     "5. Standard Information/Penetration Testing/Stages/7. Proof-of-Concept.md",
-    "5. Standard Information/Penetration Testing/Stages/6. Lateral Movement/6. Lateral Movement.md",
-    "5. Standard Information/Penetration Testing/Stages/6. Lateral Movement/Evasive Testing.md",
     "7. Misc/Images/0-PT-Process-LA.webp",
     "5. Standard Information/Penetration Testing/Stages/6. Lateral Movement",
     "5. Standard Information/Penetration Testing/Stages/4. Exploitation/Untitled",
@@ -277,7 +277,6 @@
     "7. Misc/Images/Internet.webp",
     "7. Misc/Images/4-DNSTraffic.webp",
     "7. Misc/Images/3-DNSTraffic.webp",
-    "7. Misc/Images/3-ICMP-tunneling.webp",
     "Untitled.canvas"
   ]
 }
