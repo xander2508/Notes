@@ -11,11 +11,14 @@
             "id": "5d6920b90fee13f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Enumeration Methodology.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -95,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Enumeration Methodology.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Enumeration Methodology.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Enumeration Methodology.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -230,10 +233,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "744b9316b7030f7b",
+  "active": "5d6920b90fee13f8",
   "lastOpenFiles": [
-    "1. Recon/1. Guide.md",
     "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Enumeration Methodology.md",
+    "Untitled.canvas",
+    "1. Recon/1. Guide.md",
     "7. Misc/Images/Pasted image 20240830141213.png",
     "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Host Enumeration.md",
     "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Service Enumeration.md",
@@ -276,7 +280,6 @@
     "7. Misc/Images/0-PT-Process.webp",
     "7. Misc/Images/Internet.webp",
     "7. Misc/Images/4-DNSTraffic.webp",
-    "7. Misc/Images/3-DNSTraffic.webp",
-    "Untitled.canvas"
+    "7. Misc/Images/3-DNSTraffic.webp"
   ]
 }

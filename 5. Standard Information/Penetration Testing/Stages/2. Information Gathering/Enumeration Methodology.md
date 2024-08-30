@@ -39,6 +39,19 @@ Every time a command or function is executed, data is processed, whether entered
 
 ## Layer No.5: Privileges
 
+Each service runs through a specific user in a particular group with permissions and privileges defined by the administrator or the system. These privileges often provide us with functions that administrators overlook. This often happens in Active Directory infrastructures and many other case-specific administration environments and servers where users are responsible for multiple administration areas.
+
+`It is crucial to identify these and understand what is and is not possible with these privileges.`
+
+## Layer No.6: OS Setup
+
+Here we collect information about the actual operating system and its setup using internal access. This gives us a good overview of the internal security of the systems and reflects the skills and capabilities of the company's administrative teams.
+
+`The goal here is to see how the administrators manage the systems and what sensitive internal information we can glean from them.`
+
+
+
+
 
 
 
