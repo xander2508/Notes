@@ -78,13 +78,13 @@ Another way to determine why Nmap has our target marked as "alive" is with the "
 sudo nmap 10.129.2.18 --reason 
 ```
 
-#### Disable ARP Ping 
+#### Disable Features
 
-```shell-session
- sudo nmap 10.129.2.18 --disable-arp-ping 
-```
-
-
+|                      |                          |
+| -------------------- | ------------------------ |
+| `-n`                 | Disables DNS resolution. |
+| `--disable-arp-ping` | Disables ARP ping.       |
+| -Pn                  | Disable ICMP echo        |
 ## Results 
 
 | **State**          | **Description**                                                                                                                                                                                         |
