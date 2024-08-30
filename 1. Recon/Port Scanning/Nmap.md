@@ -32,7 +32,7 @@ Nmap offers many different types of scans that can be used to obtain various res
 nmap <scan types> <options> <target>
 ```
 
-### Scan Options
+## Scan Options
 
 #### Scan for Operating System
 
@@ -118,8 +118,17 @@ RCVD (0.1370s) TCP 10.129.2.28:80 > 10.10.14.2:59289 SA ttl=64 id=0 iplen=44  se
 Nmap scan report for 10.129.2.28
 Host is up (0.099s latency).
 ```
-### Extra Features
+## Extra Features
 
+#### DNS Proxying
+
+`Nmap` gives us a way to specify DNS servers ourselves (`--dns-server <ns>,<ns>`). 
+
+This method could be fundamental to us if we are in a demilitarized zone (`DMZ`). The company's DNS servers are usually more trusted than those from the Internet. So, for example, we could use them to interact with the hosts of the internal network.
+
+#### Modify Source Address 
+
+We can use `TCP port 53` as a source port (`--source-port`) for our scans. If the administrator uses the firewall to control this port and does not filter IDS/IPS properly, our TCP packets will be trusted and passed through. This is because DNS utilises these ports and is normally more trusted.
 #### Spoof Source Address 
 
 A possible use of this flag is to spoof the scan to make the targets think that _someone else_ is scanning them. Imagine a company being repeatedly port scanned by a competitor! The `-e` option and `-Pn` are generally required for this sort of usage. Note that you usually won't receive reply packets back (they will be addressed to the IP you are spoofing), so Nmap won't produce useful reports.
