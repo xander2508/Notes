@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/2. Information Gathering.md",
+                "file": "1. Recon/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/2. Information Gathering.md",
+                "file": "1. Recon/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/2. Information Gathering.md",
+                "file": "1. Recon/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/2. Information Gathering.md"
+                "file": "1. Recon/1. Guide.md"
               }
             }
           },
@@ -200,6 +200,7 @@
   },
   "active": "6d1291543aa69a3f",
   "lastOpenFiles": [
+    "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/2. Information Gathering.md",
     "5. Standard Information/Penetration Testing/1. Guide.md",
     "1. Recon/1. Guide.md",
     "2. Enumeration/TCP/80. HTTP/1. Guide.md",
@@ -225,7 +226,6 @@
     "5. Standard Information/Operating Systems/Windows/Tooling/Files/Writing to Files.md",
     "5. Standard Information/Operating Systems/Windows/Tooling/Files/Sort Files.md",
     "5. Standard Information/Operating Systems/Windows/Tooling/Files/Search in File.md",
-    "5. Standard Information/Operating Systems/Windows/Tooling/Files/Read Files.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Vulnerabilities",
