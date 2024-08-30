@@ -55,6 +55,15 @@ nmap 10.0.0.0 -p-
 sudo nmap -sS
 ```
 
+#### ACK Scan
+
+Nmap's TCP ACK scan (`-sA`) method is much harder to filter for firewalls and IDS/IPS systems than regular SYN (`-sS`) or Connect scans (`sT`) because they only send a TCP packet with only the `ACK` flag. When a port is closed or open, the host must respond with an `RST` flag. Unlike outgoing connections, all connection attempts (with the `SYN` flag) from external networks are usually blocked by firewalls. However, the packets with the `ACK` flag are often passed by the firewall because the firewall cannot determine whether the connection was first established from the external network or the internal network.
+
+```shell-session
+ sudo nmap 10.129.2.28 -p- -sA 
+```
+
+`unfiltered` may mean open in the case of this scan. This can be shown in the packet trace because open ports must respond with `RST`.
 #### Disable Port Scanning
 
 Detect which hosts are open.
