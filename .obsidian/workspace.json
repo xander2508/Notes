@@ -232,8 +232,9 @@
   },
   "active": "5d6920b90fee13f8",
   "lastOpenFiles": [
-    "1. Recon/Port Scanning/Tooling/Nmap Scripts.md",
+    "3. Exploitation/Known Exploits/Networking and Packet/IP Source & Destination Spoofing Attacks/Decoy Scanning.md",
     "1. Recon/Port Scanning/Nmap.md",
+    "1. Recon/Port Scanning/Tooling/Nmap Scripts.md",
     "1. Recon/Port Scanning/Tooling/NmapAutomator.md",
     "1. Recon/Port Scanning/Types.md",
     "5. Standard Information/Penetration Testing/Reporting/Tooling/Nmap Scan to Report.md",
@@ -261,7 +262,6 @@
     "5. Standard Information/Penetration Testing/Stages/6. Lateral Movement",
     "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Data Exfiltration.md",
     "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/5. Post-Exploitation.md",
-    "5. Standard Information/Penetration Testing/Stages/3. Vulnerability Assessment/3. Vulnerability Assessment.md",
     "5. Standard Information/Penetration Testing/Stages/4. Exploitation/Untitled",
     "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation",
     "5. Standard Information/Penetration Testing/Stages/4. Exploitation",
