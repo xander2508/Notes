@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/Concepts/Access Control/Windows Defender Firewall Considerations.md",
+                "file": "2. Enumeration/TCP/587. Simple Mail Transfer Protocol (SMTP SSL)/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/Concepts/Access Control/Windows Defender Firewall Considerations.md",
+                "file": "2. Enumeration/TCP/587. Simple Mail Transfer Protocol (SMTP SSL)/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/Concepts/Access Control/Windows Defender Firewall Considerations.md",
+                "file": "2. Enumeration/TCP/587. Simple Mail Transfer Protocol (SMTP SSL)/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/Concepts/Access Control/Windows Defender Firewall Considerations.md"
+                "file": "2. Enumeration/TCP/587. Simple Mail Transfer Protocol (SMTP SSL)/1. Guide.md"
               }
             }
           },
@@ -197,8 +197,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "744b9316b7030f7b",
+  "active": "6d1291543aa69a3f",
   "lastOpenFiles": [
+    "2. Enumeration/TCP/445. Server Message Block (SMB)/Concepts/Access Control/Windows Defender Firewall Considerations.md",
     "2. Enumeration/TCP/445. Server Message Block (SMB)/Concepts/Access Control/Permissions.md",
     "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/Tooling/RpcClient.md",
     "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/Tooling/RpcDump.md",
@@ -224,7 +225,6 @@
     "1. Recon/Network Analysis/Traffic Analysis/TShark.md",
     "1. Recon/Network Analysis/Traffic Analysis/Termshark.md",
     "1. Recon/Network Analysis/Traffic Analysis/TCPick.md",
-    "1. Recon/Network Analysis/Traffic Analysis/TCPDump.md",
     "8. Reports/Hack the Box",
     "8. Reports/Templates/Untitled",
     "8. Reports/Templates",
