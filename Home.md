@@ -11,7 +11,7 @@ titleStyle:
   fontWeight: normal
 dataSource:
   type: PAGE
-  value: ""
+  value: "/1. Recon/"
   dateField:
     type: FILE_MTIME
 fillTheScreen: false
