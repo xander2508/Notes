@@ -14,7 +14,7 @@ The internal website can be reviewed and have its information extracted:
 - Employees 
 - Utilised technologies
 - Infrastructure 
-- Company industry and its ties (e.g. )
+- Company industry and its ties (e.g. A software design company will probably have a Dev server)
 
 ### DNS Lookup 
 
