@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/1. Guide.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea541ca4aaf2d5ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/CrackMapExec.md",
+                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/enum4linux-ng.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/CrackMapExec.md",
+                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/enum4linux-ng.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/CrackMapExec.md",
+                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/enum4linux-ng.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/CrackMapExec.md"
+                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/enum4linux-ng.md"
               }
             }
           },
@@ -222,11 +210,17 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "ea541ca4aaf2d5ca",
+  "active": "83bccd168b711bf6",
   "lastOpenFiles": [
+    "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/CrackMapExec.md",
     "2. Enumeration/TCP/445. Server Message Block (SMB)/1. Guide.md",
     "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/Tooling/RpcClient.md",
-    "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/CrackMapExec.md",
+    "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/enum4linux-ng.md",
+    "4. Post-Exploitation/Command and Control/Tooling/SILENTTRINITY.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Tooling/Hashcat.md",
+    "4. Post-Exploitation/Securing Access.md",
+    "4. Post-Exploitation/Command and Control/Tooling",
+    "4. Post-Exploitation/Command and Control",
     "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/GPP-Decrypt.md",
     "3. Exploitation/Operating Systems/Windows/Tooling/Impacket.md",
     "5. Standard Information/Operating Systems/Windows/Relative Identifiers (RID) and Security Identifiers (SID).md",
@@ -246,20 +240,14 @@
     "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities/File include (LFI) (RFI).md",
     "5. Standard Information/Penetration Testing/Stages/8. Post-Engagement.md",
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Windows/1. Guide.md",
-    "1. Recon/1. Guide.md",
-    "3. Exploitation/File Types and Data/1. Guide.md",
-    "2. Enumeration/TCP/22. SSH/Applications/OpenSSH.md",
     "2. Enumeration/TCP/445. Server Message Block (SMB)/Applications",
     "7. Misc/Images/[MS-SMB2] 1.pdf",
     "7. Misc/Images/[MS-SMB2].pdf",
-    "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/Impacket.md",
     "2. Enumeration/TCP/20. FTP/Applications",
     "2. Enumeration/UDP/69. Trivial File Transfer Protocol (TFTP)",
     "1. Recon/Open Source Intelligence (OSINT)/Tooling",
     "2. Enumeration/UDP/53. Domain Name System (DNS)",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information",
-    "4. Post-Exploitation/Operating Systems/Linux/Concepts/Vulnerabilities",
     "Untitled.canvas",
     "7. Misc/Images/Pasted image 20240830141213.png",
     "7. Misc/Images/0-PT-Process-LA.webp",
