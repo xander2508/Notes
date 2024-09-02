@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Recon/Open Source Intelligence (OSINT)/Staff Research.md",
+                "file": "2. Enumeration/TCP/20. FTP/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Recon/Open Source Intelligence (OSINT)/Staff Research.md",
+                "file": "2. Enumeration/TCP/20. FTP/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Recon/Open Source Intelligence (OSINT)/Staff Research.md",
+                "file": "2. Enumeration/TCP/20. FTP/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Recon/Open Source Intelligence (OSINT)/Staff Research.md"
+                "file": "2. Enumeration/TCP/20. FTP/1. Guide.md"
               }
             }
           },
@@ -197,10 +197,16 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "49ef7984b54888e5",
+  "active": "744b9316b7030f7b",
   "lastOpenFiles": [
-    "1. Recon/Open Source Intelligence (OSINT)/1. Guide.md",
+    "2. Enumeration/TCP/20. FTP/Untitled",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/1. Guide.md",
+    "2. Enumeration/TCP/20. FTP/1. Guide.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/2. Brute Forcing Guide.md",
     "1. Recon/Open Source Intelligence (OSINT)/Staff Research.md",
+    "3. Exploitation/File Types and Data/Git Repository.md",
+    "1. Recon/Open Source Intelligence (OSINT)/1. Guide.md",
+    "1. Recon/Open Source Intelligence (OSINT)/Tooling/Reverse Image Searching.md",
     "1. Recon/Open Source Intelligence (OSINT)/Tooling",
     "1. Recon/Open Source Intelligence (OSINT)/Online Research.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
@@ -221,12 +227,6 @@
     "5. Standard Information/Amazon Web Services (AWS)/Services/Artificial Intelligence/Machine Learning/Amazon SageMaker.md",
     "5. Standard Information/Amazon Web Services (AWS)/Sales/AWS Cloud Adoption Framework (CAF).md",
     "5. Standard Information/Amazon Web Services (AWS)/Sales/AWS Billing & Cost Management Dashboard.md",
-    "3. Exploitation/File Types and Data/CRT (Certificate Files).md",
-    "1. Recon/Open Source Intelligence (OSINT)/Tooling/Sherlock.md",
-    "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Host Enumeration.md",
-    "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Infrastructure Enumeration.md",
-    "2. Enumeration/TCP/80. HTTP/1. Guide.md",
-    "2. Enumeration/UDP/161. Simple Network Management Protocol (SNMP)/1. Guide.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Vulnerabilities",
