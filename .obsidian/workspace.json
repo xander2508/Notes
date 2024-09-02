@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
+                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Host.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83988867f6bb0750",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/DnsEnum.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
+                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Host.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
+                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Host.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md"
+                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Host.md"
               }
             }
           },
@@ -201,6 +213,9 @@
   "lastOpenFiles": [
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Domain Information Groper (Dig).md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/DnsEnum.md",
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Host.md",
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/DnsRecon.md",
     "2. Enumeration/UDP/53. Domain Name System (DNS)/1. Guide.md",
     "1. Recon/Tooling/Shodan.md",
     "2. Enumeration/UDP/53. Domain Name System (DNS)",
@@ -223,9 +238,6 @@
     "2. Enumeration/Other/~. 802.11 (WiFi)/1. Guide.md",
     "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/2. Information Gathering.md",
     "5. Standard Information/Penetration Testing/1. Guide.md",
-    "2. Enumeration/TCP/80. HTTP/Applications/Apache.md",
-    "2. Enumeration/TCP/80. HTTP/Applications/Sharepoint.md",
-    "1. Recon/Tooling/Responder.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Vulnerabilities",
