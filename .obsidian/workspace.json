@@ -11,12 +11,8 @@
             "id": "8e422a344796c783",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Vulnerabilities/Network File System (NFS) Root Squashing.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -95,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Vulnerabilities/Network File System (NFS) Root Squashing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Vulnerabilities/Network File System (NFS) Root Squashing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Vulnerabilities/Network File System (NFS) Root Squashing.md"
-              }
+              "state": {}
             }
           },
           {
@@ -199,11 +191,11 @@
   },
   "active": "8e422a344796c783",
   "lastOpenFiles": [
+    "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Vulnerabilities/Network File System (NFS) Root Squashing.md",
     "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Information/Mount NFS Share.md",
     "2. Enumeration/TCP/2049. Network File System (NFS)/1. Guide.md",
     "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Information/Show Available NFS Shares.md",
     "2. Enumeration/TCP/2049. Network File System (NFS)/Tooling/ShowMount.md",
-    "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Vulnerabilities/Network File System (NFS) Root Squashing.md",
     "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Information/Start NFS.md",
     "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Vulnerabilities",
     "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Information",
