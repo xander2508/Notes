@@ -37,10 +37,22 @@ sudo nmap <target> --script <category>
 
 #### Defined Scripts
 
-
 ```shell-session
 sudo nmap <target> --script <script-name>,<script-name>,...
 ```
 
 More information about NSE scripts and the corresponding categories we can find at: [https://nmap.org/nsedoc/index.html](https://nmap.org/nsedoc/index.html)
+
+#### Update Scripts 
+
+```shell-session
+sudo nmap --script-updatedb
+```
+
+#### Search for Scripts 
+
+```shell-session
+find / -type f -name ftp* 2>/dev/null | grep scripts
+```
+
 

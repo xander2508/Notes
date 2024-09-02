@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/20. FTP/1. Guide.md",
+                "file": "1. Recon/Port Scanning/Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/20. FTP/1. Guide.md",
+                "file": "1. Recon/Port Scanning/Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/20. FTP/1. Guide.md",
+                "file": "1. Recon/Port Scanning/Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/20. FTP/1. Guide.md"
+                "file": "1. Recon/Port Scanning/Types.md"
               }
             }
           },
@@ -197,10 +197,16 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "49ef7984b54888e5",
+  "active": "744b9316b7030f7b",
   "lastOpenFiles": [
-    "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities/File include (LFI) (RFI).md",
+    "1. Recon/Tooling/Shodan.md",
+    "1. Recon/1. Guide.md",
+    "1. Recon/Port Scanning/Tooling/Nmap/Options.md",
+    "1. Recon/Port Scanning/1. Overview.md",
+    "1. Recon/Port Scanning/Types.md",
+    "1. Recon/Port Scanning/Tooling/Nmap/Scripts.md",
     "2. Enumeration/TCP/20. FTP/1. Guide.md",
+    "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities/File include (LFI) (RFI).md",
     "2. Enumeration/TCP/20. FTP/Applications/vsFTPd.md",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Valuable Files.md",
     "4. Post-Exploitation/Valuable Files.md",
@@ -222,13 +228,7 @@
     "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
     "1. Recon/Open Source Intelligence (OSINT)/We.md",
     "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Enumeration Methodology.md",
-    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Host.md",
-    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Domain Information Groper (Dig).md",
-    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/DnsEnum.md",
-    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/DnsRecon.md",
-    "1. Recon/Tooling/Shodan.md",
     "2. Enumeration/UDP/53. Domain Name System (DNS)",
-    "2. Enumeration/UDP/Untitled.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Vulnerabilities",
