@@ -56,3 +56,8 @@ find / -type f -name ftp* 2>/dev/null | grep scripts
 ```
 
 
+#### Enable Script Tracing 
+
+```
+--script-trace
+```
