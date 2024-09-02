@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/20. FTP/1. Guide.md",
+                "file": "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Valuable Files.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/20. FTP/1. Guide.md",
+                "file": "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Valuable Files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/20. FTP/1. Guide.md",
+                "file": "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Valuable Files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/20. FTP/1. Guide.md"
+                "file": "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Valuable Files.md"
               }
             }
           },
@@ -199,6 +199,7 @@
   },
   "active": "49ef7984b54888e5",
   "lastOpenFiles": [
+    "4. Post-Exploitation/Valuable Files.md",
     "2. Enumeration/TCP/20. FTP/Applications/vsFTPd.md",
     "2. Enumeration/TCP/20. FTP/1. Guide.md",
     "2. Enumeration/TCP/20. FTP/Applications",
@@ -228,7 +229,6 @@
     "2. Enumeration/UDP/Untitled.md",
     "2. Enumeration/TCP/445. Server Message Block (SMB)/1. Guide.md",
     "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/Responder.md",
-    "2. Enumeration/TCP/445. Server Message Block (SMB)/Concepts/Shell Command Files (SCF) File Attacks.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Vulnerabilities",
