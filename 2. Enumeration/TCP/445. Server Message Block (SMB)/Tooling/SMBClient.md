@@ -15,7 +15,7 @@ tags:
 List available shares:
 
 ```
-smbclient --list //arkham.htb/ -U ""
+smbclient -N -L //arkham.htb/
 ```
 
 ```
