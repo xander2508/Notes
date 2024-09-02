@@ -1,4 +1,10 @@
-
+---
+tags:
+  - Recon
+  - OpenSourceIntelligence
+  - OSINT
+  - Tooling
+---
 
 ## Tools
 

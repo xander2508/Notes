@@ -1,3 +1,9 @@
+---
+tags:
+  - Recon
+  - OpenSourceIntelligence
+  - OSINT
+---
 
 ## Guidance 
 
