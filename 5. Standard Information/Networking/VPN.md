@@ -1,3 +1,7 @@
+---
+tags:
+  - Networking
+---
 A `Virtual Private Network` (`VPN`) is a technology that allows a secure and encrypted connection between a private network and a remote device.
 
 For a VPNs to connect multiple remote locations, such as branch offices, into a single private network, making it easier to manage and access network resources. However, several components and requirements are necessary for a VPN to work:

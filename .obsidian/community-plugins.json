@@ -1,16 +1,12 @@
 [
   "obsidian-hover-editor",
-  "breadcrumbs",
   "obsidian-git",
   "obsidian-icon-folder",
   "obsidian-textgenerator-plugin",
-  "cryptsidian",
   "smart-connections",
-  "graph-analysis",
   "convert-url-to-iframe",
   "dataview",
   "table-editor-obsidian",
-  "obsidian-auto-link-title",
   "find-unlinked-files",
   "various-complements",
   "obsidian-linter",
@@ -19,5 +15,10 @@
   "obsidian-hider",
   "obsidian-importer",
   "zen",
-  "mermaid-tools"
+  "mermaid-tools",
+  "tag-wrangler",
+  "multi-tag",
+  "obsidian-auto-link-title",
+  "3d-graph",
+  "folders2graph"
 ]

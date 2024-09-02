@@ -1,3 +1,10 @@
+---
+tags:
+  - Enumeration
+  - TCP
+  - SMTP
+  - Tooling
+---
 
 [snmpwalk(1) - Linux man page](https://linux.die.net/man/1/snmpwalk)
 

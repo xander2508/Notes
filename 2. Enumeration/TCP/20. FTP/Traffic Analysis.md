@@ -1,3 +1,9 @@
+---
+tags:
+  - Enumeration
+  - TCP
+  - FTP
+---
 
 See [[1. Analysis Overview]]
 

@@ -1,3 +1,11 @@
+---
+tags:
+  - Enumeration
+  - TCP
+  - MySQL
+  - SQL
+  - Tooling
+---
 SQLMap is an open-source penetration testing tool that automates the process of detecting and exploiting SQL injection vulnerabilities in web applications.
 
 [GitHub - sqlmapproject/sqlmap: Automatic SQL injection and database takeover tool](https://github.com/sqlmapproject/sqlmap/tree/master)

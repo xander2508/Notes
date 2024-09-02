@@ -1,3 +1,9 @@
+---
+tags:
+  - OperatingSystems
+  - Windows
+  - UserPrivileges
+---
 
 
 1. Use accesschk.exe to check the "user" account's permissions on the "daclsvc" service:

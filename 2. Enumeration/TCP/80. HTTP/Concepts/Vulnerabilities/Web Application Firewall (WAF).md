@@ -1,3 +1,11 @@
+---
+tags:
+  - Enumeration
+  - TCP
+  - HTTP
+  - Concepts
+  - Vulnerabilities
+---
 If requests to pages or parameters changes based on what is sent, maybe there is a WAF blocking certain requests. Attempt to send " " or "", then "echo" etc
 
 1. Burp can bypass WAF, see [[Burp#WAF Bypass]]

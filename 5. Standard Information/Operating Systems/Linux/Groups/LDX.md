@@ -1,3 +1,9 @@
+---
+tags:
+  - OperatingSystems
+  - Linux
+  - Groups
+---
 
 # Guide
 

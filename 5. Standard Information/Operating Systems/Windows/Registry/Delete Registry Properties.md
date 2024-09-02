@@ -1,3 +1,9 @@
+---
+tags:
+  - OperatingSystems
+  - Windows
+  - Registry
+---
 Removing entries from the Windows Registry could negatively affect the host and how it functions. Be sure you know what it is you are removing before.
 
 ```powershell-session

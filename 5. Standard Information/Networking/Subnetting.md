@@ -1,3 +1,7 @@
+---
+tags:
+  - Networking
+---
 A subnet is a logical segment of a network that uses IP addresses with the same network address. We can think of a subnet as a labelled entrance on a large building corridor. For example, this could be a glass door that separates various departments of a company building. With the help of subnetting, we can create a specific subnet by ourselves or find out the following outline of the respective network:
 
 |**Details of**|**1st Octet**|**2nd Octet**|**3rd Octet**|**4th Octet**|**Decimal**|

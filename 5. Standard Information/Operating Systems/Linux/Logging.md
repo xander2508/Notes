@@ -1,3 +1,8 @@
+---
+tags:
+  - OperatingSystems
+  - Linux
+---
 
 There are several different types of system logs on Linux, including:
 - Kernel Logs

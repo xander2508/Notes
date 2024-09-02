@@ -1,3 +1,8 @@
+---
+tags:
+  - OperatingSystems
+  - Windows
+---
 Similar to [[CRON Jobs]]
 
 ## Triggers That Can Kick Off a Scheduled Task

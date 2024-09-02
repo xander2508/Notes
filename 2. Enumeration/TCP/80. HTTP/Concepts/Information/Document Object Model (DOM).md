@@ -1,3 +1,11 @@
+---
+tags:
+  - Enumeration
+  - TCP
+  - HTTP
+  - Concepts
+  - Information
+---
 
 [Document Object Model - Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model)
 

@@ -1,3 +1,11 @@
+---
+tags:
+  - Enumeration
+  - TCP
+  - HTTP
+  - Concepts
+  - Vulnerabilities
+---
 Ways to bypass file type upload filtering
 
 

@@ -1,3 +1,8 @@
+---
+tags:
+  - OperatingSystems
+  - Linux
+---
 
 Linux follows five core principles:
 

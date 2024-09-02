@@ -1,3 +1,9 @@
+---
+tags:
+  - OperatingSystems
+  - Linux
+  - Hardening
+---
 TCP wrappers are a host-based network access control mechanism that can be used to restrict access to network services based on the IP address of the client system. It works by intercepting incoming network requests and comparing the IP address of the client system to the access control rules. These are useful for limiting access to network services from unauthorized systems.
 
 TCP wrappers use the following configuration files:

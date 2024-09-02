@@ -1,3 +1,8 @@
+---
+tags:
+  - PenetrationTesting
+  - LawsAndRegulations
+---
 The [General Data Protection Regulation](https://gdpr-info.eu/) (`GDPR`) regulates the handling of personal data, strengthens individuals' rights over personal data, and imposes penalties of up to 4% of global annual revenue or 20 million euros, whichever is higher for non-compliance. Security researchers should be aware of these provisions and ensure that their research does not run afoul of GDPR. It's important to note that GDPR applies to any company that processes the personal data of EU citizens, regardless of the company's location.
 
 The [Network and Information Systems Directive](https://www.enisa.europa.eu/topics/cybersecurity-policy/nis-directive-new) (`NISD`) requires operators of essential services and digital service providers to take appropriate security measures and report specific incidents. It's important to note that the NISD applies to various organizations and individuals, including those conducting penetration testing and security research.

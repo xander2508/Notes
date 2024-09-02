@@ -1,3 +1,7 @@
+---
+tags:
+  - Cryptography
+---
 #### Symmetric Encryption
 
 Symmetric encryption, also known as secret key encryption, is a method that uses the same key to encrypt and decrypt the data. This means the sender and the receiver must have the same key to decrypt the data correctly.

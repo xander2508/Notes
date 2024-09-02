@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "01b183e5fc539953",
+        "id": "3f01eceb451d2aaa",
         "type": "tabs",
         "children": [
           {
-            "id": "ccdbf727042bed88",
+            "id": "8e422a344796c783",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Vulnerabilities/Network File System (NFS) Root Squashing.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Pillaging",
+                "query": "tag:OperatingSystems",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +66,7 @@
             }
           },
           {
-            "id": "8209421ee8ac8bbf",
+            "id": "78f7a608761ad7ab",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -75,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 345.5
   },
   "right": {
     "id": "ab865be945a38766",
@@ -91,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/6. Lateral Movement/6. Lateral Movement.md",
+                "file": "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Vulnerabilities/Network File System (NFS) Root Squashing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/6. Lateral Movement/6. Lateral Movement.md",
+                "file": "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Vulnerabilities/Network File System (NFS) Root Squashing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +124,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
@@ -131,40 +135,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/6. Lateral Movement/6. Lateral Movement.md"
+                "file": "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Vulnerabilities/Network File System (NFS) Root Squashing.md"
               }
-            }
-          },
-          {
-            "id": "cbdda6c71eaa403d",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            }
-          },
-          {
-            "id": "6dd6946eb2b0b80f",
-            "type": "leaf",
-            "state": {
-              "type": "BC-tree",
-              "state": {}
-            }
-          },
-          {
-            "id": "5a1acd102ae725f2",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            }
-          },
-          {
-            "id": "1cf8480c87c26566",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {}
             }
           },
           {
@@ -200,80 +172,81 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 774.5,
+    "width": 686.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
+      "3d-graph:3D Graph": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
+      "omnisearch:Omnisearch": false,
       "daily-notes:Open today's daily note": true,
-      "templates:Insert template": true,
-      "command-palette:Open command palette": false,
-      "breadcrumbs:Breadcrumbs Visualisation": true,
       "obsidian-textgenerator-plugin:Generate Text!": false,
+      "breadcrumbs:Breadcrumbs Visualisation": true,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": true,
       "table-editor-obsidian:Advanced Tables Toolbar": true,
-      "omnisearch:Omnisearch": false,
       "obsidian-importer:Open Importer": true,
       "mermaid-tools:Open Mermaid Toolbar": true,
       "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "smart-connections:Open: Smart Chat Conversation": false,
+      "templates:Insert template": false,
+      "canvas:Create new canvas": true,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "744b9316b7030f7b",
+  "active": "8e422a344796c783",
   "lastOpenFiles": [
-    "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/2. Information Gathering.md",
-    "5. Standard Information/Penetration Testing/Stages/6. Lateral Movement/6. Lateral Movement.md",
-    "5. Standard Information/Penetration Testing/Stages/6. Lateral Movement/Evasive Testing.md",
-    "5. Standard Information/Penetration Testing/Stages/6. Lateral Movement/Pivoting.md",
+    "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Information/Mount NFS Share.md",
+    "2. Enumeration/TCP/2049. Network File System (NFS)/1. Guide.md",
+    "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Information/Show Available NFS Shares.md",
+    "2. Enumeration/TCP/2049. Network File System (NFS)/Tooling/ShowMount.md",
+    "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Vulnerabilities/Network File System (NFS) Root Squashing.md",
+    "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Information/Start NFS.md",
+    "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Vulnerabilities",
+    "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Information",
+    "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Untitled.md",
+    "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts",
+    "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Valuable Files.md",
+    "4. Post-Exploitation/Valuable Files.md",
+    "2. Enumeration/UDP/111. Network File System (NFS)/1. Guide.md",
+    "2. Enumeration/UDP/111. Network File System (NFS)",
+    "2. Enumeration/TCP/111. Network File System (NFS)/1. Guide.md",
+    "2. Enumeration/TCP/111. Network File System (NFS)",
+    "2. Enumeration/TCP/21. FTP Control/1. Guide.md",
+    "2. Enumeration/TCP/443. HTTPS/1. Guide.md",
+    "2. Enumeration/TCP/80. HTTP/Concepts/Information/URL Encoding.md",
+    "2. Enumeration/TCP/110. Post Office Protocol (POP)/1. Guide.md",
+    "2. Enumeration/TCP/80. HTTP/2. Specification.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/2. Brute Forcing Guide.md",
+    "5. Standard Information/Operating Systems/Windows/Event Log/Event Tracing for Windows (ETW).md",
+    "7. Misc/Images/etw.webp",
+    "2. Enumeration/TCP/445. Server Message Block (SMB)/1. Guide.md",
+    "2. Enumeration/TCP/80. HTTP/1. Guide.md",
+    "Home.md",
+    "1. Recon/Port Scanning/Tooling/Nmap/Options.md",
+    "7. Misc/smart-chats/UNTITLED CHAT 2024-07-24 08 53 45.md",
+    "3. Exploitation/Known Exploits/Applications/wGet Exploits.md",
+    "2. Enumeration/TCP/80. HTTP/Tooling/wGet.md",
+    "2. Enumeration/TCP/80. HTTP/Concepts/Information/Website JavaScript.md",
+    "4. Post-Exploitation/Command and Control/Tooling",
+    "4. Post-Exploitation/Command and Control",
+    "2. Enumeration/TCP/445. Server Message Block (SMB)/Applications",
+    "7. Misc/Images/[MS-SMB2] 1.pdf",
+    "7. Misc/Images/[MS-SMB2].pdf",
+    "Untitled.canvas",
+    "7. Misc/Images/Pasted image 20240830141213.png",
     "7. Misc/Images/0-PT-Process-LA.webp",
-    "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Privilege Escalation.md",
-    "5. Standard Information/Penetration Testing/Stages/6. Lateral Movement",
-    "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Data Exfiltration.md",
-    "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/5. Post-Exploitation.md",
-    "5. Standard Information/Penetration Testing/Stages/3. Vulnerability Assessment/3. Vulnerability Assessment.md",
-    "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Persistence.md",
-    "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Vulnerability Assessment.md",
-    "4. Post Exploitation/Command Line Restrictions.md",
-    "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Pillaging.md",
-    "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Evasive Testing.md",
-    "5. Standard Information/Penetration Testing/Stages/4. Exploitation/4. Exploitation.md",
-    "5. Standard Information/Penetration Testing/Stages/4. Exploitation/Untitled",
-    "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation",
-    "5. Standard Information/Penetration Testing/Stages/4. Exploitation/Preparation for the Attack.md",
-    "5. Standard Information/Penetration Testing/Stages/4. Exploitation/Prioritization of Possible Attacks.md",
-    "5. Standard Information/Penetration Testing/Stages/4. Exploitation",
     "7. Misc/Images/0-PT-Process-EX.webp",
-    "5. Standard Information/Operating Systems/Windows/Default Tooling/Process Monitor (ProcMon).md",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Tools/System Monitor (Sysmon).md",
-    "5. Standard Information/Penetration Testing/Stages/3. Vulnerability Assessment/Vulnerability Research and Analysis.md",
-    "5. Standard Information/Penetration Testing/Stages/3. Vulnerability Assessment",
-    "5. Standard Information/Penetration Testing/Stages/Untitled.md",
     "7. Misc/Images/0-PT-Process-VA.webp",
-    "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Host Enumeration.md",
-    "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Service Enumeration.md",
-    "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Infrastructure Enumeration.md",
-    "1. Recon/1. Guide.md",
-    "1. Recon/Network Analysis/3. Network Analysis Steps.md",
-    "1. Recon/Open Source Intelligence/1. Guide.md",
     "7. Misc/Images/0-PT-Process-IG.webp",
-    "5. Standard Information/Penetration Testing/Stages/2. Information Gathering",
-    "5. Standard Information/Penetration Testing/Stages/1. Pre-Engagement",
-    "5. Standard Information/Penetration Testing/Stages",
-    "5. Standard Information/Penetration Testing/Laws and Regulations",
     "7. Misc/Images/0-PT-Process-PRE.webp",
     "7. Misc/Images/0-PT-Process.webp",
-    "5. Standard Information/Penetration Testing",
     "7. Misc/Images/Internet.webp",
-    "7. Misc/Images/4-DNSTraffic.webp",
-    "7. Misc/Images/3-DNSTraffic.webp",
-    "7. Misc/Images/3-ICMP-tunneling.webp",
-    "Untitled.canvas"
+    "7. Misc/Images/4-DNSTraffic.webp"
   ]
 }

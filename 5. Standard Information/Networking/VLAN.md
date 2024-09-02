@@ -1,3 +1,7 @@
+---
+tags:
+  - Networking
+---
 # Creating a VLAN 
 ## Linux 
 

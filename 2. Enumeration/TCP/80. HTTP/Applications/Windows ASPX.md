@@ -1,3 +1,10 @@
+---
+tags:
+  - Enumeration
+  - TCP
+  - HTTP
+  - Applications
+---
 
 - ASPX pages are the primary building blocks of a Windows ASP.NET application.
 - These pages contain server-side code written in languages like C# or VB.NET within special <% %> tags.

@@ -1,3 +1,10 @@
+---
+tags:
+  - Enumeration
+  - TCP
+  - RemoteDesktopProtocol
+  - RDP
+---
 
 See [[1. Analysis Overview]]
 

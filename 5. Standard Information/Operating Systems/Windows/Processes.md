@@ -1,3 +1,8 @@
+---
+tags:
+  - OperatingSystems
+  - Windows
+---
 In the simplest terms, a process is an instance of an executing program. It represents a slice of a program's execution in memory and consists of various resources, including memory, file handles, threads, and security contexts.
 
 ![Image](https://academy.hackthebox.com/storage/modules/227/process_internals.png)

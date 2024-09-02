@@ -1,3 +1,8 @@
+---
+tags:
+  - PenetrationTesting
+  - LawsAndRegulations
+---
 The [Computer Misuse Act 1990](https://www.legislation.gov.uk/ukpga/1990/18/contents) was introduced to address malicious computer usage. It is a criminal offense to access a computer system without authorization, modify data without permission, or misuse computers to commit fraud or other unlawful activities. The Act also allows for confiscating computers and other devices used to commission a computer misuse offense and encourages reporting computer misuse incidents to law enforcement authorities. It also provides for the implementation of various measures to help prevent computer misuse, including establishing a special law enforcement team and implementing appropriate security measures.
 
 The [Data Protection Act 2018](https://www.legislation.gov.uk/ukpga/2018/12/contents/enacted) is an important piece of legislation that provides individuals with certain legal rights and protections regarding their personal data. It details the rights of individuals, such as the right to access their data, the right to have their personal data rectified, and the right to object to the processing of their data. Furthermore, it outlines the obligations of those who process personal data, such as securely and transparently and providing individuals with clear and understandable information about how their data is being used. By considering the Act, security researchers can ensure that their research is conducted responsibly and lawfully.

@@ -1,3 +1,8 @@
+---
+tags:
+  - Security
+  - DetectionRules
+---
 `Sigma` is a comprehensive and standardized rule format extensively used by security analysts and `Security Information and Event Management (SIEM)` systems. The objective is to detect and identify specific patterns or behaviours that could potentially signify security threats or events. The standardized format of `Sigma` rules enables security teams to define and disseminate detection logic across diverse security platforms.
 
 To construct a `Sigma` rule based on certain actions - for instance, dropping a file in a temporary location - we can devise a sample rule along these lines.

@@ -1,3 +1,9 @@
+---
+tags:
+  - OperatingSystems
+  - Windows
+  - EventLog
+---
 An `event` is any action or occurrence that can be identified and classified by a system's hardware or software.
 
 `Events` can be generated or triggered through a variety of different ways including some of the following:

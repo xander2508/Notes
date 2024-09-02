@@ -1,3 +1,9 @@
+---
+tags:
+  - OperatingSystems
+  - Windows
+  - Services
+---
 
 ```
 Stop-Service "Ubiquiti UniFi Video"

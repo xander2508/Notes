@@ -1,3 +1,11 @@
+---
+tags:
+  - Enumeration
+  - TCP
+  - HTTP
+  - Concepts
+  - Vulnerabilities
+---
 
 SSI (Server-Side Includes) is a simple scripting language used on web servers to include the contents of one file within another file. This allows for easy reusability of code and can help streamline the development process.
 

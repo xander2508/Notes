@@ -1,3 +1,9 @@
+---
+tags:
+  - OperatingSystems
+  - Linux
+  - Hardening
+---
 The iptables utility provided a simple yet powerful command-line interface for configuring firewall rules, which could be used to filter traffic based on various criteria such as IP addresses, ports, protocols, and more. iptables was designed to be highly customizable and could be used to create complex firewall rulesets that could protect against various security threats such as denial-of-service (DoS) attacks, port scans, and network intrusion attempts.
 
 The main components of iptables are:

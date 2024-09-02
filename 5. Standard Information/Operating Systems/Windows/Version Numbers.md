@@ -1,3 +1,8 @@
+---
+tags:
+  - OperatingSystems
+  - Windows
+---
 | Operating System Names               | Version Number |
 | ------------------------------------ | -------------- |
 | Windows NT 4                         | 4.0            |

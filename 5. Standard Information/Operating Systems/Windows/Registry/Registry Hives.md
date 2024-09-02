@@ -1,3 +1,9 @@
+---
+tags:
+  - OperatingSystems
+  - Windows
+  - Registry
+---
 Each Windows host has a set of predefined Registry keys that maintain the host and settings required for use. Below is a breakdown of each hive and what can be found referenced within.
 
 | **Name**            | **Abbreviation** | **Description**                                                                                                                                                                                                                                                                                                        |

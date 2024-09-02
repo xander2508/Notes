@@ -1,3 +1,8 @@
+---
+tags:
+  - OperatingSystems
+  - Windows
+---
 
 Windows operating systems function in two main modes:
 

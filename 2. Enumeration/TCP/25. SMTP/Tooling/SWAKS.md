@@ -1,3 +1,10 @@
+---
+tags:
+  - Enumeration
+  - TCP
+  - SMTP
+  - Tooling
+---
 1. Sending Emails: SWAKS (Swiss Army Knife for SMTP) is a versatile tool that can be used for sending emails from the command line. It supports various authentication methods, encryption options, and other advanced features to ensure successful email delivery.
 
 2. Testing SMTP Servers: SWAKS is also commonly used for testing SMTP servers to check their configuration and performance. It can simulate the sending of emails with different parameters to identify any issues or bottlenecks in the server setup.

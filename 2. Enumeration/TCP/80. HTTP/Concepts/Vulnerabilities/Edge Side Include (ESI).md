@@ -1,3 +1,11 @@
+---
+tags:
+  - Enumeration
+  - TCP
+  - HTTP
+  - Concepts
+  - Vulnerabilities
+---
 Edge Side Include (ESI) is a markup language and protocol used for dynamic web content assembly. It allows for the inclusion of fragments of content from different sources into a single web page, improving performance and scalability by offloading processing tasks to the edge servers.
 
 One of the key features of ESI is the use of starred blocks, which are placeholders within the markup that indicate where dynamic content should be inserted. These starred blocks can be filled with content from various sources, such as backend servers, caching layers, or third-party APIs, allowing for a highly flexible and modular approach to content assembly.

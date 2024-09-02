@@ -1,3 +1,8 @@
+---
+tags:
+  - PenetrationTesting
+  - LawsAndRegulations
+---
 
 The [Computer Fraud and Abuse Act](https://www.justice.gov/jm/jm-9-48000-computer-fraud) (`CFAA`) is a federal law that makes it a criminal offense to access a computer without authorization. It applies to computer-related activities, including hacking, identity theft, and spreading malware. The CFAA has been the focus of much criticism and controversy, with some arguing that its provisions are too far-reaching and could be used to criminalize legitimate security research. In addition, critics have raised the concern that people can interpret the CFAA's broad definitions of computer-related activities in a manner that could lead to the prosecution of activities that were not intended to be criminal offenses. Furthermore, the CFAA has been criticized for needing more clarity regarding the meaning of specific terms, making it difficult for individuals to understand their rights and responsibilities under the law. For these reasons, it is crucial for individuals to familiarize themselves with the law and to understand the potential implications of their activities.
 
