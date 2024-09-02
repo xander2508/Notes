@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "83bccd168b711bf6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/1. Guide.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Security Identifiers",
+                "query": "impack",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 518.5
+    "width": 345.5
   },
   "right": {
     "id": "ab865be945a38766",
@@ -108,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/1. Guide.md",
+                "file": "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/Tooling/RpcClient.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/1. Guide.md",
+                "file": "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/Tooling/RpcClient.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/1. Guide.md"
+                "file": "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/Tooling/RpcClient.md"
               }
             }
           },
@@ -210,19 +197,21 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "83bccd168b711bf6",
+  "active": "49ef7984b54888e5",
   "lastOpenFiles": [
+    "3. Exploitation/Known Exploits/Networking and Packets/IP Source & Destination Spoofing Attacks/Initialization Vector Generation.md",
+    "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/Tooling/RpcClient.md",
+    "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/Tooling/RpcDump.md",
+    "3. Exploitation/Operating Systems/Windows/Tooling/Impacket.md",
+    "2. Enumeration/TCP/445. Server Message Block (SMB)/1. Guide.md",
     "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/enum4linux-ng.md",
     "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/CrackMapExec.md",
-    "2. Enumeration/TCP/445. Server Message Block (SMB)/1. Guide.md",
-    "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/Tooling/RpcClient.md",
     "4. Post-Exploitation/Command and Control/Tooling/SILENTTRINITY.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Tooling/Hashcat.md",
     "4. Post-Exploitation/Securing Access.md",
     "4. Post-Exploitation/Command and Control/Tooling",
     "4. Post-Exploitation/Command and Control",
     "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/GPP-Decrypt.md",
-    "3. Exploitation/Operating Systems/Windows/Tooling/Impacket.md",
     "5. Standard Information/Operating Systems/Windows/Relative Identifiers (RID) and Security Identifiers (SID).md",
     "5. Standard Information/Operating Systems/Windows/Processes.md",
     "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/SMBMap.md",
@@ -238,8 +227,6 @@
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Windows/Server Message Block (SMB).md",
     "3. Exploitation/Known Exploits/User Interaction/HTTP/Hostile Portal Attacks.md",
     "2. Enumeration/TCP/80. HTTP/Concepts/Vulnerabilities/File include (LFI) (RFI).md",
-    "5. Standard Information/Penetration Testing/Stages/8. Post-Engagement.md",
-    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Windows/1. Guide.md",
     "2. Enumeration/TCP/445. Server Message Block (SMB)/Applications",
     "7. Misc/Images/[MS-SMB2] 1.pdf",
     "7. Misc/Images/[MS-SMB2].pdf",
