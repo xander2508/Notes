@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/1. Guide.md",
+                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/Applications/Samba.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/1. Guide.md",
+                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/Applications/Samba.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/1. Guide.md",
+                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/Applications/Samba.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/1. Guide.md"
+                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/Applications/Samba.md"
               }
             }
           },
@@ -200,8 +200,8 @@
   "active": "49ef7984b54888e5",
   "lastOpenFiles": [
     "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/SMBClient.md",
-    "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/SMBMap.md",
     "2. Enumeration/TCP/445. Server Message Block (SMB)/1. Guide.md",
+    "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/SMBMap.md",
     "2. Enumeration/TCP/445. Server Message Block (SMB)/Applications/Samba.md",
     "4. Post-Exploitation/Operating Systems/1. Guide.md",
     "4. Post-Exploitation/Valuable Files.md",

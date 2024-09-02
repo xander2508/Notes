@@ -83,3 +83,13 @@ With version 3, the Samba server gained the ability to be a full member of an Ac
 | `logon script = script.sh`  | What script needs to be executed on the user's login?               |
 | `magic script = script.sh`  | Which script should be executed when the script gets closed?        |
 | `magic output = script.out` | Where the output of the magic script needs to be stored?            |
+
+
+## Commands 
+
+
+##### Local Status 
+
+```shell-session
+smbstatus
+```

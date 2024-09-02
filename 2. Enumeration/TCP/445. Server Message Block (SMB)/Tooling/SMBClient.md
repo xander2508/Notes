@@ -31,3 +31,16 @@ Connect using NT hash:
 ```
 smbclient //sizzle.htb/C$ -U "Administrator" --pw-nt-hash f6b7160bfc91823792e0ac3a162c9267
 ```
+
+Connect to a share:
+
+```shell-session
+smbclient //10.129.14.128/notes
+```
+
+Download files:
+
+```shell-session
+get prep-prod.txt 
+```
+
