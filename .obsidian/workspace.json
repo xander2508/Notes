@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/Applications/Samba.md",
+                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/Applications/Samba.md",
+                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/Applications/Samba.md",
+                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/Applications/Samba.md"
+                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/1. Guide.md"
               }
             }
           },
@@ -199,10 +199,12 @@
   },
   "active": "49ef7984b54888e5",
   "lastOpenFiles": [
-    "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/SMBClient.md",
+    "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/Tooling/RpcClient.md",
     "2. Enumeration/TCP/445. Server Message Block (SMB)/1. Guide.md",
     "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/SMBMap.md",
+    "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/SMBClient.md",
     "2. Enumeration/TCP/445. Server Message Block (SMB)/Applications/Samba.md",
+    "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/1. Guide.md",
     "4. Post-Exploitation/Operating Systems/1. Guide.md",
     "4. Post-Exploitation/Valuable Files.md",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Valuable Files.md",
@@ -226,8 +228,6 @@
     "2. Enumeration/TCP/20. FTP/1. Guide.md",
     "2. Enumeration/TCP/20. FTP/Traffic Analysis.md",
     "1. Recon/Port Scanning/Tooling/Nmap/Scripts.md",
-    "1. Recon/Port Scanning/Tooling/Nmap/Options.md",
-    "1. Recon/Port Scanning/1. Overview.md",
     "2. Enumeration/TCP/20. FTP/Applications",
     "2. Enumeration/UDP/69. Trivial File Transfer Protocol (TFTP)",
     "1. Recon/Open Source Intelligence (OSINT)/Tooling",
