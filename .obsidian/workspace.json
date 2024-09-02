@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "86efa7e37350550c",
+        "id": "3cdbf18b05c595bf",
         "type": "tabs",
         "children": [
           {
-            "id": "8bcfe568c4a3b3e0",
+            "id": "80886b1a0276b281",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ICMP",
+                "query": "responder",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md"
+              }
             }
           },
           {
@@ -163,8 +171,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -190,8 +197,18 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "8bcfe568c4a3b3e0",
+  "active": "80886b1a0276b281",
   "lastOpenFiles": [
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Domain Information Groper (Dig).md",
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
+    "2. Enumeration/UDP/53. Domain Name System (DNS)/1. Guide.md",
+    "1. Recon/Tooling/Shodan.md",
+    "2. Enumeration/UDP/53. Domain Name System (DNS)",
+    "2. Enumeration/UDP/Untitled.md",
+    "2. Enumeration/TCP/445. Server Message Block (SMB)/1. Guide.md",
+    "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/Responder.md",
+    "2. Enumeration/TCP/445. Server Message Block (SMB)/Concepts/Shell Command Files (SCF) File Attacks.md",
+    "1. Recon/1. Guide.md",
     "5. Standard Information/Amazon Web Services (AWS)/Services/Artificial Intelligence/Machine Learning/Amazon SageMaker.md",
     "5. Standard Information/Amazon Web Services (AWS)/Sales/AWS Cloud Adoption Framework (CAF).md",
     "5. Standard Information/Amazon Web Services (AWS)/Sales/AWS Billing & Cost Management Dashboard.md",
@@ -200,7 +217,6 @@
     "1. Recon/Open Source Intelligence (OSINT)/Sherlock.md",
     "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Host Enumeration.md",
     "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Infrastructure Enumeration.md",
-    "1. Recon/1. Guide.md",
     "2. Enumeration/TCP/80. HTTP/1. Guide.md",
     "2. Enumeration/UDP/161. Simple Network Management Protocol (SNMP)/1. Guide.md",
     "1. Recon/Network Analysis/Wi-Fi Capture.md",
@@ -210,14 +226,6 @@
     "2. Enumeration/TCP/80. HTTP/Applications/Apache.md",
     "2. Enumeration/TCP/80. HTTP/Applications/Sharepoint.md",
     "1. Recon/Tooling/Responder.md",
-    "1. Recon/Port Scanning/Types.md",
-    "1. Recon/Port Scanning/1. Overview.md",
-    "1. Recon/Network Analysis/1. Analysis Overview.md",
-    "1. Recon/Network Analysis/2. Filtering Traffic.md",
-    "1. Recon/Network Analysis/4. Easy Wins.md",
-    "1. Recon/Network Analysis/3. Network Analysis Steps.md",
-    "1. Recon/Network Analysis/Traffic Analysis/NGrep.md",
-    "5. Standard Information/Penetration Testing/Stages/5. Post-Exploitation/Data Exfiltration.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Vulnerabilities",
@@ -229,7 +237,6 @@
     "Untitled.canvas",
     "7. Misc/Images/Pasted image 20240830141213.png",
     "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Enumeration",
-    "1. Recon/Port Scanning/Tooling/Nmap",
     "7. Misc/Images/0-PT-Process-LA.webp",
     "7. Misc/Images/0-PT-Process-EX.webp",
     "7. Misc/Images/0-PT-Process-VA.webp",
