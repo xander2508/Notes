@@ -66,7 +66,7 @@
             }
           },
           {
-            "id": "78f7a608761ad7ab",
+            "id": "253aa39905d06193",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -185,18 +185,16 @@
       "3d-graph:3D Graph": false,
       "graph:Open graph view": false,
       "omnisearch:Omnisearch": false,
-      "daily-notes:Open today's daily note": true,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "breadcrumbs:Breadcrumbs Visualisation": true,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": true,
       "table-editor-obsidian:Advanced Tables Toolbar": true,
       "obsidian-importer:Open Importer": true,
       "mermaid-tools:Open Mermaid Toolbar": true,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false,
       "templates:Insert template": false,
       "canvas:Create new canvas": true,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "8e422a344796c783",
