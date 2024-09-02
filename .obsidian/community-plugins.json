@@ -7,7 +7,6 @@
   "convert-url-to-iframe",
   "dataview",
   "table-editor-obsidian",
-  "obsidian-auto-link-title",
   "find-unlinked-files",
   "various-complements",
   "obsidian-linter",
@@ -19,5 +18,5 @@
   "mermaid-tools",
   "tag-wrangler",
   "multi-tag",
-  "contribution-graph"
+  "obsidian-auto-link-title"
 ]
