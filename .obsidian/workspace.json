@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7636d7772f14424d",
+        "id": "01b183e5fc539953",
         "type": "tabs",
         "children": [
           {
-            "id": "5d6920b90fee13f8",
+            "id": "ccdbf727042bed88",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Standard Information/Penetration Testing/Stages/6. Lateral Movement/6. Lateral Movement.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -66,7 +62,7 @@
             }
           },
           {
-            "id": "23cf1dd79af947af",
+            "id": "8209421ee8ac8bbf",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -230,7 +226,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "5d6920b90fee13f8",
+  "active": "744b9316b7030f7b",
   "lastOpenFiles": [
     "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/2. Information Gathering.md",
     "5. Standard Information/Penetration Testing/Stages/6. Lateral Movement/6. Lateral Movement.md",
