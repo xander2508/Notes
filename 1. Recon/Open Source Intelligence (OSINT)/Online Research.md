@@ -7,6 +7,14 @@ Google Dorks can be used to specify the target and gain insight on not commonly 
 
 One of the easiest and most used is Google search combined with Google Dorks. For example, we can use the Google Dorks `inurl:` and `intext:` to narrow our search to specific terms.
 
+### Website Internals
+
+The internal website can be reviewed and have its information extracted:
+
+- Employees 
+- Utilised technologies
+- Infrastructure 
+- Company industry and its ties (e.g. )
 ## Specific Notes
 
 1. Company's main website and the type of business may inform on the type of internal network or the devices on the network. Web server, mobile phones etc
