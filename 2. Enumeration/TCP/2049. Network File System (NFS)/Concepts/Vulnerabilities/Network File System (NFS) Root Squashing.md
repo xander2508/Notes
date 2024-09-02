@@ -1,10 +1,11 @@
 ---
 tags:
-  - Post-Exploitation
-  - OperatingSystems
-  - Linux
   - Concepts
   - Vulnerabilities
+  - Enumeration
+  - TCP
+  - DNS
+  - DomainNameSystem
 ---
 Read the _ **/etc/exports** _ file, if you find some directory that is configured as **no_root_squash**, then you can **access** it from **as a client** and **write inside** that directory **as** if you were the local **root** of the machine.
 
