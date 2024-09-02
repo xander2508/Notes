@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Recon/Open Source Intelligence (OSINT)/1. Guide.md",
+                "file": "1. Recon/Open Source Intelligence (OSINT)/Online Research.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Recon/Open Source Intelligence (OSINT)/1. Guide.md",
+                "file": "1. Recon/Open Source Intelligence (OSINT)/Online Research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Recon/Open Source Intelligence (OSINT)/1. Guide.md",
+                "file": "1. Recon/Open Source Intelligence (OSINT)/Online Research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Recon/Open Source Intelligence (OSINT)/1. Guide.md"
+                "file": "1. Recon/Open Source Intelligence (OSINT)/Online Research.md"
               }
             }
           },
@@ -211,8 +211,9 @@
   },
   "active": "80886b1a0276b281",
   "lastOpenFiles": [
-    "1. Recon/Open Source Intelligence (OSINT)/We.md",
     "1. Recon/Open Source Intelligence (OSINT)/1. Guide.md",
+    "1. Recon/Open Source Intelligence (OSINT)/Online Research.md",
+    "1. Recon/Open Source Intelligence (OSINT)/We.md",
     "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Enumeration Methodology.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Host.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Domain Information Groper (Dig).md",
@@ -237,7 +238,6 @@
     "2. Enumeration/TCP/80. HTTP/1. Guide.md",
     "2. Enumeration/UDP/161. Simple Network Management Protocol (SNMP)/1. Guide.md",
     "1. Recon/Network Analysis/Wi-Fi Capture.md",
-    "2. Enumeration/Other/~. 802.11 (WiFi)/1. Guide.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Vulnerabilities",
