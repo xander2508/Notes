@@ -75,8 +75,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,7 +197,7 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "49ef7984b54888e5",
+  "active": "744b9316b7030f7b",
   "lastOpenFiles": [
     "2. Enumeration/TCP/20. FTP/1. Guide.md",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Valuable Files.md",
