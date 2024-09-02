@@ -25,6 +25,8 @@ In this layer, we use different techniques to find domains, subdomains, netblock
 
 `The goal of this layer is to identify all possible target systems and interfaces that can be tested.`
 
+This can be achieved in one way by Googling for the companies websites. Reviewing these websites can provide information on connected services it may use which will be useful in the future.
+
 ## Layer No.2: Gateway
 
 Here we try to understand the interface of the reachable target, how it is protected, and where it is located in the network.

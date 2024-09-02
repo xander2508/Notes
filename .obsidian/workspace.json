@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Host.md",
+                "file": "1. Recon/Open Source Intelligence (OSINT)/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Host.md",
+                "file": "1. Recon/Open Source Intelligence (OSINT)/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Host.md",
+                "file": "1. Recon/Open Source Intelligence (OSINT)/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Host.md"
+                "file": "1. Recon/Open Source Intelligence (OSINT)/1. Guide.md"
               }
             }
           },
@@ -211,10 +211,13 @@
   },
   "active": "80886b1a0276b281",
   "lastOpenFiles": [
+    "1. Recon/Open Source Intelligence (OSINT)/We.md",
+    "1. Recon/Open Source Intelligence (OSINT)/1. Guide.md",
+    "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Enumeration Methodology.md",
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Host.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Domain Information Groper (Dig).md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/DnsEnum.md",
-    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Host.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/DnsRecon.md",
     "2. Enumeration/UDP/53. Domain Name System (DNS)/1. Guide.md",
     "1. Recon/Tooling/Shodan.md",
@@ -228,7 +231,6 @@
     "5. Standard Information/Amazon Web Services (AWS)/Sales/AWS Cloud Adoption Framework (CAF).md",
     "5. Standard Information/Amazon Web Services (AWS)/Sales/AWS Billing & Cost Management Dashboard.md",
     "3. Exploitation/File Types and Data/CRT (Certificate Files).md",
-    "1. Recon/Open Source Intelligence (OSINT)/1. Guide.md",
     "1. Recon/Open Source Intelligence (OSINT)/Sherlock.md",
     "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Host Enumeration.md",
     "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Infrastructure Enumeration.md",
@@ -236,8 +238,6 @@
     "2. Enumeration/UDP/161. Simple Network Management Protocol (SNMP)/1. Guide.md",
     "1. Recon/Network Analysis/Wi-Fi Capture.md",
     "2. Enumeration/Other/~. 802.11 (WiFi)/1. Guide.md",
-    "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/2. Information Gathering.md",
-    "5. Standard Information/Penetration Testing/1. Guide.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Vulnerabilities",
