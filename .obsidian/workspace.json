@@ -191,8 +191,9 @@
   },
   "active": "423603e60869c109",
   "lastOpenFiles": [
-    "2. Enumeration/TCP/25. SMTP/2. Information.md",
+    "2. Enumeration/TCP/25. SMTP/Tooling/Python SMTP Server.md",
     "2. Enumeration/TCP/25. SMTP/1. Guide.md",
+    "2. Enumeration/TCP/25. SMTP/2. Information.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/2. Information.md",
     "2. Enumeration/TCP/143. Internet Message Access Protocol (IMAP)/1. Guide.md",
     "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/1. Guide.md",
@@ -224,7 +225,6 @@
     "2. Enumeration/UDP/111. Network File System (NFS)",
     "2. Enumeration/TCP/111. Network File System (NFS)/1. Guide.md",
     "2. Enumeration/TCP/111. Network File System (NFS)",
-    "2. Enumeration/TCP/21. FTP Control/1. Guide.md",
     "7. Misc/Images/etw.webp",
     "4. Post-Exploitation/Command and Control/Tooling",
     "4. Post-Exploitation/Command and Control",
