@@ -4,6 +4,7 @@ tags:
   - TCP
   - RemoteProcedureCall
   - Tooling
+  - RPC
 ---
 A complete list of all functions can be found on the [man page](https://www.samba.org/samba/docs/current/man-html/rpcclient.1.html) of the RpcClient.
 
