@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/3306. MySQL (SQL)/2. Information.md",
+                "file": "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Valuable Files.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:OperatingSystems",
+                "query": "tag:#Applications  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/3306. MySQL (SQL)/2. Information.md",
+                "file": "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Valuable Files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/3306. MySQL (SQL)/2. Information.md",
+                "file": "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Valuable Files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/3306. MySQL (SQL)/2. Information.md"
+                "file": "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Valuable Files.md"
               }
             }
           },
@@ -191,8 +191,12 @@
   },
   "active": "a6bb3c4a6b88a033",
   "lastOpenFiles": [
-    "2. Enumeration/TCP/3306. MySQL (SQL)/1. Guide.md",
+    "4. Post-Exploitation/Valuable Files.md",
     "2. Enumeration/TCP/3306. MySQL (SQL)/2. Information.md",
+    "3. Exploitation/Known Exploits/Applications/SSH.md",
+    "2. Enumeration/TCP/3306. MySQL (SQL)/Applications/MariaDB.md",
+    "2. Enumeration/TCP/3306. MySQL (SQL)/1. Guide.md",
+    "2. Enumeration/TCP/3306. MySQL (SQL)/Applications",
     "7. Misc/smart-chats/UNTITLED CHAT 2024-09-03 07 38 18.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Tooling/Hydra.md",
     "3. Exploitation/Known Exploits/Applications/SQL.md",
@@ -214,9 +218,6 @@
     "2. Enumeration/UDP/500. Internet Security Association and Key Management Protocol (ISAKMP)/1. Guide.md",
     "2. Enumeration/UDP/177. X Display Manager Control Protocol (XDMCP)/1. Guide.md",
     "2. Enumeration/UDP/161. Simple Network Management Protocol (SNMP)/1. Guide.md",
-    "2. Enumeration/UDP/137. Netbios/1. Guide.md",
-    "2. Enumeration/UDP/69. Trivial File Transfer Protocol (TFTP)/1. Guide.md",
-    "2. Enumeration/Other/~. Address Resolution Protocol (ARP)/1. Guide.md",
     "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)/Tooling",
     "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)",
     "2. Enumeration/TCP/143. Internet Message Access Protocol (IMAP)",
@@ -228,7 +229,6 @@
     "2. Enumeration/UDP/111. Network File System (NFS)",
     "2. Enumeration/TCP/111. Network File System (NFS)",
     "7. Misc/Images/etw.webp",
-    "4. Post-Exploitation/Command and Control/Tooling",
     "Untitled.canvas",
     "7. Misc/Images/Pasted image 20240830141213.png",
     "7. Misc/Images/0-PT-Process-LA.webp",
