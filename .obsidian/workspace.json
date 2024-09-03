@@ -11,8 +11,12 @@
             "id": "8e422a344796c783",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1. Recon/1. Guide.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -91,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. Recon/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. Recon/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1. Recon/1. Guide.md"
+              }
             }
           },
           {
@@ -154,17 +162,9 @@
               "type": "smart-connections-chat-view",
               "state": {}
             }
-          },
-          {
-            "id": "e9650463bb3ccbf2",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -189,7 +189,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "8e422a344796c783",
+  "active": "e4bf8fabf861d55f",
   "lastOpenFiles": [
     "1. Recon/1. Guide.md",
     "2. Enumeration/TCP/445. Server Message Block (SMB)/1. Guide.md",
