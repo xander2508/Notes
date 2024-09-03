@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
+                "file": "2. Enumeration/TCP/25. SMTP/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
+                "file": "2. Enumeration/TCP/25. SMTP/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
+                "file": "2. Enumeration/TCP/25. SMTP/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md"
+                "file": "2. Enumeration/TCP/25. SMTP/1. Guide.md"
               }
             }
           },
@@ -191,8 +191,12 @@
   },
   "active": "8e422a344796c783",
   "lastOpenFiles": [
-    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/DnsEnum.md",
+    "2. Enumeration/TCP/143. Internet Message Access Protocol (IMAP)/1. Guide.md",
+    "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/1. Guide.md",
+    "2. Enumeration/TCP/25. SMTP/1. Guide.md",
+    "2. Enumeration/TCP/143. Internet Message Access Protocol (IMAP)",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/DnsEnum.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/DnsRecon.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Domain Information Groper (Dig).md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/2. Information.md",
@@ -221,14 +225,10 @@
     "2. Enumeration/TCP/111. Network File System (NFS)",
     "2. Enumeration/TCP/21. FTP Control/1. Guide.md",
     "2. Enumeration/TCP/443. HTTPS/1. Guide.md",
-    "2. Enumeration/TCP/80. HTTP/Concepts/Information/URL Encoding.md",
-    "2. Enumeration/TCP/110. Post Office Protocol (POP)/1. Guide.md",
-    "2. Enumeration/TCP/80. HTTP/2. Specification.md",
     "7. Misc/Images/etw.webp",
     "4. Post-Exploitation/Command and Control/Tooling",
     "4. Post-Exploitation/Command and Control",
     "2. Enumeration/TCP/445. Server Message Block (SMB)/Applications",
-    "7. Misc/Images/[MS-SMB2] 1.pdf",
     "Untitled.canvas",
     "7. Misc/Images/Pasted image 20240830141213.png",
     "7. Misc/Images/0-PT-Process-LA.webp",
