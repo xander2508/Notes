@@ -10,14 +10,18 @@ tags:
 
 [SnmpWalk(1) - Linux man page](https://linux.die.net/man/1/snmpwalk)
 
-# Guide
+## Guide
 
 1. First install [[SNMP-MIBS-Downloader]]
-# Walkthrough
+## Walkthrough
 
 1. [Hack The Box - Conceal - 0xRick’s Blog](https://0xrick.github.io/hack-the-box/conceal/)
 
+## Installation
 
+```
+apt-get install snmp
+```
 # Example Commands 
 
 ```bash
