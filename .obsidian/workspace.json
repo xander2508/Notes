@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Recon/1. Guide.md",
+                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Recon/1. Guide.md",
+                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Recon/1. Guide.md",
+                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Recon/1. Guide.md"
+                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md"
               }
             }
           },
@@ -189,7 +189,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "e4bf8fabf861d55f",
+  "active": "8e422a344796c783",
   "lastOpenFiles": [
     "1. Recon/1. Guide.md",
     "2. Enumeration/TCP/445. Server Message Block (SMB)/1. Guide.md",
