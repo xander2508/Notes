@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/110. Post Office Protocol (POP3)/1. Guide.md",
+                "file": "2. Enumeration/TCP/143. Internet Message Access Protocol (IMAP)/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 773.5
+    "width": 448.5
   },
   "right": {
     "id": "ab865be945a38766",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/110. Post Office Protocol (POP3)/1. Guide.md",
+                "file": "2. Enumeration/TCP/143. Internet Message Access Protocol (IMAP)/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/110. Post Office Protocol (POP3)/1. Guide.md",
+                "file": "2. Enumeration/TCP/143. Internet Message Access Protocol (IMAP)/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/110. Post Office Protocol (POP3)/1. Guide.md"
+                "file": "2. Enumeration/TCP/143. Internet Message Access Protocol (IMAP)/1. Guide.md"
               }
             }
           },
@@ -191,9 +191,9 @@
   },
   "active": "423603e60869c109",
   "lastOpenFiles": [
+    "2. Enumeration/TCP/110. Post Office Protocol (POP3)/1. Guide.md",
     "2. Enumeration/TCP/143. Internet Message Access Protocol (IMAP)/1. Guide.md",
     "2. Enumeration/TCP/143. Internet Message Access Protocol (IMAP)/2. Information.md",
-    "2. Enumeration/TCP/110. Post Office Protocol (POP3)/1. Guide.md",
     "2. Enumeration/UDP/5355. Link-Local Multicast Name Resolution (LLMNR)/1. Guide.md",
     "2. Enumeration/UDP/500. Internet Security Association and Key Management Protocol (ISAKMP)/1. Guide.md",
     "2. Enumeration/UDP/177. X Display Manager Control Protocol (XDMCP)/1. Guide.md",
