@@ -11,12 +11,8 @@
             "id": "8e422a344796c783",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Enumeration/TCP/25. SMTP/1. Guide.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -95,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/25. SMTP/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/25. SMTP/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2. Enumeration/TCP/25. SMTP/1. Guide.md"
-              }
+              "state": {}
             }
           },
           {
@@ -191,8 +183,8 @@
   },
   "active": "8e422a344796c783",
   "lastOpenFiles": [
-    "2. Enumeration/TCP/25. SMTP/2. Information.md",
     "2. Enumeration/TCP/25. SMTP/1. Guide.md",
+    "2. Enumeration/TCP/25. SMTP/2. Information.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/2. Information.md",
     "2. Enumeration/TCP/143. Internet Message Access Protocol (IMAP)/1. Guide.md",
     "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/1. Guide.md",
