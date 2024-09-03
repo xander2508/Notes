@@ -12,3 +12,9 @@ When no command line arguments or options are given, **dig** will perform an N
 ```shell-session
 dig any inlanefreight.com
 ```
+
+Reverse DNS query:
+
+```
+dig -x 10.129.1.203
+```
