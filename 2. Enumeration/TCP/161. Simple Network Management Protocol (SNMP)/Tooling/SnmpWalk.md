@@ -6,9 +6,9 @@ tags:
   - SimpleNetworkManagementProtocol
   - Tooling
 ---
+`Snmpwalk` is used to query the OIDs with their information.
 
 [SnmpWalk(1) - Linux man page](https://linux.die.net/man/1/snmpwalk)
-
 
 # Guide
 
@@ -22,4 +22,8 @@ tags:
 
 ```bash
 snmpwalk -c public -v 1 conceal.htb
+```
+
+```shell-session
+snmpwalk -v2c -c public 10.129.14.128
 ```

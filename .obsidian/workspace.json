@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)/2. Information.md",
+                "file": "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)/Tooling/SnmpWalk.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)/2. Information.md",
+                "file": "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)/Tooling/SnmpWalk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)/2. Information.md",
+                "file": "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)/Tooling/SnmpWalk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)/2. Information.md"
+                "file": "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)/Tooling/SnmpWalk.md"
               }
             }
           },
@@ -191,7 +191,12 @@
   },
   "active": "423603e60869c109",
   "lastOpenFiles": [
+    "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)/Tooling/SNMP-Check.md",
+    "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)/Tooling/braa.md",
     "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)/1. Guide.md",
+    "4. Post-Exploitation/Cryptography/Passwords and Wordlists/1. Wordlist Guide.md",
+    "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)/Tooling/Onesixtyone.md",
+    "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)/Tooling/SnmpWalk.md",
     "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)/2. Information.md",
     "2. Enumeration/TCP/143. Internet Message Access Protocol (IMAP)/1. Guide.md",
     "2. Enumeration/TCP/110. Post Office Protocol (POP3)/1. Guide.md",
@@ -212,11 +217,6 @@
     "2. Enumeration/TCP/6379. Redis/1. Guide.md",
     "2. Enumeration/TCP/5900. Virtual Network Computing (VNC)/1. Guide.md",
     "2. Enumeration/TCP/5432. PostgreSQL/1. Guide.md",
-    "2. Enumeration/TCP/5060. Voice over IP (VoIP)/1. Guide.md",
-    "2. Enumeration/TCP/5000. Universal Plug and Play Event (UPnP)/1. Guide.md",
-    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/1. Guide.md",
-    "2. Enumeration/TCP/3306. MySQL (SQL)/1. Guide.md",
-    "2. Enumeration/TCP/3128. Squid Proxy/1. Guide.md",
     "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)/Tooling",
     "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)",
     "2. Enumeration/TCP/143. Internet Message Access Protocol (IMAP)",
