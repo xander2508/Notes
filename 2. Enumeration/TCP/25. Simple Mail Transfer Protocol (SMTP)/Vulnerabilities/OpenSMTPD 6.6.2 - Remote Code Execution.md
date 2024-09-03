@@ -4,4 +4,5 @@ tags:
   - TCP
   - SMTP
   - Vulnerabilities
+  - SimpleMailTransferProtocol
 ---

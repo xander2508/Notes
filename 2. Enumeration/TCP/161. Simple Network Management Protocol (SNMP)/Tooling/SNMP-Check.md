@@ -2,9 +2,11 @@
 tags:
   - Enumeration
   - TCP
-  - SMTP
+  - SNMP
+  - SimpleNetworkManagementProtocol
   - Tooling
 ---
+
 [snmpcheck | Kali Linux Tools](https://www.kali.org/tools/snmpcheck/)
 
 

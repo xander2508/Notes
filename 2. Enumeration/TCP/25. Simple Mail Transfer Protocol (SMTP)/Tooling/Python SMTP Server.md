@@ -4,6 +4,7 @@ tags:
   - TCP
   - SMTP
   - Tooling
+  - SimpleMailTransferProtocol
 ---
 Python can be used to send emails
 

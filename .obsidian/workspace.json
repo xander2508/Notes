@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/25. SMTP/2. Information.md",
+                "file": "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)/Tooling/SNMP-Check.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5
+    "width": 773.5
   },
   "right": {
     "id": "ab865be945a38766",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/25. SMTP/2. Information.md",
+                "file": "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)/Tooling/SNMP-Check.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/25. SMTP/2. Information.md",
+                "file": "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)/Tooling/SNMP-Check.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/25. SMTP/2. Information.md"
+                "file": "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)/Tooling/SNMP-Check.md"
               }
             }
           },
@@ -191,9 +191,18 @@
   },
   "active": "423603e60869c109",
   "lastOpenFiles": [
-    "2. Enumeration/TCP/25. SMTP/1. Guide.md",
-    "2. Enumeration/TCP/25. SMTP/Tooling/Python SMTP Server.md",
-    "2. Enumeration/TCP/25. SMTP/2. Information.md",
+    "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)/Tooling/SNMP-MIBS-Downloader.md",
+    "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)/Tooling/SnmpWalk.md",
+    "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)/Tooling/SNMP-Check.md",
+    "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)/1. Guide.md",
+    "2. Enumeration/UDP/161. Simple Network Management Protocol (SNMP)/1. Guide.md",
+    "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/1. Guide.md",
+    "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/2. Information.md",
+    "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Tooling/SWAKS.md",
+    "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Tooling/Python SMTP Server.md",
+    "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Tooling/Enyx.md",
+    "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)/Tooling",
+    "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/2. Information.md",
     "2. Enumeration/TCP/143. Internet Message Access Protocol (IMAP)/1. Guide.md",
     "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/1. Guide.md",
@@ -213,22 +222,13 @@
     "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Information/List NFS Shares.md",
     "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Information/Start NFS.md",
     "2. Enumeration/TCP/2049. Network File System (NFS)/1. Guide.md",
-    "2. Enumeration/TCP/2049. Network File System (NFS)/Tooling/ShowMount.md",
-    "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Vulnerabilities/Network File System (NFS) Root Squashing.md",
     "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Vulnerabilities",
     "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Information",
-    "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Untitled.md",
     "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts",
-    "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Valuable Files.md",
-    "4. Post-Exploitation/Valuable Files.md",
-    "2. Enumeration/UDP/111. Network File System (NFS)/1. Guide.md",
     "2. Enumeration/UDP/111. Network File System (NFS)",
-    "2. Enumeration/TCP/111. Network File System (NFS)/1. Guide.md",
     "2. Enumeration/TCP/111. Network File System (NFS)",
     "7. Misc/Images/etw.webp",
     "4. Post-Exploitation/Command and Control/Tooling",
-    "4. Post-Exploitation/Command and Control",
-    "2. Enumeration/TCP/445. Server Message Block (SMB)/Applications",
     "Untitled.canvas",
     "7. Misc/Images/Pasted image 20240830141213.png",
     "7. Misc/Images/0-PT-Process-LA.webp",
