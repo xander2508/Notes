@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Domain Information Groper (Dig).md",
+                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Domain Information Groper (Dig).md",
+                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Domain Information Groper (Dig).md",
+                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Domain Information Groper (Dig).md"
+                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md"
               }
             }
           },
@@ -191,9 +191,11 @@
   },
   "active": "8e422a344796c783",
   "lastOpenFiles": [
-    "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
-    "2. Enumeration/TCP/53. Domain Name System (DNS)/2. Information.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/DnsEnum.md",
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/DnsRecon.md",
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Domain Information Groper (Dig).md",
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/2. Information.md",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/1. Wordlist Guide.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Applications/Bind9.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Applications",
@@ -222,8 +224,6 @@
     "2. Enumeration/TCP/80. HTTP/Concepts/Information/URL Encoding.md",
     "2. Enumeration/TCP/110. Post Office Protocol (POP)/1. Guide.md",
     "2. Enumeration/TCP/80. HTTP/2. Specification.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/2. Brute Forcing Guide.md",
-    "5. Standard Information/Operating Systems/Windows/Event Log/Event Tracing for Windows (ETW).md",
     "7. Misc/Images/etw.webp",
     "4. Post-Exploitation/Command and Control/Tooling",
     "4. Post-Exploitation/Command and Control",
