@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3f01eceb451d2aaa",
+        "id": "3f8f5f51011662df",
         "type": "tabs",
         "children": [
           {
-            "id": "8e422a344796c783",
+            "id": "423603e60869c109",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2. Enumeration/TCP/25. SMTP/1. Guide.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -91,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Enumeration/TCP/25. SMTP/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Enumeration/TCP/25. SMTP/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. Enumeration/TCP/25. SMTP/1. Guide.md"
+              }
             }
           },
           {
@@ -181,10 +189,10 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "8e422a344796c783",
+  "active": "423603e60869c109",
   "lastOpenFiles": [
-    "2. Enumeration/TCP/25. SMTP/1. Guide.md",
     "2. Enumeration/TCP/25. SMTP/2. Information.md",
+    "2. Enumeration/TCP/25. SMTP/1. Guide.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/2. Information.md",
     "2. Enumeration/TCP/143. Internet Message Access Protocol (IMAP)/1. Guide.md",
     "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/1. Guide.md",
