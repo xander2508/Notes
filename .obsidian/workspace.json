@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/2. Information.md",
+                "file": "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/2. Information.md",
+                "file": "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/2. Information.md",
+                "file": "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/2. Information.md"
+                "file": "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/1. Guide.md"
               }
             }
           },
@@ -191,8 +191,8 @@
   },
   "active": "6f3a8be73970c0d7",
   "lastOpenFiles": [
-    "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/1. Guide.md",
     "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/2. Information.md",
+    "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/1. Guide.md",
     "2. Enumeration/UDP/500. Internet Security Association and Key Management Protocol (ISAKMP)/1. Guide.md",
     "2. Enumeration/TCP/1521. Oracle Transparent Network Substrate (TNS)/Tooling/Oracle Database Attacking Tool (ODAT).md",
     "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)",
