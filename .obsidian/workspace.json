@@ -75,8 +75,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,13 +191,13 @@
   },
   "active": "6f3a8be73970c0d7",
   "lastOpenFiles": [
+    "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/2. Information.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Tooling/Hashcat.md",
+    "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/Concepts/Vulnerabilities/Hash Leak.md",
+    "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/1. Guide.md",
     "2. Enumeration/TCP/1433. MSSQL/1. Guide.md",
     "3. Exploitation/Tooling/Metasploit.md",
-    "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/1. Guide.md",
-    "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/2. Information.md",
     "2. Enumeration/TCP/1521. Oracle Transparent Network Substrate (TNS)/1. Guide.md",
-    "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/Concepts/Vulnerabilities/Hash Leak.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Tooling/Hashcat.md",
     "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/Concepts/Vulnerabilities",
     "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/Concepts",
     "2. Enumeration/TCP/3306. MySQL (SQL)/1. Guide.md",
