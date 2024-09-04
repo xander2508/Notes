@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/873. RSync/1. Guide.md",
+                "file": "2. Enumeration/TCP/512, 513, 514. R-Services/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/873. RSync/1. Guide.md",
+                "file": "2. Enumeration/TCP/512, 513, 514. R-Services/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/873. RSync/1. Guide.md",
+                "file": "2. Enumeration/TCP/512, 513, 514. R-Services/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/873. RSync/1. Guide.md"
+                "file": "2. Enumeration/TCP/512, 513, 514. R-Services/1. Guide.md"
               }
             }
           },
@@ -191,10 +191,13 @@
   },
   "active": "eeed6d2ae3abe018",
   "lastOpenFiles": [
-    "3. Exploitation/Known Exploits/Applications/RSync.md",
     "2. Enumeration/TCP/873. RSync/1. Guide.md",
-    "2. Enumeration/TCP/873. RSync/2. Usage.md",
+    "2. Enumeration/TCP/1433. MSSQL/1. Guide.md",
+    "2. Enumeration/TCP/512, 513, 514. R-Services/1. Guide.md",
     "2. Enumeration/TCP/636. Lightweight Directory Access Protocol (LDAPS)/1. Guide.md",
+    "2. Enumeration/TCP/512, 513, 514. R-Services",
+    "3. Exploitation/Known Exploits/Applications/RSync.md",
+    "2. Enumeration/TCP/873. RSync/2. Usage.md",
     "5. Standard Information/Operating Systems/Linux/Tooling/Backup and Restore/RSync 2.md",
     "2. Enumeration/TCP/873. RSync",
     "3. Exploitation/Known Exploits/Applications/Python.md",
@@ -208,7 +211,6 @@
     "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/Concepts/Vulnerabilities/Hash Leak.md",
     "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/1. Guide.md",
     "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/2. Information.md",
-    "2. Enumeration/TCP/1433. MSSQL/1. Guide.md",
     "3. Exploitation/Tooling/Metasploit.md",
     "2. Enumeration/TCP/1521. Oracle Transparent Network Substrate (TNS)/1. Guide.md",
     "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/Concepts/Vulnerabilities",
@@ -225,7 +227,6 @@
     "2. Enumeration/TCP/1433. MSSQL",
     "2. Enumeration/TCP/3306. MySQL (SQL)/Applications",
     "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)/Tooling",
-    "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)",
     "7. Misc/Images/tooldev-dns.webp",
     "7. Misc/Images/etw.webp",
     "Untitled.canvas",
