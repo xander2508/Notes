@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/22. Secure Shell (SSH)/Tooling/SSH-Audit.md",
+                "file": "2. Enumeration/TCP/22. Secure Shell (SSH)/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/22. Secure Shell (SSH)/Tooling/SSH-Audit.md",
+                "file": "2. Enumeration/TCP/22. Secure Shell (SSH)/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/22. Secure Shell (SSH)/Tooling/SSH-Audit.md",
+                "file": "2. Enumeration/TCP/22. Secure Shell (SSH)/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/22. Secure Shell (SSH)/Tooling/SSH-Audit.md"
+                "file": "2. Enumeration/TCP/22. Secure Shell (SSH)/1. Guide.md"
               }
             }
           },
@@ -191,9 +191,10 @@
   },
   "active": "eeed6d2ae3abe018",
   "lastOpenFiles": [
+    "2. Enumeration/TCP/22. Secure Shell (SSH)/Applications/OpenSSH.md",
     "2. Enumeration/TCP/22. Secure Shell (SSH)/1. Guide.md",
-    "2. Enumeration/TCP/22. Secure Shell (SSH)/Tooling/SSH-Audit.md",
     "2. Enumeration/TCP/22. Secure Shell (SSH)/2. Information.md",
+    "2. Enumeration/TCP/22. Secure Shell (SSH)/Tooling/SSH-Audit.md",
     "2. Enumeration/TCP/22. Secure Shell (SSH)/Tooling",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Tooling/Hashcat.md",
     "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/Concepts/Vulnerabilities/Hash Leak.md",
@@ -223,7 +224,6 @@
     "2. Enumeration/TCP/636. Lightweight Directory Access Protocol (LDAPS)/1. Guide.md",
     "2. Enumeration/TCP/1433. MSSQL",
     "2. Enumeration/TCP/3306. MySQL (SQL)/2. Information.md",
-    "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Applications/Keepass (KDBX).md",
     "2. Enumeration/TCP/3306. MySQL (SQL)/Applications",
     "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)/Tooling",
     "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)",
