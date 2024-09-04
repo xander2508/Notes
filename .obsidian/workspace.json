@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/Concepts/Vulnerabilities/Hash Leak.md",
+                "file": "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "default paths",
+                "query": "metaspl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/Concepts/Vulnerabilities/Hash Leak.md",
+                "file": "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/Concepts/Vulnerabilities/Hash Leak.md",
+                "file": "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/Concepts/Vulnerabilities/Hash Leak.md"
+                "file": "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/1. Guide.md"
               }
             }
           },
@@ -191,20 +192,21 @@
   },
   "active": "6f3a8be73970c0d7",
   "lastOpenFiles": [
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Tooling/Hashcat.md",
-    "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/Concepts/Vulnerabilities/Hash Leak.md",
+    "2. Enumeration/TCP/1433. MSSQL/1. Guide.md",
+    "3. Exploitation/Tooling/Metasploit.md",
+    "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/1. Guide.md",
     "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/2. Information.md",
+    "2. Enumeration/TCP/1521. Oracle Transparent Network Substrate (TNS)/1. Guide.md",
+    "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/Concepts/Vulnerabilities/Hash Leak.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Tooling/Hashcat.md",
     "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/Concepts/Vulnerabilities",
     "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/Concepts",
-    "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/1. Guide.md",
     "2. Enumeration/TCP/3306. MySQL (SQL)/1. Guide.md",
-    "2. Enumeration/TCP/1433. MSSQL/1. Guide.md",
     "2. Enumeration/UDP/500. Internet Security Association and Key Management Protocol (ISAKMP)/1. Guide.md",
     "2. Enumeration/TCP/1521. Oracle Transparent Network Substrate (TNS)/Tooling/Oracle Database Attacking Tool (ODAT).md",
     "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)",
     "2. Enumeration/TCP/Untitled",
     "2. Enumeration/TCP/1521. Oracle Transparent Network Substrate (TNS)/Tooling/SQLPlus.md",
-    "2. Enumeration/TCP/1521. Oracle Transparent Network Substrate (TNS)/1. Guide.md",
     "4. Post-Exploitation/Valuable Files.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Valuable Files.md",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Valuable Files.md",
@@ -223,7 +225,6 @@
     "2. Enumeration/TCP/3306. MySQL (SQL)/Applications/MariaDB.md",
     "2. Enumeration/TCP/3306. MySQL (SQL)/Applications",
     "7. Misc/smart-chats/UNTITLED CHAT 2024-09-03 07 38 18.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Tooling/Hydra.md",
     "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)/Tooling",
     "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)",
     "2. Enumeration/TCP/143. Internet Message Access Protocol (IMAP)",
