@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/22. Secure Shell (SSH)/1. Guide.md",
+                "file": "2. Enumeration/TCP/22. Secure Shell (SSH)/2. Information.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/22. Secure Shell (SSH)/1. Guide.md",
+                "file": "2. Enumeration/TCP/22. Secure Shell (SSH)/2. Information.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/22. Secure Shell (SSH)/1. Guide.md",
+                "file": "2. Enumeration/TCP/22. Secure Shell (SSH)/2. Information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/22. Secure Shell (SSH)/1. Guide.md"
+                "file": "2. Enumeration/TCP/22. Secure Shell (SSH)/2. Information.md"
               }
             }
           },
@@ -191,6 +191,8 @@
   },
   "active": "6f3a8be73970c0d7",
   "lastOpenFiles": [
+    "2. Enumeration/TCP/22. Secure Shell (SSH)/1. Guide.md",
+    "2. Enumeration/TCP/22. Secure Shell (SSH)/2. Information.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Tooling/Hashcat.md",
     "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/Concepts/Vulnerabilities/Hash Leak.md",
     "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/1. Guide.md",
@@ -221,9 +223,7 @@
     "2. Enumeration/TCP/3306. MySQL (SQL)/2. Information.md",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Applications/Keepass (KDBX).md",
     "3. Exploitation/Known Exploits/Applications/SSH.md",
-    "2. Enumeration/TCP/3306. MySQL (SQL)/Applications/MariaDB.md",
     "2. Enumeration/TCP/3306. MySQL (SQL)/Applications",
-    "7. Misc/smart-chats/UNTITLED CHAT 2024-09-03 07 38 18.md",
     "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)/Tooling",
     "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)",
     "2. Enumeration/TCP/143. Internet Message Access Protocol (IMAP)",
