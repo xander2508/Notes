@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/5985, 5986. Windows Remote Management (WinRM)/1. Guide.md",
+                "file": "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/5985, 5986. Windows Remote Management (WinRM)/1. Guide.md",
+                "file": "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/5985, 5986. Windows Remote Management (WinRM)/1. Guide.md",
+                "file": "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/5985, 5986. Windows Remote Management (WinRM)/1. Guide.md"
+                "file": "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/1. Guide.md"
               }
             }
           },
@@ -189,11 +189,13 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "eeed6d2ae3abe018",
+  "active": "744b9316b7030f7b",
   "lastOpenFiles": [
-    "2. Enumeration/TCP/5900. Virtual Network Computing (VNC)/1. Guide.md",
+    "2. Enumeration/TCP/Untitled",
+    "3. Exploitation/Obtaining Remote Shells/Tooling/Evil-WinRM.md",
     "2. Enumeration/TCP/5985, 5986. Windows Remote Management (WinRM)/1. Guide.md",
     "3. Exploitation/Operating Systems/Windows/Tooling/Windows Remote Management (WinRM).md",
+    "2. Enumeration/TCP/5900. Virtual Network Computing (VNC)/1. Guide.md",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/Remote Desktop Connection.md",
     "2. Enumeration/TCP/5985, 5986. Windows Remote Management (WinRM)",
     "2. Enumeration/TCP/Untitled.md",
@@ -219,8 +221,6 @@
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Tooling/Hashcat.md",
     "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/Concepts/Vulnerabilities/Hash Leak.md",
     "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/1. Guide.md",
-    "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/2. Information.md",
-    "3. Exploitation/Tooling/Metasploit.md",
     "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/Concepts/Vulnerabilities",
     "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/Concepts",
     "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)",
