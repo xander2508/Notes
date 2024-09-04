@@ -5,4 +5,4 @@ tags:
   - Tooling
   - BackupAndRestore
 ---
-Deja Dup is a graphical backup tool for Ubuntu that simplifies the backup process, allowing us to quickly and easily back up our data. It provides a user-friendly interface to create backup copies of data on local or remote storage media. It uses [[Rsync]] as a backend and also supports data encryption.
+Deja Dup is a graphical backup tool for Ubuntu that simplifies the backup process, allowing us to quickly and easily back up our data. It provides a user-friendly interface to create backup copies of data on local or remote storage media. It uses [[5. Standard Information/Operating Systems/Linux/Tooling/Backup and Restore/Rsync]] as a backend and also supports data encryption.
