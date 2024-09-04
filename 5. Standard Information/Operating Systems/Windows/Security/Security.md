@@ -3,6 +3,10 @@ tags:
   - OperatingSystems
   - Windows
   - Security
+aliases:
+  - SAM
+  - SID
+  - UAC
 ---
 
 ## Security Identifier (SID)
