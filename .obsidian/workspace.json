@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/3306. MySQL (SQL)/1. Guide.md",
+                "file": "2. Enumeration/TCP/1433. MSSQL/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/3306. MySQL (SQL)/1. Guide.md",
+                "file": "2. Enumeration/TCP/1433. MSSQL/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/3306. MySQL (SQL)/1. Guide.md",
+                "file": "2. Enumeration/TCP/1433. MSSQL/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/3306. MySQL (SQL)/1. Guide.md"
+                "file": "2. Enumeration/TCP/1433. MSSQL/1. Guide.md"
               }
             }
           },
@@ -191,8 +191,11 @@
   },
   "active": "a6bb3c4a6b88a033",
   "lastOpenFiles": [
-    "2. Enumeration/TCP/3306. MySQL (SQL)/2. Information.md",
+    "2. Enumeration/TCP/636. Lightweight Directory Access Protocol (LDAPS)/1. Guide.md",
+    "2. Enumeration/TCP/1433. MSSQL/1. Guide.md",
     "2. Enumeration/TCP/3306. MySQL (SQL)/1. Guide.md",
+    "2. Enumeration/TCP/1433. MSSQL",
+    "2. Enumeration/TCP/3306. MySQL (SQL)/2. Information.md",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Valuable Files.md",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Applications/Keepass (KDBX).md",
     "4. Post-Exploitation/Valuable Files.md",
@@ -216,8 +219,6 @@
     "2. Enumeration/TCP/143. Internet Message Access Protocol (IMAP)/1. Guide.md",
     "2. Enumeration/TCP/110. Post Office Protocol (POP3)/1. Guide.md",
     "2. Enumeration/TCP/143. Internet Message Access Protocol (IMAP)/2. Information.md",
-    "2. Enumeration/UDP/5355. Link-Local Multicast Name Resolution (LLMNR)/1. Guide.md",
-    "2. Enumeration/UDP/500. Internet Security Association and Key Management Protocol (ISAKMP)/1. Guide.md",
     "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)/Tooling",
     "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)",
     "2. Enumeration/TCP/143. Internet Message Access Protocol (IMAP)",
@@ -227,7 +228,6 @@
     "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Information",
     "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts",
     "2. Enumeration/UDP/111. Network File System (NFS)",
-    "2. Enumeration/TCP/111. Network File System (NFS)",
     "7. Misc/Images/etw.webp",
     "Untitled.canvas",
     "7. Misc/Images/Pasted image 20240830141213.png",
