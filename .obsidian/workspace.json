@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/1521. Oracle Transparent Network Substrate (TNS)/2. Information.md",
+                "file": "2. Enumeration/TCP/1521. Oracle Transparent Network Substrate (TNS)/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/1521. Oracle Transparent Network Substrate (TNS)/2. Information.md",
+                "file": "2. Enumeration/TCP/1521. Oracle Transparent Network Substrate (TNS)/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/1521. Oracle Transparent Network Substrate (TNS)/2. Information.md",
+                "file": "2. Enumeration/TCP/1521. Oracle Transparent Network Substrate (TNS)/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/1521. Oracle Transparent Network Substrate (TNS)/2. Information.md"
+                "file": "2. Enumeration/TCP/1521. Oracle Transparent Network Substrate (TNS)/1. Guide.md"
               }
             }
           },
@@ -191,11 +191,13 @@
   },
   "active": "6f3a8be73970c0d7",
   "lastOpenFiles": [
+    "2. Enumeration/TCP/1521. Oracle Transparent Network Substrate (TNS)/2. Information.md",
+    "2. Enumeration/TCP/1521. Oracle Transparent Network Substrate (TNS)/1. Guide.md",
+    "2. Enumeration/TCP/1521. Oracle Transparent Network Substrate (TNS)/Tooling/Oracle Database Attacking Tool (ODAT).md",
+    "2. Enumeration/TCP/1521. Oracle Transparent Network Substrate (TNS)/Tooling",
     "4. Post-Exploitation/Valuable Files.md",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Valuable Files.md",
-    "2. Enumeration/TCP/1521. Oracle Transparent Network Substrate (TNS)/2. Information.md",
     "4. Post-Exploitation/Upgrading Shells.md",
-    "2. Enumeration/TCP/1521. Oracle Transparent Network Substrate (TNS)/1. Guide.md",
     "3. Exploitation/Operating Systems/Windows/Tooling/Impacket.md",
     "2. Enumeration/TCP/1433. MSSQL/1. Guide.md",
     "2. Enumeration/TCP/1433. MSSQL/2. Information.md",
@@ -218,7 +220,6 @@
     "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)/Tooling/SNMP-Check.md",
     "2. Enumeration/TCP/445. Server Message Block (SMB)/1. Guide.md",
     "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)/Tooling/SnmpWalk.md",
-    "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)/Tooling/braa.md",
     "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)/Tooling",
     "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)",
     "2. Enumeration/TCP/143. Internet Message Access Protocol (IMAP)",
@@ -227,7 +228,6 @@
     "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Vulnerabilities",
     "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Information",
     "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts",
-    "2. Enumeration/UDP/111. Network File System (NFS)",
     "7. Misc/Images/etw.webp",
     "Untitled.canvas",
     "7. Misc/Images/Pasted image 20240830141213.png",
