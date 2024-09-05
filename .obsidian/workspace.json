@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8. Reports/Hack the Box/Untitled.md",
+                "file": "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)/Tooling/SnmpWalk.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8. Reports/Hack the Box/Untitled.md",
+                "file": "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)/Tooling/SnmpWalk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8. Reports/Hack the Box/Untitled.md",
+                "file": "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)/Tooling/SnmpWalk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8. Reports/Hack the Box/Untitled.md"
+                "file": "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)/Tooling/SnmpWalk.md"
               }
             }
           },
@@ -191,9 +191,17 @@
   },
   "active": "d021ab0edfc5266c",
   "lastOpenFiles": [
-    "2. Enumeration/TCP/110. Post Office Protocol (POP3)/1. Guide.md",
-    "2. Enumeration/TCP/143. Internet Message Access Protocol (IMAP)/1. Guide.md",
     "8. Reports/Hack the Box/Untitled.md",
+    "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)/Tooling/SnmpWalk.md",
+    "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)/1. Guide.md",
+    "2. Enumeration/UDP/161. Simple Network Management Protocol (SNMP)/1. Guide.md",
+    "2. Enumeration/TCP/143. Internet Message Access Protocol (IMAP)/1. Guide.md",
+    "2. Enumeration/TCP/110. Post Office Protocol (POP3)/1. Guide.md",
+    "1. Recon/Port Scanning/Types.md",
+    "1. Recon/Port Scanning/Tooling/Nmap/Options.md",
+    "1. Recon/Port Scanning/Tooling/Nmap/Scripts.md",
+    "1. Recon/Port Scanning/1. Overview.md",
+    "1. Recon/1. Guide.md",
     "2. Enumeration/TCP/1433. MSSQL/1. Guide.md",
     "2. Enumeration/TCP/1433. MSSQL/2. Information.md",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
@@ -209,14 +217,6 @@
     "2. Enumeration/TCP/22. Secure Shell (SSH)/Tooling/SCP.md",
     "2. Enumeration/TCP/135. Windows Management Instrumentation (WMI)/1. Guide.md",
     "3. Exploitation/Operating Systems/Windows/Tooling/Impacket.md",
-    "2. Enumeration/TCP/22. Secure Shell (SSH)/1. Guide.md",
-    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/1. Guide.md",
-    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Traffic Analysis.md",
-    "2. Enumeration/TCP/20. FTP/1. Guide.md",
-    "2. Enumeration/TCP/20. FTP/Traffic Analysis.md",
-    "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
-    "1. Recon/Tooling/Shodan.md",
-    "1. Recon/1. Guide.md",
     "2. Enumeration/TCP/135. Windows Management Instrumentation (WMI)",
     "2. Enumeration/TCP/5985, 5986. Windows Remote Management (WinRM)",
     "2. Enumeration/TCP/512, 513, 514. R-Services",
