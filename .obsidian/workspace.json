@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/1433. MSSQL/1. Guide.md",
+                "file": "2. Enumeration/TCP/110. Post Office Protocol (POP3)/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/1433. MSSQL/1. Guide.md",
+                "file": "2. Enumeration/TCP/110. Post Office Protocol (POP3)/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/1433. MSSQL/1. Guide.md",
+                "file": "2. Enumeration/TCP/110. Post Office Protocol (POP3)/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/1433. MSSQL/1. Guide.md"
+                "file": "2. Enumeration/TCP/110. Post Office Protocol (POP3)/1. Guide.md"
               }
             }
           },
@@ -203,8 +203,9 @@
   },
   "active": "d021ab0edfc5266c",
   "lastOpenFiles": [
-    "2. Enumeration/TCP/1433. MSSQL/2. Information.md",
     "8. Reports/Hack the Box/Untitled.md",
+    "2. Enumeration/TCP/1433. MSSQL/1. Guide.md",
+    "2. Enumeration/TCP/1433. MSSQL/2. Information.md",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
     "2. Enumeration/TCP/445. Server Message Block (SMB)/1. Guide.md",
     "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/enum4linux-ng.md",
@@ -228,7 +229,6 @@
     "1. Recon/1. Guide.md",
     "1. Recon/Port Scanning/1. Overview.md",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/1. Wordlist Guide.md",
-    "2. Enumeration/TCP/22. Secure Shell (SSH)/2. Information.md",
     "2. Enumeration/TCP/135. Windows Management Instrumentation (WMI)",
     "2. Enumeration/TCP/5985, 5986. Windows Remote Management (WinRM)",
     "2. Enumeration/TCP/512, 513, 514. R-Services",
