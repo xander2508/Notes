@@ -18,5 +18,3 @@
 |     220 ProFTPD Server (Ceil's FTP) [10.129.65.90]
 |     Invalid command: try being more creative
 |_    Invalid command: try being more creative
-
-

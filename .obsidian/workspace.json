@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/22. Secure Shell (SSH)/1. Guide.md",
+                "file": "2. Enumeration/TCP/20. FTP/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/22. Secure Shell (SSH)/1. Guide.md",
+                "file": "2. Enumeration/TCP/20. FTP/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/22. Secure Shell (SSH)/1. Guide.md",
+                "file": "2. Enumeration/TCP/20. FTP/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/22. Secure Shell (SSH)/1. Guide.md"
+                "file": "2. Enumeration/TCP/20. FTP/1. Guide.md"
               }
             }
           },
@@ -189,10 +189,12 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "0d7d005aea359c7d",
+  "active": "744b9316b7030f7b",
   "lastOpenFiles": [
-    "2. Enumeration/TCP/22. Secure Shell (SSH)/2. Information.md",
     "8. Reports/Hack the Box/Untitled.md",
+    "2. Enumeration/TCP/20. FTP/1. Guide.md",
+    "2. Enumeration/TCP/22. Secure Shell (SSH)/1. Guide.md",
+    "2. Enumeration/TCP/22. Secure Shell (SSH)/2. Information.md",
     "1. Recon/Port Scanning/Tooling/Nmap/Options.md",
     "1. Recon/Port Scanning/Tooling/Nmap/Scripts.md",
     "1. Recon/1. Guide.md",
@@ -218,9 +220,7 @@
     "2. Enumeration/TCP/512, 513, 514. R-Services",
     "3. Exploitation/Known Exploits/Applications/RSync.md",
     "2. Enumeration/TCP/873. RSync/2. Usage.md",
-    "5. Standard Information/Operating Systems/Linux/Tooling/Backup and Restore/RSync 2.md",
     "2. Enumeration/TCP/873. RSync",
-    "3. Exploitation/Known Exploits/Applications/Python.md",
     "2. Enumeration/TCP/22. Secure Shell (SSH)/Tooling",
     "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/Concepts/Vulnerabilities",
     "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/Concepts",
