@@ -2,9 +2,9 @@
 tags:
   - Enumeration
   - TCP
-  - ServerMessageBlock
-  - SMB
   - Tooling
+  - SSH
+  - SecureShell
 ---
 
 # Example
