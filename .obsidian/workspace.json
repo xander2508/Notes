@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Fuzzing/wFuzz.md",
+                "file": "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Fuzzing/GoBuster.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Fuzzing/wFuzz.md",
+                "file": "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Fuzzing/GoBuster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Fuzzing/wFuzz.md",
+                "file": "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Fuzzing/GoBuster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Fuzzing/wFuzz.md"
+                "file": "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Fuzzing/GoBuster.md"
               }
             }
           },
@@ -191,6 +191,7 @@
   },
   "active": "d021ab0edfc5266c",
   "lastOpenFiles": [
+    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Fuzzing/wFuzz.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Fuzzing/Nikto.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Fuzzing/GoBuster.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Fuzzing/ffuf.md",
@@ -216,7 +217,6 @@
     "2. Enumeration/TCP/53. Domain Name System (DNS)/2. Information.md",
     "1. Recon/1. Guide.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Host.md",
-    "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Enumeration Methodology.md",
     "2. Enumeration/TCP/135. Windows Management Instrumentation (WMI)",
     "2. Enumeration/TCP/5985, 5986. Windows Remote Management (WinRM)",
     "2. Enumeration/TCP/512, 513, 514. R-Services",

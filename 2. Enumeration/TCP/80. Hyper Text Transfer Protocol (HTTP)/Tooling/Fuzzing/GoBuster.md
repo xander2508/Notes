@@ -29,3 +29,9 @@ gobuster dir -u http://192.168.190.138/ -w /usr/share/wordlists/dirb/big.txt -e 
 ```
 gobuster dir -u http://192.168.190.138/ -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt -e -k -s "200,204,301,302,307,403" -b "500" -x "txt,html,php,asp,aspx,jsp" --wildcard
 ```
+
+## Finding Subdomains VHOSTs
+
+```shell
+gobuster vhost -u http://inlanefreight.htb:STMPO/ -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-20000.txt --append-domain
+```
