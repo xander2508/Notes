@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "be26deb3b60782d3",
+        "id": "2df19b74c38bf2f5",
         "type": "tabs",
         "children": [
           {
-            "id": "c7f00b21152e1b4e",
+            "id": "d021ab0edfc5266c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/RDP Security Check.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "660ff4ec7c5fc779",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Enumeration/TCP/22. Secure Shell (SSH)/1. Guide.md",
+                "file": "8. Reports/Hack the Box/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/RDP Security Check.md",
+                "file": "8. Reports/Hack the Box/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/RDP Security Check.md",
+                "file": "8. Reports/Hack the Box/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/RDP Security Check.md"
+                "file": "8. Reports/Hack the Box/Untitled.md"
               }
             }
           },
@@ -201,12 +189,15 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "c7f00b21152e1b4e",
+  "active": "d021ab0edfc5266c",
   "lastOpenFiles": [
-    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/1. Guide.md",
-    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Traffic Analysis.md",
+    "2. Enumeration/TCP/135. Windows Management Instrumentation (WMI)/1. Guide.md",
+    "3. Exploitation/Operating Systems/Windows/Tooling/Impacket.md",
     "8. Reports/Hack the Box/Untitled.md",
     "2. Enumeration/TCP/22. Secure Shell (SSH)/1. Guide.md",
+    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/1. Guide.md",
+    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/RDP Security Check.md",
+    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Traffic Analysis.md",
     "2. Enumeration/TCP/20. FTP/1. Guide.md",
     "2. Enumeration/TCP/20. FTP/Traffic Analysis.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
@@ -217,8 +208,6 @@
     "2. Enumeration/TCP/22. Secure Shell (SSH)/2. Information.md",
     "1. Recon/Port Scanning/Tooling/Nmap/Options.md",
     "1. Recon/Port Scanning/Tooling/Nmap/Scripts.md",
-    "2. Enumeration/TCP/135. Windows Management Instrumentation (WMI)/1. Guide.md",
-    "3. Exploitation/Operating Systems/Windows/Tooling/Impacket.md",
     "5. Standard Information/Operating Systems/Windows/Windows Management Instrumentation (WMI).md",
     "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/1. Guide.md",
     "2. Enumeration/TCP/135. Windows Management Instrumentation (WMI)",
@@ -230,7 +219,6 @@
     "2. Enumeration/TCP/5985, 5986. Windows Remote Management (WinRM)",
     "2. Enumeration/TCP/Untitled.md",
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Windows/Enabling WinRM.md",
-    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/RDP Security Check.md",
     "2. Enumeration/TCP/512, 513, 514. R-Services",
     "2. Enumeration/TCP/873. RSync",
     "2. Enumeration/TCP/22. Secure Shell (SSH)/Tooling",
