@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/2049. Network File System (NFS)/1. Guide.md",
+                "file": "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Information/Mount NFS Share.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/2049. Network File System (NFS)/1. Guide.md",
+                "file": "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Information/Mount NFS Share.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/2049. Network File System (NFS)/1. Guide.md",
+                "file": "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Information/Mount NFS Share.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/2049. Network File System (NFS)/1. Guide.md"
+                "file": "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Information/Mount NFS Share.md"
               }
             }
           },
@@ -204,8 +204,9 @@
   },
   "active": "348a96a2cc65ec16",
   "lastOpenFiles": [
-    "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Information/Mount NFS Share.md",
     "2. Enumeration/TCP/2049. Network File System (NFS)/1. Guide.md",
+    "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Information/List NFS Shares.md",
+    "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Information/Mount NFS Share.md",
     "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Information/Start NFS.md",
     "8. Reports/Hack the Box/Untitled.md",
     "2. Enumeration/TCP/22. Secure Shell (SSH)/Tooling/SCP.md",
@@ -230,7 +231,6 @@
     "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/1. Guide.md",
     "2. Enumeration/TCP/135. Windows Management Instrumentation (WMI)",
     "3. Exploitation/Obtaining Remote Shells/Tooling/Evil-WinRM.md",
-    "2. Enumeration/TCP/5985, 5986. Windows Remote Management (WinRM)/1. Guide.md",
     "2. Enumeration/TCP/5985, 5986. Windows Remote Management (WinRM)",
     "2. Enumeration/TCP/512, 513, 514. R-Services",
     "2. Enumeration/TCP/873. RSync",
