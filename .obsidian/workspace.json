@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
+                "file": "2. Enumeration/TCP/22. Secure Shell (SSH)/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
+                "file": "2. Enumeration/TCP/22. Secure Shell (SSH)/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
+                "file": "2. Enumeration/TCP/22. Secure Shell (SSH)/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md"
+                "file": "2. Enumeration/TCP/22. Secure Shell (SSH)/1. Guide.md"
               }
             }
           },
@@ -204,13 +204,14 @@
   },
   "active": "660ff4ec7c5fc779",
   "lastOpenFiles": [
+    "2. Enumeration/TCP/20. FTP/1. Guide.md",
+    "2. Enumeration/TCP/20. FTP/Traffic Analysis.md",
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
     "1. Recon/Tooling/Shodan.md",
     "1. Recon/1. Guide.md",
     "1. Recon/Port Scanning/1. Overview.md",
-    "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/1. Wordlist Guide.md",
     "8. Reports/Hack the Box/Untitled.md",
-    "2. Enumeration/TCP/20. FTP/1. Guide.md",
     "2. Enumeration/TCP/22. Secure Shell (SSH)/1. Guide.md",
     "2. Enumeration/TCP/22. Secure Shell (SSH)/2. Information.md",
     "1. Recon/Port Scanning/Tooling/Nmap/Options.md",
@@ -231,7 +232,6 @@
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/1. Guide.md",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/RDP Security Check.md",
     "2. Enumeration/TCP/512, 513, 514. R-Services/1. Guide.md",
-    "2. Enumeration/TCP/873. RSync/1. Guide.md",
     "2. Enumeration/TCP/512, 513, 514. R-Services",
     "2. Enumeration/TCP/873. RSync",
     "2. Enumeration/TCP/22. Secure Shell (SSH)/Tooling",
