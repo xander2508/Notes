@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Domain Glass (WHOIS).md",
+                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/3. Host File.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Domain Glass (WHOIS).md",
+                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/3. Host File.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Domain Glass (WHOIS).md",
+                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/3. Host File.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Domain Glass (WHOIS).md"
+                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/3. Host File.md"
               }
             }
           },
@@ -204,10 +204,11 @@
   },
   "active": "6d5a8fd08005f3ac",
   "lastOpenFiles": [
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/2. Information.md",
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/3. Host File.md",
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Domain Glass (WHOIS).md",
     "1. Recon/Open Source Intelligence (OSINT)/1. Guide.md",
     "1. Recon/1. Guide.md",
-    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Domain Glass (WHOIS).md",
-    "2. Enumeration/TCP/53. Domain Name System (DNS)/2. Information.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/DnsRecon.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Domain Information Groper (Dig).md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Host.md",
@@ -229,7 +230,6 @@
     "1. Recon/Port Scanning/1. Overview.md",
     "2. Enumeration/TCP/1433. MSSQL/1. Guide.md",
     "2. Enumeration/TCP/1433. MSSQL/2. Information.md",
-    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
     "2. Enumeration/TCP/135. Windows Management Instrumentation (WMI)",
     "2. Enumeration/TCP/5985, 5986. Windows Remote Management (WinRM)",
     "2. Enumeration/TCP/512, 513, 514. R-Services",
