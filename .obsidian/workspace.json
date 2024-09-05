@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e72dcb0f214cf387",
+        "id": "be26deb3b60782d3",
         "type": "tabs",
         "children": [
           {
-            "id": "eeed6d2ae3abe018",
+            "id": "0d7d005aea359c7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/135. Windows Management Instrumentation (WMI)/1. Guide.md",
+                "file": "2. Enumeration/TCP/22. Secure Shell (SSH)/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/135. Windows Management Instrumentation (WMI)/1. Guide.md",
+                "file": "2. Enumeration/TCP/22. Secure Shell (SSH)/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/135. Windows Management Instrumentation (WMI)/1. Guide.md",
+                "file": "2. Enumeration/TCP/22. Secure Shell (SSH)/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/135. Windows Management Instrumentation (WMI)/1. Guide.md"
+                "file": "2. Enumeration/TCP/22. Secure Shell (SSH)/1. Guide.md"
               }
             }
           },
@@ -189,10 +189,15 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "eeed6d2ae3abe018",
+  "active": "0d7d005aea359c7d",
   "lastOpenFiles": [
-    "3. Exploitation/Operating Systems/Windows/Tooling/Impacket.md",
+    "2. Enumeration/TCP/22. Secure Shell (SSH)/2. Information.md",
+    "8. Reports/Hack the Box/Untitled.md",
+    "1. Recon/Port Scanning/Tooling/Nmap/Options.md",
+    "1. Recon/Port Scanning/Tooling/Nmap/Scripts.md",
+    "1. Recon/1. Guide.md",
     "2. Enumeration/TCP/135. Windows Management Instrumentation (WMI)/1. Guide.md",
+    "3. Exploitation/Operating Systems/Windows/Tooling/Impacket.md",
     "5. Standard Information/Operating Systems/Windows/Windows Management Instrumentation (WMI).md",
     "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/1. Guide.md",
     "2. Enumeration/TCP/135. Windows Management Instrumentation (WMI)",
@@ -216,11 +221,6 @@
     "5. Standard Information/Operating Systems/Linux/Tooling/Backup and Restore/RSync 2.md",
     "2. Enumeration/TCP/873. RSync",
     "3. Exploitation/Known Exploits/Applications/Python.md",
-    "5. Standard Information/Operating Systems/Linux/Tooling/Backup and Restore/Deja Dup.md",
-    "2. Enumeration/TCP/22. Secure Shell (SSH)/1. Guide.md",
-    "2. Enumeration/TCP/22. Secure Shell (SSH)/Applications/OpenSSH.md",
-    "2. Enumeration/TCP/22. Secure Shell (SSH)/2. Information.md",
-    "2. Enumeration/TCP/22. Secure Shell (SSH)/Tooling/SSH-Audit.md",
     "2. Enumeration/TCP/22. Secure Shell (SSH)/Tooling",
     "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/Concepts/Vulnerabilities",
     "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/Concepts",
