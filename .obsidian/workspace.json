@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8. Reports/Hack the Box/Untitled.md",
+                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Information/Mount NFS Share.md",
+                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Information/Mount NFS Share.md",
+                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Information/Mount NFS Share.md"
+                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md"
               }
             }
           },
@@ -202,13 +201,13 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "348a96a2cc65ec16",
+  "active": "d021ab0edfc5266c",
   "lastOpenFiles": [
+    "8. Reports/Hack the Box/Untitled.md",
+    "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Information/Mount NFS Share.md",
     "2. Enumeration/TCP/2049. Network File System (NFS)/1. Guide.md",
     "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Information/List NFS Shares.md",
-    "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Information/Mount NFS Share.md",
     "2. Enumeration/TCP/2049. Network File System (NFS)/Concepts/Information/Start NFS.md",
-    "8. Reports/Hack the Box/Untitled.md",
     "2. Enumeration/TCP/22. Secure Shell (SSH)/Tooling/SCP.md",
     "2. Enumeration/TCP/445. Server Message Block (SMB)/1. Guide.md",
     "2. Enumeration/TCP/135. Windows Management Instrumentation (WMI)/1. Guide.md",
