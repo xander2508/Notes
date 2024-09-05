@@ -1,20 +1,41 @@
-21/tcp   open  ftp
-| fingerprint-strings: 
-|   GenericLines: 
-|     220 ProFTPD Server (ftp.int.inlanefreight.htb) [10.129.65.90]
-|     Invalid command: try being more creative
-|_    Invalid command: try being more creative
-22/tcp   open  ssh     OpenSSH 8.2p1 Ubuntu 4ubuntu0.2 (Ubuntu Linux; protocol 2.0)
-| ssh-hostkey: 
-|   3072 3f:4c:8f:10:f1:ae:be:cd:31:24:7c:a1:4e:ab:84:6d (RSA)
-|   256 7b:30:37:67:50:b9:ad:91:c0:8f:f7:02:78:3b:7c:02 (ECDSA)
-|_  256 88:9e:0e:07:fe:ca:d0:5c:60:ab:cf:10:99:cd:6c:a7 (ED25519)
-53/tcp   open  domain  ISC BIND 9.16.1 (Ubuntu Linux)
-| dns-nsid: 
-|_  bind.version: 9.16.1-Ubuntu
-2121/tcp open  ftp
-| fingerprint-strings: 
-|   GenericLines: 
-|     220 ProFTPD Server (Ceil's FTP) [10.129.65.90]
-|     Invalid command: try being more creative
-|_    Invalid command: try being more creative
+PORT     STATE SERVICE       VERSION
+111/tcp  open  rpcbind       2-4 (RPC #100000)
+| rpcinfo: 
+|   program version    port/proto  service
+|   100000  2,3,4        111/tcp   rpcbind
+|   100000  2,3,4        111/tcp6  rpcbind
+|   100000  2,3,4        111/udp   rpcbind
+|   100000  2,3,4        111/udp6  rpcbind
+|   100003  2,3         2049/udp   nfs
+|   100003  2,3         2049/udp6  nfs
+|   100003  2,3,4       2049/tcp   nfs
+|   100003  2,3,4       2049/tcp6  nfs
+|   100005  1,2,3       2049/tcp   mountd
+|   100005  1,2,3       2049/tcp6  mountd
+|   100005  1,2,3       2049/udp   mountd
+|   100005  1,2,3       2049/udp6  mountd
+|   100021  1,2,3,4     2049/tcp   nlockmgr
+|   100021  1,2,3,4     2049/tcp6  nlockmgr
+|   100021  1,2,3,4     2049/udp   nlockmgr
+|   100021  1,2,3,4     2049/udp6  nlockmgr
+|   100024  1           2049/tcp   status
+|   100024  1           2049/tcp6  status
+|   100024  1           2049/udp   status
+|_  100024  1           2049/udp6  status
+135/tcp  open  msrpc         Microsoft Windows RPC
+139/tcp  open  netbios-ssn   Microsoft Windows netbios-ssn
+445/tcp  open  microsoft-ds?
+2049/tcp open  nlockmgr      1-4 (RPC #100021)
+3389/tcp open  ms-wbt-server Microsoft Terminal Services
+|_ssl-date: 2024-09-05T09:54:30+00:00; 0s from scanner time.
+| rdp-ntlm-info: 
+|   Target_Name: WINMEDIUM
+|   NetBIOS_Domain_Name: WINMEDIUM
+|   NetBIOS_Computer_Name: WINMEDIUM
+|   DNS_Domain_Name: WINMEDIUM
+|   DNS_Computer_Name: WINMEDIUM
+|   Product_Version: 10.0.17763
+|_  System_Time: 2024-09-05T09:54:20+00:00
+| ssl-cert: Subject: commonName=WINMEDIUM
+| Not valid before: 2024-09-04T09:52:16
+|_Not valid after:  2025-03-06T09:52:16
