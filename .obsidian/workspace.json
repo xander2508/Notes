@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6d5a8fd08005f3ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8. Reports/Hack the Box/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/143. Internet Message Access Protocol (IMAP)/1. Guide.md",
+                "file": "8. Reports/Hack the Box/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/143. Internet Message Access Protocol (IMAP)/1. Guide.md",
+                "file": "8. Reports/Hack the Box/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/143. Internet Message Access Protocol (IMAP)/1. Guide.md"
+                "file": "8. Reports/Hack the Box/Untitled.md"
               }
             }
           },
@@ -189,17 +202,17 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "d021ab0edfc5266c",
+  "active": "6d5a8fd08005f3ac",
   "lastOpenFiles": [
+    "2. Enumeration/TCP/143. Internet Message Access Protocol (IMAP)/1. Guide.md",
+    "8. Reports/Hack the Box/Untitled.md",
     "2. Enumeration/TCP/110. Post Office Protocol (POP3)/1. Guide.md",
     "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)/Tooling/Onesixtyone.md",
     "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)/1. Guide.md",
     "2. Enumeration/UDP/161. Simple Network Management Protocol (SNMP)/1. Guide.md",
-    "8. Reports/Hack the Box/Untitled.md",
     "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)/Tooling/braa.md",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/1. Wordlist Guide.md",
     "2. Enumeration/TCP/161. Simple Network Management Protocol (SNMP)/Tooling/SnmpWalk.md",
-    "2. Enumeration/TCP/143. Internet Message Access Protocol (IMAP)/1. Guide.md",
     "1. Recon/Port Scanning/Types.md",
     "1. Recon/Port Scanning/Tooling/Nmap/Options.md",
     "1. Recon/Port Scanning/Tooling/Nmap/Scripts.md",
