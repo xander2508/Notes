@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0d7d005aea359c7d",
+            "id": "c7f00b21152e1b4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/20. FTP/1. Guide.md",
+                "file": "8. Reports/Hack the Box/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "660ff4ec7c5fc779",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/20. FTP/1. Guide.md",
+                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/20. FTP/1. Guide.md",
+                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/20. FTP/1. Guide.md"
+                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md"
               }
             }
           },
@@ -189,9 +202,10 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "744b9316b7030f7b",
+  "active": "660ff4ec7c5fc779",
   "lastOpenFiles": [
     "8. Reports/Hack the Box/Untitled.md",
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
     "2. Enumeration/TCP/20. FTP/1. Guide.md",
     "2. Enumeration/TCP/22. Secure Shell (SSH)/1. Guide.md",
     "2. Enumeration/TCP/22. Secure Shell (SSH)/2. Information.md",
@@ -219,7 +233,6 @@
     "2. Enumeration/TCP/636. Lightweight Directory Access Protocol (LDAPS)/1. Guide.md",
     "2. Enumeration/TCP/512, 513, 514. R-Services",
     "3. Exploitation/Known Exploits/Applications/RSync.md",
-    "2. Enumeration/TCP/873. RSync/2. Usage.md",
     "2. Enumeration/TCP/873. RSync",
     "2. Enumeration/TCP/22. Secure Shell (SSH)/Tooling",
     "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/Concepts/Vulnerabilities",
