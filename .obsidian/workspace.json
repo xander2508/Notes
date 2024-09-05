@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "WinRM",
+                "query": "seclists",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -204,8 +205,9 @@
   },
   "active": "660ff4ec7c5fc779",
   "lastOpenFiles": [
-    "8. Reports/Hack the Box/Untitled.md",
+    "4. Post-Exploitation/Cryptography/Passwords and Wordlists/1. Wordlist Guide.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
+    "8. Reports/Hack the Box/Untitled.md",
     "2. Enumeration/TCP/20. FTP/1. Guide.md",
     "2. Enumeration/TCP/22. Secure Shell (SSH)/1. Guide.md",
     "2. Enumeration/TCP/22. Secure Shell (SSH)/2. Information.md",
@@ -232,7 +234,6 @@
     "2. Enumeration/TCP/1433. MSSQL/1. Guide.md",
     "2. Enumeration/TCP/636. Lightweight Directory Access Protocol (LDAPS)/1. Guide.md",
     "2. Enumeration/TCP/512, 513, 514. R-Services",
-    "3. Exploitation/Known Exploits/Applications/RSync.md",
     "2. Enumeration/TCP/873. RSync",
     "2. Enumeration/TCP/22. Secure Shell (SSH)/Tooling",
     "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/Concepts/Vulnerabilities",
