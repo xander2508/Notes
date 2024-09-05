@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Passwords and Wordlists/1. Wordlist Guide.md",
+                "file": "3. Exploitation/File Types and Data/CRT (Certificate Files).md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "subdomains",
+                "query": "Certificate Transparency",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Passwords and Wordlists/1. Wordlist Guide.md",
+                "file": "3. Exploitation/File Types and Data/CRT (Certificate Files).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Passwords and Wordlists/1. Wordlist Guide.md",
+                "file": "3. Exploitation/File Types and Data/CRT (Certificate Files).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Passwords and Wordlists/1. Wordlist Guide.md"
+                "file": "3. Exploitation/File Types and Data/CRT (Certificate Files).md"
               }
             }
           },
@@ -192,6 +192,7 @@
   },
   "active": "d021ab0edfc5266c",
   "lastOpenFiles": [
+    "4. Post-Exploitation/Cryptography/Passwords and Wordlists/1. Wordlist Guide.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Fuzzing/GoBuster.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Fuzzing/wFuzz.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Fuzzing/Nikto.md",
@@ -203,7 +204,6 @@
     "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/1. Guide.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/DnsEnum.md",
-    "4. Post-Exploitation/Cryptography/Passwords and Wordlists/1. Wordlist Guide.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Domain Glass (WHOIS).md",
     "5. Standard Information/Operating Systems/Windows/Networking/Validate DNS.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Domain Information Groper (Dig).md",
