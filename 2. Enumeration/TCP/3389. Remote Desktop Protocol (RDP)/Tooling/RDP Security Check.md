@@ -3,6 +3,11 @@ A Perl script named [rdp-sec-check.pl](https://github.com/CiscoCXSecurity/rdp-s
 
 ## Installation 
 
+```
+cpan
+cpan[1]> install Encoding::BER
+```
+
 ```shell-session
 git clone https://github.com/CiscoCXSecurity/rdp-sec-check.git && cd rdp-sec-check
 ```
