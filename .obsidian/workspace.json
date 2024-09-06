@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Web Crawlers/Scrapy.md",
+                "file": "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Web Crawlers/Scrapy.md",
+                "file": "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Web Crawlers/Scrapy.md",
+                "file": "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Web Crawlers/Scrapy.md"
+                "file": "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/1. Guide.md"
               }
             }
           },
@@ -190,10 +190,10 @@
   },
   "active": "d021ab0edfc5266c",
   "lastOpenFiles": [
+    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Web Crawlers/Scrapy.md",
     "7. Misc/Images/ReconSpider.zip",
     "1. Recon/Open Source Intelligence (OSINT)/Tooling/ReconSpider.md",
     "1. Recon/Open Source Intelligence (OSINT)/Tooling/Reverse Image Searching.md",
-    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Web Crawlers/Scrapy.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Web Crawlers/Burp Suite.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Web Crawlers/Popular Web Crawlers.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Web Crawlers/OWASP Zed Attack Proxy (ZAP).md",
@@ -225,7 +225,6 @@
     "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/Concepts/Vulnerabilities",
     "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/Concepts",
     "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)",
-    "2. Enumeration/TCP/1521. Oracle Transparent Network Substrate (TNS)/Tooling",
     "7. Misc/Images/tooldev-dns.webp",
     "7. Misc/Images/etw.webp",
     "Untitled.canvas",
