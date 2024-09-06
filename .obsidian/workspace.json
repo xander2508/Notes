@@ -190,8 +190,9 @@
   },
   "active": "d021ab0edfc5266c",
   "lastOpenFiles": [
-    "1. Recon/Open Source Intelligence (OSINT)/Search Operators.md",
+    "1. Recon/Open Source Intelligence (OSINT)/Tooling/theHarvester.md",
     "1. Recon/Open Source Intelligence (OSINT)/Tooling/Wayback Machine.md",
+    "1. Recon/Open Source Intelligence (OSINT)/Search Operators.md",
     "1. Recon/Open Source Intelligence (OSINT)/Online Research.md",
     "1. Recon/Open Source Intelligence (OSINT)/1. Guide.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/1. Guide.md",
@@ -217,7 +218,6 @@
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Fuzzing/Nikto.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Fuzzing/wFuzz.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Applications/WordPress.md",
-    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Wafw00f.md",
     "2. Enumeration/TCP/135. Windows Management Instrumentation (WMI)",
     "2. Enumeration/TCP/5985, 5986. Windows Remote Management (WinRM)",
     "2. Enumeration/TCP/512, 513, 514. R-Services",
