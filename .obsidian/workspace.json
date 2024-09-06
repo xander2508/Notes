@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/WhatWeb.md",
+                "file": "5. Standard Information/Penetration Testing/Vulnerability Assessment/Methodology.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/WhatWeb.md",
+                "file": "5. Standard Information/Penetration Testing/Vulnerability Assessment/Methodology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/WhatWeb.md",
+                "file": "5. Standard Information/Penetration Testing/Vulnerability Assessment/Methodology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/WhatWeb.md"
+                "file": "5. Standard Information/Penetration Testing/Vulnerability Assessment/Methodology.md"
               }
             }
           },
@@ -190,15 +190,18 @@
   },
   "active": "d021ab0edfc5266c",
   "lastOpenFiles": [
+    "7. Misc/Images/Pasted image 20240906140738.png",
+    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Web Crawlers/Scrapy.md",
+    "5. Standard Information/Penetration Testing/Vulnerability Assessment/Methodology.md",
+    "5. Standard Information/Penetration Testing/Vulnerability Assessment",
+    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Web Crawlers/OWASP Zed Attack Proxy (ZAP).md",
+    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/WhatWeb.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/wGet.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Wafw00f.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Invoke-Webrequest.md",
-    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Web Crawlers/Scrapy.md",
-    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Web Crawlers/OWASP Zed Attack Proxy (ZAP).md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Web Crawlers/Apache Nutch.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Fuzzing/FeroxBuster.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/1. Guide.md",
-    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/WhatWeb.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Intercept and Analysis/Fiddler.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Domain Glass (WHOIS).md",
     "1. Recon/Open Source Intelligence (OSINT)/1. Guide.md",
@@ -215,8 +218,6 @@
     "1. Recon/Open Source Intelligence (OSINT)/Tooling/Reverse Image Searching.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Web Crawlers/Burp Suite.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Web Crawlers/Popular Web Crawlers.md",
-    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Intercept and Analysis/Burp Suite.md",
-    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/CEWL.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Web Crawlers",
     "2. Enumeration/TCP/135. Windows Management Instrumentation (WMI)",
     "2. Enumeration/TCP/5985, 5986. Windows Remote Management (WinRM)",
@@ -225,7 +226,6 @@
     "2. Enumeration/TCP/22. Secure Shell (SSH)/Tooling",
     "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/Concepts/Vulnerabilities",
     "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/Concepts",
-    "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)",
     "7. Misc/Images/tooldev-dns.webp",
     "7. Misc/Images/etw.webp",
     "Untitled.canvas",
