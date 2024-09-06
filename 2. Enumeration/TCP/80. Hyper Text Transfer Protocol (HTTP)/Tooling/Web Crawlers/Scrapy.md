@@ -18,6 +18,8 @@ pip3 install scrapy
 
 ![[ReconSpider.zip]]
 
+See [[ReconSpider]]
+
 ```shell-session
 unzip ReconSpider.zip 
 ```
