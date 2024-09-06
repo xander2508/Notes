@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Recon/Open Source Intelligence (OSINT)/1. Guide.md",
+                "file": "1. Recon/Open Source Intelligence (OSINT)/Tooling/FinalRecon.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Recon/Open Source Intelligence (OSINT)/1. Guide.md",
+                "file": "1. Recon/Open Source Intelligence (OSINT)/Tooling/FinalRecon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Recon/Open Source Intelligence (OSINT)/1. Guide.md",
+                "file": "1. Recon/Open Source Intelligence (OSINT)/Tooling/FinalRecon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Recon/Open Source Intelligence (OSINT)/1. Guide.md"
+                "file": "1. Recon/Open Source Intelligence (OSINT)/Tooling/FinalRecon.md"
               }
             }
           },
@@ -190,13 +190,15 @@
   },
   "active": "d021ab0edfc5266c",
   "lastOpenFiles": [
+    "1. Recon/Open Source Intelligence (OSINT)/Tooling/SpiderFoot.md",
+    "1. Recon/Open Source Intelligence (OSINT)/Tooling/Sherlock.md",
+    "1. Recon/Open Source Intelligence (OSINT)/1. Guide.md",
     "1. Recon/Open Source Intelligence (OSINT)/Tooling/FinalRecon.md",
     "1. Recon/Open Source Intelligence (OSINT)/Tooling/ReconSpider.md",
     "1. Recon/Open Source Intelligence (OSINT)/Tooling/Wayback Machine.md",
     "1. Recon/Open Source Intelligence (OSINT)/Tooling/theHarvester.md",
     "1. Recon/Open Source Intelligence (OSINT)/Search Operators.md",
     "1. Recon/Open Source Intelligence (OSINT)/Online Research.md",
-    "1. Recon/Open Source Intelligence (OSINT)/1. Guide.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/1. Guide.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Web Crawlers/Scrapy.md",
     "7. Misc/Images/ReconSpider.zip",
@@ -216,8 +218,6 @@
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/WhatWeb.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/DroopeScan.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Fuzzing/GoBuster.md",
-    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Fuzzing/Nikto.md",
-    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Fuzzing/wFuzz.md",
     "2. Enumeration/TCP/135. Windows Management Instrumentation (WMI)",
     "2. Enumeration/TCP/5985, 5986. Windows Remote Management (WinRM)",
     "2. Enumeration/TCP/512, 513, 514. R-Services",
