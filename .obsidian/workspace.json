@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Laws and Regulations/4. Penetration Testing Standards.md",
+                "file": "5. Standard Information/Penetration Testing/Reporting/Open Vulnerability Assessment Language (OVAL).md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "terminolo",
+                "query": "cvss",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 289.5
   },
   "right": {
     "id": "ab865be945a38766",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Laws and Regulations/4. Penetration Testing Standards.md",
+                "file": "5. Standard Information/Penetration Testing/Reporting/Open Vulnerability Assessment Language (OVAL).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Laws and Regulations/4. Penetration Testing Standards.md",
+                "file": "5. Standard Information/Penetration Testing/Reporting/Open Vulnerability Assessment Language (OVAL).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Laws and Regulations/4. Penetration Testing Standards.md"
+                "file": "5. Standard Information/Penetration Testing/Reporting/Open Vulnerability Assessment Language (OVAL).md"
               }
             }
           },
@@ -190,8 +190,10 @@
   },
   "active": "d021ab0edfc5266c",
   "lastOpenFiles": [
-    "5. Standard Information/Penetration Testing/Laws and Regulations/3. Compliance Standards.md",
+    "5. Standard Information/Penetration Testing/Reporting/CVSS.md",
+    "5. Standard Information/Penetration Testing/Reporting/Open Vulnerability Assessment Language (OVAL).md",
     "5. Standard Information/Penetration Testing/Laws and Regulations/4. Penetration Testing Standards.md",
+    "5. Standard Information/Penetration Testing/Laws and Regulations/3. Compliance Standards.md",
     "5. Standard Information/Penetration Testing/Laws and Regulations/1. Laws and Regulations.md",
     "5. Standard Information/Architecture/Asset Management.md",
     "5. Standard Information/Networking/Standard Terminology.md",
@@ -216,8 +218,6 @@
     "1. Recon/Open Source Intelligence (OSINT)/Online Research.md",
     "1. Recon/Open Source Intelligence (OSINT)/Tooling/FinalRecon.md",
     "1. Recon/Open Source Intelligence (OSINT)/Tooling/SpiderFoot.md",
-    "1. Recon/Open Source Intelligence (OSINT)/Tooling/Sherlock.md",
-    "1. Recon/Open Source Intelligence (OSINT)/Tooling/ReconSpider.md",
     "7. Misc/Images/ReconSpider.zip",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Web Crawlers",
     "2. Enumeration/TCP/135. Windows Management Instrumentation (WMI)",
