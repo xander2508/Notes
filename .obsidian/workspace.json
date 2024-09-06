@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Vulnerability Assessment/Methodology.md",
+                "file": "5. Standard Information/Architecture/Asset Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Certificate Transparency",
+                "query": "terminolo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Vulnerability Assessment/Methodology.md",
+                "file": "5. Standard Information/Architecture/Asset Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Vulnerability Assessment/Methodology.md",
+                "file": "5. Standard Information/Architecture/Asset Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Vulnerability Assessment/Methodology.md"
+                "file": "5. Standard Information/Architecture/Asset Management.md"
               }
             }
           },
@@ -190,9 +190,11 @@
   },
   "active": "d021ab0edfc5266c",
   "lastOpenFiles": [
+    "5. Standard Information/Networking/Standard Terminology.md",
+    "5. Standard Information/Architecture/Asset Management.md",
+    "5. Standard Information/Penetration Testing/Vulnerability Assessment/Methodology.md",
     "7. Misc/Images/Pasted image 20240906140738.png",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Web Crawlers/Scrapy.md",
-    "5. Standard Information/Penetration Testing/Vulnerability Assessment/Methodology.md",
     "5. Standard Information/Penetration Testing/Vulnerability Assessment",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Web Crawlers/OWASP Zed Attack Proxy (ZAP).md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/WhatWeb.md",
@@ -217,7 +219,6 @@
     "7. Misc/Images/ReconSpider.zip",
     "1. Recon/Open Source Intelligence (OSINT)/Tooling/Reverse Image Searching.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Web Crawlers/Burp Suite.md",
-    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Web Crawlers/Popular Web Crawlers.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Web Crawlers",
     "2. Enumeration/TCP/135. Windows Management Instrumentation (WMI)",
     "2. Enumeration/TCP/5985, 5986. Windows Remote Management (WinRM)",
@@ -235,7 +236,6 @@
     "7. Misc/Images/0-PT-Process-VA.webp",
     "7. Misc/Images/0-PT-Process-IG.webp",
     "7. Misc/Images/0-PT-Process-PRE.webp",
-    "7. Misc/Images/0-PT-Process.webp",
-    "7. Misc/Images/Internet.webp"
+    "7. Misc/Images/0-PT-Process.webp"
   ]
 }

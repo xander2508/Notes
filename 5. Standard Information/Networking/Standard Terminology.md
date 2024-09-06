@@ -49,3 +49,32 @@ tags:
 | Internet Key Exchange                             | `IKE`       | IKE is a protocol used to set up a secure connection between two computers. It is used in virtual private networks (VPNs) to provide authentication and encryption for data transmission, protecting the data from outside eavesdropping and tampering.                                        |
 | Generic Routing Encapsulation                     | `GRE`       | This protocol is used to encapsulate the data being transmitted within the VPN tunnel.                                                                                                                                                                                                         |
 | Remote Shell                                      | `RSH`       | It is a program under Unix that allows executing commands and programs on a remote computer.                                                                                                                                                                                                   |
+
+
+#### Vulnerability
+
+A `Vulnerability` is a weakness or bug in an organization's environment, including applications, networks, and infrastructure, that opens up the possibility of threats from external actors. Vulnerabilities can be registered through MITRE's [Common Vulnerability Exposure database](https://cve.mitre.org/) and receive a [Common Vulnerability Scoring System (CVSS)](https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator) score to determine severity. This scoring system is frequently used as a standard for companies and governments looking to calculate accurate and consistent severity scores for their systems' vulnerabilities. Scoring vulnerabilities in this way helps prioritize resources and determine how to respond to a given threat. Scores are calculated using metrics such as the type of attack vector (network, adjacent, local, physical), the attack complexity, privileges required, whether or not the attack requires user interaction, and the impact of successful exploitation on an organization's confidentiality, integrity, and availability of data. Scores can range from 0 to 10, depending on these metrics.
+
+![Threat + Vulnerability = Risk](https://academy.hackthebox.com/storage/modules/108/graphics/threat_vulnerability_risk.png)
+
+For example, SQL injection is considered a vulnerability since an attacker could leverage queries to extract data from an organization's database. This attack would have a higher CVSS score rating if it could be performed without authentication over the internet than if an attacker needed authenticated access to the internal network and separate authentication to the target application. These types of things must be considered for all vulnerabilities we encounter.
+
+#### Threat
+
+A `Threat` is a process that amplifies the potential of an adverse event, such as a threat actor exploiting a vulnerability. Some vulnerabilities raise more threat concerns over others due to the probability of the vulnerability being exploited. For example, the higher the reward of the outcome and ease of exploitation, the more likely the issue would be exploited by threat actors.
+
+#### Exploit
+
+An `Exploit` is any code or resources that can be used to take advantage of an asset's weakness. Many exploits are available through open-source platforms such as [Exploit-db](https://exploit-db.com/) or [the Rapid7 Vulnerability and Exploit Database](https://www.rapid7.com/db/). We will often see exploit code hosted on sites such as GitHub and GitLab as well.
+
+#### Risk
+
+`Risk` is the possibility of assets or data being harmed or destroyed by threat actors.
+
+To differentiate the three, we can think of it as follows:
+
+- `Risk`: something bad that could happen
+- `Threat`: something bad that is happening
+- `Vulnerabilities`: weaknesses that could lead to a threat
+
+Vulnerabilities, Threats, and Exploits all play a part in measuring the level of risk in weaknesses by determining the likelihood and impact. For example, vulnerabilities that have reliable exploit code and are likely to be used to gain access to an organization's network would significantly raise the risk of an issue due to the impact. If an attacker had access to the internal network, they could potentially view, edit, or delete sensitive documents crucial for business operations.
