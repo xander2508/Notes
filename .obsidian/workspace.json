@@ -66,7 +66,7 @@
             }
           },
           {
-            "id": "19a92ca0e08ca1dd",
+            "id": "fad1f6a13e5c1172",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -181,7 +181,6 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": true,
       "table-editor-obsidian:Advanced Tables Toolbar": true,
       "obsidian-importer:Open Importer": true,
-      "mermaid-tools:Open Mermaid Toolbar": true,
       "templates:Insert template": false,
       "canvas:Create new canvas": true,
       "command-palette:Open command palette": false,
