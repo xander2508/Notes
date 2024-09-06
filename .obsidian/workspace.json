@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Recon/Vulnerability Scanning/Tooling/OpenVAS.md",
+                "file": "1. Recon/Vulnerability Scanning/Tooling/Nessus.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Recon/Vulnerability Scanning/Tooling/OpenVAS.md",
+                "file": "1. Recon/Vulnerability Scanning/Tooling/Nessus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Recon/Vulnerability Scanning/Tooling/OpenVAS.md",
+                "file": "1. Recon/Vulnerability Scanning/Tooling/Nessus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Recon/Vulnerability Scanning/Tooling/OpenVAS.md"
+                "file": "1. Recon/Vulnerability Scanning/Tooling/Nessus.md"
               }
             }
           },
@@ -190,8 +190,9 @@
   },
   "active": "d021ab0edfc5266c",
   "lastOpenFiles": [
-    "1. Recon/Vulnerability Scanning/Tooling/Nessus.md",
     "1. Recon/Vulnerability Scanning/Tooling/OpenVAS.md",
+    "1. Recon/Vulnerability Scanning/Tooling/Nessus.md",
+    "1. Recon/1. Guide.md",
     "1. Recon/Vulnerability Scanning/Methodology.md",
     "5. Standard Information/Penetration Testing/Reporting/Open Vulnerability Assessment Language (OVAL).md",
     "1. Recon/Vulnerability Scanning/Overview.md",
@@ -219,7 +220,6 @@
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Fuzzing/FeroxBuster.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/1. Guide.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Intercept and Analysis/Fiddler.md",
-    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Domain Glass (WHOIS).md",
     "7. Misc/Images/ReconSpider.zip",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Web Crawlers",
     "2. Enumeration/TCP/135. Windows Management Instrumentation (WMI)",
