@@ -9,10 +9,7 @@ tags:
 
 Google Dorks can be used to specify the target and gain insight on not commonly viewed pages.
 
-### Google Dorks 
-
-One of the easiest and most used is Google search combined with Google Dorks. For example, we can use the Google Dorks `inurl:` and `intext:` to narrow our search to specific terms.
-
+See [[Search Operators]]
 ### Website Internals
 
 The internal website can be reviewed and have its information extracted:
