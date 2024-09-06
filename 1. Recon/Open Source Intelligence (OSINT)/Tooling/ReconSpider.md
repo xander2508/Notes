@@ -13,3 +13,9 @@ ReconSpider is most Advanced Open Source Intelligence (OSINT) Framework for scan
 ReconSpider can be used by Infosec Researchers, Penetration Testers, Bug Hunters and Cyber Crime Investigators to find deep information about their target.
 
 ReconSpider aggregate all the raw data, visualize it on a dashboard and facilitate alerting and monitoring on the data.
+
+
+```
+sudo apt install reconspider
+```
+

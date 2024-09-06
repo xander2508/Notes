@@ -16,3 +16,12 @@ Scrapy is a versatile and scalable Python framework for building custom web craw
 pip3 install scrapy
 ```
 
+![[ReconSpider.zip]]
+
+```shell-session
+unzip ReconSpider.zip 
+```
+
+```shell-session
+python3 ReconSpider.py http://inlanefreight.com
+```
