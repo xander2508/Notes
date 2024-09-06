@@ -3,6 +3,7 @@ tags:
   - PenetrationTesting
   - Stages
   - LateralMovement
+  - StandardInformation
 ---
 In most cases, the system we use will not have the tools to enumerate the internal network efficiently. Some techniques allow us to use the exploited host as a proxy and perform all the scans from our attack machine or VM. In doing so, the exploited system represents and routes all our network requests sent from our attack machine to the internal network and its network components.
 

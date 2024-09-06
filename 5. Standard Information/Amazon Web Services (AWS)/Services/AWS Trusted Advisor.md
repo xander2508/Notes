@@ -3,6 +3,7 @@ tags:
   - AWS
   - AmazonWebServices
   - Services
+  - StandardInformation
 ---
 [**AWS Trusted Advisor**(opens in a new tab)](https://aws.amazon.com/premiumsupport/technology/trusted-advisor/) is a web service that inspects your AWS environment and provides real-time recommendations in accordance with AWS best practices.
 

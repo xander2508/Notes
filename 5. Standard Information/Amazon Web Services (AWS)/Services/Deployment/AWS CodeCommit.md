@@ -4,6 +4,7 @@ tags:
   - AmazonWebServices
   - Services
   - Deployment
+  - StandardInformation
 ---
 AWS CodeCommit is a highly available, highly scalable managed source-control service that hosts private Git repositories.
 

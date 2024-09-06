@@ -5,6 +5,7 @@ tags:
   - Services
   - Compute
   - Serverless
+  - StandardInformation
 ---
 
 [AWS Fargate](https://aws.amazon.com/fargate/?c=ser&sec=srv)

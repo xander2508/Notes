@@ -3,6 +3,7 @@ tags:
   - OperatingSystems
   - Windows
   - Tooling
+  - StandardInformation
 ---
 One way of doing so involves using the `net share` command. [Net Share](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh750728(v=ws.11)) allows us to display info about shared resources on the host and to create new shared resources as well.
 

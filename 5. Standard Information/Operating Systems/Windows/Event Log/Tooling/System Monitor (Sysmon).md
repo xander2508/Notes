@@ -4,6 +4,7 @@ tags:
   - Windows
   - EventLog
   - Tooling
+  - StandardInformation
 ---
 To enhance our event log coverage, we can extend the capabilities by incorporating Sysmon, which offers additional event logging capabilities.
 

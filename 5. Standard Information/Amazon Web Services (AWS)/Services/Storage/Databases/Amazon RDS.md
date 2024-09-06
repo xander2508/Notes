@@ -5,6 +5,7 @@ tags:
   - Services
   - Storage
   - Databases
+  - StandardInformation
 ---
 
 [Amazon RDS](https://aws.amazon.com/rds/)

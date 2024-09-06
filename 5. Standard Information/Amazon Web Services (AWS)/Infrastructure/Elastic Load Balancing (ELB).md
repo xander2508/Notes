@@ -3,6 +3,7 @@ tags:
   - AWS
   - AmazonWebServices
   - Infrastructure
+  - StandardInformation
 ---
 
 [Elastic Load Balancing features](https://aws.amazon.com/elasticloadbalancing/features/#Product_comparisons)

@@ -3,6 +3,7 @@ tags:
   - AWS
   - AmazonWebServices
   - Infrastructure
+  - StandardInformation
 ---
 
 The [**AWS Snow Family**](https://aws.amazon.com/snow) is a collection of physical devices that help to physically transport up to exabytes of data into and out of AWS.

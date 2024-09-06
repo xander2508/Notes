@@ -5,6 +5,7 @@ tags:
   - UserManagement
   - IdentityAccessManagement
   - IAM
+  - StandardInformation
 ---
 [Tasks That Require Root User Credentials](https://docs.aws.amazon.com/accounts/latest/reference/root-user-tasks.html)
 [What Is IAM?](https://docs.aws.amazon.com/en_us/IAM/latest/UserGuide/introduction.html)

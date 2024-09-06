@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Reporting/Common Vulnerabilities and Exposures (CVE).md",
+                "file": "1. Recon/Vulnerability Scanning/Tooling/OpenVAS.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cvss",
+                "query": "Nessus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Reporting/Common Vulnerabilities and Exposures (CVE).md",
+                "file": "1. Recon/Vulnerability Scanning/Tooling/OpenVAS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Reporting/Common Vulnerabilities and Exposures (CVE).md",
+                "file": "1. Recon/Vulnerability Scanning/Tooling/OpenVAS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Reporting/Common Vulnerabilities and Exposures (CVE).md"
+                "file": "1. Recon/Vulnerability Scanning/Tooling/OpenVAS.md"
               }
             }
           },
@@ -190,16 +190,23 @@
   },
   "active": "d021ab0edfc5266c",
   "lastOpenFiles": [
-    "5. Standard Information/Penetration Testing/Reporting/Common Vulnerability Scoring System (CVSS).md",
+    "1. Recon/Vulnerability Scanning/Tooling/Nessus.md",
+    "1. Recon/Vulnerability Scanning/Tooling/OpenVAS.md",
+    "1. Recon/Vulnerability Scanning/Methodology.md",
     "5. Standard Information/Penetration Testing/Reporting/Open Vulnerability Assessment Language (OVAL).md",
+    "1. Recon/Vulnerability Scanning/Overview.md",
+    "1. Recon/Vulnerability Scanning/Tooling",
+    "1. Recon/Tooling/Shodan.md",
+    "1. Recon/Vulnerability Scanning",
+    "5. Standard Information/Penetration Testing/Stages/1. Pre-Engagement/1. Pre-Engagement.md",
+    "5. Standard Information/Penetration Testing/Reporting/Common Vulnerabilities and Exposures (CVE).md",
+    "5. Standard Information/Penetration Testing/Reporting/Common Vulnerability Scoring System (CVSS).md",
     "5. Standard Information/Penetration Testing/Laws and Regulations/3. Compliance Standards.md",
     "5. Standard Information/Penetration Testing/Laws and Regulations/4. Penetration Testing Standards.md",
     "5. Standard Information/Penetration Testing/Laws and Regulations/China.md",
-    "5. Standard Information/Penetration Testing/Reporting/Common Vulnerabilities and Exposures (CVE).md",
     "5. Standard Information/Penetration Testing/Laws and Regulations/1. Laws and Regulations.md",
     "5. Standard Information/Architecture/Asset Management.md",
     "5. Standard Information/Networking/Standard Terminology.md",
-    "5. Standard Information/Penetration Testing/Vulnerability Assessment/Methodology.md",
     "7. Misc/Images/Pasted image 20240906140738.png",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Web Crawlers/Scrapy.md",
     "5. Standard Information/Penetration Testing/Vulnerability Assessment",
@@ -213,11 +220,6 @@
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/1. Guide.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Intercept and Analysis/Fiddler.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Domain Glass (WHOIS).md",
-    "1. Recon/Open Source Intelligence (OSINT)/1. Guide.md",
-    "1. Recon/Open Source Intelligence (OSINT)/Tooling/Wayback Machine.md",
-    "1. Recon/Open Source Intelligence (OSINT)/Staff Research.md",
-    "1. Recon/Open Source Intelligence (OSINT)/Search Operators.md",
-    "1. Recon/Open Source Intelligence (OSINT)/Online Research.md",
     "7. Misc/Images/ReconSpider.zip",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Web Crawlers",
     "2. Enumeration/TCP/135. Windows Management Instrumentation (WMI)",
@@ -225,8 +227,6 @@
     "2. Enumeration/TCP/512, 513, 514. R-Services",
     "2. Enumeration/TCP/873. RSync",
     "2. Enumeration/TCP/22. Secure Shell (SSH)/Tooling",
-    "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/Concepts/Vulnerabilities",
-    "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/Concepts",
     "7. Misc/Images/tooldev-dns.webp",
     "7. Misc/Images/etw.webp",
     "Untitled.canvas",

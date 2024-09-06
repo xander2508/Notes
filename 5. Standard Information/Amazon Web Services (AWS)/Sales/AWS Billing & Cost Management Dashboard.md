@@ -3,6 +3,7 @@ tags:
   - AWS
   - AmazonWebServices
   - Sales
+  - StandardInformation
 ---
 Use the [**AWS Billing & Cost Management dashboard**](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/billing-what-is.html) to pay your AWS bill, monitor your usage, and analyse and control your costs.
 

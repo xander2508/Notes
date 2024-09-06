@@ -2,6 +2,7 @@
 tags:
   - Networking
   - Protocols
+  - StandardInformation
 ---
 Open Systems Interconnection model
 

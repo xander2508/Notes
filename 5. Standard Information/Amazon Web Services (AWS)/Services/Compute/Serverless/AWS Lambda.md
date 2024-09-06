@@ -5,6 +5,7 @@ tags:
   - Services
   - Compute
   - Serverless
+  - StandardInformation
 ---
 
 [Resize Images on the Fly with Amazon S3, AWS Lambda, and Amazon API Gateway](https://aws.amazon.com/blogs/compute/resize-images-on-the-fly-with-amazon-s3-aws-lambda-and-amazon-api-gateway/)

@@ -6,6 +6,7 @@ tags:
   - Tooling
   - EventTracingforWindows
   - ETW
+  - StandardInformation
 ---
 ## Performance Monitor
 

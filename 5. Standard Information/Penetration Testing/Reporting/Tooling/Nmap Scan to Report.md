@@ -3,6 +3,7 @@ tags:
   - PenetrationTesting
   - Reporting
   - Tooling
+  - StandardInformation
 ---
 
 The [[1. Recon/Port Scanning/1. Overview]] XML output, can easily create HTML reports that are easy to read, even for non-technical people. This is later very useful for documentation, as it presents our results in a detailed and clear way. To convert the stored results from XML format to HTML, we can use the tool `xsltproc`.

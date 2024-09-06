@@ -4,6 +4,7 @@ tags:
   - Linux
   - Tooling
   - Default
+  - StandardInformation
 ---
 
 The `lsof` command is a powerful utility that lists all the files opened by a process, including network sockets and other file descriptors. 

@@ -5,6 +5,7 @@ tags:
   - UserManagement
   - IdentityAccessManagement
   - IAM
+  - StandardInformation
 ---
 An IAM group is a collection of users. All users in the group inherit the permissions assigned to the group. This makes it possible to give permissions to multiple users at once. It’s a more convenient and scalable way of managing permissions for users in your AWS account. This is why using IAM groups is a best practice.
 

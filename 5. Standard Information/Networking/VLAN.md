@@ -1,6 +1,7 @@
 ---
 tags:
   - Networking
+  - StandardInformation
 ---
 # Creating a VLAN 
 ## Linux 

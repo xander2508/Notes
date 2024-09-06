@@ -2,6 +2,7 @@
 tags:
   - PenetrationTesting
   - LawsAndRegulations
+  - StandardInformation
 ---
 The [Information Technology Act 2000](https://www.indiacode.nic.in/bitstream/123456789/13116/1/it_act_2000_updated.pdf) provides for legal recognition of transactions using electronic data interchange and other means of electronic communication. It also criminalizes hacking and other unauthorized access to computer systems and imposes penalties for such actions.
 

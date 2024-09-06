@@ -3,6 +3,7 @@ tags:
   - OperatingSystems
   - Windows
   - Tooling
+  - StandardInformation
 ---
 
 Rebranded to: [Overview - System Informer](https://systeminformer.sourceforge.io/)

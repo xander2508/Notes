@@ -3,6 +3,7 @@ tags:
   - OperatingSystems
   - Windows
   - Networking
+  - StandardInformation
 ---
 We can see all the hosts that have come into contact or might have had some prior communication with our target. We can use this information to begin mapping the network along each of the networking interfaces belonging to our target.
 

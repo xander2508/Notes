@@ -4,6 +4,7 @@ tags:
   - AmazonWebServices
   - Infrastructure
   - Networking
+  - StandardInformation
 ---
 
 [What Is AWS Direct Connect(opens in a new tab)](https://docs.aws.amazon.com/directconnect/latest/UserGuide/Welcome.html)?

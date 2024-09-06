@@ -4,6 +4,7 @@ tags:
   - Windows
   - EventLog
   - Tooling
+  - StandardInformation
 ---
 Use the GUI and XML filtering if possible
 

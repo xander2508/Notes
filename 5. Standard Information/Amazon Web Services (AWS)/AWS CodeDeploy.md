@@ -2,6 +2,7 @@
 tags:
   - AWS
   - AmazonWebServices
+  - StandardInformation
 ---
 AWS CodeDeploy is a service that coordinates application deployments across Amazon EC2 instances.18 AWS CodeDeploy works with your existing application files and deployment scripts, and it can easily reuse existing configuration management scripts. The service scales with your infrastructure so you can deploy to as few as one EC2 instance or thousands. 
 

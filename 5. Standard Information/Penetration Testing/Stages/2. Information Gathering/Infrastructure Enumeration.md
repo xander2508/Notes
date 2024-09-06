@@ -3,6 +3,7 @@ tags:
   - PenetrationTesting
   - Stages
   - InformationGathering
+  - StandardInformation
 ---
 During the infrastructure enumeration, we try to overview the company's position on the internet and intranet. For this, we use OSINT and the first active scans. We use services such as DNS to create a map of the client's servers and hosts and develop an understanding of how their `infrastructure` is structured. This includes name servers, mail servers, web servers, cloud instances, and more. We make an accurate list of hosts and their IP addresses and compare them to our scope to see if they are included and listed.
 

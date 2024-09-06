@@ -4,6 +4,7 @@ tags:
   - AmazonWebServices
   - Services
   - Security
+  - StandardInformation
 ---
 AWS Shield is a service that protects applications against DDoS attacks. AWS Shield provides two levels of protection: Standard and Advanced.
 

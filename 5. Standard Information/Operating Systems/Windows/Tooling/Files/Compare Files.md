@@ -4,6 +4,7 @@ tags:
   - Windows
   - Tooling
   - Files
+  - StandardInformation
 ---
 `Comp` will check each byte within two files looking for differences and then displays where they start. By default, the differences are shown in a decimal format. We can use the `/A` modifier if we want to see the differences in ASCII format. The `/L` modifier can also provide us with the line numbers.
 

@@ -3,6 +3,7 @@ tags:
   - OperatingSystems
   - Windows
   - Services
+  - StandardInformation
 ---
 [SC](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc754599(v=ws.11)) is a Windows executable utility that allows us to query, modify, and manage host services locally and over the network. Other tools, like [[Windows Management Instrumentation Command (WMIC)]] and [[Tasklist]] that can also query and manage services for local and remote hosts.
 

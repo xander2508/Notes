@@ -5,6 +5,7 @@ tags:
   - Services
   - Storage
   - FileStorage
+  - StandardInformation
 ---
 
 [Amazon FSx for NetApp ONTAP](https://aws.amazon.com/fsx/netapp-ontap/)

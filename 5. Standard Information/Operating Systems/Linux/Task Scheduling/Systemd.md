@@ -3,6 +3,7 @@ tags:
   - OperatingSystems
   - Linux
   - TaskScheduling
+  - StandardInformation
 ---
 Services are stored within the path: `/etc/systemd/system/`
 

@@ -3,6 +3,7 @@ tags:
   - AWS
   - AmazonWebServices
   - Services
+  - StandardInformation
 ---
 [AWS Command Line Interface](https://aws.amazon.com/cli/)
 

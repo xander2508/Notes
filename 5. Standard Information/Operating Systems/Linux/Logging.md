@@ -2,6 +2,7 @@
 tags:
   - OperatingSystems
   - Linux
+  - StandardInformation
 ---
 
 There are several different types of system logs on Linux, including:

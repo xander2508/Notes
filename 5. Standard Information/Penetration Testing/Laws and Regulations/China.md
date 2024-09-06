@@ -2,6 +2,7 @@
 tags:
   - PenetrationTesting
   - LawsAndRegulations
+  - StandardInformation
 ---
 The [Cyber Security Law](https://digichina.stanford.edu/work/translation-cybersecurity-law-of-the-peoples-republic-of-china-effective-june-1-2017/) establishes a legal framework for protecting critical information infrastructure and personal data and requires organizations to comply with certain security measures and report certain types of security incidents.
 

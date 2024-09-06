@@ -1,6 +1,7 @@
 ---
 tags:
   - Architecture
+  - StandardInformation
 ---
 Although containers are often referred to as a new technology, the idea started in the 1970s with certain UNIX kernels (the central core of the operating system) having the ability to separate their processes through isolation. At the time, this was configured manually, making operations complex.  
   

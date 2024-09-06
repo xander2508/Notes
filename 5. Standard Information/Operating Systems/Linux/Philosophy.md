@@ -2,6 +2,7 @@
 tags:
   - OperatingSystems
   - Linux
+  - StandardInformation
 ---
 
 Linux follows five core principles:

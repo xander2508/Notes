@@ -3,6 +3,7 @@ tags:
   - OperatingSystems
   - Linux
   - Groups
+  - StandardInformation
 ---
 
 # Guide

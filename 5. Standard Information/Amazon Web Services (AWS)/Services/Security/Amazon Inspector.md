@@ -4,6 +4,7 @@ tags:
   - AmazonWebServices
   - Services
   - Security
+  - StandardInformation
 ---
 To perform automated security assessments, they decide to use [**Amazon Inspector**](https://aws.amazon.com/inspector/).
 

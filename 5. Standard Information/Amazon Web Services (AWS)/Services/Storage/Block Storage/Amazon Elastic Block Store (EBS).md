@@ -5,6 +5,7 @@ tags:
   - Services
   - Storage
   - BlockStorage
+  - StandardInformation
 ---
 
 [Amazon Elastic Block Store (Amazon EBS)](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AmazonEBS.html)

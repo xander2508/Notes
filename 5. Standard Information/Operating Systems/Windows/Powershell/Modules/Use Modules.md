@@ -4,6 +4,7 @@ tags:
   - Windows
   - PowerShell
   - Modules
+  - StandardInformation
 ---
 ## Finding Loaded Modules
 `Get-Module` can help us determine what modules are already loaded. Allows you to list all loaded modules:

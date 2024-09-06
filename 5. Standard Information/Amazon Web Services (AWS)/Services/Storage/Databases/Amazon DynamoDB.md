@@ -5,6 +5,7 @@ tags:
   - Services
   - Storage
   - Databases
+  - StandardInformation
 ---
 
 [Amazon DynamoDB](https://aws.amazon.com/dynamodb/#)

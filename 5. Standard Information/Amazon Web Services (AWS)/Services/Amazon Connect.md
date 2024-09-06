@@ -3,6 +3,7 @@ tags:
   - AWS
   - AmazonWebServices
   - Services
+  - StandardInformation
 ---
 
 [Amazon Connect](https://aws.amazon.com/connect/)

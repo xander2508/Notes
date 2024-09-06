@@ -6,6 +6,7 @@ tags:
   - SecurityIdentifiers
   - RID
   - SID
+  - StandardInformation
 ---
 
 **Relative Identifiers (RID)** and **Security Identifiers (SID)** are key components in Windows operating systems for uniquely identifying and managing objects, such as users and groups, within a network domain.

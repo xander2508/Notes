@@ -3,6 +3,7 @@ tags:
   - OperatingSystems
   - Windows
   - FileSystems
+  - StandardInformation
 ---
 
 - What system information can we pull from our target host?

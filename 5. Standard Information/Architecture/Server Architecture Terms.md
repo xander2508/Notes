@@ -1,6 +1,7 @@
 ---
 tags:
   - Architecture
+  - StandardInformation
 ---
 
 # Microservices

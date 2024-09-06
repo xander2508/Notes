@@ -3,6 +3,7 @@ tags:
   - OperatingSystems
   - Windows
   - FileSystems
+  - StandardInformation
 ---
 NTFS (New Technology File System) is the default Windows file system since Windows NT 3.1. In addition to making up for the shortcomings of FAT32, NTFS also has better support for metadata and better performance due to improved data structuring.
 

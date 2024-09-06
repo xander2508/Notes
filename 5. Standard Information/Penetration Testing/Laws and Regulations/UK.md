@@ -2,6 +2,7 @@
 tags:
   - PenetrationTesting
   - LawsAndRegulations
+  - StandardInformation
 ---
 The [Computer Misuse Act 1990](https://www.legislation.gov.uk/ukpga/1990/18/contents) was introduced to address malicious computer usage. It is a criminal offense to access a computer system without authorization, modify data without permission, or misuse computers to commit fraud or other unlawful activities. The Act also allows for confiscating computers and other devices used to commission a computer misuse offense and encourages reporting computer misuse incidents to law enforcement authorities. It also provides for the implementation of various measures to help prevent computer misuse, including establishing a special law enforcement team and implementing appropriate security measures.
 

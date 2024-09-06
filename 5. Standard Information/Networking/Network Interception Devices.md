@@ -1,6 +1,7 @@
 ---
 tags:
   - Networking
+  - StandardInformation
 ---
 
 | `Network Taps`          | Taps ([Gigamon](https://www.gigamon.com/), [Niagra-taps](https://www.niagaranetworks.com/products/network-tap)) are devices capable of taking copies of network traffic and sending them to another place for analysis. These can be in-line or out of band. They can actively capture and analyze the traffic directly or passively by putting the original packet back on the wire as if nothing had changed. |

@@ -2,6 +2,7 @@
 tags:
   - OperatingSystems
   - Linux
+  - StandardInformation
 ---
 
 The Linux operating system can be broken down into layers:

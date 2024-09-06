@@ -3,6 +3,7 @@ tags:
   - AWS
   - AmazonWebServices
   - Services
+  - StandardInformation
 ---
 
 [Amazon EC2 Auto Scaling](https://aws.amazon.com/ec2/autoscaling/)

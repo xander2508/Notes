@@ -2,6 +2,7 @@
 tags:
   - PenetrationTesting
   - Reporting
+  - StandardInformation
 ---
 ## Common Vulnerabilities and Exposures (CVE)
 

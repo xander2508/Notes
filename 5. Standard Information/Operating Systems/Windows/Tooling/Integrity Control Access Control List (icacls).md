@@ -3,6 +3,7 @@ tags:
   - OperatingSystems
   - Windows
   - Tooling
+  - StandardInformation
 ---
 NTFS permissions on files and folders in Windows can be managed using the File Explorer GUI under the security tab. Apart from the GUI, we can also achieve a fine level of granularity over NTFS file permissions in Windows from the command line using the icacls utility.
 

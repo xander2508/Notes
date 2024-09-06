@@ -5,6 +5,7 @@ tags:
   - Services
   - Storage
   - Databases
+  - StandardInformation
 ---
 [**AWS Database Migration Service (AWS DMS)**](https://aws.amazon.com/dms/) enables you to migrate relational databases, nonrelational databases, and other types of data stores.
 

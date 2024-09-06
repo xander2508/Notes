@@ -3,6 +3,7 @@ tags:
   - AWS
   - AmazonWebServices
   - Infrastructure
+  - StandardInformation
 ---
 [Global Infrastructure](https://aws.amazon.com/about-aws/global-infrastructure/)
 [Regions and Availability Zones](https://aws.amazon.com/about-aws/global-infrastructure/regions_az/)

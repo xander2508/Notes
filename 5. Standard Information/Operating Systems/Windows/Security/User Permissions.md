@@ -3,6 +3,7 @@ tags:
   - OperatingSystems
   - Windows
   - Security
+  - StandardInformation
 ---
 See [[Users and Groups]]
 

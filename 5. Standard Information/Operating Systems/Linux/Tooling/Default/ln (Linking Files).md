@@ -4,6 +4,7 @@ tags:
   - Linux
   - Tooling
   - Default
+  - StandardInformation
 ---
 
 `ln -s /etc/passwd .cache`

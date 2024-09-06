@@ -3,6 +3,7 @@ tags:
   - OperatingSystems
   - Windows
   - EventLog
+  - StandardInformation
 ---
 An `event` is any action or occurrence that can be identified and classified by a system's hardware or software.
 

@@ -3,6 +3,7 @@ tags:
   - OperatingSystems
   - Windows
   - FileSystems
+  - StandardInformation
 ---
 FAT32 (File Allocation Table) is widely used across many types of storage devices such as USB memory sticks and SD cards but can also be used to format hard drives. The "32" in the name refers to the fact that FAT32 uses 32 bits of data for identifying data clusters on a storage device.
 

@@ -6,6 +6,7 @@ tags:
   - Tooling
   - EventTracingforWindows
   - ETW
+  - StandardInformation
 ---
 [GitHub - mandiant/SilkETW](https://github.com/mandiant/SilkETW)
 

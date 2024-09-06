@@ -4,6 +4,7 @@ tags:
   - Windows
   - Tooling
   - Files
+  - StandardInformation
 ---
 With `Sort`, we can receive input from the console, pipeline, or a file, sort it and send the results to the console or into a file or another command. It is relatively simple to use and often will be used in conjunction with pipeline operators such as `|`, `<`, and `>`. We can give it a try now by feeding the contents of the `file` file to sort.
 

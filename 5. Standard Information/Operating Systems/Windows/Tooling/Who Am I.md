@@ -3,6 +3,7 @@ tags:
   - OperatingSystems
   - Windows
   - Tooling
+  - StandardInformation
 ---
 Returns all the information regarding the current user:
 

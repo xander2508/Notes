@@ -2,6 +2,7 @@
 tags:
   - AWS
   - AmazonWebServices
+  - StandardInformation
 ---
 Depending on the AWS service that you use, your resources are either deployed at the [[Availability Zones|Availability Zone]], [[Regions|Region]], or Global level. Each service is different, so you must understand how the scope of a service might affect your application architecture.  
   

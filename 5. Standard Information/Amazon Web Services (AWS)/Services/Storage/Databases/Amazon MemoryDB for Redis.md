@@ -5,6 +5,7 @@ tags:
   - Services
   - Storage
   - Databases
+  - StandardInformation
 ---
 MemoryDB is a Redis-compatible, durable, in-memory database service that delivers ultra-fast performance. 
 

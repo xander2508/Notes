@@ -2,6 +2,7 @@
 tags:
   - OperatingSystems
   - Windows
+  - StandardInformation
 ---
 Similar to [[CRON Jobs]]
 

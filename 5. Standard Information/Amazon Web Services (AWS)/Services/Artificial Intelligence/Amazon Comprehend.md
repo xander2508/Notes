@@ -4,5 +4,6 @@ tags:
   - AmazonWebServices
   - Services
   - ArtificialIntelligence
+  - StandardInformation
 ---
 Discover patterns in text

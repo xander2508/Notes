@@ -3,6 +3,7 @@ tags:
   - AWS
   - AmazonWebServices
   - Services
+  - StandardInformation
 ---
 [Amazon CloudFront](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html)
 [Amazon CloudFront Key Features](https://aws.amazon.com/cloudfront/features/?whats-new-cloudfront.sort-by=item.additionalFields.postDateTime&whats-new-cloudfront.sort-order=desc)

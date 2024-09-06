@@ -1,6 +1,7 @@
 ---
 tags:
   - Networking
+  - StandardInformation
 ---
 
 NAC is a security system that ensures that only authorized and compliant devices are granted access to the network, preventing unauthorized access, data breaches, and other security threats.

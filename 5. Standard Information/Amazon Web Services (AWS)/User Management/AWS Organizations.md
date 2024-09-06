@@ -3,6 +3,7 @@ tags:
   - AWS
   - AmazonWebServices
   - UserManagement
+  - StandardInformation
 ---
   
 Suppose that your company has multiple AWS accounts. You can use [**AWS Organizations**](https://aws.amazon.com/organizations) to consolidate and manage multiple AWS accounts within a central location.

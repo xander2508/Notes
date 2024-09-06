@@ -3,6 +3,7 @@ tags:
   - OperatingSystems
   - Windows
   - Networking
+  - StandardInformation
 ---
 
 View all interfaces:

@@ -3,6 +3,7 @@ tags:
   - AWS
   - AmazonWebServices
   - Sales
+  - StandardInformation
 ---
 Cloud economics focuses on two areas that are different from each other but also have much in common: business value and cloud financial management.
 

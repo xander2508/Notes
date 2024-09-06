@@ -2,6 +2,7 @@
 tags:
   - OperatingSystems
   - Windows
+  - StandardInformation
 ---
 Every named object in Windows is a [securable object](https://docs.microsoft.com/en-us/windows/win32/secauthz/securable-objects), and even some unnamed objects are securable. 
 

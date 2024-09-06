@@ -5,6 +5,7 @@ tags:
   - Services
   - Compute
   - VirtualMachines
+  - StandardInformation
 ---
 [Amazon EC2](https://aws.amazon.com/ec2/)
 [What Is EC2 Image Builder?](https://docs.aws.amazon.com/imagebuilder/latest/userguide/what-is-image-builder.html)

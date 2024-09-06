@@ -3,6 +3,7 @@ tags:
   - OperatingSystems
   - Windows
   - EventLog
+  - StandardInformation
 ---
 Find below an indicative (non-exhaustive) list of useful Windows event logs.
 1. **Interesting Logs** 

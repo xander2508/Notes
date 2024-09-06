@@ -5,6 +5,7 @@ tags:
   - Services
   - Storage
   - ObjectStorage
+  - StandardInformation
 ---
 
 [Amazon S3](https://aws.amazon.com/s3/)

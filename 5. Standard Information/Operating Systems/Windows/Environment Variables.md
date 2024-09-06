@@ -2,6 +2,7 @@
 tags:
   - OperatingSystems
   - Windows
+  - StandardInformation
 ---
 Environment variables are settings that are often applied globally to our hosts. On a Windows host, environment variables are `not` case sensitive and can have spaces and numbers in the name. The only real catch we will find is that they cannot have a name that starts with a number or include an equal sign. When referenced, we will see these variables called like so:
 

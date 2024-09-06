@@ -3,6 +3,7 @@ tags:
   - OperatingSystems
   - Windows
   - Registry
+  - StandardInformation
 ---
 There are also so-called registry hives, which contain a logical group of keys, subkeys, and values to support software and files loaded into memory when the operating system is started or a user logs in. These hives are useful for maintaining access to the system. These are called [Run and RunOnce registry keys](https://docs.microsoft.com/en-us/windows/win32/setupapi/run-and-runonce-registry-keys).
 

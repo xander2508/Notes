@@ -5,6 +5,7 @@ tags:
   - Services
   - Storage
   - Databases
+  - StandardInformation
 ---
 Timestream is a fast, scalable, and serverless time series database service for Internet of Things (IoT) and operational applications. 
 

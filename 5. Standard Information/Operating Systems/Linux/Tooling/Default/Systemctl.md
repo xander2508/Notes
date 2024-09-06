@@ -4,6 +4,7 @@ tags:
   - Linux
   - Tooling
   - Default
+  - StandardInformation
 ---
 
 To check the status of a running service:

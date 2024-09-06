@@ -4,6 +4,7 @@ tags:
   - AmazonWebServices
   - Services
   - Security
+  - StandardInformation
 ---
 [**AWS WAF**](https://aws.amazon.com/waf) is a web application firewall that lets you monitor network requests that come into your web applications. 
 

@@ -4,6 +4,7 @@ tags:
   - Windows
   - PowerShell
   - Modules
+  - StandardInformation
 ---
 ### Module Manifest
 

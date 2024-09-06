@@ -2,6 +2,7 @@
 tags:
   - OperatingSystems
   - Windows
+  - StandardInformation
 ---
 
 Windows operating systems function in two main modes:

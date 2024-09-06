@@ -3,6 +3,7 @@ tags:
   - PenetrationTesting
   - Stages
   - Pre-Engagement
+  - StandardInformation
 ---
 
 | **Checkpoint**                            | **Contents**                                                                                          |

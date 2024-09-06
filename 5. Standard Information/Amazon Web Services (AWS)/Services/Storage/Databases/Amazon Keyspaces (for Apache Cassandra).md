@@ -5,6 +5,7 @@ tags:
   - Services
   - Storage
   - Databases
+  - StandardInformation
 ---
 Amazon Keyspaces is a scalable, highly available, and managed Apache Cassandra compatible database service.
 

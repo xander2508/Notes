@@ -4,6 +4,7 @@ tags:
   - AmazonWebServices
   - Infrastructure
   - Networking
+  - StandardInformation
 ---
 [How Amazon VPC Works](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Subnets.html)
 [What Is Amazon VPC?](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)

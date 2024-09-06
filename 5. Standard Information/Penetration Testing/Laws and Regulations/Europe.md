@@ -2,6 +2,7 @@
 tags:
   - PenetrationTesting
   - LawsAndRegulations
+  - StandardInformation
 ---
 The [General Data Protection Regulation](https://gdpr-info.eu/) (`GDPR`) regulates the handling of personal data, strengthens individuals' rights over personal data, and imposes penalties of up to 4% of global annual revenue or 20 million euros, whichever is higher for non-compliance. Security researchers should be aware of these provisions and ensure that their research does not run afoul of GDPR. It's important to note that GDPR applies to any company that processes the personal data of EU citizens, regardless of the company's location.
 

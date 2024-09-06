@@ -5,6 +5,7 @@ tags:
   - UserManagement
   - IdentityAccessManagement
   - IAM
+  - StandardInformation
 ---
 To manage access and provide permissions to AWS services and resources, you create IAM policies and attach them to an IAM identity. IAM identity are [[IAM User]], [[IAM Groups]] or [[IAM Roles]].
 

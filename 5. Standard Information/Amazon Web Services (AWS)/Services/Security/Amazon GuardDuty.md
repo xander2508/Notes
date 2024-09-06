@@ -4,6 +4,7 @@ tags:
   - AmazonWebServices
   - Services
   - Security
+  - StandardInformation
 ---
 [**Amazon GuardDuty**](https://aws.amazon.com/guardduty) is a service that provides intelligent threat detection for your AWS infrastructure and resources. It identifies threats by continuously monitoring the network activity and account behaviour within your AWS environment.
 

@@ -3,6 +3,7 @@ tags:
   - OperatingSystems
   - Windows
   - Services
+  - StandardInformation
 ---
 [Net start](https://ss64.com/nt/net-service.html) is a very simple command that will allow us to quickly list all of the current running services on a system. In addition to `net start`, there is also `net stop`, `net pause`, and `net continue`. These will behave very similarly to `sc` as we can provide the name of the service afterward and be able to perform the actions specified in the command against the service that we provide.
 

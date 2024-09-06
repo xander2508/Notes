@@ -3,6 +3,7 @@ tags:
   - AWS
   - AmazonWebServices
   - Sales
+  - StandardInformation
 ---
 1. Pay for what you use
 2. Pay less when you reserve

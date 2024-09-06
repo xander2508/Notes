@@ -4,6 +4,7 @@ tags:
   - Windows
   - Tooling
   - Files
+  - StandardInformation
 ---
 
 ```

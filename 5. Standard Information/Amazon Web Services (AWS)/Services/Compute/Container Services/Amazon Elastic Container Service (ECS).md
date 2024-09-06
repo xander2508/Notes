@@ -5,6 +5,7 @@ tags:
   - Services
   - Compute
   - ContainerServices
+  - StandardInformation
 ---
 
 [Containers on AWS](https://aws.amazon.com/containers/services/)

@@ -2,6 +2,7 @@
 tags:
   - Security
   - DetectionRules
+  - StandardInformation
 ---
 `YARA (Yet Another Recursive Acronym)`, a widely used open-source pattern matching tool and rule-based malware detection and classification framework let's us create custom rules to spot specific patterns or characteristics in files, processes, or memory. To draft a `YARA` rule for our sample, we'll need to examine the behaviour, features, or specific strings/patterns unique to the sample we aim to detect.
 

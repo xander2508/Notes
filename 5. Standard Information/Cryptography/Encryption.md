@@ -1,6 +1,7 @@
 ---
 tags:
   - Cryptography
+  - StandardInformation
 ---
 #### Symmetric Encryption
 

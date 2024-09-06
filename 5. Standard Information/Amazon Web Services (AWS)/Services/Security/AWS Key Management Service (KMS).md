@@ -4,6 +4,7 @@ tags:
   - AmazonWebServices
   - Services
   - Security
+  - StandardInformation
 ---
 [**AWS Key Management Service (AWS KMS)**](https://aws.amazon.com/kms) enables you to perform encryption operations through the use of **cryptographic keys**.
 

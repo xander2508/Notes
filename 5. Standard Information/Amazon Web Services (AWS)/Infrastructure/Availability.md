@@ -3,6 +3,7 @@ tags:
   - AWS
   - AmazonWebServices
   - Infrastructure
+  - StandardInformation
 ---
 
 [High availability and scalability on AWS](https://docs.aws.amazon.com/whitepapers/latest/real-time-communication-on-aws/high-availability-and-scalability-on-aws.html)

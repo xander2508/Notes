@@ -6,6 +6,7 @@ tags:
   - Tooling
   - EventTracingforWindows
   - ETW
+  - StandardInformation
 ---
 `Logman` is a pre-installed utility for managing Event Tracing for Windows (ETW) and Event Tracing Sessions.
 

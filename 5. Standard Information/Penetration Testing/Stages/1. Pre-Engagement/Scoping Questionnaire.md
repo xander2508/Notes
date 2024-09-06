@@ -3,6 +3,7 @@ tags:
   - PenetrationTesting
   - Stages
   - Pre-Engagement
+  - StandardInformation
 ---
 After initial contact is made with the client, we typically send them a `Scoping Questionnaire` to better understand the services they are seeking. This scoping questionnaire should clearly explain our services and may typically ask them to choose one or more from the following list:
 

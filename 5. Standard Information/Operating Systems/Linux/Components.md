@@ -2,6 +2,7 @@
 tags:
   - OperatingSystems
   - Linux
+  - StandardInformation
 ---
 
 | **Component**     | **Description**                                                                                                                                                                                                                                                                                                                                 |

@@ -5,6 +5,7 @@ tags:
   - UserManagement
   - IdentityAccessManagement
   - IAM
+  - StandardInformation
 ---
 An IAM user represents a person or service that interacts with AWS. You define the user in your AWS account. Any activity done by that user is billed to your account. When you create a user, that user can sign in to gain access to the AWS resources inside your account.
 

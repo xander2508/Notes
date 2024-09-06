@@ -5,6 +5,7 @@ tags:
   - Services
   - Storage
   - Databases
+  - StandardInformation
 ---
 Amazon DocumentDB is a fully managed document database from AWS. 
 

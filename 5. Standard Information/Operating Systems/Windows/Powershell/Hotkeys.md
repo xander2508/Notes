@@ -3,6 +3,7 @@ tags:
   - OperatingSystems
   - Windows
   - PowerShell
+  - StandardInformation
 ---
 
 | **HotKey**         | **Description**                                                                                                                                     |

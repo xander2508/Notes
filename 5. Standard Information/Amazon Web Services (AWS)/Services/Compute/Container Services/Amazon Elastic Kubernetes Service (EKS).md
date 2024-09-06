@@ -5,6 +5,7 @@ tags:
   - Services
   - Compute
   - ContainerServices
+  - StandardInformation
 ---
 
 [Amazon Elastic Kubernetes Service (EKS)](https://aws.amazon.com/eks/)

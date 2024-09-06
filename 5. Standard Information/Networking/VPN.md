@@ -1,6 +1,7 @@
 ---
 tags:
   - Networking
+  - StandardInformation
 ---
 A `Virtual Private Network` (`VPN`) is a technology that allows a secure and encrypted connection between a private network and a remote device.
 

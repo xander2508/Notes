@@ -2,6 +2,7 @@
 tags:
   - OperatingSystems
   - Windows
+  - StandardInformation
 ---
 | Operating System Names               | Version Number |
 | ------------------------------------ | -------------- |

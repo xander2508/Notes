@@ -5,6 +5,7 @@ tags:
   - UserManagement
   - IdentityAccessManagement
   - IAM
+  - StandardInformation
 ---
 An IAM role is an identity that can be assumed by someone or something who needs temporary access to AWS credentials.
 

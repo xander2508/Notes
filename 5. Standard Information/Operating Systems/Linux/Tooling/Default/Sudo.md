@@ -4,6 +4,7 @@ tags:
   - Linux
   - Tooling
   - Default
+  - StandardInformation
 ---
 
 # See Permissions

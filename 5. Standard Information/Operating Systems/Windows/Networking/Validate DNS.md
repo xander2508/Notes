@@ -3,6 +3,7 @@ tags:
   - OperatingSystems
   - Windows
   - Networking
+  - StandardInformation
 ---
 [[nslookup]] a built-in DNS querying tool, to attempt to resolve the IP address / DNS name
 

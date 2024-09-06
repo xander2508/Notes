@@ -3,6 +3,7 @@ tags:
   - PenetrationTesting
   - Stages
   - InformationGathering
+  - StandardInformation
 ---
 Once we have a detailed list of the customer's infrastructure, we examine every single host listed in the scoping document. We try to identify which `operating system` is running on the host or server, which `services` it uses, which `versions` of the services, and much more. Again, apart from the active scans, we can also use various OSINT methods to tell us how this host or server may be configured.
 

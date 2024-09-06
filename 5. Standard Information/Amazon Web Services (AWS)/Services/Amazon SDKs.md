@@ -3,6 +3,7 @@ tags:
   - AWS
   - AmazonWebServices
   - Services
+  - StandardInformation
 ---
 [Amazon SDKs](https://aws.amazon.com/developer/tools/)
 

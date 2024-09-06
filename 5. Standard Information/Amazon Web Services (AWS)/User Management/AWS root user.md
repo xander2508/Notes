@@ -3,6 +3,7 @@ tags:
   - AWS
   - AmazonWebServices
   - UserManagement
+  - StandardInformation
 ---
 When you first create an AWS account, you begin with a single sign-in identity that has complete access to all AWS services and resources in the account. This identity is called the AWS root user and is accessed by signing in with the email address and password that were used to create the account.
 

@@ -5,6 +5,7 @@ tags:
   - Services
   - Storage
   - FileStorage
+  - StandardInformation
 ---
 
 [Amazon EFS](https://aws.amazon.com/efs/)

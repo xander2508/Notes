@@ -3,6 +3,7 @@ tags:
   - OperatingSystems
   - Windows
   - Services
+  - StandardInformation
 ---
 
 ```powershell-session

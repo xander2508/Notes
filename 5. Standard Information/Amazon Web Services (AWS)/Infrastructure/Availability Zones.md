@@ -3,6 +3,7 @@ tags:
   - AWS
   - AmazonWebServices
   - Infrastructure
+  - StandardInformation
 ---
 An Availability Zone consists of one or more data centres with redundant power, networking, and connectivity. These data centres operate in discrete facilities in undisclosed locations. They are connected using redundant high-speed and low-latency links.
 

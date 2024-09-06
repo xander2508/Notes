@@ -3,6 +3,7 @@ tags:
   - AWS
   - AmazonWebServices
   - Sales
+  - StandardInformation
 ---
   
 The [AWS Free Tier](https://aws.amazon.com/free/) enables you to begin using certain services without having to worry about incurring costs for the specified period. 

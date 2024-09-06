@@ -5,6 +5,7 @@ tags:
   - Services
   - Storage
   - BlockStorage
+  - StandardInformation
 ---
 
 [Amazon EC2 Instance Store](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/InstanceStorage.html)

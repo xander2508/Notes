@@ -4,6 +4,7 @@ tags:
   - AmazonWebServices
   - Services
   - Security
+  - StandardInformation
 ---
 Amazon Macie is a data security service that uses machine learning (ML) and pattern matching to discover and help protect your sensitive data.
 

@@ -3,6 +3,7 @@ tags:
   - AWS
   - AmazonWebServices
   - UserManagement
+  - StandardInformation
 ---
 [Enabling a Hardware TOTP token (Console)(opens in a new tab)](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa_enable_physical.html)
 [Enabling a FIDO Security Key (Console)(opens in a new tab)](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa_enable_fido.html)

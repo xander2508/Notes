@@ -3,6 +3,7 @@ tags:
   - AWS
   - AmazonWebServices
   - Sales
+  - StandardInformation
 ---
 This body of knowledge brings together years of AWS Solutions Architects’ experience, across a wide variety of business verticals and use cases.
 

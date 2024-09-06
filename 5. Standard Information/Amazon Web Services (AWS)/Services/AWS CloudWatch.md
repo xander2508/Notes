@@ -3,6 +3,7 @@ tags:
   - AWS
   - AmazonWebServices
   - Services
+  - StandardInformation
 ---
 
 [Amazon CloudWatch Pricing](https://aws.amazon.com/cloudwatch/pricing/)

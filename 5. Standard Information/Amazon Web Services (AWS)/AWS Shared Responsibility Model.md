@@ -2,6 +2,7 @@
 tags:
   - AWS
   - AmazonWebServices
+  - StandardInformation
 ---
 [Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/)
 The distinction of responsibility is commonly referred to as security **_of_** the cloud as compared to security _**in**_ the cloud.

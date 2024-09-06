@@ -4,6 +4,7 @@ tags:
   - AmazonWebServices
   - Services
   - Deployment
+  - StandardInformation
 ---
 AWS CodePipeline AWS CodePipeline is a continuous delivery and release automation service for rapidly releasing new features to users. 
 
