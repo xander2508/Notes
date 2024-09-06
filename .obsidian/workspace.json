@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Concepts/Information/Robots.txt.md",
+                "file": "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Concepts/Information/Well-Known URIs.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Concepts/Information/Robots.txt.md",
+                "file": "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Concepts/Information/Well-Known URIs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Concepts/Information/Robots.txt.md",
+                "file": "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Concepts/Information/Well-Known URIs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Concepts/Information/Robots.txt.md"
+                "file": "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Concepts/Information/Well-Known URIs.md"
               }
             }
           },
@@ -190,8 +190,11 @@
   },
   "active": "d021ab0edfc5266c",
   "lastOpenFiles": [
-    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/WhatWeb.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Concepts/Information/Robots.txt.md",
+    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Concepts/Information/Well-Known URIs.md",
+    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Concepts/Information/HTTP Versions.md",
+    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Concepts/Information/Response Codes.md",
+    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/WhatWeb.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/DroopeScan.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Intercept and Analysis/Burp.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Fuzzing/GoBuster.md",
@@ -213,9 +216,6 @@
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/DnsEnum.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Domain Glass (WHOIS).md",
     "5. Standard Information/Operating Systems/Windows/Networking/Validate DNS.md",
-    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Domain Information Groper (Dig).md",
-    "2. Enumeration/TCP/143. Internet Message Access Protocol (IMAP)/1. Guide.md",
-    "1. Recon/Open Source Intelligence (OSINT)/Tooling/theHarvester.md",
     "2. Enumeration/TCP/135. Windows Management Instrumentation (WMI)",
     "2. Enumeration/TCP/5985, 5986. Windows Remote Management (WinRM)",
     "2. Enumeration/TCP/512, 513, 514. R-Services",
