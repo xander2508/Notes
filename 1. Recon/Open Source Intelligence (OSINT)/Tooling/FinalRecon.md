@@ -45,6 +45,10 @@ chmod +x ./finalrecon.py
 
 ## Usage 
 
+```shell-session
+./finalrecon.py --headers --whois --url http://inlanefreight.com
+```
+
 | Option         | Argument | Description                                         |
 | -------------- | -------- | --------------------------------------------------- |
 | `-h`, `--help` |          | Show the help message and exit.                     |
