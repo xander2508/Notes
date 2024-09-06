@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Concepts/Information/Well-Known URIs.md",
+                "file": "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Web Crawlers/Scrapy.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Concepts/Information/Well-Known URIs.md",
+                "file": "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Web Crawlers/Scrapy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Concepts/Information/Well-Known URIs.md",
+                "file": "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Web Crawlers/Scrapy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Concepts/Information/Well-Known URIs.md"
+                "file": "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Web Crawlers/Scrapy.md"
               }
             }
           },
@@ -190,14 +190,21 @@
   },
   "active": "d021ab0edfc5266c",
   "lastOpenFiles": [
-    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Concepts/Information/Website JavaScript.md",
+    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Web Crawlers/Burp Suite.md",
+    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Web Crawlers/Scrapy.md",
+    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Web Crawlers/Popular Web Crawlers.md",
+    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Web Crawlers/OWASP Zed Attack Proxy (ZAP).md",
+    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Web Crawlers/Apache Nutch.md",
+    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Intercept and Analysis/Burp Suite.md",
+    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/CEWL.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Concepts/Information/Well-Known URIs.md",
+    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Web Crawlers",
+    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Concepts/Information/Website JavaScript.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Concepts/Information/Robots.txt.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Concepts/Information/HTTP Versions.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Concepts/Information/Response Codes.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/WhatWeb.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/DroopeScan.md",
-    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Intercept and Analysis/Burp.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Fuzzing/GoBuster.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Fuzzing/Nikto.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Fuzzing/wFuzz.md",
@@ -210,12 +217,6 @@
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/1. Wordlist Guide.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Fuzzing/ffuf.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Fuzzing/DirSearch.md",
-    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Fuzzing/DirBuster.md",
-    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Fuzzing/FeroxBuster.md",
-    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/2. Specification.md",
-    "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
-    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/DnsEnum.md",
-    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Domain Glass (WHOIS).md",
     "2. Enumeration/TCP/135. Windows Management Instrumentation (WMI)",
     "2. Enumeration/TCP/5985, 5986. Windows Remote Management (WinRM)",
     "2. Enumeration/TCP/512, 513, 514. R-Services",
@@ -225,7 +226,6 @@
     "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)/Concepts",
     "2. Enumeration/UDP/623. Intelligent Platform Management Interface (IPMI)",
     "2. Enumeration/TCP/1521. Oracle Transparent Network Substrate (TNS)/Tooling",
-    "2. Enumeration/TCP/1433. MSSQL",
     "7. Misc/Images/tooldev-dns.webp",
     "7. Misc/Images/etw.webp",
     "Untitled.canvas",

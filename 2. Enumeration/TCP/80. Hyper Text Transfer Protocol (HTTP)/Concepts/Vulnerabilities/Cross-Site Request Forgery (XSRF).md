@@ -30,7 +30,7 @@ Though there should be measures on the back end to detect and filter user input,
 
 # Bypass
 
-1. [[Burp]] can be used to bypass CRSF
+1. [[2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Intercept and Analysis/Burp Suite]] can be used to bypass CRSF
 2. Manual script:
 
 ```

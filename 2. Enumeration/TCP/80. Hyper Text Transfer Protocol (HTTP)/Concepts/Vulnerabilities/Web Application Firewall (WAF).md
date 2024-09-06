@@ -9,7 +9,7 @@ tags:
 ---
 If requests to pages or parameters changes based on what is sent, maybe there is a WAF blocking certain requests. Attempt to send " " or "", then "echo" etc
 
-1. Burp can bypass WAF, see [[Burp#WAF Bypass]]
+1. Burp can bypass WAF, see [[2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Intercept and Analysis/Burp Suite#WAF Bypass]]
 2. Get the server to make the requests on your behalf
 	* [[XML#XML External Entity XXE Injection]]
 	* [[Command Line Restrictions#Bypass Through Escalation]]
