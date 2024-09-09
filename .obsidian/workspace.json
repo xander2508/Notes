@@ -11,8 +11,12 @@
             "id": "1033f8c8bec1ca80",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Windows/Enabling WinRM.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -91,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Windows/Enabling WinRM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Windows/Enabling WinRM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Windows/Enabling WinRM.md"
+              }
             }
           },
           {
@@ -180,8 +188,15 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "744b9316b7030f7b",
+  "active": "1033f8c8bec1ca80",
   "lastOpenFiles": [
+    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Windows/Inline File Transfer.md",
+    "2. Enumeration/TCP/22. Secure Shell (SSH)/Concepts/Setting Up SSH.md",
+    "2. Enumeration/TCP/22. Secure Shell (SSH)/Applications/OpenSSH.md",
+    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/1. Guide.md",
+    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Downloading Files.md",
+    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Webservers.md",
+    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Windows/PowerShell.md",
     "5. Standard Information/Penetration Testing/Reporting/1. Overview.md",
     "1. Recon/Vulnerability Scanning/2. Methodology.md",
     "1. Recon/Vulnerability Scanning/1. Overview.md",
@@ -205,14 +220,7 @@
     "5. Standard Information/Architecture/Asset Management.md",
     "5. Standard Information/Networking/Standard Terminology.md",
     "7. Misc/Images/Pasted image 20240906140738.png",
-    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Web Crawlers/Scrapy.md",
     "5. Standard Information/Penetration Testing/Vulnerability Assessment",
-    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Web Crawlers/OWASP Zed Attack Proxy (ZAP).md",
-    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/WhatWeb.md",
-    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/wGet.md",
-    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Wafw00f.md",
-    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Invoke-Webrequest.md",
-    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Web Crawlers/Apache Nutch.md",
     "7. Misc/Images/ReconSpider.zip",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Web Crawlers",
     "2. Enumeration/TCP/135. Windows Management Instrumentation (WMI)",

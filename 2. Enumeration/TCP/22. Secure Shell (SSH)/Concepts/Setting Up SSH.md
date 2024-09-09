@@ -1,8 +1,10 @@
 ---
 tags:
-  - Post-Exploitation
-  - DataTransfer
-  - Windows
+  - Enumeration
+  - TCP
+  - SSH
+  - SecureShell
+  - Concepts
 ---
 
 We can set up an SSH server on a Windows target using the [Add-WindowsCapability](https://docs.microsoft.com/en-us/powershell/module/dism/add-windowscapability?view=windowsserver2022-ps) cmdlet and confirm that it is successfully installed using the [Get-WindowsCapability](https://docs.microsoft.com/en-us/powershell/module/dism/get-windowscapability?view=windowsserver2022-ps) cmdlet.
