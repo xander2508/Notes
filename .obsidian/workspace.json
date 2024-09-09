@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tooling/SCP (SSH).md",
+                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Webservers.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "winrm",
+                "query": "crt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tooling/SCP (SSH).md",
+                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Webservers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tooling/SCP (SSH).md",
+                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Webservers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tooling/SCP (SSH).md"
+                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Webservers.md"
               }
             }
           },
@@ -189,6 +189,12 @@
   },
   "active": "1033f8c8bec1ca80",
   "lastOpenFiles": [
+    "3. Exploitation/File Types and Data/CRT (Certificate Files).md",
+    "2. Enumeration/TCP/1433. MSSQL/2. Information.md",
+    "2. Enumeration/TCP/22. Secure Shell (SSH)/Tooling/SCP.md",
+    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/2. Specification.md",
+    "2. Enumeration/TCP/22. Secure Shell (SSH)/Concepts/Setting Up SSH.md",
+    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tooling/SCP (SSH).md",
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Linux/Default Commands.md",
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Webservers.md",
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/1. Guide.md",
@@ -200,7 +206,6 @@
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/DNS Tunnelling.md",
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tooling/Base64 Exfiltration.md",
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tooling/File Transfer Protocol (FTP).md",
-    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tooling/SCP (SSH).md",
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tooling/InterPlanetary File System.md",
     "3. Exploitation/File Types and Data/Base64.md",
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Linux",
@@ -211,12 +216,7 @@
     "3. Exploitation/Obtaining Remote Shells/Specific Shells/Netcat.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Concepts/Vulnerabilities/File include (LFI) (RFI).md",
     "3. Exploitation/Operating Systems/Windows/Tooling/Impacket.md",
-    "3. Exploitation/Obtaining Remote Shells/1. Guide.md",
-    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Downloading Files.md",
-    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Windows/1. Guide.md",
-    "2. Enumeration/TCP/5985, 5986. Windows Remote Management (WinRM)/1. Guide.md",
     "2. Enumeration/TCP/5985, 5986. Windows Remote Management (WinRM)/Concepts",
-    "2. Enumeration/TCP/5985, 5986. Windows Remote Management (WinRM)/Concepts/Enabling WinRM.md",
     "7. Misc/Images/openvas_report.webp",
     "1. Recon/Vulnerability Scanning/Tooling",
     "1. Recon/Vulnerability Scanning",

@@ -7,6 +7,8 @@ tags:
   - Concepts
 ---
 
+## Windows 
+
 We can set up an SSH server on a Windows target using the [Add-WindowsCapability](https://docs.microsoft.com/en-us/powershell/module/dism/add-windowscapability?view=windowsserver2022-ps) cmdlet and confirm that it is successfully installed using the [Get-WindowsCapability](https://docs.microsoft.com/en-us/powershell/module/dism/get-windowscapability?view=windowsserver2022-ps) cmdlet.
 
 Install [[OpenSSH]]:
@@ -31,4 +33,21 @@ Start-Service sshd
 
 ```powershell-session
 Set-Service -Name sshd -StartupType 'Automatic'  
+```
+
+
+## Linux
+
+```shell-session
+sudo systemctl enable ssh
+```
+
+```shell-session
+sudo systemctl start ssh
+```
+
+Checking for SSH Listening Port
+
+```shell-session
+netstat -lnpt
 ```
