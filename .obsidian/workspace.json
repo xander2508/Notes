@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Living off The Land.md",
+                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tooling/CertUtil.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Living off The Land.md",
+                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tooling/CertUtil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Living off The Land.md",
+                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tooling/CertUtil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Living off The Land.md"
+                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tooling/CertUtil.md"
               }
             }
           },
@@ -189,8 +189,11 @@
   },
   "active": "572fe771efd41465",
   "lastOpenFiles": [
-    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Webservers.md",
+    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tooling/Background Intelligent Transfer Service (BITS).md",
+    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tooling/Base64 Exfiltration.md",
+    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tooling/CertUtil.md",
     "5. Standard Information/Operating Systems/Living off The Land.md",
+    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Webservers.md",
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/1. Guide.md",
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Webservers/Python.md",
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Webservers",
@@ -215,9 +218,6 @@
     "2. Enumeration/TCP/1433. MSSQL/2. Information.md",
     "2. Enumeration/TCP/22. Secure Shell (SSH)/Tooling/SCP.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/2. Specification.md",
-    "2. Enumeration/TCP/22. Secure Shell (SSH)/Concepts/Setting Up SSH.md",
-    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tooling/SCP (SSH).md",
-    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Linux/Default Commands.md",
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Linux",
     "2. Enumeration/TCP/5985, 5986. Windows Remote Management (WinRM)/Concepts",
     "7. Misc/Images/openvas_report.webp",
