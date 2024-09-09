@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Webservers.md",
+                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Transfer through Code.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Webservers.md",
+                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Transfer through Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Webservers.md",
+                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Transfer through Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Webservers.md"
+                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Transfer through Code.md"
               }
             }
           },
@@ -189,8 +189,9 @@
   },
   "active": "1033f8c8bec1ca80",
   "lastOpenFiles": [
-    "3. Exploitation/File Types and Data/CRT (Certificate Files).md",
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Webservers.md",
+    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Transfer through Code.md",
+    "3. Exploitation/File Types and Data/CRT (Certificate Files).md",
     "2. Enumeration/TCP/1433. MSSQL/2. Information.md",
     "2. Enumeration/TCP/22. Secure Shell (SSH)/Tooling/SCP.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/2. Specification.md",
@@ -215,7 +216,6 @@
     "3. Exploitation/Obtaining Remote Shells/Tooling/Powercat.md",
     "3. Exploitation/Obtaining Remote Shells/Specific Shells/Netcat.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Concepts/Vulnerabilities/File include (LFI) (RFI).md",
-    "3. Exploitation/Operating Systems/Windows/Tooling/Impacket.md",
     "2. Enumeration/TCP/5985, 5986. Windows Remote Management (WinRM)/Concepts",
     "7. Misc/Images/openvas_report.webp",
     "1. Recon/Vulnerability Scanning/Tooling",
