@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Linux/Default Commands.md",
+                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tooling/SCP (SSH).md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Linux/Default Commands.md",
+                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tooling/SCP (SSH).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Linux/Default Commands.md",
+                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tooling/SCP (SSH).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Linux/Default Commands.md"
+                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tooling/SCP (SSH).md"
               }
             }
           },
@@ -189,6 +189,7 @@
   },
   "active": "1033f8c8bec1ca80",
   "lastOpenFiles": [
+    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Linux/Default Commands.md",
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Webservers.md",
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/1. Guide.md",
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Windows/Server Message Block (SMB).md",
@@ -197,7 +198,6 @@
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/SSH Tunnelling.md",
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/ICMP Tunnelling.md",
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/DNS Tunnelling.md",
-    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Linux/Default Commands.md",
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tooling/Base64 Exfiltration.md",
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tooling/File Transfer Protocol (FTP).md",
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tooling/SCP (SSH).md",
