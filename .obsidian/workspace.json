@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/1. Guide.md",
+                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Linux/Default Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/1. Guide.md",
+                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Linux/Default Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/1. Guide.md",
+                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Linux/Default Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/1. Guide.md"
+                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Linux/Default Commands.md"
               }
             }
           },
@@ -189,17 +189,23 @@
   },
   "active": "1033f8c8bec1ca80",
   "lastOpenFiles": [
-    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Windows/Inline File Transfer.md",
-    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/1. Guide.md",
-    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Windows/PowerShell Transfer.md",
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Webservers.md",
-    "2. Enumeration/TCP/445. Server Message Block (SMB)/Concepts/SMB Over HTTP.md",
+    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/1. Guide.md",
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Windows/Server Message Block (SMB).md",
+    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Windows/PowerShell Transfer.md",
+    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Windows/Inline File Transfer.md",
+    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/SSH Tunnelling.md",
+    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/ICMP Tunnelling.md",
+    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/DNS Tunnelling.md",
+    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Linux/Default Commands.md",
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tooling/Base64 Exfiltration.md",
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tooling/File Transfer Protocol (FTP).md",
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tooling/SCP (SSH).md",
-    "2. Enumeration/TCP/445. Server Message Block (SMB)/1. Guide.md",
+    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tooling/InterPlanetary File System.md",
     "3. Exploitation/File Types and Data/Base64.md",
+    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Linux",
+    "2. Enumeration/TCP/445. Server Message Block (SMB)/Concepts/SMB Over HTTP.md",
+    "2. Enumeration/TCP/445. Server Message Block (SMB)/1. Guide.md",
     "3. Exploitation/Obtaining Remote Shells/Tooling/Netcat.md",
     "3. Exploitation/Obtaining Remote Shells/Tooling/Powercat.md",
     "3. Exploitation/Obtaining Remote Shells/Specific Shells/Netcat.md",
@@ -211,11 +217,6 @@
     "2. Enumeration/TCP/5985, 5986. Windows Remote Management (WinRM)/1. Guide.md",
     "2. Enumeration/TCP/5985, 5986. Windows Remote Management (WinRM)/Concepts",
     "2. Enumeration/TCP/5985, 5986. Windows Remote Management (WinRM)/Concepts/Enabling WinRM.md",
-    "2. Enumeration/TCP/22. Secure Shell (SSH)/Concepts/Setting Up SSH.md",
-    "2. Enumeration/TCP/22. Secure Shell (SSH)/Applications/OpenSSH.md",
-    "5. Standard Information/Penetration Testing/Reporting/1. Overview.md",
-    "1. Recon/Vulnerability Scanning/2. Methodology.md",
-    "1. Recon/Vulnerability Scanning/1. Overview.md",
     "7. Misc/Images/openvas_report.webp",
     "1. Recon/Vulnerability Scanning/Tooling",
     "1. Recon/Vulnerability Scanning",
@@ -226,7 +227,6 @@
     "2. Enumeration/TCP/135. Windows Management Instrumentation (WMI)",
     "2. Enumeration/TCP/5985, 5986. Windows Remote Management (WinRM)",
     "2. Enumeration/TCP/512, 513, 514. R-Services",
-    "2. Enumeration/TCP/873. RSync",
     "7. Misc/Images/tooldev-dns.webp",
     "7. Misc/Images/etw.webp",
     "Untitled.canvas",
