@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Concepts/File Transfer.md",
+                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 335.5
   },
   "right": {
     "id": "ab865be945a38766",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Concepts/File Transfer.md",
+                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Concepts/File Transfer.md",
+                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Concepts/File Transfer.md"
+                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/1. Guide.md"
               }
             }
           },
@@ -189,8 +189,15 @@
   },
   "active": "572fe771efd41465",
   "lastOpenFiles": [
-    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/Remote Desktop Connection.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/File Encryption.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Windows PowerShell Password Encryption.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/RSA Decrypt.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/OpenSSL.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/mRemoteNG Encryption.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/DES File Decrypt.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Concepts/File Transfer.md",
+    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/Remote Desktop Connection.md",
     "2. Enumeration/TCP/5985, 5986. Windows Remote Management (WinRM)/Concepts/Create Session and Transfer Files.md",
     "2. Enumeration/TCP/5985, 5986. Windows Remote Management (WinRM)/Concepts/Enabling WinRM.md",
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/1. Guide.md",
@@ -210,12 +217,6 @@
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Linux/Default Commands.md",
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Windows/Server Message Block (SMB).md",
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Windows/Inline File Transfer.md",
-    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/SSH Tunnelling.md",
-    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/ICMP Tunnelling.md",
-    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/DNS Tunnelling.md",
-    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tooling/Base64 Exfiltration.md",
-    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tooling/File Transfer Protocol (FTP).md",
-    "3. Exploitation/File Types and Data/Base64.md",
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Linux",
     "2. Enumeration/TCP/5985, 5986. Windows Remote Management (WinRM)/Concepts",
     "7. Misc/Images/openvas_report.webp",
@@ -226,7 +227,6 @@
     "7. Misc/Images/ReconSpider.zip",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Web Crawlers",
     "2. Enumeration/TCP/135. Windows Management Instrumentation (WMI)",
-    "2. Enumeration/TCP/5985, 5986. Windows Remote Management (WinRM)",
     "7. Misc/Images/tooldev-dns.webp",
     "7. Misc/Images/etw.webp",
     "Untitled.canvas",
