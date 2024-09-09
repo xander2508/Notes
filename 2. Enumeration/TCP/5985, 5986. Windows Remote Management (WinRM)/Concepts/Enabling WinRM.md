@@ -26,3 +26,4 @@ Test-WSMan -ComputerName "10.129.224.248"
 ```powershell-session
 Test-WSMan -ComputerName "10.129.224.248" -Authentication Negotiate
 ```
+
