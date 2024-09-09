@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Windows/Enabling WinRM.md",
+                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Nessus",
+                "query": "winrm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Windows/Enabling WinRM.md",
+                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Windows/Enabling WinRM.md",
+                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Windows/Enabling WinRM.md"
+                "file": "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/1. Guide.md"
               }
             }
           },
@@ -190,13 +190,21 @@
   },
   "active": "1033f8c8bec1ca80",
   "lastOpenFiles": [
+    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tooling/SCP (SSH).md",
+    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/1. Guide.md",
+    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tooling/Base64.md",
+    "3. Exploitation/File Types and Data/Base64.md",
+    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Webservers.md",
+    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Downloading Files.md",
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Windows/Inline File Transfer.md",
+    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Windows/1. Guide.md",
+    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Windows/Server Message Block (SMB).md",
+    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Windows/PowerShell.md",
+    "2. Enumeration/TCP/5985, 5986. Windows Remote Management (WinRM)/1. Guide.md",
+    "2. Enumeration/TCP/5985, 5986. Windows Remote Management (WinRM)/Concepts",
+    "2. Enumeration/TCP/5985, 5986. Windows Remote Management (WinRM)/Concepts/Enabling WinRM.md",
     "2. Enumeration/TCP/22. Secure Shell (SSH)/Concepts/Setting Up SSH.md",
     "2. Enumeration/TCP/22. Secure Shell (SSH)/Applications/OpenSSH.md",
-    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/1. Guide.md",
-    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Downloading Files.md",
-    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Webservers.md",
-    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Windows/PowerShell.md",
     "5. Standard Information/Penetration Testing/Reporting/1. Overview.md",
     "1. Recon/Vulnerability Scanning/2. Methodology.md",
     "1. Recon/Vulnerability Scanning/1. Overview.md",
@@ -211,14 +219,7 @@
     "5. Standard Information/Penetration Testing/Reporting/Tooling/Nmap Scan to Report.md",
     "1. Recon/1. Guide.md",
     "1. Recon/Vulnerability Scanning/Tooling",
-    "1. Recon/Tooling/Shodan.md",
     "1. Recon/Vulnerability Scanning",
-    "5. Standard Information/Penetration Testing/Stages/1. Pre-Engagement/1. Pre-Engagement.md",
-    "5. Standard Information/Penetration Testing/Laws and Regulations/3. Compliance Standards.md",
-    "5. Standard Information/Penetration Testing/Laws and Regulations/China.md",
-    "5. Standard Information/Penetration Testing/Laws and Regulations/1. Laws and Regulations.md",
-    "5. Standard Information/Architecture/Asset Management.md",
-    "5. Standard Information/Networking/Standard Terminology.md",
     "7. Misc/Images/Pasted image 20240906140738.png",
     "5. Standard Information/Penetration Testing/Vulnerability Assessment",
     "7. Misc/Images/ReconSpider.zip",
@@ -227,7 +228,6 @@
     "2. Enumeration/TCP/5985, 5986. Windows Remote Management (WinRM)",
     "2. Enumeration/TCP/512, 513, 514. R-Services",
     "2. Enumeration/TCP/873. RSync",
-    "2. Enumeration/TCP/22. Secure Shell (SSH)/Tooling",
     "7. Misc/Images/tooldev-dns.webp",
     "7. Misc/Images/etw.webp",
     "Untitled.canvas",

