@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Exploitation/Obtaining Remote Shells/3. Payload Types.md",
+                "file": "3. Exploitation/File Types and Data/PS1 (PowerShell Script).md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Exploitation/Obtaining Remote Shells/3. Payload Types.md",
+                "file": "3. Exploitation/File Types and Data/PS1 (PowerShell Script).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Exploitation/Obtaining Remote Shells/3. Payload Types.md",
+                "file": "3. Exploitation/File Types and Data/PS1 (PowerShell Script).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Exploitation/Obtaining Remote Shells/3. Payload Types.md"
+                "file": "3. Exploitation/File Types and Data/PS1 (PowerShell Script).md"
               }
             }
           },
@@ -189,8 +189,13 @@
   },
   "active": "572fe771efd41465",
   "lastOpenFiles": [
-    "3. Exploitation/Obtaining Remote Shells/2. Shell Anti-Virus Bypass.md",
+    "3. Exploitation/File Types and Data/PSM1 (PowerShell Module File).md",
+    "3. Exploitation/File Types and Data/MSI (Microsoft Software Installer).md",
+    "3. Exploitation/File Types and Data/Languages/Visual Basic Script (VBS).md",
+    "3. Exploitation/File Types and Data/Languages/Bat (Batch).md",
+    "3. Exploitation/File Types and Data/DLL (Dynamic-link library).md",
     "3. Exploitation/Obtaining Remote Shells/3. Payload Types.md",
+    "3. Exploitation/Obtaining Remote Shells/2. Shell Anti-Virus Bypass.md",
     "1. Recon/Port Scanning/Tooling/Nmap/Options.md",
     "1. Recon/Port Scanning/1. Overview.md",
     "3. Exploitation/Known Exploits/Operating Systems/Windows/Zerologon.md",
@@ -213,14 +218,9 @@
     "3. Exploitation/Operating Systems/Windows/Active Directory/1. Guide.md",
     "3. Exploitation/Operating Systems/Windows/Active Directory/Tooling",
     "3. Exploitation/Known Exploits/Operating Systems/Windows/Attacks and Exploits.md",
-    "3. Exploitation/Known Exploits/User Interaction/HTTP/Hostile Portal Attacks.md",
     "3. Exploitation/Known Exploits/Operating Systems/Windows",
     "3. Exploitation/Operating Systems",
-    "3. Exploitation/Obtaining Remote Shells/Specific Shells/Windows/PowerShell.md",
     "3. Exploitation/Known Exploits/Untitled",
-    "2. Enumeration/TCP/5985, 5986. Windows Remote Management (WinRM)/1. Guide.md",
-    "3. Exploitation/Operating Systems/Windows/Tooling/Windows Remote Management (WinRM).md",
-    "2. Enumeration/TCP/5985, 5986. Windows Remote Management (WinRM)/Concepts/Enabling WinRM.md",
     "3. Exploitation/Anti-Virus Bypasses",
     "7. Misc/Images/reverseshell.webp",
     "7. Misc/Images/bindshell.webp",
