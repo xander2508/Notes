@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Exploitation/Obtaining Remote Shells/1. Guide.md",
+                "file": "3. Exploitation/Obtaining Remote Shells/Specific Shells/Windows/PowerShell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be655f81f248afeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Standard Information/Operating Systems/Windows/PowerShell/1. Overview.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Exploitation/Obtaining Remote Shells/1. Guide.md",
+                "file": "5. Standard Information/Operating Systems/Windows/PowerShell/1. Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Exploitation/Obtaining Remote Shells/1. Guide.md",
+                "file": "5. Standard Information/Operating Systems/Windows/PowerShell/1. Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Exploitation/Obtaining Remote Shells/1. Guide.md"
+                "file": "5. Standard Information/Operating Systems/Windows/PowerShell/1. Overview.md"
               }
             }
           },
@@ -167,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 686.5,
-    "collapsed": true
+    "width": 686.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,15 +199,18 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "572fe771efd41465",
+  "active": "be655f81f248afeb",
   "lastOpenFiles": [
+    "4. Post-Exploitation/Command Line Restrictions.md",
+    "3. Exploitation/Obtaining Remote Shells/Specific Shells/Windows/PowerShell.md",
+    "3. Exploitation/Obtaining Remote Shells/Tooling/Nishang.md",
+    "3. Exploitation/Obtaining Remote Shells/Tooling/Powercat.md",
+    "3. Exploitation/Obtaining Remote Shells/1. Guide.md",
     "3. Exploitation/Obtaining Remote Shells/Tooling/Netcat.md",
     "3. Exploitation/Obtaining Remote Shells/2. Shell Types.md",
     "7. Misc/Images/reverseshell.webp",
     "7. Misc/Images/bindshell.webp",
-    "3. Exploitation/Obtaining Remote Shells/1. Guide.md",
     "4. Post-Exploitation/Securing Access.md",
-    "4. Post-Exploitation/Command Line Restrictions.md",
     "5. Standard Information/Operating Systems/Windows/Environment Variables.md",
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/1. Guide.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Concepts/Information/User Agent Strings.md",
@@ -216,8 +231,6 @@
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Concepts/File Transfer.md",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/Remote Desktop Connection.md",
-    "2. Enumeration/TCP/5985, 5986. Windows Remote Management (WinRM)/Concepts/Create Session and Transfer Files.md",
-    "2. Enumeration/TCP/5985, 5986. Windows Remote Management (WinRM)/Concepts/Enabling WinRM.md",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Concepts",
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Linux",
     "2. Enumeration/TCP/5985, 5986. Windows Remote Management (WinRM)/Concepts",
