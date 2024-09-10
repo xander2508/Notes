@@ -5,8 +5,6 @@ tags:
   - Nmap
   - Tooling
 ---
-
-
 ## Scan Types
 
 | Option   | Description                                                                                           |
@@ -21,7 +19,9 @@ tags:
 | -PE      | Ping Scan, ICMP ping echo scan                                                                        |
 | -sn      | Disable port scanning                                                                                 |
 
-#### [[Decoy Scanning]]
+#### Decoy Scanning
+
+See [[Decoy Scanning]]
 
 With this method, we can generate random (`RND`) a specific number (for example: `5`) of IP addresses separated by a colon (`:`). Our real IP address is then randomly placed between the generated IP addresses. In the next example, our real IP address is therefore placed in the second position. Another critical point is that the decoys must be alive. Otherwise, the service on the target may be unreachable due to SYN-flooding security mechanisms.
 
@@ -143,3 +143,11 @@ The exact used options with their values we can find here: [https://nmap.org/bo
 | `min-rate`                                        | No minimum rate limit                     |            |            |            |            |            |
 | `max-rate`                                        | No maximum rate limit                     |            |            |            |            |            |
 | `defeat-rst-ratelimit`                            | Not enabled by default                    |            |            |            |            |            |
+
+## Operating System Detection 
+
+```
+-O
+```
+
+If you run into issues and the scans turn up little results, attempt again with the `-A` and `-Pn` options. This will perform a different scan and may work. For more info on how this process works, check out this article from the [Nmap Documentation](https://nmap.org/book/man-os-detection.html). Be careful of this detection method. Implementing a firewall or other security features can obscure the host or mess the results up. When possible, use more than one check to make a determination.
