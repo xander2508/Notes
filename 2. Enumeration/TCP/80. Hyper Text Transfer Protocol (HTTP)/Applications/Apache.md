@@ -14,6 +14,7 @@ tags:
 
 # Notes
 1. `.htaccess` has config settings for the application
+2. Look for "Manager App" on the home page and use default credentials
 
 # Tomcat
 
