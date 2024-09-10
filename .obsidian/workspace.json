@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/1. Guide.md",
+                "file": "5. Standard Information/Penetration Testing/Learning Tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Exploitation/Obtaining Remote Shells/Tooling/Laudanum, One Webshell to Rule Them All.md",
+                "file": "3. Exploitation/Obtaining Remote Shells/Tooling/Nishang.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Exploitation/Obtaining Remote Shells/Tooling/Laudanum, One Webshell to Rule Them All.md",
+                "file": "5. Standard Information/Penetration Testing/Learning Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Exploitation/Obtaining Remote Shells/Tooling/Laudanum, One Webshell to Rule Them All.md",
+                "file": "5. Standard Information/Penetration Testing/Learning Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Exploitation/Obtaining Remote Shells/Tooling/Laudanum, One Webshell to Rule Them All.md"
+                "file": "5. Standard Information/Penetration Testing/Learning Tools.md"
               }
             }
           },
@@ -200,35 +199,35 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "825924a016214dc3",
+  "active": "89c9fc0aa8188c4b",
   "lastOpenFiles": [
+    "5. Standard Information/Penetration Testing/2. Testing Methods.md",
+    "5. Standard Information/Penetration Testing/1. Guide.md",
+    "1. Recon/Open Source Intelligence (OSINT)/1. Guide.md",
+    "1. Recon/1. Guide.md",
+    "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Enumeration Methodology.md",
+    "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/2. Information Gathering.md",
+    "5. Standard Information/Penetration Testing/Stages/1. Pre-Engagement/1. Pre-Engagement.md",
+    "5. Standard Information/Penetration Testing/Stages/1. Pre-Engagement/Contractors Agreement.md",
+    "8. Reports/Hack the Box/Untitled.md",
+    "2. Enumeration/TCP/445. Server Message Block (SMB)/1. Guide.md",
+    "3. Exploitation/Obtaining Remote Shells/Tooling/Nishang.md",
+    "3. Exploitation/Obtaining Remote Shells/Tooling/Laudanum, One Webshell to Rule Them All.md",
     "3. Exploitation/Obtaining Remote Shells/Specific Shells/Web/ASPX.md",
     "3. Exploitation/Obtaining Remote Shells/Specific Shells/Web/Web.md",
     "3. Exploitation/Obtaining Remote Shells/Specific Shells/Web/PHP.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Applications/Apache.md",
-    "8. Reports/Hack the Box/Untitled.md",
-    "2. Enumeration/TCP/445. Server Message Block (SMB)/1. Guide.md",
     "3. Exploitation/Known Exploits/Operating Systems/Windows/BlueKeep.md",
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/SSH Tunnelling.md",
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/DNS Tunnelling.md",
     "3. Exploitation/Obtaining Remote Shells/1. Guide.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Concepts/Vulnerabilities/File Upload Filtering Bypasses.md",
-    "3. Exploitation/Obtaining Remote Shells/Tooling/Nishang.md",
     "3. Exploitation/Tooling/Metasploit.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Applications/Windows ASPX.md",
     "3. Exploitation/Obtaining Remote Shells/Specific Shells/Web",
     "5. Standard Information/Penetration Testing/Learning Tools.md",
-    "3. Exploitation/Obtaining Remote Shells/Tooling/Laudanum, One Webshell to Rule Them All.md",
     "3. Exploitation/Obtaining Remote Shells/Tooling/Evil-WinRM.md",
     "4. Post-Exploitation/Upgrading Shells.md",
-    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Applications/RConfig.md",
-    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Applications/Python Hosted.md",
-    "3. Exploitation/Known Exploits/Applications/RSync.md",
-    "3. Exploitation/Known Exploits/Operating Systems/Windows/Eternal Blue.md",
-    "3. Exploitation/Operating Systems/Windows/Tooling/Impacket.md",
-    "3. Exploitation/Obtaining Remote Shells/3. Payload Types.md",
-    "3. Exploitation/Obtaining Remote Shells/Tooling/Darkarmour.md",
-    "3. Exploitation/Obtaining Remote Shells/Tooling/PayloadsAllTheThings.md",
     "3. Exploitation/Known Exploits/Operating Systems/Linux/RaspberryPi",
     "3. Exploitation/Known Exploits/Operating Systems/Untitled",
     "3. Exploitation/Operating Systems/Windows/Active Directory/Tooling",
