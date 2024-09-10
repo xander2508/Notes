@@ -23,3 +23,9 @@ Windows Defender Firewall Profiles:
 
 
 ## Disable Windows Defender
+
+```powershell-session
+Set-MpPreference -DisableRealtimeMonitoring $true
+```
+
+
