@@ -7,6 +7,8 @@ tags:
   - HyperTextTransferProtocol
 ---
 
+`Active Server Page Extended` (`ASPX`) is a file type/extension written for [Microsoft's ASP.NET Framework](https://docs.microsoft.com/en-us/aspnet/overview). On a web server running the ASP.NET framework, web form pages can be generated for users to input data. On the server side, the information will be converted into HTML.
+
 - ASPX pages are the primary building blocks of a Windows ASP.NET application.
 - These pages contain server-side code written in languages like C# or VB.NET within special <% %> tags.
 - ASPX pages are processed on the server before being sent to the client's browser, allowing for dynamic content generation.
@@ -15,7 +17,7 @@ tags:
 
 # Remote Code Execution
 
-An ASPX shell comes with Kali Linux.
+An ASPX shell comes with Kali Linux, see [[Nishang]]
 ## File Upload
 
 ### Guide

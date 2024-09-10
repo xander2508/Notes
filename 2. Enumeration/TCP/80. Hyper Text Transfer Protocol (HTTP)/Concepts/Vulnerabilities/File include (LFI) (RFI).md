@@ -11,7 +11,7 @@ tags:
   - RFI
   - HyperTextTransferProtocol
 ---
-**Remote File Inclusion (RFI):** The file is loaded from a remote server (Best: You can write the code and the server will execute it). In [[PHP]] this is **disabled** by default (**allow_url_include**). 
+**Remote File Inclusion (RFI):** The file is loaded from a remote server (Best: You can write the code and the server will execute it). In [[3. Exploitation/File Types and Data/Languages/PHP]] this is **disabled** by default (**allow_url_include**). 
 
 **Local File Inclusion (LFI):** The sever loads a local file.
 # Guides

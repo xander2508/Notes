@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Exploitation/Obtaining Remote Shells/Tooling/Laudanum, One Webshell to Rule Them All.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0719a0d9fbceba03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Exploitation/Tooling/Metasploit.md",
+                "file": "3. Exploitation/Obtaining Remote Shells/Tooling/Nishang.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Exploitation/Obtaining Remote Shells/Tooling/Laudanum, One Webshell to Rule Them All.md",
+                "file": "3. Exploitation/Obtaining Remote Shells/Tooling/Nishang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Exploitation/Obtaining Remote Shells/Tooling/Laudanum, One Webshell to Rule Them All.md",
+                "file": "3. Exploitation/Obtaining Remote Shells/Tooling/Nishang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Exploitation/Obtaining Remote Shells/Tooling/Laudanum, One Webshell to Rule Them All.md"
+                "file": "3. Exploitation/Obtaining Remote Shells/Tooling/Nishang.md"
               }
             }
           },
@@ -201,12 +189,18 @@
   },
   "active": "89c9fc0aa8188c4b",
   "lastOpenFiles": [
-    "3. Exploitation/Obtaining Remote Shells/Tooling/Evil-WinRM.md",
+    "3. Exploitation/Obtaining Remote Shells/Specific Shells/Web/ASPX.md",
+    "3. Exploitation/Obtaining Remote Shells/Specific Shells/Web/PHP.md",
+    "3. Exploitation/Obtaining Remote Shells/Specific Shells/Web.md",
+    "3. Exploitation/Tooling/Metasploit.md",
+    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Applications/Windows ASPX.md",
+    "3. Exploitation/Obtaining Remote Shells/Specific Shells/Web",
+    "5. Standard Information/Penetration Testing/Learning Tools.md",
     "3. Exploitation/Obtaining Remote Shells/Tooling/Laudanum, One Webshell to Rule Them All.md",
+    "3. Exploitation/Obtaining Remote Shells/Tooling/Evil-WinRM.md",
     "3. Exploitation/Obtaining Remote Shells/1. Guide.md",
     "4. Post-Exploitation/Upgrading Shells.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Applications/RConfig.md",
-    "3. Exploitation/Tooling/Metasploit.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Applications/Python Hosted.md",
     "3. Exploitation/Known Exploits/Applications/RSync.md",
     "3. Exploitation/Known Exploits/Operating Systems/Windows/Eternal Blue.md",
@@ -222,11 +216,6 @@
     "3. Exploitation/File Types and Data/PSM1 (PowerShell Module File).md",
     "3. Exploitation/File Types and Data/MSI (Microsoft Software Installer).md",
     "3. Exploitation/File Types and Data/Languages/Visual Basic Script (VBS).md",
-    "3. Exploitation/File Types and Data/Languages/Bat (Batch).md",
-    "3. Exploitation/File Types and Data/DLL (Dynamic-link library).md",
-    "3. Exploitation/Obtaining Remote Shells/2. Shell Anti-Virus Bypass.md",
-    "1. Recon/Port Scanning/Tooling/Nmap/Options.md",
-    "1. Recon/Port Scanning/1. Overview.md",
     "3. Exploitation/Known Exploits/Operating Systems/Linux/RaspberryPi",
     "3. Exploitation/Known Exploits/Operating Systems/Untitled",
     "3. Exploitation/Operating Systems/Windows/Active Directory/Tooling",
@@ -238,7 +227,6 @@
     "7. Misc/Images/bindshell.webp",
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Webservers",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption",
-    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Concepts",
     "7. Misc/Images/openvas_report.webp",
     "7. Misc/Images/Pasted image 20240906140738.png",
     "7. Misc/Images/tooldev-dns.webp",
