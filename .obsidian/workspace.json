@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Security/Windows Defender.md",
+                "file": "3. Exploitation/Tooling/Metasploit.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,8 +88,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Security/Windows Defender.md",
+                "file": "3. Exploitation/Tooling/Metasploit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Security/Windows Defender.md",
+                "file": "3. Exploitation/Tooling/Metasploit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Security/Windows Defender.md"
+                "file": "3. Exploitation/Tooling/Metasploit.md"
               }
             }
           },
@@ -203,14 +202,14 @@
   },
   "active": "be655f81f248afeb",
   "lastOpenFiles": [
+    "3. Exploitation/Obtaining Remote Shells/Tooling/Nishang.md",
+    "3. Exploitation/Obtaining Remote Shells/Specific Shells/Windows/PowerShell.md",
+    "5. Standard Information/Operating Systems/Windows/Security/Windows Defender.md",
     "3. Exploitation/Obtaining Remote Shells/2. Shell Anti-Virus Bypass.md",
     "3. Exploitation/Anti-Virus Bypasses",
     "3. Exploitation/Obtaining Remote Shells/1. Guide.md",
-    "5. Standard Information/Operating Systems/Windows/Security/Windows Defender.md",
     "5. Standard Information/Operating Systems/Windows/PowerShell/1. Overview.md",
     "4. Post-Exploitation/Command Line Restrictions.md",
-    "3. Exploitation/Obtaining Remote Shells/Specific Shells/Windows/PowerShell.md",
-    "3. Exploitation/Obtaining Remote Shells/Tooling/Nishang.md",
     "3. Exploitation/Obtaining Remote Shells/Tooling/Powercat.md",
     "3. Exploitation/Obtaining Remote Shells/Tooling/Netcat.md",
     "3. Exploitation/Obtaining Remote Shells/2. Shell Types.md",
