@@ -17,6 +17,7 @@ A malicious attacker could own the entire network through rConfig since it will 
 ### 3.9.6
 
 [rconfig 3.9.6 - Arbitrary File Upload - PHP webapps Exploit](https://www.exploit-db.com/exploits/49783)
+
 [metasploit-framework/modules/exploits/linux/http/rconfig\_vendors\_auth\_file\_upload\_rce.rb at master · rapid7/metasploit-framework · GitHub](https://github.com/rapid7/metasploit-framework/blob/master/modules/exploits/linux/http/rconfig_vendors_auth_file_upload_rce.rb)
 
 
