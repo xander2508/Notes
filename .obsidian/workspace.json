@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/PowerShell/1. Overview.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Security/Windows Defender.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "anti virus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/PowerShell/1. Overview.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Security/Windows Defender.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/PowerShell/1. Overview.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Security/Windows Defender.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/PowerShell/1. Overview.md"
+                "file": "5. Standard Information/Operating Systems/Windows/Security/Windows Defender.md"
               }
             }
           },
@@ -180,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 686.5
+    "width": 686.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,11 +203,15 @@
   },
   "active": "be655f81f248afeb",
   "lastOpenFiles": [
+    "3. Exploitation/Obtaining Remote Shells/2. Shell Anti-Virus Bypass.md",
+    "3. Exploitation/Anti-Virus Bypasses",
+    "3. Exploitation/Obtaining Remote Shells/1. Guide.md",
+    "5. Standard Information/Operating Systems/Windows/Security/Windows Defender.md",
+    "5. Standard Information/Operating Systems/Windows/PowerShell/1. Overview.md",
     "4. Post-Exploitation/Command Line Restrictions.md",
     "3. Exploitation/Obtaining Remote Shells/Specific Shells/Windows/PowerShell.md",
     "3. Exploitation/Obtaining Remote Shells/Tooling/Nishang.md",
     "3. Exploitation/Obtaining Remote Shells/Tooling/Powercat.md",
-    "3. Exploitation/Obtaining Remote Shells/1. Guide.md",
     "3. Exploitation/Obtaining Remote Shells/Tooling/Netcat.md",
     "3. Exploitation/Obtaining Remote Shells/2. Shell Types.md",
     "7. Misc/Images/reverseshell.webp",
@@ -226,11 +232,7 @@
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Windows PowerShell Password Encryption.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/RSA Decrypt.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/OpenSSL.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/mRemoteNG Encryption.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/DES File Decrypt.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption",
-    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Concepts/File Transfer.md",
-    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/Remote Desktop Connection.md",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Concepts",
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Linux",
     "2. Enumeration/TCP/5985, 5986. Windows Remote Management (WinRM)/Concepts",
@@ -240,7 +242,6 @@
     "7. Misc/Images/Pasted image 20240906140738.png",
     "5. Standard Information/Penetration Testing/Vulnerability Assessment",
     "7. Misc/Images/ReconSpider.zip",
-    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Tooling/Web Crawlers",
     "7. Misc/Images/tooldev-dns.webp",
     "7. Misc/Images/etw.webp",
     "Untitled.canvas",
