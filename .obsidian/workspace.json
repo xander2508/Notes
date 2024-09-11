@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Exploitation/Tooling/Metasploit Framework/3. Upload Modules.md",
+                "file": "3. Exploitation/Remote Shells/Tooling/MSFVenom.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Exploitation/Tooling/Metasploit Framework/3. Upload Modules.md",
+                "file": "3. Exploitation/Remote Shells/Tooling/MSFVenom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Exploitation/Tooling/Metasploit Framework/3. Upload Modules.md",
+                "file": "3. Exploitation/Remote Shells/Tooling/MSFVenom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Exploitation/Tooling/Metasploit Framework/3. Upload Modules.md"
+                "file": "3. Exploitation/Remote Shells/Tooling/MSFVenom.md"
               }
             }
           },
@@ -189,20 +189,20 @@
   },
   "active": "89c9fc0aa8188c4b",
   "lastOpenFiles": [
+    "3. Exploitation/Tooling/Metasploit Framework/4. Information and Architecture.md",
+    "3. Exploitation/Tooling/Metasploit Framework/7. Sessions.md",
+    "3. Exploitation/Tooling/Metasploit Framework/8. Useful Modules.md",
+    "3. Exploitation/Remote Shells/Tooling/MSFVenom.md",
+    "3. Exploitation/Tooling/Metasploit Framework/3. Upload Modules.md",
     "3. Exploitation/Tooling/Searchsploit.md",
     "3. Exploitation/1. Guide.md",
-    "3. Exploitation/Tooling/Metasploit Framework/8. Useful Modules.md",
     "3. Exploitation/Tooling/Metasploit Framework/1. Metasploit Usage.md",
     "3. Exploitation/Tooling/Metasploit Framework/2. Meterpreter Shell.md",
     "4. Post-Exploitation/Operating Systems/1. Guide.md",
-    "3. Exploitation/Tooling/Metasploit Framework/7. Sessions.md",
     "3. Exploitation/Tooling/Metasploit Framework/6. Plugins.md",
     "4. Post-Exploitation/Upgrading Shells.md",
-    "3. Exploitation/Tooling/Metasploit Framework/3. Upload Modules.md",
     "3. Exploitation/Tooling/Metasploit Framework/5. Databases.md",
-    "3. Exploitation/Tooling/Metasploit Framework/4. Information and Architecture.md",
     "1. Recon/Port Scanning/Tooling/Nmap/Options.md",
-    "3. Exploitation/Remote Shells/Tooling/MSFVenom.md",
     "3. Exploitation/Remote Shells/Tooling/Netcat.md",
     "3. Exploitation/Remote Shells/Tooling/Mythic C2 Framework.md",
     "3. Exploitation/Remote Shells/2. Shell Anti-Virus Bypass.md",
