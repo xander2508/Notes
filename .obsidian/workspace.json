@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Exploitation/Tooling/Metasploit Framework/2. Meterpreter Shell.md",
+                "file": "3. Exploitation/Tooling/Metasploit Framework/7. Sessions.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Exploitation/Tooling/Metasploit Framework/2. Meterpreter Shell.md",
+                "file": "3. Exploitation/Tooling/Metasploit Framework/7. Sessions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Exploitation/Tooling/Metasploit Framework/2. Meterpreter Shell.md",
+                "file": "3. Exploitation/Tooling/Metasploit Framework/7. Sessions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Exploitation/Tooling/Metasploit Framework/2. Meterpreter Shell.md"
+                "file": "3. Exploitation/Tooling/Metasploit Framework/7. Sessions.md"
               }
             }
           },
@@ -190,8 +190,9 @@
   "active": "89c9fc0aa8188c4b",
   "lastOpenFiles": [
     "3. Exploitation/Tooling/Metasploit Framework/1. Metasploit Usage.md",
-    "3. Exploitation/Tooling/Metasploit Framework/6. Plugins.md",
+    "3. Exploitation/Tooling/Metasploit Framework/7. Sessions.md",
     "3. Exploitation/Tooling/Metasploit Framework/2. Meterpreter Shell.md",
+    "3. Exploitation/Tooling/Metasploit Framework/6. Plugins.md",
     "3. Exploitation/Tooling/Metasploit Framework/3. Upload Modules.md",
     "3. Exploitation/Tooling/Metasploit Framework/4. Information and Architecture.md",
     "3. Exploitation/Tooling/Metasploit Framework/5. Databases.md",
@@ -215,7 +216,6 @@
     "1. Recon/1. Guide.md",
     "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/Enumeration Methodology.md",
     "5. Standard Information/Penetration Testing/Stages/2. Information Gathering/2. Information Gathering.md",
-    "5. Standard Information/Penetration Testing/Stages/1. Pre-Engagement/1. Pre-Engagement.md",
     "3. Exploitation/Remote Shells/Specific Shells/Web",
     "3. Exploitation/Known Exploits/Operating Systems/Linux/RaspberryPi",
     "3. Exploitation/Known Exploits/Operating Systems/Untitled",
