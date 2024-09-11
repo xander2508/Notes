@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Exploitation/Tooling/Metasploit Framework/8. Useful Modules.md",
+                "file": "3. Exploitation/Tooling/Searchsploit.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Searchsploit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Exploitation/Tooling/Metasploit Framework/8. Useful Modules.md",
+                "file": "3. Exploitation/Tooling/Searchsploit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Exploitation/Tooling/Metasploit Framework/8. Useful Modules.md",
+                "file": "3. Exploitation/Tooling/Searchsploit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Exploitation/Tooling/Metasploit Framework/8. Useful Modules.md"
+                "file": "3. Exploitation/Tooling/Searchsploit.md"
               }
             }
           },
@@ -187,12 +188,14 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "89c9fc0aa8188c4b",
+  "active": "dcd2adc30e57ac2e",
   "lastOpenFiles": [
+    "3. Exploitation/1. Guide.md",
+    "3. Exploitation/Tooling/Searchsploit.md",
+    "3. Exploitation/Tooling/Metasploit Framework/8. Useful Modules.md",
     "3. Exploitation/Tooling/Metasploit Framework/1. Metasploit Usage.md",
     "3. Exploitation/Tooling/Metasploit Framework/2. Meterpreter Shell.md",
     "4. Post-Exploitation/Operating Systems/1. Guide.md",
-    "3. Exploitation/Tooling/Metasploit Framework/8. Useful Modules.md",
     "3. Exploitation/Tooling/Metasploit Framework/7. Sessions.md",
     "3. Exploitation/Tooling/Metasploit Framework/6. Plugins.md",
     "4. Post-Exploitation/Upgrading Shells.md",
@@ -205,7 +208,6 @@
     "3. Exploitation/Remote Shells/Tooling/Mythic C2 Framework.md",
     "3. Exploitation/Remote Shells/2. Shell Anti-Virus Bypass.md",
     "3. Exploitation/Remote Shells/1. Guide.md",
-    "3. Exploitation/1. Guide.md",
     "2. Enumeration/TCP/1433. MSSQL/1. Guide.md",
     "3. Exploitation/Tooling/Metasploit Framework",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Vulnerabilities/Set User ID (SUID)/Path Hijacking.md",
@@ -215,7 +217,6 @@
     "5. Standard Information/Penetration Testing/Learning Tools.md",
     "5. Standard Information/Penetration Testing/2. Testing Methods.md",
     "5. Standard Information/Penetration Testing/1. Guide.md",
-    "1. Recon/Open Source Intelligence (OSINT)/1. Guide.md",
     "3. Exploitation/Remote Shells/Specific Shells/Web",
     "3. Exploitation/Known Exploits/Operating Systems/Linux/RaspberryPi",
     "3. Exploitation/Known Exploits/Operating Systems/Untitled",
