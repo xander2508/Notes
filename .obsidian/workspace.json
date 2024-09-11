@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Security/Terminology/Security Policies.md",
+                "file": "3. Exploitation/Remote Shells/2. Shell Anti-Virus Bypass.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Security/Terminology/Security Policies.md",
+                "file": "3. Exploitation/Remote Shells/2. Shell Anti-Virus Bypass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Security/Terminology/Security Policies.md",
+                "file": "3. Exploitation/Remote Shells/2. Shell Anti-Virus Bypass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Security/Terminology/Security Policies.md"
+                "file": "3. Exploitation/Remote Shells/2. Shell Anti-Virus Bypass.md"
               }
             }
           },
@@ -187,14 +187,14 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "744b9316b7030f7b",
+  "active": "89c9fc0aa8188c4b",
   "lastOpenFiles": [
+    "3. Exploitation/Remote Shells/Tooling/MSFVenom.md",
+    "5. Standard Information/Security/Terminology/Security Policies.md",
     "5. Standard Information/Security/Terminology",
     "5. Standard Information/Security/Terminology/Perimeter Protection.md",
-    "5. Standard Information/Security/Terminology/Security Policies.md",
     "5. Standard Information/Security/Terminology/Endpoint Protection.md",
     "5. Standard Information/Security/Malware Analysis Overview and Tooling.md",
-    "3. Exploitation/Remote Shells/Tooling/MSFVenom.md",
     "3. Exploitation/Tooling/Metasploit Framework/4. Information and Architecture.md",
     "3. Exploitation/Tooling/Metasploit Framework/7. Sessions.md",
     "3. Exploitation/Tooling/Metasploit Framework/8. Useful Modules.md",
@@ -226,7 +226,6 @@
     "3. Exploitation/Anti-Virus Bypasses",
     "7. Misc/Images/reverseshell.webp",
     "7. Misc/Images/bindshell.webp",
-    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Webservers",
     "7. Misc/Images/openvas_report.webp",
     "7. Misc/Images/Pasted image 20240906140738.png",
     "7. Misc/Images/tooldev-dns.webp",
