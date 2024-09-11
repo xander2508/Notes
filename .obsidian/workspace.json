@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Linux/Operating System Version/Vulnerabilities/DirtyCow.md",
+                "file": "4. Post-Exploitation/Operating Systems/Linux/Concepts/Vulnerabilities/Set User ID (SUID)/Path Hijacking.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dirty ",
+                "query": "set path",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Linux/Operating System Version/Vulnerabilities/DirtyCow.md",
+                "file": "4. Post-Exploitation/Operating Systems/Linux/Concepts/Vulnerabilities/Set User ID (SUID)/Path Hijacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Linux/Operating System Version/Vulnerabilities/DirtyCow.md",
+                "file": "4. Post-Exploitation/Operating Systems/Linux/Concepts/Vulnerabilities/Set User ID (SUID)/Path Hijacking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Linux/Operating System Version/Vulnerabilities/DirtyCow.md"
+                "file": "4. Post-Exploitation/Operating Systems/Linux/Concepts/Vulnerabilities/Set User ID (SUID)/Path Hijacking.md"
               }
             }
           },
@@ -202,6 +202,9 @@
   },
   "active": "89c9fc0aa8188c4b",
   "lastOpenFiles": [
+    "4. Post-Exploitation/Operating Systems/Linux/Operating System Version/Vulnerabilities/DirtyCow.md",
+    "5. Standard Information/Operating Systems/Windows/Active Directory.md",
+    "2. Enumeration/TCP/873. RSync/2. Usage.md",
     "5. Standard Information/Penetration Testing/Learning Tools.md",
     "5. Standard Information/Penetration Testing/2. Testing Methods.md",
     "5. Standard Information/Penetration Testing/1. Guide.md",
@@ -225,10 +228,7 @@
     "3. Exploitation/Obtaining Remote Shells/1. Guide.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Concepts/Vulnerabilities/File Upload Filtering Bypasses.md",
     "3. Exploitation/Tooling/Metasploit.md",
-    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Applications/Windows ASPX.md",
     "3. Exploitation/Obtaining Remote Shells/Specific Shells/Web",
-    "3. Exploitation/Obtaining Remote Shells/Tooling/Evil-WinRM.md",
-    "4. Post-Exploitation/Upgrading Shells.md",
     "3. Exploitation/Known Exploits/Operating Systems/Linux/RaspberryPi",
     "3. Exploitation/Known Exploits/Operating Systems/Untitled",
     "3. Exploitation/Operating Systems/Windows/Active Directory/Tooling",
