@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Linux/Concepts/Vulnerabilities/Set User ID (SUID)/Path Hijacking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "825924a016214dc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Exploitation/Obtaining Remote Shells/Tooling/Nishang.md",
+                "file": "3. Exploitation/Tooling/Metasploit/4. Information and Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,8 +75,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Linux/Concepts/Vulnerabilities/Set User ID (SUID)/Path Hijacking.md",
+                "file": "3. Exploitation/Tooling/Metasploit/4. Information and Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Linux/Concepts/Vulnerabilities/Set User ID (SUID)/Path Hijacking.md",
+                "file": "3. Exploitation/Tooling/Metasploit/4. Information and Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Linux/Concepts/Vulnerabilities/Set User ID (SUID)/Path Hijacking.md"
+                "file": "3. Exploitation/Tooling/Metasploit/4. Information and Architecture.md"
               }
             }
           },
@@ -202,6 +189,13 @@
   },
   "active": "89c9fc0aa8188c4b",
   "lastOpenFiles": [
+    "3. Exploitation/Tooling/Metasploit/3. Upload Modules.md",
+    "3. Exploitation/Tooling/Metasploit/4. Information and Architecture.md",
+    "3. Exploitation/Tooling/Metasploit/1. Metasploit Usage.md",
+    "3. Exploitation/Tooling/Metasploit/2. Meterpreter Shell.md",
+    "2. Enumeration/TCP/1433. MSSQL/1. Guide.md",
+    "3. Exploitation/Tooling/Metasploit",
+    "4. Post-Exploitation/Operating Systems/Linux/Concepts/Vulnerabilities/Set User ID (SUID)/Path Hijacking.md",
     "4. Post-Exploitation/Operating Systems/Linux/Operating System Version/Vulnerabilities/DirtyCow.md",
     "5. Standard Information/Operating Systems/Windows/Active Directory.md",
     "2. Enumeration/TCP/873. RSync/2. Usage.md",
@@ -222,12 +216,6 @@
     "3. Exploitation/Obtaining Remote Shells/Specific Shells/Web/Web.md",
     "3. Exploitation/Obtaining Remote Shells/Specific Shells/Web/PHP.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Applications/Apache.md",
-    "3. Exploitation/Known Exploits/Operating Systems/Windows/BlueKeep.md",
-    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/SSH Tunnelling.md",
-    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/DNS Tunnelling.md",
-    "3. Exploitation/Obtaining Remote Shells/1. Guide.md",
-    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Concepts/Vulnerabilities/File Upload Filtering Bypasses.md",
-    "3. Exploitation/Tooling/Metasploit.md",
     "3. Exploitation/Obtaining Remote Shells/Specific Shells/Web",
     "3. Exploitation/Known Exploits/Operating Systems/Linux/RaspberryPi",
     "3. Exploitation/Known Exploits/Operating Systems/Untitled",
@@ -239,7 +227,6 @@
     "7. Misc/Images/reverseshell.webp",
     "7. Misc/Images/bindshell.webp",
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Webservers",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption",
     "7. Misc/Images/openvas_report.webp",
     "7. Misc/Images/Pasted image 20240906140738.png",
     "7. Misc/Images/tooldev-dns.webp",
