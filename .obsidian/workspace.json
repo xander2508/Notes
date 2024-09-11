@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "staged",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,7 +187,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "89c9fc0aa8188c4b",
+  "active": "744b9316b7030f7b",
   "lastOpenFiles": [
     "3. Exploitation/Tooling/Metasploit Framework/1. Metasploit Usage.md",
     "4. Post-Exploitation/Upgrading Shells.md",
