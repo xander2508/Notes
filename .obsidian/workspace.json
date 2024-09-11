@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Exploitation/Tooling/Metasploit/1. Metasploit Usage.md",
+                "file": "3. Exploitation/Tooling/Metasploit/2. Meterpreter Shell.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "set path",
+                "query": "staged",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Exploitation/Tooling/Metasploit/1. Metasploit Usage.md",
+                "file": "3. Exploitation/Tooling/Metasploit/2. Meterpreter Shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Exploitation/Tooling/Metasploit/1. Metasploit Usage.md",
+                "file": "3. Exploitation/Tooling/Metasploit/2. Meterpreter Shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Exploitation/Tooling/Metasploit/1. Metasploit Usage.md"
+                "file": "3. Exploitation/Tooling/Metasploit/2. Meterpreter Shell.md"
               }
             }
           },
@@ -189,11 +189,13 @@
   },
   "active": "89c9fc0aa8188c4b",
   "lastOpenFiles": [
-    "3. Exploitation/Tooling/Metasploit/4. Information and Architecture.md",
+    "3. Exploitation/Remote Shells/Tooling/MSFVenom.md",
+    "3. Exploitation/Remote Shells/1. Guide.md",
     "3. Exploitation/Tooling/Metasploit/1. Metasploit Usage.md",
-    "3. Exploitation/1. Guide.md",
     "3. Exploitation/Tooling/Metasploit/2. Meterpreter Shell.md",
     "3. Exploitation/Tooling/Metasploit/3. Upload Modules.md",
+    "3. Exploitation/Tooling/Metasploit/4. Information and Architecture.md",
+    "3. Exploitation/1. Guide.md",
     "2. Enumeration/TCP/1433. MSSQL/1. Guide.md",
     "3. Exploitation/Tooling/Metasploit",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Vulnerabilities/Set User ID (SUID)/Path Hijacking.md",
@@ -211,12 +213,10 @@
     "5. Standard Information/Penetration Testing/Stages/1. Pre-Engagement/Contractors Agreement.md",
     "8. Reports/Hack the Box/Untitled.md",
     "2. Enumeration/TCP/445. Server Message Block (SMB)/1. Guide.md",
-    "3. Exploitation/Obtaining Remote Shells/Tooling/Nishang.md",
-    "3. Exploitation/Obtaining Remote Shells/Tooling/Laudanum, One Webshell to Rule Them All.md",
-    "3. Exploitation/Obtaining Remote Shells/Specific Shells/Web/ASPX.md",
-    "3. Exploitation/Obtaining Remote Shells/Specific Shells/Web/Web.md",
-    "3. Exploitation/Obtaining Remote Shells/Specific Shells/Web/PHP.md",
-    "3. Exploitation/Obtaining Remote Shells/Specific Shells/Web",
+    "3. Exploitation/Remote Shells/Tooling/Nishang.md",
+    "3. Exploitation/Remote Shells/Tooling/Laudanum, One Webshell to Rule Them All.md",
+    "3. Exploitation/Remote Shells/Specific Shells/Web/ASPX.md",
+    "3. Exploitation/Remote Shells/Specific Shells/Web",
     "3. Exploitation/Known Exploits/Operating Systems/Linux/RaspberryPi",
     "3. Exploitation/Known Exploits/Operating Systems/Untitled",
     "3. Exploitation/Operating Systems/Windows/Active Directory/Tooling",
