@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Searchsploit",
+                "query": "Packers",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -187,7 +188,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "89c9fc0aa8188c4b",
+  "active": "dcd2adc30e57ac2e",
   "lastOpenFiles": [
     "3. Exploitation/Remote Shells/Tooling/MSFVenom.md",
     "5. Standard Information/Security/Terminology/Security Policies.md",
