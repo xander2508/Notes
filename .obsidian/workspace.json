@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/2. Brute Forcing Guide.md",
+                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Attacking NTDS.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/2. Brute Forcing Guide.md",
+                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Attacking NTDS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/2. Brute Forcing Guide.md",
+                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Attacking NTDS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/2. Brute Forcing Guide.md"
+                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Attacking NTDS.md"
               }
             }
           },
@@ -187,15 +187,20 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "744b9316b7030f7b",
+  "active": "2782d1597e3544da",
   "lastOpenFiles": [
+    "4. Post-Exploitation/Operating Systems/Windows/1. Guide.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Attacking NTDS.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Passing the Hash.md",
+    "3. Exploitation/Remote Shells/Tooling/Evil-WinRM.md",
+    "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/CrackMapExec.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Attacking LSASS.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/2. Brute Forcing Guide.md",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Word List Generation/Username Anarchy.md",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/1. Wordlist and Password Guide.md",
     "1. Recon/Open Source Intelligence (OSINT)/Online Research.md",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/2. Password Generation.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Attacking LSASS.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Attacking SAM.md",
-    "4. Post-Exploitation/Operating Systems/Windows/1. Guide.md",
     "4. Post-Exploitation/Operating Systems/Windows/Tooling/Mimikatz.md",
     "7. Misc/Images/taskmanagerdump.webp",
     "5. Standard Information/Operating Systems/Windows/Security/Local Security Authority Subsystem Service (LSASS).md",
@@ -211,11 +216,6 @@
     "2. Enumeration/TCP/22. Secure Shell (SSH)/2. Information.md",
     "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/1. Guide.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Running Commands on Remote Computers.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Tooling/Hashcat.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/1. Guide.md",
-    "3. Exploitation/Operating Systems/Windows/Tooling/Impacket.md",
-    "4. Post-Exploitation/Valuable Files.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Valuable Files.md",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Brute Forcing",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Word List Generation",
     "5. Standard Information/Security/Terminology",
