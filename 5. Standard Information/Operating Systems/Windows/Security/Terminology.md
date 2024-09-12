@@ -5,13 +5,10 @@ tags:
   - Security
   - StandardInformation
 aliases:
-  - SAM
   - UAC
 ---
 
-## Security Accounts Manager (SAM) and Access Control Entries (ACE)
-
-SAM grants rights to a network to execute specific processes.
+## Access Control Entries (ACE)
 
 The access rights themselves are managed by Access Control Entries (ACE) in Access Control Lists (ACL). The ACLs contain ACEs that define which users, groups, or processes have access to a file or to execute a process, for example.
 
