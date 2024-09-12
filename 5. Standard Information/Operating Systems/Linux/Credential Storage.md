@@ -60,5 +60,7 @@ htb-student:x:1000:1000:,,,:/home/htb-student:/bin/bash
 | -------------- | ------------- | -------- | -------- | ------------ | -------------------- | --------------------------------- |
 | `<username>:`  | `<password>:` | `<uid>:` | `<gid>:` | `<comment>:` | `<home directory>:`  | `<cmd executed after logging in>` |
 
-The `x` in the password field indicates that the encrypted password is in the `/etc/shadow` file. However, the redirection to the `/etc/shadow` file does not make the users on the system invulnerable because if the rights of this file are set incorrectly, the file can be manipulated so that the user `root` does not need to type a password to log in. Therefore, an empty field means that we can log in with the username without entering a password.
+The `x` in the password field indicates that the encrypted password is in the `/etc/shadow` file. However, the redirection to the `/etc/shadow` file does not make the users on the system invulnerable because if the rights of this file are set incorrectly, the file can be manipulated so that the user `root` does not need to type a password to log in. 
+
+Therefore, an empty field means that we can log in with the username without entering a password.
 
