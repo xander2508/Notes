@@ -7,6 +7,9 @@ tags:
   - RID
   - SID
   - StandardInformation
+aliases:
+  - RID
+  - SID
 ---
 
 **Relative Identifiers (RID)** and **Security Identifiers (SID)** are key components in Windows operating systems for uniquely identifying and managing objects, such as users and groups, within a network domain.
