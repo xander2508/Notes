@@ -20,8 +20,8 @@ To create a timer for systemd, we need to create a directory where the timer scr
   Task Scheduling
 
 ```shell-session
-AlexanderOrley@htb[/htb]$ sudo mkdir /etc/systemd/system/mytimer.timer.d
-AlexanderOrley@htb[/htb]$ sudo vim /etc/systemd/system/mytimer.timer
+sudo mkdir /etc/systemd/system/mytimer.timer.d
+sudo vim /etc/systemd/system/mytimer.timer
 ```
 
 Next, we need to create a script that configures the timer. The script must contain the following options: "Unit", "Timer" and "Install". The "Unit" option specifies a description for the timer. The "Timer" option specifies when to start the timer and when to activate it. Finally, the "Install" option specifies where to install the timer.
@@ -49,7 +49,7 @@ Here it depends on how we want to use our script. For example, if we want to run
   Task Scheduling
 
 ```shell-session
-AlexanderOrley@htb[/htb]$ sudo vim /etc/systemd/system/mytimer.service
+sudo vim /etc/systemd/system/mytimer.service
 ```
 
 Here we set a description and specify the full path to the script we want to run. The "multi-user.target" is the unit system that is activated when starting a normal multi-user mode. It defines the services that should be started on a normal system startup.
@@ -74,7 +74,7 @@ After that, we have to let `systemd` read the folders again to include the cha
   Task Scheduling
 
 ```shell-session
-AlexanderOrley@htb[/htb]$ sudo systemctl daemon-reload
+sudo systemctl daemon-reload
 ```
 
 After that, we can use `systemctl` to `start` the service manually and `enable` the autostart.
@@ -84,6 +84,6 @@ After that, we can use `systemctl` to `start` the service manually and `ena
   Task Scheduling
 
 ```shell-session
-AlexanderOrley@htb[/htb]$ sudo systemctl start mytimer.service
-AlexanderOrley@htb[/htb]$ sudo systemctl enable mytimer.service
+sudo systemctl start mytimer.service
+sudo systemctl enable mytimer.service
 ```

@@ -16,7 +16,7 @@ In short, the `/etc/hosts.allow` file specifies which services and hosts are a
 #### /etc/hosts.allow
 
 ```shell-session
-AlexanderOrley@htb[/htb]$ cat /etc/hosts.allow
+cat /etc/hosts.allow
 
 # Allow access to SSH from the local network
 sshd : 10.129.14.0/24
@@ -32,7 +32,7 @@ telnetd : .inlanefreight.local
 
 
 ```shell-session
-AlexanderOrley@htb[/htb]$ cat /etc/hosts.deny
+cat /etc/hosts.deny
 
 # Deny access to all services from any host in the inlanefreight.com domain
 ALL : .inlanefreight.com

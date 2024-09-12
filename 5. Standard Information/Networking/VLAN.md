@@ -13,7 +13,7 @@ To assign a network adapter a `VLAN` in Linux, many tools can be used, such as
   VLANs
 
 ```shell-session
-AlexanderOrley@htb[/htb]$ sudo modprobe 8021q
+sudo modprobe 8021q
 ```
 
 Subsequently, we can use `lsmod` to make sure `8021q` was loaded successfully:
@@ -21,7 +21,7 @@ Subsequently, we can use `lsmod` to make sure `8021q` was loaded successfull
   VLANs
 
 ```shell-session
-AlexanderOrley@htb[/htb]$ lsmod | grep 8021
+lsmod | grep 8021
 
 8021q                  40960  0
 garp                   16384  1 8021q
@@ -33,7 +33,7 @@ Now, we need to find the name of the physical `Ethernet` interface that we wil
   VLANs
 
 ```shell-session
-AlexanderOrley@htb[/htb]$ ip a
+ip a
 
 <SNIP>
 2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
@@ -51,7 +51,7 @@ Then, we will use `vconfig` to create a new interface that is a member of the 
   VLANs
 
 ```shell-session
-AlexanderOrley@htb[/htb]$ sudo vconfig add eth0 20
+sudo vconfig add eth0 20
 
 Warning: vconfig is deprecated and might be removed in the future, please migrate to ip(route2) as soon as possible!
 ```
@@ -69,7 +69,7 @@ Either of these commands will make a new interface called `eth0.20@eth0`:
   VLANs
 
 ```shell-session
-AlexanderOrley@htb[/htb]$ ip a
+ip a
 
 <SNIP>
 4: eth0.20@eth0: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN group default qlen 1000
