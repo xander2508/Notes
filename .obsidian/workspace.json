@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Security/Windows Authentication Process.md",
+                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Tooling/John the Ripper.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Security/Windows Authentication Process.md",
+                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Tooling/John the Ripper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Security/Windows Authentication Process.md",
+                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Tooling/John the Ripper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Security/Windows Authentication Process.md"
+                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Tooling/John the Ripper.md"
               }
             }
           },
@@ -189,9 +189,10 @@
   },
   "active": "2782d1597e3544da",
   "lastOpenFiles": [
+    "5. Standard Information/Operating Systems/Windows/Security/Credential Manager.md",
+    "5. Standard Information/Operating Systems/Windows/Security/Windows Authentication Process.md",
     "5. Standard Information/Operating Systems/Windows/Security/Local Security Authority Subsystem Service (LSASS).md",
     "5. Standard Information/Operating Systems/Windows/Security/Local Group Policy.md",
-    "5. Standard Information/Operating Systems/Windows/Security/Windows Authentication Process.md",
     "5. Standard Information/Operating Systems/Windows/Security/Security Account Manager (SAM).md",
     "5. Standard Information/Operating Systems/Windows/Security/Terminology.md",
     "5. Standard Information/Operating Systems/Windows/Security/Relative Identifiers (RID) and Security Identifiers (SID).md",
@@ -215,7 +216,6 @@
     "3. Exploitation/Tooling/Metasploit Framework/8. Useful Modules.md",
     "3. Exploitation/Tooling/Metasploit Framework/3. Upload Modules.md",
     "3. Exploitation/Tooling/Searchsploit.md",
-    "3. Exploitation/1. Guide.md",
     "3. Exploitation/Tooling/Metasploit Framework",
     "3. Exploitation/Remote Shells/Specific Shells/Web",
     "3. Exploitation/Known Exploits/Operating Systems/Linux/RaspberryPi",

@@ -12,17 +12,22 @@ The security subsystem keeps track of the security policies and accounts that re
 
 ![](https://academy.hackthebox.com/storage/modules/147/Auth_process1.png)
 
-Local interactive logon is performed by the interaction between the logon process ([WinLogon](https://www.microsoftpressstore.com/articles/article.aspx?p=2228450&seqNum=8)), the logon user interface process (`LogonUI`), the `credential providers`, `LSASS`, one or more `authentication packages`, and `SAM` or `Active Directory`. Authentication packages, in this case, are the Dynamic-Link Libraries (`DLLs`) that perform authentication checks. For example, for non-domain joined and interactive logins, the authentication package `Msv1_0.dll` is used.
+Local interactive logon is performed by the interaction between the logon process ([WinLogon](https://www.microsoftpressstore.com/articles/article.aspx?p=2228450&seqNum=8)), the logon user interface process (`LogonUI`), the [[Credential Manager]], [[Local Security Authority Subsystem Service (LSASS)]], one or more `authentication packages`, and [[Security Account Manager (SAM)|SAM]] or `Active Directory`. Authentication packages, in this case, are the Dynamic-Link Libraries (`DLLs`) that perform authentication checks. For example, for non-domain joined and interactive logins, the authentication package `Msv1_0.dll` is used.
 
 `Winlogon` is a trusted process responsible for managing security-related user interactions. These include:
 
 - Launching `LogonUI` to enter passwords at login
-    
 - Changing passwords
-    
 - Locking and unlocking the workstation
-    
 
 It relies on credential providers installed on the system to obtain a user's account name or password. Credential providers are `COM` objects that are located in DLLs.
 
-Winlogon is the only process that intercepts login requests from the keyboard sent via an RPC message from Win32k.sys. Winlogon immediately launches the `LogonUI` application at logon to display the user interface for logon. After Winlogon obtains a user name and password from the credential providers, it calls LSASS to authenticate the user attempting to log in.
+Winlogon is the only process that intercepts login requests from the keyboard sent via an RPC message from Win32k.sys. Winlogon immediately launches the `LogonUI` application at logon to display the user interface for logon. After Winlogon obtains a user name and password from the credential providers, it calls [[Local Security Authority Subsystem Service (LSASS)|LSASS]] to authenticate the user attempting to log in.
+#### NTDS
+
+It is very common to come across network environments where Windows systems are joined to a Windows domain. This is common because it makes it easier for admins to manage all the systems owned by their respective organizations (centralized management). In these cases, the Windows systems will send all logon requests to Domain Controllers that belong to the same Active Directory forest. Each Domain Controller hosts a file called `NTDS.dit` that is kept synchronized across all Domain Controllers with the exception of [Read-Only Domain Controllers](https://docs.microsoft.com/en-us/windows/win32/ad/rodc-and-active-directory-schema). NTDS.dit is a database file that stores the data in Active Directory, including but not limited to:
+
+- User accounts (username & password hash)
+- Group accounts
+- Computer accounts
+- Group policy objects
