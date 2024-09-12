@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Attacking NTDS.md",
+                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Credential Hunting.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Attacking NTDS.md",
+                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Credential Hunting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Attacking NTDS.md",
+                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Credential Hunting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Attacking NTDS.md"
+                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Credential Hunting.md"
               }
             }
           },
@@ -189,23 +189,26 @@
   },
   "active": "2782d1597e3544da",
   "lastOpenFiles": [
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Saved Credentials.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Credential Hunting.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Attacking NTDS.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials",
     "4. Post-Exploitation/Operating Systems/Windows/1. Guide.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Attacking NTDS.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Passing the Hash.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Passing the Hash.md",
     "3. Exploitation/Remote Shells/Tooling/Evil-WinRM.md",
     "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/CrackMapExec.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Attacking LSASS.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Attacking LSASS.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/2. Brute Forcing Guide.md",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Word List Generation/Username Anarchy.md",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/1. Wordlist and Password Guide.md",
     "1. Recon/Open Source Intelligence (OSINT)/Online Research.md",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/2. Password Generation.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Attacking SAM.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Attacking SAM.md",
     "4. Post-Exploitation/Operating Systems/Windows/Tooling/Mimikatz.md",
     "7. Misc/Images/taskmanagerdump.webp",
     "5. Standard Information/Operating Systems/Windows/Security/Local Security Authority Subsystem Service (LSASS).md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/AppLocker.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Remote Dumping & LSA Secrets Considerations.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Remote Dumping & LSA Secrets Considerations.md",
     "2. Enumeration/TCP/389. Lightweight Directory Access Protocol (LDAP)/Tooling/LDAPSearch.md",
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Webservers.md",
     "5. Standard Information/Networking/VLAN.md",
@@ -214,8 +217,6 @@
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/Fuzzy Hashing (SSDEEP).md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Concepts/Information/Basic HTTP Authentication.md",
     "2. Enumeration/TCP/22. Secure Shell (SSH)/2. Information.md",
-    "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/1. Guide.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Running Commands on Remote Computers.md",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Brute Forcing",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Word List Generation",
     "5. Standard Information/Security/Terminology",
@@ -225,7 +226,6 @@
     "3. Exploitation/Known Exploits/Operating Systems/Untitled",
     "3. Exploitation/Operating Systems/Windows/Active Directory/Tooling",
     "3. Exploitation/Known Exploits/Operating Systems/Windows",
-    "3. Exploitation/Operating Systems",
     "7. Misc/Images/reverseshell.webp",
     "7. Misc/Images/bindshell.webp",
     "7. Misc/Images/openvas_report.webp",
