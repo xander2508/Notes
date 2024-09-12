@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Attacking LSASS.md",
+                "file": "1. Recon/Open Source Intelligence (OSINT)/Online Research.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Attacking LSASS.md",
+                "file": "1. Recon/Open Source Intelligence (OSINT)/Online Research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Attacking LSASS.md",
+                "file": "1. Recon/Open Source Intelligence (OSINT)/Online Research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Attacking LSASS.md"
+                "file": "1. Recon/Open Source Intelligence (OSINT)/Online Research.md"
               }
             }
           },
@@ -189,8 +189,10 @@
   },
   "active": "2782d1597e3544da",
   "lastOpenFiles": [
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Attacking SAM.md",
+    "4. Post-Exploitation/Cryptography/Passwords and Wordlists/2. Password Generation.md",
+    "4. Post-Exploitation/Cryptography/Passwords and Wordlists/1. Wordlist and Password Guide.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Attacking LSASS.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Attacking SAM.md",
     "4. Post-Exploitation/Operating Systems/Windows/1. Guide.md",
     "4. Post-Exploitation/Operating Systems/Windows/Tooling/Mimikatz.md",
     "7. Misc/Images/taskmanagerdump.webp",
@@ -214,8 +216,6 @@
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Valuable Files.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Generic Enumeration Commands.md",
     "4. Post-Exploitation/Operating Systems/Windows/Tooling/SamDump.md",
-    "4. Post-Exploitation/Cryptography/Passwords and Wordlists/1. Wordlist and Password Guide.md",
-    "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Brute Forcing/Hydra.md",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Brute Forcing",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Word List Generation",
     "5. Standard Information/Security/Terminology",
