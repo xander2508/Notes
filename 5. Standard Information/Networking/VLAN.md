@@ -81,8 +81,8 @@ Then, based on the `subnet` assigned to the addresses with `VLAN 20` within 
   VLANs
 
 ```shell-session
-AlexanderOrley@htb[/htb]$ sudo ip addr add 192.168.1.1/24 dev eth0.20
-AlexanderOrley@htb[/htb]$ sudo ip link set up eth0.20
+sudo ip addr add 192.168.1.1/24 dev eth0.20
+sudo ip link set up eth0.20
 ```
 
 At last, we can check whether the interface has changed states to up:
@@ -90,7 +90,7 @@ At last, we can check whether the interface has changed states to up:
   VLANs
 
 ```shell-session
-AlexanderOrley@htb[/htb]$ ip a | grep eth0.20
+ip a | grep eth0.20
 
 4: eth0.20@eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue state UP group default qlen 1000
     inet 192.168.1.1/24 scope global eth0.20

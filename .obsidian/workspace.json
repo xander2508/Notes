@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Networking/VLAN.md",
+                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Attacking SAM.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "alexander",
+                "query": "orley",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,8 +75,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Networking/VLAN.md",
+                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Attacking SAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Networking/VLAN.md",
+                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Attacking SAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Networking/VLAN.md"
+                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Attacking SAM.md"
               }
             }
           },
@@ -190,16 +189,19 @@
   },
   "active": "2782d1597e3544da",
   "lastOpenFiles": [
+    "4. Post-Exploitation/Operating Systems/Windows/1. Guide.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Remote Dumping & LSA Secrets Considerations.md",
+    "2. Enumeration/TCP/389. Lightweight Directory Access Protocol (LDAP)/Tooling/LDAPSearch.md",
+    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Webservers.md",
+    "5. Standard Information/Networking/VLAN.md",
     "5. Standard Information/Operating Systems/Linux/Hardening/TCP wrappers.md",
     "5. Standard Information/Operating Systems/Linux/Task Scheduling/Systemd.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/Fuzzy Hashing (SSDEEP).md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Concepts/Information/Basic HTTP Authentication.md",
     "2. Enumeration/TCP/22. Secure Shell (SSH)/2. Information.md",
     "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/1. Guide.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Remote Dumping & LSA Secrets Considerations.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Running Commands on Remote Computers.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Attacking SAM.md",
-    "4. Post-Exploitation/Operating Systems/Windows/1. Guide.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Tooling/Hashcat.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/1. Guide.md",
     "3. Exploitation/Operating Systems/Windows/Tooling/Impacket.md",
@@ -213,9 +215,6 @@
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Brute Forcing/Patator.md",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Word List Generation/CUPP.md",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Word List Generation/Crunch.md",
-    "5. Standard Information/Security/Terminology/Authentication.md",
-    "5. Standard Information/Security/Terminology/Confidentiality, Integrity, and Availability.md",
-    "5. Standard Information/Security/Terminology/Security Policies.md",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Brute Forcing",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Word List Generation",
     "5. Standard Information/Security/Terminology",
