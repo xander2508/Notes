@@ -10,7 +10,7 @@ Multithreaded Perl script to enumerate DNS information of a domain and to discov
 
 [GitHub - fwaeytens/DnsEnum: DnsEnum is a Perl script that enumerates DNS information](https://github.com/fwaeytens/dnsenum)
 
-Wordlist: [[1. Wordlist Guide#DNS Enumeration|DNS Enumeration]]
+Wordlist: [[1. Wordlist and Password Guide#DNS Enumeration|DNS Enumeration]]
 
 # Usage
 

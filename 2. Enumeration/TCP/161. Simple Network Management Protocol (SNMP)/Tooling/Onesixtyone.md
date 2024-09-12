@@ -4,7 +4,7 @@
 
 ## Usage 
 
-Wordlists: [[1. Wordlist Guide#SNMP Community Strings|SNMP Community Strings]]
+Wordlists: [[1. Wordlist and Password Guide#SNMP Community Strings|SNMP Community Strings]]
 
 ```shell-session
 onesixtyone -c /opt/useful/SecLists/Discovery/SNMP/snmp.txt 10.129.14.128
