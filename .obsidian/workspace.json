@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Linux/Credential Storage.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Security/Windows Authentication Process.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 379.5
   },
   "right": {
     "id": "ab865be945a38766",
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Linux/Credential Storage.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Security/Windows Authentication Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Linux/Credential Storage.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Security/Windows Authentication Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Linux/Credential Storage.md"
+                "file": "5. Standard Information/Operating Systems/Windows/Security/Windows Authentication Process.md"
               }
             }
           },
@@ -201,8 +201,11 @@
   },
   "active": "2782d1597e3544da",
   "lastOpenFiles": [
-    "5. Standard Information/Operating Systems/Linux/File System Hierarchy.md",
+    "5. Standard Information/Operating Systems/Windows/Security/User Permissions.md",
+    "5. Standard Information/Operating Systems/Windows/Security/Windows Authentication Process.md",
+    "5. Standard Information/Operating Systems/Windows/Security/Terminology.md",
     "5. Standard Information/Operating Systems/Linux/Credential Storage.md",
+    "5. Standard Information/Operating Systems/Linux/File System Hierarchy.md",
     "5. Standard Information/Security/Terminology/Authentication.md",
     "5. Standard Information/Security/Terminology/Confidentiality, Integrity, and Availability.md",
     "5. Standard Information/Penetration Testing/Reporting/Common Vulnerability Scoring System (CVSS).md",
@@ -225,9 +228,6 @@
     "4. Post-Exploitation/Operating Systems/1. Guide.md",
     "3. Exploitation/Tooling/Metasploit Framework/6. Plugins.md",
     "4. Post-Exploitation/Upgrading Shells.md",
-    "3. Exploitation/Tooling/Metasploit Framework/5. Databases.md",
-    "1. Recon/Port Scanning/Tooling/Nmap/Options.md",
-    "3. Exploitation/Remote Shells/Tooling/Netcat.md",
     "3. Exploitation/Tooling/Metasploit Framework",
     "3. Exploitation/Remote Shells/Specific Shells/Web",
     "3. Exploitation/Known Exploits/Operating Systems/Linux/RaspberryPi",
