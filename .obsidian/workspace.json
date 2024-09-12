@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Exploitation/Operating Systems/Windows/Tooling/Impacket.md",
+                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Attacking SAM.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Exploitation/Operating Systems/Windows/Tooling/Impacket.md",
+                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Attacking SAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Exploitation/Operating Systems/Windows/Tooling/Impacket.md",
+                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Attacking SAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Exploitation/Operating Systems/Windows/Tooling/Impacket.md"
+                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Attacking SAM.md"
               }
             }
           },
@@ -189,8 +189,8 @@
   },
   "active": "2782d1597e3544da",
   "lastOpenFiles": [
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Attacking SAM.md",
     "3. Exploitation/Operating Systems/Windows/Tooling/Impacket.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Attacking SAM.md",
     "4. Post-Exploitation/Valuable Files.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Valuable Files.md",
     "4. Post-Exploitation/Operating Systems/Windows/1. Guide.md",
