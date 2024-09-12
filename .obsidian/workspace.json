@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lsa",
+                "query": "sam database",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,7 +188,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "2782d1597e3544da",
+  "active": "dcd2adc30e57ac2e",
   "lastOpenFiles": [
     "5. Standard Information/Operating Systems/Windows/Services/1. Windows Services & Processes.md",
     "5. Standard Information/Operating Systems/Windows/Security/Windows Authentication Process.md",
