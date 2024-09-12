@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2198eda9e7836a19",
+        "id": "64ee459d3f170353",
         "type": "tabs",
         "children": [
           {
-            "id": "2782d1597e3544da",
+            "id": "96627d9e8ff03d8d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Linux Credential Hunting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b6b9349f4b37f48",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "orley",
+                "query": "tag:/3. Exploitation/Known Exploits/Applications",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 486.5
+    "width": 459.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,17 +172,20 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": true,
       "table-editor-obsidian:Advanced Tables Toolbar": true,
       "obsidian-importer:Open Importer": true,
-      "templates:Insert template": false,
+      "templates:Insert template": true,
       "canvas:Create new canvas": true,
       "command-palette:Open command palette": false,
       "smart-connections:Open: View Smart Connections": false,
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "2b6b9349f4b37f48",
+  "active": "96627d9e8ff03d8d",
   "lastOpenFiles": [
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Windows Credential Hunting.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Impersonate Users.md",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Linux Credential Hunting.md",
+    "3. Exploitation/Known Exploits/Applications/Tmux.md",
+    "1. Recon/1. Guide.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Windows Credential Hunting.md",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Valuable Files.md",
     "4. Post-Exploitation/Valuable Files.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Valuable Files.md",
@@ -218,9 +209,6 @@
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Attacking SAM.md",
     "4. Post-Exploitation/Operating Systems/Windows/Tooling/Mimikatz.md",
     "7. Misc/Images/taskmanagerdump.webp",
-    "5. Standard Information/Operating Systems/Windows/Security/Local Security Authority Subsystem Service (LSASS).md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/AppLocker.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Remote Dumping & LSA Secrets Considerations.md",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Brute Forcing",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Word List Generation",
     "5. Standard Information/Security/Terminology",
