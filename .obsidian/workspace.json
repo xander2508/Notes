@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Valuable Files.md",
+                "file": "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Linux Credential Hunting.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "2b6b9349f4b37f48",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Valuable Files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Valuable Files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Valuable Files.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,11 +191,15 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "2782d1597e3544da",
+  "active": "2b6b9349f4b37f48",
   "lastOpenFiles": [
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Windows Credential Hunting.md",
+    "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Linux Credential Hunting.md",
+    "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Valuable Files.md",
     "4. Post-Exploitation/Valuable Files.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Valuable Files.md",
+    "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Capabilities.md",
     "4. Post-Exploitation/Operating Systems/Windows/1. Guide.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Credential Hunting.md",
     "4. Post-Exploitation/Operating Systems/Windows/Tooling/The LaZagne Project.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Saved Credentials.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Generic Enumeration Commands.md",
@@ -212,10 +221,6 @@
     "5. Standard Information/Operating Systems/Windows/Security/Local Security Authority Subsystem Service (LSASS).md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/AppLocker.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Remote Dumping & LSA Secrets Considerations.md",
-    "2. Enumeration/TCP/389. Lightweight Directory Access Protocol (LDAP)/Tooling/LDAPSearch.md",
-    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Webservers.md",
-    "5. Standard Information/Networking/VLAN.md",
-    "5. Standard Information/Operating Systems/Linux/Hardening/TCP wrappers.md",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Brute Forcing",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Word List Generation",
     "5. Standard Information/Security/Terminology",
