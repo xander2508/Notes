@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Security/Terminology/Authentication.md",
+                "file": "5. Standard Information/Operating Systems/Linux/Credential Storage.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Security/Terminology/Authentication.md",
+                "file": "5. Standard Information/Operating Systems/Linux/Credential Storage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Security/Terminology/Authentication.md",
+                "file": "5. Standard Information/Operating Systems/Linux/Credential Storage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Security/Terminology/Authentication.md"
+                "file": "5. Standard Information/Operating Systems/Linux/Credential Storage.md"
               }
             }
           },
@@ -201,8 +201,10 @@
   },
   "active": "2782d1597e3544da",
   "lastOpenFiles": [
-    "5. Standard Information/Security/Terminology/Confidentiality, Integrity, and Availability.md",
+    "5. Standard Information/Operating Systems/Linux/File System Hierarchy.md",
+    "5. Standard Information/Operating Systems/Linux/Credential Storage.md",
     "5. Standard Information/Security/Terminology/Authentication.md",
+    "5. Standard Information/Security/Terminology/Confidentiality, Integrity, and Availability.md",
     "5. Standard Information/Penetration Testing/Reporting/Common Vulnerability Scoring System (CVSS).md",
     "5. Standard Information/Security/Terminology/Endpoint Protection.md",
     "5. Standard Information/Recommended Books.md",
@@ -226,8 +228,6 @@
     "3. Exploitation/Tooling/Metasploit Framework/5. Databases.md",
     "1. Recon/Port Scanning/Tooling/Nmap/Options.md",
     "3. Exploitation/Remote Shells/Tooling/Netcat.md",
-    "3. Exploitation/Remote Shells/Tooling/Mythic C2 Framework.md",
-    "3. Exploitation/Remote Shells/1. Guide.md",
     "3. Exploitation/Tooling/Metasploit Framework",
     "3. Exploitation/Remote Shells/Specific Shells/Web",
     "3. Exploitation/Known Exploits/Operating Systems/Linux/RaspberryPi",
