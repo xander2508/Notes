@@ -23,6 +23,13 @@ sudo apt-get -y install crackmapexec
 
 ## Usage
 
+```shell-session
+crackmapexec <proto> <target-IP> -u <user or userlist> -p <password or passwordlist>
+```
+
+```shell-session
+crackmapexec winrm 10.129.42.197 -u user.list -p password.list
+```
 ### Options
 
 ```shell-session
