@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
+                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Passing the Hash.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ntlm",
+                "query": "tar xf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
+                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Passing the Hash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
+                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Passing the Hash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md"
+                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Passing the Hash.md"
               }
             }
           },
@@ -189,6 +189,10 @@
   },
   "active": "db628a84a9871698",
   "lastOpenFiles": [
+    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
+    "3. Exploitation/File Types and Data/ZIP.md",
+    "3. Exploitation/File Types and Data/Languages/Bat (Batch).md",
+    "3. Exploitation/File Types and Data/Tape Archiver (Tar).md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Passing the Hash.md",
     "4. Post-Exploitation/Operating Systems/Windows/Tooling/pth-toolkit.md",
     "4. Post-Exploitation/Operating Systems/Windows/Tooling/Mimikatz.md",
@@ -210,11 +214,6 @@
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Tooling/John the Ripper.md",
     "5. Standard Information/Operating Systems/Linux/Credential Storage.md",
     "5. Standard Information/Operating Systems/Linux/Components.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Tooling/The LaZagne Project.md",
-    "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Linux Credential Hunting.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/Firefox Decrypt.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/mRemoteNG Encryption.md",
-    "4. Post-Exploitation/Operating Systems/Linux/Tooling/Linux Exploit Suggester.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials",
     "7. Misc/Images/taskmanagerdump.webp",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Brute Forcing",
