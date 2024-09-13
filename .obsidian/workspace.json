@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Tooling/Mimikatz.md",
+                "file": "5. Standard Information/Operating Systems/Windows/PowerShell/PowerShell Remoting.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "powershell remoting",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Tooling/Mimikatz.md",
+                "file": "5. Standard Information/Operating Systems/Windows/PowerShell/PowerShell Remoting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Tooling/Mimikatz.md",
+                "file": "5. Standard Information/Operating Systems/Windows/PowerShell/PowerShell Remoting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Tooling/Mimikatz.md"
+                "file": "5. Standard Information/Operating Systems/Windows/PowerShell/PowerShell Remoting.md"
               }
             }
           },
@@ -187,11 +187,12 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "744b9316b7030f7b",
+  "active": "db628a84a9871698",
   "lastOpenFiles": [
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Pass the Ticket (PtT).md",
-    "4. Post-Exploitation/Operating Systems/Windows/Tooling/Rubeus.md",
+    "5. Standard Information/Operating Systems/Windows/PowerShell/PowerShell Remoting.md",
     "4. Post-Exploitation/Operating Systems/Windows/Tooling/Mimikatz.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Tooling/Rubeus.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Pass the Hash (PtH).md",
     "4. Post-Exploitation/Operating Systems/Windows/Tooling/Quasar Remote Access Tool (GUI).md",
     "5. Standard Information/Operating Systems/Windows/Kerberos.md",
@@ -214,7 +215,6 @@
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Reused Hosts and Repeated Credentials.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Process Injection.md",
     "3. Exploitation/Remote Shells/1. Guide.md",
-    "3. Exploitation/Remote Shells/Tooling/Reverse Shell Generator.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials",
     "7. Misc/Images/taskmanagerdump.webp",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Brute Forcing",
