@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Pass the Ticket (PtT).md",
+                "file": "4. Post-Exploitation/Operating Systems/Windows/Tooling/Mimikatz.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Kerberos",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Pass the Ticket (PtT).md",
+                "file": "4. Post-Exploitation/Operating Systems/Windows/Tooling/Mimikatz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Pass the Ticket (PtT).md",
+                "file": "4. Post-Exploitation/Operating Systems/Windows/Tooling/Mimikatz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Pass the Ticket (PtT).md"
+                "file": "4. Post-Exploitation/Operating Systems/Windows/Tooling/Mimikatz.md"
               }
             }
           },
@@ -187,10 +187,10 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "db628a84a9871698",
+  "active": "744b9316b7030f7b",
   "lastOpenFiles": [
-    "4. Post-Exploitation/Operating Systems/Windows/Tooling/Rubeus.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Pass the Ticket (PtT).md",
+    "4. Post-Exploitation/Operating Systems/Windows/Tooling/Rubeus.md",
     "4. Post-Exploitation/Operating Systems/Windows/Tooling/Mimikatz.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Pass the Hash (PtH).md",
     "4. Post-Exploitation/Operating Systems/Windows/Tooling/Quasar Remote Access Tool (GUI).md",
