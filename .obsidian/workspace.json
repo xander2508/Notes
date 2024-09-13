@@ -75,8 +75,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -190,11 +189,14 @@
   },
   "active": "db628a84a9871698",
   "lastOpenFiles": [
+    "3. Exploitation/Remote Shells/Tooling/Evil-WinRM.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Passing the Hash.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Tooling/pth-toolkit.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Tooling/PsGetSystem.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/NTLM and LM.md",
     "3. Exploitation/Tooling/Metasploit Framework/5. Databases.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/File Encryption.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Windows PowerShell Password Encryption.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Passing the Hash.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Tooling/John the Ripper.md",
     "5. Standard Information/Operating Systems/Linux/Credential Storage.md",
     "5. Standard Information/Operating Systems/Linux/Components.md",
@@ -213,9 +215,6 @@
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Valuable Files.md",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Capabilities.md",
     "4. Post-Exploitation/Operating Systems/Windows/1. Guide.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Saved Credentials.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Generic Enumeration Commands.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Tooling/Aclpwn.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials",
     "7. Misc/Images/taskmanagerdump.webp",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Brute Forcing",
