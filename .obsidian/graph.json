@@ -1,58 +1,22 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:\"1. Recon\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
-      "query": "path:\"2. Enumeration\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 65280
-      }
-    },
-    {
-      "query": "path:\"3. Exploitation\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 255
-      }
-    },
-    {
-      "query": "path:\"4. Post-Exploitation\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16711854
-      }
-    },
-    {
-      "query": "path:\"5. Standard Information\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 2.42239583333333,
   "lineSizeMultiplier": 0.738020833333333,
   "collapse-forces": false,
-  "centerStrength": 0.192708333333333,
+  "centerStrength": 0,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.007812500000000047,
+  "scale": 0.021528718442430424,
   "close": false
 }
