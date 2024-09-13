@@ -34,6 +34,7 @@ The encryption of the password in this file is formatted as follows:
 | `$ <id>` | `$ <salt>` | `$ <hashed>`                  |
 | -------- | ---------- | ----------------------------- |
 | `$ y`    | `$ j9T`    | `$ 3QSBB6CbHEu...SNIP...f8Ms` |
+If the password field contains a character, such as `!` or `*`, the user cannot log in with a Unix password. However, other authentication methods for logging in, such as Kerberos or key-based authentication, can still be used. The same case applies if the `encrypted password` field is empty. This means that no password is required for the login.
 
 The type (`id`) is the cryptographic hash method used to encrypt the password. Many different cryptographic hash methods were used in the past and are still used by some systems today.
 
@@ -73,4 +74,21 @@ root::0:0:root:/root:/bin/bash
 The `x` in the password field indicates that the encrypted password is in the `/etc/shadow` file. However, the redirection to the `/etc/shadow` file does not make the users on the system invulnerable because if the rights of this file are set incorrectly, the file can be manipulated so that the user `root` does not need to type a password to log in. 
 
 Therefore, an empty field means that we can log in with the username without entering a password.
+
+## Opasswd
+
+The PAM library (`pam_unix.so`) can prevent reusing old passwords. The file where old passwords are stored is the `/etc/security/opasswd`. Administrator/root permissions are also required to read the file if the permissions for this file have not been changed manually.
+
+Another critical point to pay attention to is the hashing type that has been used. This is because the `MD5` (`$1$`) algorithm is much easier to crack than SHA-512. This is especially important for identifying old passwords and maybe even their pattern because they are often used across several services or applications. We increase the probability of guessing the correct password many times over based on its pattern.
+
+
+
+
+
+
+
+
+
+
+
 

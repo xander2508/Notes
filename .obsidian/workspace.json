@@ -189,6 +189,8 @@
   },
   "active": "58a6757ba61a97e8",
   "lastOpenFiles": [
+    "5. Standard Information/Operating Systems/Linux/Components.md",
+    "5. Standard Information/Operating Systems/Linux/Credential Storage.md",
     "4. Post-Exploitation/Operating Systems/Windows/Tooling/The LaZagne Project.md",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Linux Credential Hunting.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/Firefox Decrypt.md",
@@ -214,8 +216,6 @@
     "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/CrackMapExec.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Attacking LSASS.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/2. Brute Forcing Guide.md",
-    "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Word List Generation/Username Anarchy.md",
-    "4. Post-Exploitation/Cryptography/Passwords and Wordlists/1. Wordlist and Password Guide.md",
     "7. Misc/Images/taskmanagerdump.webp",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Brute Forcing",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Word List Generation",
