@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/NTLM and LM.md",
+                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Passing the Hash.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/NTLM and LM.md",
+                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Passing the Hash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/NTLM and LM.md",
+                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Passing the Hash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/NTLM and LM.md"
+                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Passing the Hash.md"
               }
             }
           },
@@ -190,6 +190,7 @@
   },
   "active": "db628a84a9871698",
   "lastOpenFiles": [
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/NTLM and LM.md",
     "3. Exploitation/Tooling/Metasploit Framework/5. Databases.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/File Encryption.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Windows PowerShell Password Encryption.md",
@@ -215,7 +216,6 @@
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Saved Credentials.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Generic Enumeration Commands.md",
     "4. Post-Exploitation/Operating Systems/Windows/Tooling/Aclpwn.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Attacking NTDS.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials",
     "7. Misc/Images/taskmanagerdump.webp",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Brute Forcing",
