@@ -19,3 +19,6 @@ xfreerdp /v:<targetIp> /u:User /p:Password
 ```shell-session
 xfreerdp /u:Administrator /p:'HTB_@cad3my_lab_W1n10_r00t!@0' /v:10.129.23.147 /dynamic-resolution
 ```
+
+
+## Pass the Hash
