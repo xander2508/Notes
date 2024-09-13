@@ -189,9 +189,9 @@
   },
   "active": "db628a84a9871698",
   "lastOpenFiles": [
-    "4. Post-Exploitation/Operating Systems/Windows/Tooling/Mimikatz.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Pass the Ticket (PtT).md",
     "4. Post-Exploitation/Operating Systems/Windows/Tooling/Rubeus.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Pass the Ticket (PtT).md",
+    "4. Post-Exploitation/Operating Systems/Windows/Tooling/Mimikatz.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Pass the Hash (PtH).md",
     "4. Post-Exploitation/Operating Systems/Windows/Tooling/Quasar Remote Access Tool (GUI).md",
     "5. Standard Information/Operating Systems/Windows/Kerberos.md",
