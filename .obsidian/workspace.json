@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Tooling/The LaZagne Project.md",
+                "file": "5. Standard Information/Operating Systems/Linux/Credential Storage.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Tooling/The LaZagne Project.md",
+                "file": "5. Standard Information/Operating Systems/Linux/Credential Storage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Tooling/The LaZagne Project.md",
+                "file": "5. Standard Information/Operating Systems/Linux/Credential Storage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Tooling/The LaZagne Project.md"
+                "file": "5. Standard Information/Operating Systems/Linux/Credential Storage.md"
               }
             }
           },
@@ -189,10 +189,10 @@
   },
   "active": "58a6757ba61a97e8",
   "lastOpenFiles": [
+    "4. Post-Exploitation/Operating Systems/Windows/Tooling/The LaZagne Project.md",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Linux Credential Hunting.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/Firefox Decrypt.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/mRemoteNG Encryption.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Tooling/The LaZagne Project.md",
     "4. Post-Exploitation/Operating Systems/Linux/Tooling/Linux Exploit Suggester.md",
     "4. Post-Exploitation/Operating Systems/Linux/Tooling/MimiPenguin.md",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Valuable Files.md",
