@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Tooling/Rubeus.md",
+                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Pass the Ticket (PtT).md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Tooling/Rubeus.md",
+                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Pass the Ticket (PtT).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Tooling/Rubeus.md",
+                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Pass the Ticket (PtT).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Tooling/Rubeus.md"
+                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Pass the Ticket (PtT).md"
               }
             }
           },
@@ -189,10 +189,11 @@
   },
   "active": "db628a84a9871698",
   "lastOpenFiles": [
-    "4. Post-Exploitation/Operating Systems/Windows/Tooling/Quasar Remote Access Tool (GUI).md",
-    "4. Post-Exploitation/Operating Systems/Windows/Tooling/Rubeus.md",
     "4. Post-Exploitation/Operating Systems/Windows/Tooling/Mimikatz.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Pass the Ticket (PtT).md",
+    "4. Post-Exploitation/Operating Systems/Windows/Tooling/Rubeus.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Pass the Hash (PtH).md",
+    "4. Post-Exploitation/Operating Systems/Windows/Tooling/Quasar Remote Access Tool (GUI).md",
     "5. Standard Information/Operating Systems/Windows/Kerberos.md",
     "3. Exploitation/Known Exploits/Operating Systems/Windows/Kerberosting.md",
     "2. Enumeration/TCP/88. Kerberos/1. Guide.md",
@@ -201,7 +202,6 @@
     "1. Recon/1. Guide.md",
     "2. Enumeration/TCP/5985, 5986. Windows Remote Management (WinRM)/1. Guide.md",
     "5. Standard Information/Operating Systems/Windows/Active Directory.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Pass the Hash (PtH).md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Attacking SAM.md",
     "4. Post-Exploitation/Operating Systems/Windows/Tooling/Invoke-TheHash.md",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
