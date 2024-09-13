@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/Firefox Decrypt.md",
+                "file": "4. Post-Exploitation/Operating Systems/Windows/Tooling/The LaZagne Project.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/Firefox Decrypt.md",
+                "file": "4. Post-Exploitation/Operating Systems/Windows/Tooling/The LaZagne Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/Firefox Decrypt.md",
+                "file": "4. Post-Exploitation/Operating Systems/Windows/Tooling/The LaZagne Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/Firefox Decrypt.md"
+                "file": "4. Post-Exploitation/Operating Systems/Windows/Tooling/The LaZagne Project.md"
               }
             }
           },
