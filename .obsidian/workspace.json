@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/Abusing KeyTab Files.md",
+                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/Crackstation.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/Abusing KeyTab Files.md",
+                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/Crackstation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/Abusing KeyTab Files.md",
+                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/Crackstation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/Abusing KeyTab Files.md"
+                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/Crackstation.md"
               }
             }
           },
@@ -199,14 +199,18 @@
   },
   "active": "3ae6cb6f4167191a",
   "lastOpenFiles": [
-    "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/Finding Kerberos Tickets in Linux.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/Kerberos KeyTab Hashes.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/DES File Decrypt.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/Crackstation.md",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/Abusing KeyTab Files.md",
+    "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/Finding Kerberos Tickets in Linux.md",
+    "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/1. Identifying Domain Joined Hosts.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/Firefox Decrypt.md",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Uploading Files to Machine.md",
     "5. Standard Information/Operating Systems/Linux/Kerberos/1. Linux Kerberos.md",
     "5. Standard Information/Operating Systems/Linux/Kerberos/Kerberos Files.md",
     "5. Standard Information/Operating Systems/Linux/Kerberos",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Vulnerabilities/Pass the Ticket (PtT) Linux.md",
-    "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/1. Identifying Domain Joined Hosts.md",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos",
     "4. Post-Exploitation/Operating Systems/Linux/1. Guide.md",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Capabilities.md",
@@ -223,10 +227,6 @@
     "5. Standard Information/Operating Systems/Windows/PowerShell/Hotkeys.md",
     "5. Standard Information/Operating Systems/Windows/PowerShell/Modules.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Pass the Hash (PtH).md",
-    "4. Post-Exploitation/Operating Systems/Windows/Tooling/Quasar Remote Access Tool (GUI).md",
-    "5. Standard Information/Operating Systems/Windows/Kerberos.md",
-    "3. Exploitation/Known Exploits/Operating Systems/Windows/Kerberosting.md",
-    "2. Enumeration/TCP/88. Kerberos/1. Guide.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials",
     "7. Misc/Images/taskmanagerdump.webp",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Brute Forcing",
