@@ -21,3 +21,46 @@ Another everyday use of Kerberos in Linux is with [keytab](https://kb.iu.edu/d/
 [Keytab](https://kb.iu.edu/d/aumh) files commonly allow scripts to authenticate automatically using Kerberos without requiring human interaction or access to a password stored in a plain text file. For example, a script can use a keytab file to access files stored in the Windows share folder.
 
 **Note:** Any computer that has a Kerberos client installed can create keytab files. Keytab files can be created on one computer and copied for use on other computers because they are not restricted to the systems on which they were initially created.
+
+## Finding Kerberos Tickets in Linux
+
+#### Finding Keytab Files
+
+A straightforward approach is to use `find` to search for files whose name contains the word `keytab`. When an administrator commonly creates a Kerberos ticket to be used with a script, it sets the extension to `.keytab`. Although not mandatory, it is a way in which administrators commonly refer to a keytab file.
+
+```shell-session
+find / -name *keytab* -ls 2>/dev/null
+```
+
+#### Identifying Keytab Files in Cronjobs
+
+See [[CRON Jobs]]
+
+```shell-session
+carlos@inlanefreight.htb@linux01:~$ crontab -l
+
+# Edit this file to introduce tasks to be run by cron.
+# 
+<SNIP>
+# 
+# m h  dom mon dow   command
+*5/ * * * * /home/carlos@inlanefreight.htb/.scripts/kerberos_script_test.sh
+```
+
+```shell-session
+cat /home/carlos@inlanefreight.htb/.scripts/kerberos_script_test.sh
+#!/bin/bash
+
+kinit svc_workstations@INLANEFREIGHT.HTB -k -t /home/carlos@inlanefreight.htb/.scripts/svc_workstations.kt
+smbclient //dc01.inlanefreight.htb/svc_workstations -c 'ls'  -k -no-pass > /home/carlos@inlanefreight.htb/script-test-results.txt
+```
+
+
+
+
+
+
+
+
+
+

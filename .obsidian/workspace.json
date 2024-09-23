@@ -4,27 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1fa44570338e4d9c",
+        "id": "af1fc6914730aeda",
         "type": "tabs",
         "children": [
           {
-            "id": "db628a84a9871698",
+            "id": "3ae6cb6f4167191a",
             "type": "leaf",
             "state": {
-              "type": "3d_graph_view",
-              "state": {}
-            }
-          },
-          {
-            "id": "454595b0c146078a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "5. Standard Information/Operating Systems/Linux/Linux Kerberos.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -48,12 +43,22 @@
             }
           },
           {
+            "id": "206c27aaa17621bc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "com.maxymillion.zen",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
             "id": "dcd2adc30e57ac2e",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "powershell remoting",
+                "query": "pass the ticket",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "5. Standard Information/Operating Systems/Linux/Linux Kerberos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "5. Standard Information/Operating Systems/Linux/Linux Kerberos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "5. Standard Information/Operating Systems/Linux/Linux Kerberos.md"
+              }
             }
           },
           {
@@ -168,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 459.5
+    "width": 459.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,17 +197,17 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "454595b0c146078a",
+  "active": "3ae6cb6f4167191a",
   "lastOpenFiles": [
+    "4. Post-Exploitation/Operating Systems/Linux/Concepts/Vulnerabilities/Pass the Ticket (PtT) Linux.md",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Domain Joined Host.md",
+    "5. Standard Information/Operating Systems/Linux/Linux Kerberos.md",
     "4. Post-Exploitation/Operating Systems/Linux/1. Guide.md",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Capabilities.md",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Valuable Files.md",
     "4. Post-Exploitation/Valuable Files.md",
     "4. Post-Exploitation/Upgrading Shells.md",
     "4. Post-Exploitation/Operating Systems/1. Guide.md",
-    "4. Post-Exploitation/Operating Systems/Linux/Concepts/Vulnerabilities/Pass the Ticket (PtT) Linux.md",
-    "5. Standard Information/Operating Systems/Linux/Linux Kerberos.md",
     "5. Standard Information/Operating Systems/Linux/Linux Architecture.md",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Vulnerabilities/Message of the Day (MOTD).md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Pass the Ticket (PtT) Windows.md",
