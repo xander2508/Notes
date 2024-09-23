@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/1. Identifying Domain Joined Hosts.md",
+                "file": "3. Exploitation/Remote Shells/Tooling/Evil-WinRM.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chisel",
+                "query": "evil-winrm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/1. Identifying Domain Joined Hosts.md",
+                "file": "3. Exploitation/Remote Shells/Tooling/Evil-WinRM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/1. Identifying Domain Joined Hosts.md",
+                "file": "3. Exploitation/Remote Shells/Tooling/Evil-WinRM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/1. Identifying Domain Joined Hosts.md"
+                "file": "3. Exploitation/Remote Shells/Tooling/Evil-WinRM.md"
               }
             }
           },
@@ -200,10 +200,10 @@
   },
   "active": "4295526fc181b1e5",
   "lastOpenFiles": [
+    "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/1. Identifying Domain Joined Hosts.md",
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/SSH Tunnelling.md",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/Abusing Keytab ccache.md",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/Finding Kerberos Tickets in Linux.md",
-    "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/1. Identifying Domain Joined Hosts.md",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/Abusing KeyTab Files.md",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Vulnerabilities/Pass the Ticket (PtT) Linux.md",
     "5. Standard Information/Operating Systems/Linux/Kerberos/1. Linux Kerberos.md",
