@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/Crackstation.md",
+                "file": "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/Finding Kerberos Tickets in Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,16 +33,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "744b9316b7030f7b",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "206c27aaa17621bc",
             "type": "leaf",
             "pinned": true,
@@ -53,12 +43,22 @@
             }
           },
           {
+            "id": "744b9316b7030f7b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
             "id": "dcd2adc30e57ac2e",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "pass the ticket",
+                "query": "login linux su change user",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/Crackstation.md",
+                "file": "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/Finding Kerberos Tickets in Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/Crackstation.md",
+                "file": "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/Finding Kerberos Tickets in Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/Crackstation.md"
+                "file": "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/Finding Kerberos Tickets in Linux.md"
               }
             }
           },
@@ -199,12 +200,23 @@
   },
   "active": "3ae6cb6f4167191a",
   "lastOpenFiles": [
+    "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/Abusing Keytab ccache.md",
+    "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/1. Identifying Domain Joined Hosts.md",
+    "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/Abusing KeyTab Files.md",
+    "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Change Users.md",
+    "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Hidden Files within Drives.md",
+    "5. Standard Information/Operating Systems/Linux/Philosophy.md",
+    "5. Standard Information/Operating Systems/Linux/Logging.md",
+    "5. Standard Information/Operating Systems/Linux/Credential Storage.md",
+    "5. Standard Information/Operating Systems/Linux/Tooling/Default/Find.md",
+    "4. Post-Exploitation/Operating Systems/Linux/1. Guide.md",
+    "4. Post-Exploitation/Operating Systems/1. Guide.md",
+    "4. Post-Exploitation/Upgrading Shells.md",
+    "4. Post-Exploitation/Securing Access.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/Crackstation.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/Kerberos KeyTab Hashes.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/DES File Decrypt.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/Crackstation.md",
-    "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/Abusing KeyTab Files.md",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/Finding Kerberos Tickets in Linux.md",
-    "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/1. Identifying Domain Joined Hosts.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/Firefox Decrypt.md",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Uploading Files to Machine.md",
     "5. Standard Information/Operating Systems/Linux/Kerberos/1. Linux Kerberos.md",
@@ -212,21 +224,10 @@
     "5. Standard Information/Operating Systems/Linux/Kerberos",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Vulnerabilities/Pass the Ticket (PtT) Linux.md",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos",
-    "4. Post-Exploitation/Operating Systems/Linux/1. Guide.md",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Capabilities.md",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Valuable Files.md",
     "4. Post-Exploitation/Valuable Files.md",
-    "4. Post-Exploitation/Upgrading Shells.md",
-    "4. Post-Exploitation/Operating Systems/1. Guide.md",
     "5. Standard Information/Operating Systems/Linux/Linux Architecture.md",
-    "4. Post-Exploitation/Operating Systems/Linux/Concepts/Vulnerabilities/Message of the Day (MOTD).md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Pass the Ticket (PtT) Windows.md",
-    "5. Standard Information/Operating Systems/Windows/PowerShell/PowerShell Remoting.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Tooling/Rubeus.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Tooling/Mimikatz.md",
-    "5. Standard Information/Operating Systems/Windows/PowerShell/Hotkeys.md",
-    "5. Standard Information/Operating Systems/Windows/PowerShell/Modules.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Pass the Hash (PtH).md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials",
     "7. Misc/Images/taskmanagerdump.webp",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Brute Forcing",
