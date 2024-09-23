@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Linux/Tooling/Linikatz.md",
+                "file": "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/Finding Kerberos Tickets in Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "impacket",
+                "query": "gtfobins",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Linux/Tooling/Linikatz.md",
+                "file": "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/Finding Kerberos Tickets in Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Linux/Tooling/Linikatz.md",
+                "file": "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/Finding Kerberos Tickets in Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Linux/Tooling/Linikatz.md"
+                "file": "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/Finding Kerberos Tickets in Linux.md"
               }
             }
           },
@@ -200,11 +200,14 @@
   },
   "active": "4295526fc181b1e5",
   "lastOpenFiles": [
+    "4. Post-Exploitation/Operating Systems/Linux/Concepts/Vulnerabilities/Sudo Permissions.md",
+    "5. Standard Information/Operating Systems/Living off The Land.md",
+    "5. Standard Information/Operating Systems/Linux/Tooling/Default/Sudo.md",
+    "4. Post-Exploitation/Operating Systems/Linux/1. Guide.md",
+    "4. Post-Exploitation/Operating Systems/Linux/Tooling/Linikatz.md",
     "4. Post-Exploitation/Operating Systems/Linux/Tooling/MimiPenguin.md",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/Finding Kerberos Tickets in Linux.md",
-    "4. Post-Exploitation/Operating Systems/Linux/1. Guide.md",
     "4. Post-Exploitation/Operating Systems/Linux/Tooling/SUCrack.md",
-    "4. Post-Exploitation/Operating Systems/Linux/Tooling/Linikatz.md",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/1. Identifying Domain Joined Hosts.md",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/Abusing Keytab ccache.md",
     "3. Exploitation/Operating Systems/Windows/Tooling/Impacket.md",
@@ -223,9 +226,6 @@
     "4. Post-Exploitation/Upgrading Shells.md",
     "4. Post-Exploitation/Securing Access.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/Crackstation.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/Kerberos KeyTab Hashes.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/DES File Decrypt.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/Firefox Decrypt.md",
     "5. Standard Information/Operating Systems/Linux/Kerberos",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials",

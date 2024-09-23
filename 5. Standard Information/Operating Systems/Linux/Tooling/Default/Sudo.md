@@ -22,3 +22,4 @@ sudo -l
 sudo -g adm
 sudo -u adm
 ```
+
