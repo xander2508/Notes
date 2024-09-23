@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Exploitation/File Types and Data/1. Guide.md",
+                "file": "3. Exploitation/File Types and Data/VHD (Virtual Hard Drive).md",
                 "mode": "source",
                 "source": false
               }
@@ -58,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gtfobins",
+                "query": "bitlocker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Exploitation/File Types and Data/1. Guide.md",
+                "file": "3. Exploitation/File Types and Data/VHD (Virtual Hard Drive).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Exploitation/File Types and Data/1. Guide.md",
+                "file": "3. Exploitation/File Types and Data/VHD (Virtual Hard Drive).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Exploitation/File Types and Data/1. Guide.md"
+                "file": "3. Exploitation/File Types and Data/VHD (Virtual Hard Drive).md"
               }
             }
           },
@@ -200,6 +200,13 @@
   },
   "active": "4295526fc181b1e5",
   "lastOpenFiles": [
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Tooling/John the Ripper.md",
+    "3. Exploitation/File Types and Data/BitLocker Encrypted Drives.md",
+    "3. Exploitation/File Types and Data/VHD (Virtual Hard Drive).md",
+    "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Linux Credential Hunting.md",
+    "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Valuable Files.md",
+    "4. Post-Exploitation/Valuable Files.md",
+    "3. Exploitation/File Types and Data/1. Guide.md",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/Finding Kerberos Tickets in Linux.md",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Vulnerabilities/Sudo Permissions.md",
     "5. Standard Information/Operating Systems/Living off The Land.md",
@@ -219,13 +226,6 @@
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Change Users.md",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Hidden Files within Drives.md",
     "5. Standard Information/Operating Systems/Linux/Philosophy.md",
-    "5. Standard Information/Operating Systems/Linux/Logging.md",
-    "5. Standard Information/Operating Systems/Linux/Credential Storage.md",
-    "5. Standard Information/Operating Systems/Linux/Tooling/Default/Find.md",
-    "4. Post-Exploitation/Operating Systems/1. Guide.md",
-    "4. Post-Exploitation/Upgrading Shells.md",
-    "4. Post-Exploitation/Securing Access.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/Crackstation.md",
     "5. Standard Information/Operating Systems/Linux/Kerberos",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials",
