@@ -1,4 +1,5 @@
-Cost: `=sum(this.file.tasks.cost)`
+
+**Cost**: `=round(sum(this.file.tasks.cost),2)`
 
 - [ ] [Metasploit: The Penetration Tester's Guide](https://www.amazon.co.uk/Metasploit-Penetration-Testers-David-Kennedy/dp/159327288X) - [cost::19.78]
 - [ ] [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.co.uk/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) - [cost::23]
