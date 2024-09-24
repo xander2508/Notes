@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Recommended Books.md",
+                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SCP",
+                "query": "\"directory command dir\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Recommended Books.md",
+                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Recommended Books.md",
+                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Recommended Books.md"
+                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/1. Guide.md"
               }
             }
           },
@@ -187,12 +187,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 459.5,
-    "collapsed": true
+    "width": 459.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,8 +211,9 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "c76de7ada595938b",
+  "active": "dcd2adc30e57ac2e",
   "lastOpenFiles": [
+    "5. Standard Information/Recommended Books.md",
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tooling/SCP (SSH).md",
     "2. Enumeration/TCP/22. Secure Shell (SSH)/Tooling/Secure copy protocol (SCP).md",
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/1. Guide.md",
@@ -238,7 +239,6 @@
     "4. Post-Exploitation/Operating Systems/Linux/Tooling/Linikatz.md",
     "4. Post-Exploitation/Operating Systems/Linux/Tooling/MimiPenguin.md",
     "4. Post-Exploitation/Operating Systems/Linux/Tooling/SUCrack.md",
-    "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/1. Identifying Domain Joined Hosts.md",
     "5. Standard Information/Operating Systems/Linux/Kerberos",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials",
