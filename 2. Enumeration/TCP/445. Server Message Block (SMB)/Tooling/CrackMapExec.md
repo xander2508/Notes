@@ -42,6 +42,14 @@ crackmapexec winrm 10.129.42.197 -u user.list -p password.list
 > By default CME will exit after a successful login is found. Using the `--continue-on-success` flag will continue spraying even after a valid password is found.
 
 [web.archive.org/web/20220129050920/https://mpgn.gitbook.io/crackmapexec/getting-started/using-credentials](https://web.archive.org/web/20220129050920/https://mpgn.gitbook.io/crackmapexec/getting-started/using-credentials)
+##### Enumerating Logged-on Users
+
+On a network with multiple machines. Some of them share the same local administrator account.
+
+```shell-session
+crackmapexec smb 10.10.110.0/24 -u administrator -p 'Password123!' --loggedon-users
+```
+
 ### Options
 
 ```shell-session

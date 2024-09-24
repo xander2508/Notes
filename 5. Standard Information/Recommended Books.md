@@ -24,9 +24,3 @@
 - [ ] [Art of Computer Programming](https://www.amazon.co.uk/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043) - [cost::255.97]
 
 
-```
-=round(sum(this.file.tasks.cost),2)
-```
-
-
-
