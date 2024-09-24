@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/110. Post Office Protocol (POP3)/Tooling/Evolution.md",
+                "file": "2. Enumeration/TCP/3306. MySQL (SQL)/Tooling/dbeaver.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/110. Post Office Protocol (POP3)/Tooling/Evolution.md",
+                "file": "2. Enumeration/TCP/3306. MySQL (SQL)/Tooling/dbeaver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/110. Post Office Protocol (POP3)/Tooling/Evolution.md",
+                "file": "2. Enumeration/TCP/3306. MySQL (SQL)/Tooling/dbeaver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/110. Post Office Protocol (POP3)/Tooling/Evolution.md"
+                "file": "2. Enumeration/TCP/3306. MySQL (SQL)/Tooling/dbeaver.md"
               }
             }
           },
@@ -188,10 +188,16 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "92905f72a6223979",
+  "active": "9947ac7386462729",
   "lastOpenFiles": [
-    "2. Enumeration/TCP/110. Post Office Protocol (POP3)/1. Guide.md",
+    "2. Enumeration/TCP/3306. MySQL (SQL)/Tooling/sqlcmd.md",
+    "2. Enumeration/TCP/3306. MySQL (SQL)/Tooling/dbeaver.md",
+    "2. Enumeration/TCP/3306. MySQL (SQL)/1. Guide.md",
+    "2. Enumeration/TCP/3306. MySQL (SQL)/Tooling/SQLite Browser.md",
+    "2. Enumeration/TCP/3306. MySQL (SQL)/Tooling/SqSh.md",
+    "2. Enumeration/TCP/3306. MySQL (SQL)/2. Information.md",
     "2. Enumeration/TCP/110. Post Office Protocol (POP3)/Tooling/Evolution.md",
+    "2. Enumeration/TCP/110. Post Office Protocol (POP3)/1. Guide.md",
     "2. Enumeration/TCP/110. Post Office Protocol (POP3)/Tooling",
     "2. Enumeration/TCP/445. Server Message Block (SMB)/Concepts/Information/Connect to SMB.md",
     "2. Enumeration/TCP/445. Server Message Block (SMB)/1. Guide.md",
@@ -213,12 +219,6 @@
     "5. Standard Information/Operating Systems/Windows/PowerShell/Execution Policy.md",
     "5. Standard Information/Operating Systems/Windows/PowerShell/Commands/Chaining Commands.md",
     "5. Standard Information/Operating Systems/Windows/PowerShell/Commands/Command Syntax.md",
-    "5. Standard Information/Operating Systems/Windows/PowerShell/Modules/1. Overview.md",
-    "5. Standard Information/Operating Systems/Windows/PowerShell/Modules/Make Modules.md",
-    "5. Standard Information/Operating Systems/Windows/PowerShell/Modules/Use Modules.md",
-    "5. Standard Information/Operating Systems/Windows/PowerShell/1. Overview.md",
-    "5. Standard Information/Operating Systems/Windows/PowerShell/Hotkeys.md",
-    "5. Standard Information/Operating Systems/Windows/PowerShell/PowerShell Remoting.md",
     "5. Standard Information/Operating Systems/Linux/Kerberos",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials",
