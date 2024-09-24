@@ -86,3 +86,8 @@ for i in $(seq 500 1100);do rpcclient -N -U "" 10.129.14.128 -c "queryuser 0x$(p
 ```
 
 An alternative to this would be a Python script from [[Impacket#SamRDump]]
+
+
+## Command Cheat Sheet
+
+![[SMB-Access-from-Linux.pdf]]
