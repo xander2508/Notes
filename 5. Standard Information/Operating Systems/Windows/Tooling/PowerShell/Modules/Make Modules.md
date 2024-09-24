@@ -5,6 +5,7 @@ tags:
   - PowerShell
   - Modules
   - StandardInformation
+  - Tooling
 ---
 ### Module Manifest
 

@@ -4,6 +4,7 @@ tags:
   - Windows
   - PowerShell
   - StandardInformation
+  - Tooling
 ---
 With PowerShell, not everything is generic text strings like in Bash or cmd. In PowerShell everything is an object instead of a generic string and therefore has methods and properties.
 
