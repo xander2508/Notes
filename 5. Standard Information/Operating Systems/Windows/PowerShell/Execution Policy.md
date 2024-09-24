@@ -4,7 +4,6 @@ tags:
   - Windows
   - PowerShell
   - StandardInformation
-  - Tooling
 ---
 
 [about Execution Policies - PowerShell | Microsoft Learn](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-7.2)

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Tooling/Files/List Files (dir).md",
+                "file": "5. Standard Information/Operating Systems/Windows/Scheduled Tasks.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Tooling/Files/List Files (dir).md",
+                "file": "5. Standard Information/Operating Systems/Windows/Scheduled Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Tooling/Files/List Files (dir).md",
+                "file": "5. Standard Information/Operating Systems/Windows/Scheduled Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Tooling/Files/List Files (dir).md"
+                "file": "5. Standard Information/Operating Systems/Windows/Scheduled Tasks.md"
               }
             }
           },
@@ -190,11 +190,25 @@
   },
   "active": "9947ac7386462729",
   "lastOpenFiles": [
-    "5. Standard Information/Operating Systems/Windows/Tooling/Help.md",
+    "5. Standard Information/Operating Systems/Windows/Security/Terminology.md",
+    "5. Standard Information/Operating Systems/Windows/Tooling/Session History.md",
     "5. Standard Information/Operating Systems/Windows/Tooling/Process Monitor (ProcMon).md",
+    "5. Standard Information/Operating Systems/Windows/PowerShell/Session History.md",
+    "5. Standard Information/Operating Systems/Windows/PowerShell/PowerShell Remoting.md",
+    "5. Standard Information/Operating Systems/Windows/PowerShell/Hotkeys.md",
+    "5. Standard Information/Operating Systems/Windows/PowerShell/Execution Policy.md",
+    "5. Standard Information/Operating Systems/Windows/PowerShell/Everything is an Object.md",
+    "5. Standard Information/Operating Systems/Windows/PowerShell/1. Overview.md",
+    "5. Standard Information/Operating Systems/Windows/PowerShell/Modules/Use Modules.md",
+    "5. Standard Information/Operating Systems/Windows/PowerShell/Modules/Make Modules.md",
+    "5. Standard Information/Operating Systems/Windows/PowerShell/Modules/1. Overview.md",
+    "5. Standard Information/Operating Systems/Windows/PowerShell/Commands/Command Syntax.md",
+    "5. Standard Information/Operating Systems/Windows/PowerShell/Commands/Chaining Commands.md",
+    "5. Standard Information/Operating Systems/Windows/Tooling/1. Guide and Documentation.md",
+    "5. Standard Information/Operating Systems/Windows/Tooling/Directory Command (Dir).md",
+    "5. Standard Information/Operating Systems/Windows/Tooling/Help.md",
     "5. Standard Information/Operating Systems/Windows/Tooling/Finding Users and Groups.md",
     "5. Standard Information/Operating Systems/Windows/Tooling/Finding Shared Resources.md",
-    "5. Standard Information/Operating Systems/Windows/Tooling/Session History.md",
     "5. Standard Information/Operating Systems/Windows/Tooling/Who Am I.md",
     "5. Standard Information/Operating Systems/Windows/Tooling/Files/Search in File.md",
     "5. Standard Information/Operating Systems/Windows/Tooling/Files/Read Files.md",
@@ -202,20 +216,6 @@
     "2. Enumeration/TCP/445. Server Message Block (SMB)/1. Guide.md",
     "5. Standard Information/Recommended Books.md",
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tooling/SCP (SSH).md",
-    "2. Enumeration/TCP/22. Secure Shell (SSH)/Tooling/Secure copy protocol (SCP).md",
-    "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/1. Guide.md",
-    "3. Exploitation/File Types and Data/VHD (Virtual Hard Drive).md",
-    "1. Recon/Port Scanning/Tooling/Nmap/Options.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Windows Credential Hunting.md",
-    "4. Post-Exploitation/Valuable Files.md",
-    "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Linux Credential Hunting.md",
-    "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Valuable Files.md",
-    "8. Reports/Hack the Box/Untitled.md",
-    "2. Enumeration/TCP/20. FTP/1. Guide.md",
-    "5. Standard Information/Security/Terminology/Password Policy.md",
-    "5. Standard Information/Security/Terminology/Endpoint Protection.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Tooling/John the Ripper.md",
-    "3. Exploitation/File Types and Data/BitLocker Encrypted Drives.md",
     "5. Standard Information/Operating Systems/Linux/Kerberos",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials",

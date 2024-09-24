@@ -5,8 +5,8 @@ tags:
   - PowerShell
   - Commands
   - StandardInformation
-  - Tooling
 ---
+
 > [!NOTE]
 > Currently, Windows PowerShell 5.1 and older do not support Pipeline Chain Operators used in this fashion. If you see errors, you must install PowerShell 7 alongside Windows PowerShell. They are not the same thing.
 

@@ -5,7 +5,6 @@ tags:
   - PowerShell
   - Commands
   - StandardInformation
-  - Tooling
 ---
 A [cmdlet](https://docs.microsoft.com/en-us/powershell/scripting/lang-spec/chapter-13?view=powershell-7.2) as defined by Microsoft is: "a single-feature command that manipulates objects in PowerShell."
 

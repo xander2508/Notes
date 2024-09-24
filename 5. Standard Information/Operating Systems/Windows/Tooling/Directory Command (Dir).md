@@ -47,6 +47,12 @@ dir /a /r /q
 tree /F
 ```
 
+## Find Specific Files
+
+```cmd-session
+dir n:\*cred* /s /b
+```
+
 ### View Files With the Read-only Attribute
 
 ```cmd-session

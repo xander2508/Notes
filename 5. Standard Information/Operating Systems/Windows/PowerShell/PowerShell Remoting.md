@@ -4,7 +4,6 @@ tags:
   - Windows
   - PowerShell
   - StandardInformation
-  - Tooling
 ---
 
 
