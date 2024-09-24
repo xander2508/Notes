@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vulnerabilities",
+                "query": "apache",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -188,7 +189,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "9947ac7386462729",
+  "active": "dcd2adc30e57ac2e",
   "lastOpenFiles": [
     "7. Misc/Images/attack_concept2.webp",
     "5. Standard Information/Penetration Testing/1. Guide.md",
