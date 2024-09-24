@@ -152,3 +152,12 @@ The exact used options with their values we can find here: [https://nmap.org/bo
 ```
 
 If you run into issues and the scans turn up little results, attempt again with the `-A` and `-Pn` options. This will perform a different scan and may work. For more info on how this process works, check out this article from the [Nmap Documentation](https://nmap.org/book/man-os-detection.html). Be careful of this detection method. Implementing a firewall or other security features can obscure the host or mess the results up. When possible, use more than one check to make a determination.
+
+
+## FTP Bounce Attack
+
+See [[Bounce Attack]]
+
+```shell-session
+nmap -Pn -v -n -p80 -b anonymous:password@10.10.110.213 172.17.0.2
+```
