@@ -20,5 +20,7 @@
 - [ ] [TCP/IP Illustrated: The Protocols, Volume 1](https://www.amazon.co.uk/TCP-Illustrated-Protocols-Addison-Wesley-Professional-dp-0321336313/dp/0321336313/ref=dp_ob_title_bk) - [cost::51.97]
 - [ ] [The Hacker Playbook 3: Practical Guide To Penetration Testing](https://www.amazon.co.uk/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759/ref=pd_bxgy_d_sccl_1/258-5082622-7757009?psc=1) - [cost::21.49]
 - [ ] [Ghidra Book, The: The Definitive Guide](https://www.amazon.co.uk/Ghidra-Book-Definitive-Chris-Eagle/dp/1718501021) - [cost::35.55]
-- [ ] 
+- [ ] [Incident Response & Computer Forensics, Third Edition](https://www.amazon.co.uk/Incident-Response-Computer-Forensics-Third/dp/0071798684) - [cost::33.92]
+
+
 
