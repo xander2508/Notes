@@ -18,6 +18,7 @@ tags:
 | -sT      | Connect Scan, see [[Types#Connect Type]]                                                              |
 | -PE      | Ping Scan, ICMP ping echo scan                                                                        |
 | -sn      | Disable port scanning                                                                                 |
+| -Pn      | Skip host discovery and assume all hosts are online                                                   |
 
 #### Decoy Scanning
 

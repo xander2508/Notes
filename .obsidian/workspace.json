@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Windows Credential Hunting.md",
+                "file": "1. Recon/Port Scanning/Tooling/Nmap/Options.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Windows Credential Hunting.md",
+                "file": "1. Recon/Port Scanning/Tooling/Nmap/Options.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Windows Credential Hunting.md",
+                "file": "1. Recon/Port Scanning/Tooling/Nmap/Options.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Windows Credential Hunting.md"
+                "file": "1. Recon/Port Scanning/Tooling/Nmap/Options.md"
               }
             }
           },
@@ -213,6 +213,7 @@
   },
   "active": "c76de7ada595938b",
   "lastOpenFiles": [
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Windows Credential Hunting.md",
     "4. Post-Exploitation/Valuable Files.md",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Linux Credential Hunting.md",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Valuable Files.md",
@@ -238,7 +239,6 @@
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/Abusing KeyTab Files.md",
     "4. Post-Exploitation/Data Transfer (Exfiltration or Infiltration)/Tunnelling/SSH Tunnelling.md",
     "3. Exploitation/Remote Shells/Tooling/Evil-WinRM.md",
-    "4. Post-Exploitation/Operating Systems/Linux/Concepts/Vulnerabilities/Pass the Ticket (PtT) Linux.md",
     "5. Standard Information/Operating Systems/Linux/Kerberos",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials",
