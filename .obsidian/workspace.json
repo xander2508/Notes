@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/CrackMapExec.md",
+                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/Responder.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,8 +75,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/CrackMapExec.md",
+                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/Responder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/CrackMapExec.md",
+                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/Responder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/CrackMapExec.md"
+                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/Responder.md"
               }
             }
           },
@@ -189,10 +188,12 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "dcd2adc30e57ac2e",
+  "active": "c16e41f964f0f14b",
   "lastOpenFiles": [
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Attacking SAM.md",
+    "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/GPP-Decrypt.md",
+    "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/Responder.md",
     "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/CrackMapExec.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Attacking SAM.md",
     "4. Post-Exploitation/Operating Systems/Windows/1. Guide.md",
     "5. Standard Information/Recommended Books.md",
     "5. Standard Information/Request for Comments (RFC).md",
@@ -218,8 +219,6 @@
     "4. Post-Exploitation/Cryptography/Brute Forcing/Tooling/Hydra.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/1. Guide.md",
     "4. Post-Exploitation/Cryptography/Brute Forcing/1. Guide.md",
-    "4. Post-Exploitation/Cryptography/Brute Forcing/Tooling/Patator.md",
-    "4. Post-Exploitation/Cryptography/Brute Forcing/Tooling/Crowbar.md",
     "4. Post-Exploitation/Cryptography/Brute Forcing/Tooling",
     "7. Misc/Images/log4jattack.webp",
     "7. Misc/Images/attack_concept2.webp",
