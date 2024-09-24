@@ -12,6 +12,12 @@
 - [ ] [Operator Handbook: Red Team + OSINT + Blue Team Reference](https://www.amazon.co.uk/Operator-Handbook-Team-OSINT-Reference/dp/B085RR67H5/ref=pd_lpo_sccl_2/258-5082622-7757009?psc=1) - [cost::12.18]
 - [ ] [UNIX and Linux System Administration Handbook](https://www.amazon.co.uk/dp/B075MK6LZ7/ref=sspa_dk_detail_0?psc=1&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw) - [cost::51.74]
 - [ ] [Nmap Network Scanning: The Official Nmap Project Guide](https://www.amazon.co.uk/Nmap-Network-Scanning-Official-Discovery/dp/0979958717) - [cost::29.95]
+- [ ] [Gray Hat Hacking: The Ethical Hacker's Handbook, Sixth Edition](https://www.amazon.co.uk/Gray-Hat-Hacking-Ethical-Handbook/dp/1264268947) - [cost::28.38]
+- [ ] [Hacking: The Art of Exploitation, 2nd Edition](https://www.amazon.co.uk/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441) - [cost::34.63]
+- [ ] [UNIX in a Nutshell: A Desktop Quick Reference](https://www.amazon.co.uk/Unix-Nutshell-OReilly-Arnold-Robbins/dp/0596100299) - [cost::20]
+- [ ] [Hacking Exposed 7: Network Security Secrets and Solutions](https://www.amazon.co.uk/Hacking-Exposed-7-Stuart-Mcclure/dp/0071780289) - [cost:42.88]
+- [ ] [Network Warrior: CCNA Exam](https://www.amazon.co.uk/Network-Warrior-Gary-Donahue/dp/1449387861) - [cost::39.72]
+- [ ] 
 
 
 
