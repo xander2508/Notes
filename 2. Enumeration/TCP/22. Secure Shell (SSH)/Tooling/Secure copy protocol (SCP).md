@@ -5,6 +5,8 @@ tags:
   - Tooling
   - SSH
   - SecureShell
+aliases:
+  - SCP
 ---
 
 # Example
