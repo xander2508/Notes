@@ -13,3 +13,13 @@ This package contains `Responder/MultiRelay`, an LLMNR, NBT-NS and MDNS poisoner
  
 [responder | Kali Linux Tools](https://www.kali.org/tools/responder/)
 
+## Usage 
+
+```shell-session
+sudo responder -I <INTERFACE>
+```
+
+All saved Hashes are located in Responder's logs directory (`/usr/share/responder/logs/`).
+
+> [!NOTE]
+> If you notice multiples hashes for one account this is because NTLMv2 utilizes both a client-side and server-side challenge that is randomized for each interaction. This makes it so the resulting hashes that are sent are salted with a randomized string of numbers. This is why the hashes don't match but still represent the same password.
