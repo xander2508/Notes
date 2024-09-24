@@ -7,8 +7,8 @@ tags:
   - StandardInformation
 ---
 
-# CMD
-## Find 
+## CMD
+### Find 
 
 
 ```cmd-session
@@ -23,15 +23,19 @@ The `/V` modifier can change our search from a matching clause to a `Not` cl
 
 We can also use the `/N` switch to display line numbers for us and the `/I` display to ignore case sensitivity.
 
-## FindStr
+### FindStr
 
 The `findstr` command is similar to `find` in that it searches through files but for patterns instead. It will look for anything matching a pattern, regex value, wildcards, and more. Think of it as find2.0. For those familiar with Linux, `findstr` is closer to `grep`.
 
+[findstr | Microsoft Learn](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/findstr#examples)
 
-# PowerShell
+```cmd-session
+findstr /s /i cred n:\*.*
+```
 
+## PowerShell
 
-# Select-String
+### Select-String
 
 [Select-String](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/select-string?view=powershell-7.2)
 

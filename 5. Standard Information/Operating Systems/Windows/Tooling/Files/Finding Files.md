@@ -27,6 +27,12 @@ Narrow the search for `txt` files
 Get-Childitem –Path C:\Users\MTanaka\ -File -Recurse -ErrorAction SilentlyContinue | where {($_.Name -like "*.txt")}
 ```
 
+Narrow searched files for those with a specific name pattern:
+
+```powershell-session
+Get-ChildItem -Recurse -Path N:\ -Include *cred* -File
+```
+
 Adding conditionals to the filtering using `where`, see [[Everything is an Object]]
 
 ```powershell-session

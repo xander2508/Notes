@@ -5,6 +5,7 @@ tags:
   - ServerMessageBlock
   - SMB
   - Concepts
+  - Vulnerabilities
 ---
 
 Shell Command Files (SCF) are script files used by the Windows operating system to automate tasks through command line commands.

@@ -6,6 +6,7 @@ tags:
   - SMB
   - Concepts
   - AccessControl
+  - Information
 ---
 The Windows Defender Firewall may block access to the [[2. Enumeration/TCP/445. Server Message Block (SMB)/1. Guide|SMB]] share.
 
