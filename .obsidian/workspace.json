@@ -164,12 +164,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 459.5,
-    "collapsed": true
+    "width": 459.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,7 +187,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "259df4b4cb48e691",
+  "active": "3bca4875dab82589",
   "lastOpenFiles": [
     "5. Standard Information/Request for Comments (RFC).md",
     "3. Exploitation/1. Guide.md",
