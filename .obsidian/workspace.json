@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b4d4cf9d330d18ec",
+        "id": "3e49b16bbb8c1515",
         "type": "tabs",
         "children": [
           {
-            "id": "9947ac7386462729",
+            "id": "259df4b4cb48e691",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Concepts/Concept of Attacks and Exploiting Vulnerabilities.md",
+                "file": "3. Exploitation/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Concepts/Concept of Attacks and Exploiting Vulnerabilities.md",
+                "file": "3. Exploitation/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Concepts/Concept of Attacks and Exploiting Vulnerabilities.md",
+                "file": "3. Exploitation/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Penetration Testing/Concepts/Concept of Attacks and Exploiting Vulnerabilities.md"
+                "file": "3. Exploitation/1. Guide.md"
               }
             }
           },
@@ -188,10 +188,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "9947ac7386462729",
+  "active": "259df4b4cb48e691",
   "lastOpenFiles": [
-    "5. Standard Information/Penetration Testing/1. Guide.md",
+    "5. Standard Information/Recommended Books.md",
     "5. Standard Information/Penetration Testing/Concepts/Concept of Attacks and Exploiting Vulnerabilities.md",
+    "5. Standard Information/Penetration Testing/1. Guide.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Applications/Drupal.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Applications/GraphQL.md",
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Applications/Microsoft IIS.md",
