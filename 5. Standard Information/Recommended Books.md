@@ -15,11 +15,10 @@
 - [ ] [Gray Hat Hacking: The Ethical Hacker's Handbook, Sixth Edition](https://www.amazon.co.uk/Gray-Hat-Hacking-Ethical-Handbook/dp/1264268947) - [cost::28.38]
 - [ ] [Hacking: The Art of Exploitation, 2nd Edition](https://www.amazon.co.uk/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441) - [cost::34.63]
 - [ ] [UNIX in a Nutshell: A Desktop Quick Reference](https://www.amazon.co.uk/Unix-Nutshell-OReilly-Arnold-Robbins/dp/0596100299) - [cost::20]
-- [ ] [Hacking Exposed 7: Network Security Secrets and Solutions](https://www.amazon.co.uk/Hacking-Exposed-7-Stuart-Mcclure/dp/0071780289) - [cost:42.88]
+- [ ] [Hacking Exposed 7: Network Security Secrets and Solutions](https://www.amazon.co.uk/Hacking-Exposed-7-Stuart-Mcclure/dp/0071780289) - [cost::42.88]
 - [ ] [Network Warrior: CCNA Exam](https://www.amazon.co.uk/Network-Warrior-Gary-Donahue/dp/1449387861) - [cost::39.72]
 - [ ] [TCP/IP Illustrated: The Protocols, Volume 1](https://www.amazon.co.uk/TCP-Illustrated-Protocols-Addison-Wesley-Professional-dp-0321336313/dp/0321336313/ref=dp_ob_title_bk) - [cost::51.97]
 - [ ] [The Hacker Playbook 3: Practical Guide To Penetration Testing](https://www.amazon.co.uk/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759/ref=pd_bxgy_d_sccl_1/258-5082622-7757009?psc=1) - [cost::21.49]
+- [ ] [Ghidra Book, The: The Definitive Guide](https://www.amazon.co.uk/Ghidra-Book-Definitive-Chris-Eagle/dp/1718501021) - [cost::35.55]
 - [ ] 
-
-
 
