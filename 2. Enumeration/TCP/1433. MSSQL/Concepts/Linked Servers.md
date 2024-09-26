@@ -20,3 +20,5 @@ srvname                             isremote
 DESKTOP-MFERMN4\SQLEXPRESS          1
 10.0.0.12\SQLEXPRESS                0
 ```
+
+Where `1` means is a remote server, and `0` is a linked server. We can see [sysservers Transact-SQL](https://docs.microsoft.com/en-us/sql/relational-databases/system-compatibility-views/sys-sysservers-transact-sql) for more information.
