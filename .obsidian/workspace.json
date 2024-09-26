@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/Concepts/DNS Spoofing.md",
+                "file": "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Tooling/o365spray.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "etterca",
+                "query": "mxtoolbox",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +88,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/Concepts/DNS Spoofing.md",
+                "file": "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Tooling/o365spray.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/Concepts/DNS Spoofing.md",
+                "file": "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Tooling/o365spray.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/Concepts/DNS Spoofing.md"
+                "file": "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Tooling/o365spray.md"
               }
             }
           },
@@ -203,10 +202,19 @@
   },
   "active": "fe16f3727bf4376c",
   "lastOpenFiles": [
+    "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Tooling/Python SMTP Server.md",
+    "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Tooling/o365spray.md",
+    "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Tooling/SMTP-User-Enum.md",
+    "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Tooling/SWAKS.md",
+    "2. Enumeration/TCP/110. Post Office Protocol (POP3)/1. Guide.md",
+    "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/1. Guide.md",
+    "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/2. Information.md",
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Websites/Domain Glass (WHOIS).md",
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/Concepts/DNS Spoofing.md",
     "7. Misc/Images/etter_plug.webp",
     "7. Misc/Images/target.webp",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Concepts/Domain Takeovers.md",
-    "2. Enumeration/TCP/53. Domain Name System (DNS)/Concepts/DNS Spoofing.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Brute Force/SubBrute.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Brute Force/Fierce.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Brute Force/DnsEnum.md",
@@ -223,20 +231,12 @@
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Websites/DnsDumpseter.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Websites",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Applications/Bind9.md",
-    "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Concepts",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/2. Information.md",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Concepts/Information/File Transfer.md",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Concepts/Vulnerabilities/BlueKeep.md",
-    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Concepts/Vulnerabilities/Session Hijacking.md",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Concepts/Information",
-    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Concepts/Vulnerabilities",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Pass the Hash (PtH).md",
-    "4. Post-Exploitation/Operating Systems/Windows/1. Guide.md",
-    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/1. Guide.md",
-    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/RDesktop.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Elevating Local Admin to SYSTEM.md",
     "7. Misc/Images/Pasted image 20240926142900.jpg",
     "2. Enumeration/TCP/1433. MSSQL/Concepts/Information",
     "2. Enumeration/TCP/1433. MSSQL/Concepts",
@@ -248,7 +248,6 @@
     "7. Misc/Images/taskmanagerdump.webp",
     "7. Misc/Images/reverseshell.webp",
     "7. Misc/Images/bindshell.webp",
-    "7. Misc/Images/openvas_report.webp",
     "Untitled.canvas"
   ]
 }
