@@ -21,7 +21,7 @@ $ fierce -h
 ## Usage
 
 ```
- fierce --domain google.com --subdomains accounts admin ads
+fierce --domain google.com --subdomains accounts admin ads
 ```
 
 ```

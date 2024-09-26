@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Concepts/Information/File Transfer.md",
+                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Sublist3r.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Concepts/Information/File Transfer.md",
+                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Sublist3r.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Concepts/Information/File Transfer.md",
+                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Sublist3r.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Concepts/Information/File Transfer.md"
+                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Sublist3r.md"
               }
             }
           },
@@ -187,8 +187,27 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "67621b8728f52296",
+  "active": "744b9316b7030f7b",
   "lastOpenFiles": [
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/OSINT",
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/SubFinder.md",
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/SubBrute.md",
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Fierce.md",
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/DnsRecon.md",
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Default/nslookup.md",
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Default",
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Default/Host.md",
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Default/Domain Information Groper (Dig).md",
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Websites/DnsDumpseter.md",
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Sublist3r.md",
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Websites",
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/DnsEnum.md",
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/Applications/Bind9.md",
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/Concepts/Domain Takeovers.md",
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/Concepts",
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/2. Information.md",
+    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Concepts/Information/File Transfer.md",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Concepts/Vulnerabilities/BlueKeep.md",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Concepts/Vulnerabilities/Session Hijacking.md",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Concepts/Information",
@@ -201,22 +220,7 @@
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Elevating Local Admin to SYSTEM.md",
     "4. Post-Exploitation/Operating Systems/Windows/Tooling/SysInternals.md",
     "4. Post-Exploitation/Securing Access.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Generic Enumeration Commands.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/SMB Traversing Users.md",
-    "4. Post-Exploitation/Operating Systems/1. Guide.md",
-    "4. Post-Exploitation/Upgrading Shells.md",
     "7. Misc/Images/Pasted image 20240926142900.jpg",
-    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Concepts/Information/File Transfer.md",
-    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/Remote Desktop Connection.md",
-    "4. Post-Exploitation/Cryptography/Brute Forcing/Tooling/Hydra.md",
-    "4. Post-Exploitation/Cryptography/Brute Forcing/Tooling/Crowbar.md",
-    "4. Post-Exploitation/Cryptography/Brute Forcing/1. Guide.md",
-    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/2. Traffic Analysis.md",
-    "1. Recon/Network Analysis/1. Analysis Overview.md",
-    "2. Enumeration/TCP/3306. MySQL (SQL)/Concepts/Python within SQL.md",
-    "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/Responder/1. Responder.md",
-    "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/Responder/MultiRelay.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/NT and LM (NTLM).md",
     "2. Enumeration/TCP/1433. MSSQL/Concepts/Information",
     "2. Enumeration/TCP/1433. MSSQL/Concepts",
     "5. Standard Information/Amazon Web Services (AWS)/Amazon Web Services (AWS).zip",
@@ -224,9 +228,6 @@
     "2. Enumeration/TCP/2433. MSSQL",
     "7. Misc/Images/Pasted image 20240924160358.png",
     "7. Misc/Images/Pasted image 20240924160122.png",
-    "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/Responder",
-    "3. Exploitation/Operating Systems/Windows/Tooling/Impacket",
-    "7. Misc/Images/SMB-Access-from-Linux.pdf",
     "7. Misc/Images/log4jattack.webp",
     "7. Misc/Images/attack_concept2.webp",
     "7. Misc/Images/taskmanagerdump.webp",
