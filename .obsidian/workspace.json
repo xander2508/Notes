@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/Responder/1. Responder.md",
+                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/Responder/1. Responder.md",
+                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/Responder/1. Responder.md",
+                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/Responder/1. Responder.md"
+                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/1. Guide.md"
               }
             }
           },
@@ -167,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 459.5
+    "width": 459.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,6 +189,11 @@
   },
   "active": "67621b8728f52296",
   "lastOpenFiles": [
+    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/2. Traffic Analysis.md",
+    "1. Recon/Network Analysis/1. Analysis Overview.md",
+    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/1. Guide.md",
+    "2. Enumeration/TCP/3306. MySQL (SQL)/Concepts/Python within SQL.md",
+    "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/Responder/1. Responder.md",
     "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/Responder/MultiRelay.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/NT and LM (NTLM).md",
     "2. Enumeration/TCP/1433. MSSQL/Concepts/Linked Servers.md",
@@ -202,7 +208,6 @@
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/Finding Kerberos Tickets in Linux.md",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/1. Identifying Domain Joined Hosts.md",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/Abusing Keytab ccache.md",
-    "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/Responder/1. Responder.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Pass the Hash (PtH).md",
     "2. Enumeration/TCP/3306. MySQL (SQL)/Concepts/Read Local File.md",
     "2. Enumeration/TCP/3306. MySQL (SQL)/Concepts/SQL Injection.md",
@@ -212,10 +217,6 @@
     "2. Enumeration/TCP/1433. MSSQL/Concepts/Information",
     "2. Enumeration/TCP/1433. MSSQL/Concepts",
     "2. Enumeration/TCP/3306. MySQL (SQL)/1. Guide.md",
-    "2. Enumeration/TCP/3306. MySQL (SQL)/Tooling/SqlCmd.md",
-    "2. Enumeration/TCP/3306. MySQL (SQL)/Tooling/SqSh.md",
-    "3. Exploitation/Operating Systems/Windows/Tooling/Impacket/Impacket mssqlclient.md",
-    "3. Exploitation/Operating Systems/Windows/Tooling/Impacket/Impacket.md",
     "5. Standard Information/Amazon Web Services (AWS)/Amazon Web Services (AWS).zip",
     "5. Standard Information/Amazon Web Services (AWS)/Amazon Web Services (AWS).zip.tmp",
     "2. Enumeration/TCP/2433. MSSQL",
