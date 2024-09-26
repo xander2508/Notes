@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/1433. MSSQL/Concepts/Impersonate Existing Users.md",
+                "file": "2. Enumeration/TCP/1433. MSSQL/Concepts/Linked Servers.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/1433. MSSQL/Concepts/Impersonate Existing Users.md",
+                "file": "2. Enumeration/TCP/1433. MSSQL/Concepts/Linked Servers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/1433. MSSQL/Concepts/Impersonate Existing Users.md",
+                "file": "2. Enumeration/TCP/1433. MSSQL/Concepts/Linked Servers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/1433. MSSQL/Concepts/Impersonate Existing Users.md"
+                "file": "2. Enumeration/TCP/1433. MSSQL/Concepts/Linked Servers.md"
               }
             }
           },
@@ -189,8 +189,9 @@
   },
   "active": "67621b8728f52296",
   "lastOpenFiles": [
-    "2. Enumeration/TCP/1433. MSSQL/1. Guide.md",
     "2. Enumeration/TCP/1433. MSSQL/Concepts/Impersonate Existing Users.md",
+    "2. Enumeration/TCP/1433. MSSQL/Concepts/Linked Servers.md",
+    "2. Enumeration/TCP/1433. MSSQL/1. Guide.md",
     "2. Enumeration/TCP/1433. MSSQL/Concepts/Read Local File.md",
     "2. Enumeration/TCP/1433. MSSQL/Concepts/Capturing Hashes.md",
     "2. Enumeration/TCP/1433. MSSQL/Concepts/xp_cmdshell Command Execution.md",
@@ -216,7 +217,6 @@
     "3. Exploitation/Operating Systems/Windows/Tooling/Impacket/Impacket mssqlclient.md",
     "3. Exploitation/Operating Systems/Windows/Tooling/Impacket/Impacket.md",
     "2. Enumeration/TCP/2433. MSSQL/1. Guide.md",
-    "3. Exploitation/Operating Systems/Windows/Tooling/Impacket/Impacket-ntlmrelayx.md",
     "5. Standard Information/Amazon Web Services (AWS)/Amazon Web Services (AWS).zip",
     "5. Standard Information/Amazon Web Services (AWS)/Amazon Web Services (AWS).zip.tmp",
     "2. Enumeration/TCP/2433. MSSQL",
