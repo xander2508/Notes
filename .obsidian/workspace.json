@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Elevating Local Admin to SYSTEM.md",
+                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Concepts/Session Hijacking.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Elevating Local Admin to SYSTEM.md",
+                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Concepts/Session Hijacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Elevating Local Admin to SYSTEM.md",
+                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Concepts/Session Hijacking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Elevating Local Admin to SYSTEM.md"
+                "file": "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Concepts/Session Hijacking.md"
               }
             }
           },
@@ -189,16 +189,19 @@
   },
   "active": "67621b8728f52296",
   "lastOpenFiles": [
-    "4. Post-Exploitation/Operating Systems/Windows/1. Guide.md",
+    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/1. Guide.md",
+    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/RDesktop.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Elevating Local Admin to SYSTEM.md",
-    "4. Post-Exploitation/Operating Systems/1. Guide.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Tooling/SysInternals.md",
     "4. Post-Exploitation/Securing Access.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Generic Enumeration Commands.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/SMB Traversing Users.md",
+    "4. Post-Exploitation/Operating Systems/Windows/1. Guide.md",
+    "4. Post-Exploitation/Operating Systems/1. Guide.md",
     "4. Post-Exploitation/Upgrading Shells.md",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Concepts/Session Hijacking.md",
     "7. Misc/Images/Pasted image 20240926142900.jpg",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Concepts/File Transfer.md",
-    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/1. Guide.md",
-    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/RDesktop.md",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/Remote Desktop Connection.md",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/xFreeRDP.md",
     "4. Post-Exploitation/Cryptography/Brute Forcing/Tooling/Hydra.md",
@@ -213,9 +216,6 @@
     "2. Enumeration/TCP/1433. MSSQL/Concepts/Linked Servers.md",
     "2. Enumeration/TCP/1433. MSSQL/Concepts/Impersonate Existing Users.md",
     "2. Enumeration/TCP/1433. MSSQL/1. Guide.md",
-    "2. Enumeration/TCP/1433. MSSQL/Concepts/Read Local File.md",
-    "2. Enumeration/TCP/1433. MSSQL/Concepts/Capturing Hashes.md",
-    "2. Enumeration/TCP/1433. MSSQL/Concepts/xp_cmdshell Command Execution.md",
     "2. Enumeration/TCP/1433. MSSQL/Concepts/Information",
     "2. Enumeration/TCP/1433. MSSQL/Concepts",
     "5. Standard Information/Amazon Web Services (AWS)/Amazon Web Services (AWS).zip",
