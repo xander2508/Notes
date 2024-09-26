@@ -5,6 +5,7 @@ tags:
   - RemoteDesktopProtocol
   - RDP
   - Concepts
+  - Information
 ---
 cRDP (Remote Desktop Protocol) is commonly used in Windows networks for remote access. We can transfer files using RDP by copying and pasting. We can right-click and copy a file from the Windows machine we connect to and paste it into the RDP session.
 

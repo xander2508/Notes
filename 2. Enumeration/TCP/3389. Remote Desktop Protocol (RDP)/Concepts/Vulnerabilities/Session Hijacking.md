@@ -5,6 +5,7 @@ tags:
   - RemoteDesktopProtocol
   - RDP
   - Concepts
+  - Vulnerabilities
 ---
 If a user is connected via RDP to our compromised machine, we can hijack the user's remote desktop session to escalate our privileges and impersonate the account. In an Active Directory environment, this could result in us taking over a Domain Admin account or furthering our access within the domain.
 
