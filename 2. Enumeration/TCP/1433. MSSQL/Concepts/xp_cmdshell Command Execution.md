@@ -4,7 +4,6 @@ tags:
   - TCP
   - MSSQL
   - Concepts
-  - Information
 aliases:
   - MSSQL Command Execution
   - xp_cmdshell

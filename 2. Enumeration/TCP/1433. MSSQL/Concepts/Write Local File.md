@@ -4,7 +4,6 @@ tags:
   - TCP
   - MSSQL
   - Concepts
-  - Information
 ---
 See [[2. Enumeration/TCP/3306. MySQL (SQL)/Concepts/Write Local File|Write Local File]] from [[2. Enumeration/TCP/3306. MySQL (SQL)/1. Guide|MySQL]] for more information.
 ## Restrictions
