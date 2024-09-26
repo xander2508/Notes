@@ -28,10 +28,11 @@ valentin
 
 #### Impersonating the SA User
 
-
 ```cmd-session
 EXECUTE AS LOGIN = 'sa'
 ```
 
 > [!NOTE]
 > It's recommended to run `EXECUTE AS LOGIN` within the master DB, because all users, by default, have access to that database. If a user you are trying to impersonate doesn't have access to the DB you are connecting to it will present an error. Try to move to the master DB using `USE master`.
+
+To revert the operation and return to our previous user, we can use the Transact-SQL statement `REVERT`.
