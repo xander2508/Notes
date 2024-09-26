@@ -5,6 +5,7 @@ tags:
   - DNS
   - DomainNameSystem
   - Tooling
+  - BruteForce
 ---
 DNSRecon is a Python script that provides the ability to perform:
 

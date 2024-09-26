@@ -5,6 +5,7 @@ tags:
   - DNS
   - DomainNameSystem
   - Tooling
+  - Websites
 aliases:
   - WHOIS
 ---

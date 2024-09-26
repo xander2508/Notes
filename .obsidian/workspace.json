@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Sublist3r.md",
+                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Brute Force/DnsEnum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe16f3727bf4376c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Brute Force/SubBrute.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Sublist3r.md",
+                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Brute Force/SubBrute.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Sublist3r.md",
+                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Brute Force/SubBrute.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Sublist3r.md"
+                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Brute Force/SubBrute.md"
               }
             }
           },
@@ -187,21 +200,23 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "744b9316b7030f7b",
+  "active": "fe16f3727bf4376c",
   "lastOpenFiles": [
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Brute Force/Fierce.md",
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Brute Force/SubBrute.md",
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Brute Force/DnsEnum.md",
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Brute Force",
+    "4. Post-Exploitation/Cryptography/Passwords and Wordlists/1. Wordlist and Password Guide.md",
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Brute Force/DnsRecon.md",
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/OSINT/SubFinder.md",
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/OSINT/Sublist3r.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/OSINT",
-    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/SubFinder.md",
-    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/SubBrute.md",
-    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Fierce.md",
-    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/DnsRecon.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Default/nslookup.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Default",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Default/Host.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Default/Domain Information Groper (Dig).md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Websites/DnsDumpseter.md",
-    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Sublist3r.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Websites",
-    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/DnsEnum.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Applications/Bind9.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Concepts/Domain Takeovers.md",
@@ -219,13 +234,10 @@
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Tooling/RDesktop.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Elevating Local Admin to SYSTEM.md",
     "4. Post-Exploitation/Operating Systems/Windows/Tooling/SysInternals.md",
-    "4. Post-Exploitation/Securing Access.md",
     "7. Misc/Images/Pasted image 20240926142900.jpg",
     "2. Enumeration/TCP/1433. MSSQL/Concepts/Information",
     "2. Enumeration/TCP/1433. MSSQL/Concepts",
     "5. Standard Information/Amazon Web Services (AWS)/Amazon Web Services (AWS).zip",
-    "5. Standard Information/Amazon Web Services (AWS)/Amazon Web Services (AWS).zip.tmp",
-    "2. Enumeration/TCP/2433. MSSQL",
     "7. Misc/Images/Pasted image 20240924160358.png",
     "7. Misc/Images/Pasted image 20240924160122.png",
     "7. Misc/Images/log4jattack.webp",

@@ -5,6 +5,7 @@ tags:
   - DNS
   - DomainNameSystem
   - Tooling
+  - BruteForce
 ---
 Multithreaded Perl script to enumerate DNS information of a domain and to discover non-contiguous IP blocks.
 

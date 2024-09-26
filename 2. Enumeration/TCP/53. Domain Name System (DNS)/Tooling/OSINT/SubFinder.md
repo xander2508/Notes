@@ -5,6 +5,7 @@ tags:
   - DNS
   - DomainNameSystem
   - Tooling
+  - OSINT
 ---
 
 [GitHub - projectdiscovery/subfinder: Fast passive subdomain enumeration tool.](https://github.com/projectdiscovery/subfinder)

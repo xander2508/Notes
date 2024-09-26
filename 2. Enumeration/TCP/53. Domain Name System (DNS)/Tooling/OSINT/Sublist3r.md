@@ -5,6 +5,7 @@ tags:
   - DNS
   - DomainNameSystem
   - Tooling
+  - OSINT
 ---
 
 [GitHub - aboul3la/Sublist3r: Fast subdomains enumeration tool for penetration testers](https://github.com/aboul3la/Sublist3r)

@@ -5,6 +5,7 @@ tags:
   - DNS
   - DomainNameSystem
   - Tooling
+  - BruteForce
 ---
 
 DNS reconnaissance and subdomain enumeration tool with recursive search and wildcard detection.	
