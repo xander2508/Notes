@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "67621b8728f52296",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Brute Force/DnsEnum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fe16f3727bf4376c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Tooling/o365spray.md",
+                "file": "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Concepts/Information/Open Relay.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Tooling/o365spray.md",
+                "file": "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Concepts/Information/Open Relay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Tooling/o365spray.md",
+                "file": "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Concepts/Information/Open Relay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Tooling/o365spray.md"
+                "file": "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Concepts/Information/Open Relay.md"
               }
             }
           },
@@ -202,18 +189,24 @@
   },
   "active": "fe16f3727bf4376c",
   "lastOpenFiles": [
+    "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/1. Guide.md",
+    "4. Post-Exploitation/Cryptography/Brute Forcing/Tooling/Hydra.md",
+    "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Concepts/Information/Open Relay.md",
+    "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/2. Information.md",
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Brute Force/DnsEnum.md",
+    "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Concepts/Vulnerabilities/OpenSMTPD 6.6.2 - Remote Code Execution.md",
+    "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Tooling/o365spray.md",
+    "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Concepts/Information/Untitled",
+    "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Concepts/Information",
+    "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Concepts",
     "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Tooling/CredKing.md",
     "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Tooling/MailSniper.md",
-    "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/1. Guide.md",
     "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Tooling/Enyx.md",
     "2. Enumeration/TCP/143. Internet Message Access Protocol (IMAP)/1. Guide.md",
-    "4. Post-Exploitation/Cryptography/Brute Forcing/Tooling/Hydra.md",
     "2. Enumeration/TCP/110. Post Office Protocol (POP3)/1. Guide.md",
-    "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Tooling/o365spray.md",
     "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Tooling/Python SMTP Server.md",
     "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Tooling/SMTP-User-Enum.md",
     "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Tooling/SWAKS.md",
-    "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/2. Information.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Websites/Domain Glass (WHOIS).md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Concepts/DNS Spoofing.md",
@@ -222,7 +215,6 @@
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Concepts/Domain Takeovers.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Brute Force/SubBrute.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Brute Force/Fierce.md",
-    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Brute Force/DnsEnum.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Brute Force",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/1. Wordlist and Password Guide.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Brute Force/DnsRecon.md",
@@ -231,16 +223,11 @@
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/OSINT",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Default/nslookup.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Default",
-    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Default/Host.md",
-    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Default/Domain Information Groper (Dig).md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Websites",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Concepts",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Concepts/Information",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Concepts/Vulnerabilities",
     "7. Misc/Images/Pasted image 20240926142900.jpg",
-    "2. Enumeration/TCP/1433. MSSQL/Concepts/Information",
-    "2. Enumeration/TCP/1433. MSSQL/Concepts",
-    "5. Standard Information/Amazon Web Services (AWS)/Amazon Web Services (AWS).zip",
     "7. Misc/Images/Pasted image 20240924160358.png",
     "7. Misc/Images/Pasted image 20240924160122.png",
     "7. Misc/Images/log4jattack.webp",
