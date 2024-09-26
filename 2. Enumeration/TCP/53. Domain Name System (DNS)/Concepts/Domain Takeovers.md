@@ -16,7 +16,7 @@ sub.target.com.   60   IN   CNAME   anotherdomain.com
 
 The domain name (e.g., `sub.target.com`) uses a CNAME record to another domain (e.g., `anotherdomain.com`). Suppose the `anotherdomain.com` expires and is available for anyone to claim the domain since the `target.com`'s DNS server has the `CNAME` record. In that case, anyone who registers `anotherdomain.com` will have complete control over `sub.target.com` until the DNS record is updated.
 
-
+[GitHub - EdOverflow/can-i-take-over-xyz: "Can I take over XYZ?" — a list of services and how to claim (sub)domains with dangling DNS records.](https://github.com/EdOverflow/can-i-take-over-xyz)
 ## Example
 
 ```shell-session
