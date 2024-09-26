@@ -6,7 +6,6 @@ tags:
   - SQL
   - Concepts
 ---
-
 # Guide
 
 1. [MySQL SQL Injection Cheat Sheet | pentestmonkey](http://pentestmonkey.net/cheat-sheet/sql-injection/mysql-sql-injection-cheat-sheet)
