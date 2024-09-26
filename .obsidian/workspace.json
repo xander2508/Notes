@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Pass the Hash (PtH).md",
+                "file": "2. Enumeration/TCP/1433. MSSQL/Concepts/Impersonate Existing Users.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Pass the Hash (PtH).md",
+                "file": "2. Enumeration/TCP/1433. MSSQL/Concepts/Impersonate Existing Users.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Pass the Hash (PtH).md",
+                "file": "2. Enumeration/TCP/1433. MSSQL/Concepts/Impersonate Existing Users.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Pass the Hash (PtH).md"
+                "file": "2. Enumeration/TCP/1433. MSSQL/Concepts/Impersonate Existing Users.md"
               }
             }
           },
@@ -167,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 459.5
+    "width": 459.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,22 +189,23 @@
   },
   "active": "67621b8728f52296",
   "lastOpenFiles": [
-    "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/Responder/1. Responder.md",
-    "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/Abusing Keytab ccache.md",
-    "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/1. Identifying Domain Joined Hosts.md",
-    "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/Finding Kerberos Tickets in Linux.md",
-    "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/Abusing KeyTab Files.md",
-    "2. Enumeration/TCP/445. Server Message Block (SMB)/1. Guide.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/NTLM and LM.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Pass the Hash (PtH).md",
+    "2. Enumeration/TCP/1433. MSSQL/Concepts/Read Local File.md",
+    "2. Enumeration/TCP/1433. MSSQL/Concepts/Impersonate Existing Users.md",
     "2. Enumeration/TCP/1433. MSSQL/Concepts/Capturing Hashes.md",
+    "2. Enumeration/TCP/1433. MSSQL/1. Guide.md",
     "2. Enumeration/TCP/1433. MSSQL/Concepts/xp_cmdshell Command Execution.md",
     "2. Enumeration/TCP/1433. MSSQL/Concepts/Write Local File.md",
-    "2. Enumeration/TCP/1433. MSSQL/Concepts/Read Local File.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/NTLM and LM.md",
+    "2. Enumeration/TCP/445. Server Message Block (SMB)/1. Guide.md",
+    "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/Abusing KeyTab Files.md",
+    "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/Finding Kerberos Tickets in Linux.md",
+    "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/1. Identifying Domain Joined Hosts.md",
+    "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/Abusing Keytab ccache.md",
+    "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/Responder/1. Responder.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Pass the Hash (PtH).md",
     "2. Enumeration/TCP/3306. MySQL (SQL)/Concepts/Read Local File.md",
     "2. Enumeration/TCP/3306. MySQL (SQL)/Concepts/SQL Injection.md",
     "2. Enumeration/TCP/3306. MySQL (SQL)/Concepts/Write Local File.md",
-    "2. Enumeration/TCP/1433. MSSQL/1. Guide.md",
     "2. Enumeration/TCP/3306. MySQL (SQL)/2. Information.md",
     "2. Enumeration/TCP/1433. MSSQL/2. Information.md",
     "2. Enumeration/TCP/1433. MSSQL/Concepts/Information",
@@ -217,7 +219,6 @@
     "3. Exploitation/Operating Systems/Windows/Tooling/Impacket/Impacket-ntlmrelayx.md",
     "5. Standard Information/Amazon Web Services (AWS)/Amazon Web Services (AWS).zip",
     "5. Standard Information/Amazon Web Services (AWS)/Amazon Web Services (AWS).zip.tmp",
-    "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/Responder/MultiRelay.md",
     "2. Enumeration/TCP/2433. MSSQL",
     "7. Misc/Images/Pasted image 20240924160358.png",
     "7. Misc/Images/Pasted image 20240924160122.png",
