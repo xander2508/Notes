@@ -189,10 +189,10 @@
   },
   "active": "67621b8728f52296",
   "lastOpenFiles": [
-    "2. Enumeration/TCP/1433. MSSQL/Concepts/Read Local File.md",
-    "2. Enumeration/TCP/1433. MSSQL/Concepts/Impersonate Existing Users.md",
-    "2. Enumeration/TCP/1433. MSSQL/Concepts/Capturing Hashes.md",
     "2. Enumeration/TCP/1433. MSSQL/1. Guide.md",
+    "2. Enumeration/TCP/1433. MSSQL/Concepts/Impersonate Existing Users.md",
+    "2. Enumeration/TCP/1433. MSSQL/Concepts/Read Local File.md",
+    "2. Enumeration/TCP/1433. MSSQL/Concepts/Capturing Hashes.md",
     "2. Enumeration/TCP/1433. MSSQL/Concepts/xp_cmdshell Command Execution.md",
     "2. Enumeration/TCP/1433. MSSQL/Concepts/Write Local File.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/NTLM and LM.md",
