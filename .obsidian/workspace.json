@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/Responder/1. Responder.md",
+                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Pass the Hash (PtH).md",
                 "mode": "source",
                 "source": false
               }
@@ -75,8 +75,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/Responder/1. Responder.md",
+                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Pass the Hash (PtH).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/Responder/1. Responder.md",
+                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Pass the Hash (PtH).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/Responder/1. Responder.md"
+                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Hashes and Credentials/Pass the Hash (PtH).md"
               }
             }
           },
@@ -189,6 +188,7 @@
   },
   "active": "67621b8728f52296",
   "lastOpenFiles": [
+    "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/Responder/1. Responder.md",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/Abusing Keytab ccache.md",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/1. Identifying Domain Joined Hosts.md",
     "4. Post-Exploitation/Operating Systems/Linux/Concepts/Information/Kerberos/Finding Kerberos Tickets in Linux.md",
@@ -218,7 +218,6 @@
     "5. Standard Information/Amazon Web Services (AWS)/Amazon Web Services (AWS).zip",
     "5. Standard Information/Amazon Web Services (AWS)/Amazon Web Services (AWS).zip.tmp",
     "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/Responder/MultiRelay.md",
-    "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/Responder/1. Responder.md",
     "2. Enumeration/TCP/2433. MSSQL",
     "7. Misc/Images/Pasted image 20240924160358.png",
     "7. Misc/Images/Pasted image 20240924160122.png",
