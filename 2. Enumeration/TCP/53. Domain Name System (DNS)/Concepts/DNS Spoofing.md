@@ -30,16 +30,11 @@ Next, start the `Ettercap` tool and scan for live hosts within the network by 
 
 ![[target.webp]]
 
+Activate `dns_spoof` attack by navigating to `Plugins > Manage Plugins`. This sends the target machine with fake DNS responses that will resolve `inlanefreight.com` to IP address `192.168.225.110`:
 
+![[etter_plug.webp]]
 
-
-
-
-
-
-
-
-
+After a successful DNS spoof attack, if a victim user coming from the target machine `192.168.152.129` visits the `inlanefreight.com` domain on a web browser, they will be redirected to a `Fake page` that is hosted on IP address `192.168.225.110`
 
 
 
