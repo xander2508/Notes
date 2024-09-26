@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/1433. MSSQL/1. Guide.md",
+                "file": "2. Enumeration/TCP/1433. MSSQL/Concepts/Information/xp_cmdshell Command Execution.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "impacket",
+                "query": "xp_cmdshell",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/1433. MSSQL/1. Guide.md",
+                "file": "2. Enumeration/TCP/1433. MSSQL/Concepts/Information/xp_cmdshell Command Execution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/1433. MSSQL/1. Guide.md",
+                "file": "2. Enumeration/TCP/1433. MSSQL/Concepts/Information/xp_cmdshell Command Execution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/1433. MSSQL/1. Guide.md"
+                "file": "2. Enumeration/TCP/1433. MSSQL/Concepts/Information/xp_cmdshell Command Execution.md"
               }
             }
           },
@@ -188,10 +188,13 @@
   },
   "active": "67621b8728f52296",
   "lastOpenFiles": [
+    "2. Enumeration/TCP/1433. MSSQL/1. Guide.md",
+    "2. Enumeration/TCP/1433. MSSQL/Concepts/Information/xp_cmdshell Command Execution.md",
+    "2. Enumeration/TCP/1433. MSSQL/Concepts/Information",
+    "2. Enumeration/TCP/1433. MSSQL/Concepts",
     "2. Enumeration/TCP/3306. MySQL (SQL)/1. Guide.md",
     "2. Enumeration/TCP/3306. MySQL (SQL)/Tooling/SqlCmd.md",
     "2. Enumeration/TCP/3306. MySQL (SQL)/Tooling/SqSh.md",
-    "2. Enumeration/TCP/1433. MSSQL/1. Guide.md",
     "2. Enumeration/TCP/1433. MSSQL/2. Information.md",
     "2. Enumeration/TCP/3306. MySQL (SQL)/2. Information.md",
     "3. Exploitation/Operating Systems/Windows/Tooling/Impacket/Impacket mssqlclient.md",
@@ -219,15 +222,11 @@
     "5. Standard Information/Operating Systems/Windows/Windows Name Resolution.md",
     "5. Standard Information/Operating Systems/Windows/Windows Management Instrumentation (WMI).md",
     "2. Enumeration/TCP/445. Server Message Block (SMB)/1. Guide.md",
-    "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/GPP-Decrypt.md",
-    "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/CrackMapExec.md",
     "7. Misc/Images/SMB-Access-from-Linux.pdf",
     "2. Enumeration/TCP/20. FTP/Concepts/Vulnerabilities",
     "2. Enumeration/TCP/20. FTP/Concepts",
-    "4. Post-Exploitation/Cryptography/Brute Forcing/Tooling",
     "7. Misc/Images/log4jattack.webp",
     "7. Misc/Images/attack_concept2.webp",
-    "5. Standard Information/Penetration Testing/Concepts",
     "7. Misc/Images/taskmanagerdump.webp",
     "7. Misc/Images/reverseshell.webp",
     "7. Misc/Images/bindshell.webp",
