@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Brute Force/SubBrute.md",
+                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/Concepts/Domain Takeovers.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Brute Force/SubBrute.md",
+                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/Concepts/Domain Takeovers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Brute Force/SubBrute.md",
+                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/Concepts/Domain Takeovers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Brute Force/SubBrute.md"
+                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/Concepts/Domain Takeovers.md"
               }
             }
           },
@@ -202,8 +202,8 @@
   },
   "active": "fe16f3727bf4376c",
   "lastOpenFiles": [
-    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Brute Force/Fierce.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Brute Force/SubBrute.md",
+    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Brute Force/Fierce.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Brute Force/DnsEnum.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Brute Force",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/1. Wordlist and Password Guide.md",

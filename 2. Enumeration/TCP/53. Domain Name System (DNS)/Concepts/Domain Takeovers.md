@@ -17,4 +17,15 @@ sub.target.com.   60   IN   CNAME   anotherdomain.com
 The domain name (e.g., `sub.target.com`) uses a CNAME record to another domain (e.g., `anotherdomain.com`). Suppose the `anotherdomain.com` expires and is available for anyone to claim the domain since the `target.com`'s DNS server has the `CNAME` record. In that case, anyone who registers `anotherdomain.com` will have complete control over `sub.target.com` until the DNS record is updated.
 
 
+## Example
+
+```shell-session
+host support.inlanefreight.com
+
+support.inlanefreight.com is an alias for inlanefreight.s3.amazonaws.com
+```
+
+The `support` subdomain has an alias record pointing to an AWS S3 bucket. However, the URL `https://support.inlanefreight.com` shows a `NoSuchBucket` error indicating that the subdomain is potentially vulnerable to a subdomain takeover.
+
+We can take over the subdomain by creating an AWS S3 bucket with the same subdomain name.
 
