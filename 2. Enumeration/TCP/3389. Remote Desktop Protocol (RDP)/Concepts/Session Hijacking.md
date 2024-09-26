@@ -18,7 +18,7 @@ It works by specifying which `SESSION ID` (`4` for the `lewen` session in o
 tscon #{TARGET_SESSION_ID} /dest:#{OUR_SESSION_NAME}
 ```
 
-If Local Administrator permissions are avalaible but SYSTEM is required, see [[Elevating Local Admin to SYSTEM]]
+If Local Administrator permissions are available but SYSTEM is required, see [[Elevating Local Admin to SYSTEM]]
 
 
 
