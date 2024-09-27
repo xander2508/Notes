@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Brute Forcing/Tooling/Medusa.md",
+                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/PBKDF2.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Brute Forcing/Tooling/Medusa.md",
+                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/PBKDF2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Brute Forcing/Tooling/Medusa.md",
+                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/PBKDF2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Brute Forcing/Tooling/Medusa.md"
+                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/PBKDF2.md"
               }
             }
           },
@@ -189,6 +189,12 @@
   },
   "active": "fe16f3727bf4376c",
   "lastOpenFiles": [
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/1. Hashes.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/PBKDF2.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/Fuzzy Hashing (SSDEEP).md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/1. Guide.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Tooling/Hashcat.md",
+    "4. Post-Exploitation/Cryptography/Brute Forcing/Tooling/Medusa.md",
     "4. Post-Exploitation/Cryptography/Brute Forcing/Tooling/Hydra.md",
     "2. Enumeration/TCP/1433. MSSQL/1. Guide.md",
     "2. Enumeration/TCP/1433. MSSQL/Concepts/Write Local File.md",
@@ -209,12 +215,6 @@
     "2. Enumeration/TCP/3306. MySQL (SQL)/Concepts/Write Local File.md",
     "2. Enumeration/TCP/3306. MySQL (SQL)/1. Guide.md",
     "2. Enumeration/TCP/3306. MySQL (SQL)/2. Information.md",
-    "3. Exploitation/Remote Shells/Specific Shells/Web/PHP.md",
-    "2. Enumeration/TCP/20. FTP/1. Guide.md",
-    "3. Exploitation/1. Guide.md",
-    "3. Exploitation/Tooling/Searchsploit.md",
-    "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/1. Guide.md",
-    "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Concepts/Information/Open Relay.md",
     "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Concepts/Information/Untitled",
     "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Concepts/Information",
     "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Concepts",
