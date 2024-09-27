@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e7aacd2c0f90c7ad",
+        "id": "2addfcf19210a22a",
         "type": "tabs",
         "children": [
           {
-            "id": "fe16f3727bf4376c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Vulnerabilities/OpenSSL/Heartbleed.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b405c7e63fdcd1f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/1. Guide.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6bfe52e4a31c3ec",
+            "id": "a44220648ed90f44",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,8 +187,9 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "f6bfe52e4a31c3ec",
+  "active": "ffc32cc3307c2dff",
   "lastOpenFiles": [
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Vulnerabilities/OpenSSL/Heartbleed.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/1. Guide.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Tooling/Hashcat.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Tooling/John the Ripper.md",
@@ -229,7 +205,6 @@
     "5. Standard Information/Cryptography/Authentication Protocols.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/1. Encryption.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Vulnerabilities/Padding Oracle.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Vulnerabilities/OpenSSL/Heartbleed.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Vulnerabilities",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Algorithms/3DES.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Algorithms/Advanced Encryption Standard (AES).md",
