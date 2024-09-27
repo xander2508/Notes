@@ -1,3 +1,7 @@
+---
+tags:
+  - StandardInformation
+---
 
 **Cost**: `=round(sum(this.file.tasks.cost),2)`
 
