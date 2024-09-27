@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/1. Guide.md",
+                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/Pcap, PcapNG.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/1. Guide.md",
+                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/Pcap, PcapNG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/1. Guide.md",
+                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/Pcap, PcapNG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/1. Guide.md"
+                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/Pcap, PcapNG.md"
               }
             }
           },
@@ -189,8 +189,11 @@
   },
   "active": "a44220648ed90f44",
   "lastOpenFiles": [
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Tooling/Hashcat.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/OpenSSL.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/Pcap, PcapNG.md",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/MaskProcessor.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/1. Guide.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Tooling/Hashcat.md",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/2. Password Generation.md",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/1. Wordlist and Password Guide.md",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/CEWL.md",
@@ -201,7 +204,6 @@
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Crunch.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/BCrypt.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Vulnerabilities/OpenSSL/Heartbleed.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/1. Guide.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Tooling/John the Ripper.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/1. Hashes.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/SHA384.md",
@@ -213,8 +215,6 @@
     "5. Standard Information/Cryptography/Certificate Transparency Logs.md",
     "5. Standard Information/Cryptography/Encryption.md",
     "5. Standard Information/Cryptography/Authentication Protocols.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/1. Encryption.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Vulnerabilities/Padding Oracle.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Vulnerabilities",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Algorithms",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Implementations",
