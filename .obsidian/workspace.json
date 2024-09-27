@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/Pcap, PcapNG.md",
+                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/PMKID.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:KnownExploits",
+                "query": "PMKID",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/Pcap, PcapNG.md",
+                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/PMKID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/Pcap, PcapNG.md",
+                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/PMKID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/Pcap, PcapNG.md"
+                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/PMKID.md"
               }
             }
           },
@@ -190,7 +190,8 @@
   "active": "a44220648ed90f44",
   "lastOpenFiles": [
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/OpenSSL.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/Pcap, PcapNG.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/PMKID.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/MIC (4-way handshake) - Pcap, PcapNG.md",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/MaskProcessor.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/1. Guide.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Tooling/Hashcat.md",
@@ -214,7 +215,6 @@
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/MD5.md",
     "5. Standard Information/Cryptography/Certificate Transparency Logs.md",
     "5. Standard Information/Cryptography/Encryption.md",
-    "5. Standard Information/Cryptography/Authentication Protocols.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Vulnerabilities",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Algorithms",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Implementations",
