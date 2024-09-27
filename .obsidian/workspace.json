@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Exploitation/Tooling/Searchsploit.md",
+                "file": "2. Enumeration/TCP/20. FTP/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Exploitation/Tooling/Searchsploit.md",
+                "file": "2. Enumeration/TCP/20. FTP/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Exploitation/Tooling/Searchsploit.md",
+                "file": "2. Enumeration/TCP/20. FTP/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Exploitation/Tooling/Searchsploit.md"
+                "file": "2. Enumeration/TCP/20. FTP/1. Guide.md"
               }
             }
           },
@@ -190,6 +190,7 @@
   "active": "fe16f3727bf4376c",
   "lastOpenFiles": [
     "3. Exploitation/1. Guide.md",
+    "3. Exploitation/Tooling/Searchsploit.md",
     "2. Enumeration/TCP/20. FTP/1. Guide.md",
     "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/1. Guide.md",
     "4. Post-Exploitation/Cryptography/Brute Forcing/Tooling/Hydra.md",
@@ -220,7 +221,6 @@
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Brute Force",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/1. Wordlist and Password Guide.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Brute Force/DnsRecon.md",
-    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/OSINT/SubFinder.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/OSINT",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Default",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Websites",
