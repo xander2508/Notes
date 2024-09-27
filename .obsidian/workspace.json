@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Algorithms/Blowfish.md",
+                "file": "3. Exploitation/Known Exploits/Encryption/Padding Oracle.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Rainbow",
+                "query": "padding",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Algorithms/Blowfish.md",
+                "file": "3. Exploitation/Known Exploits/Encryption/Padding Oracle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Algorithms/Blowfish.md",
+                "file": "3. Exploitation/Known Exploits/Encryption/Padding Oracle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Algorithms/Blowfish.md"
+                "file": "3. Exploitation/Known Exploits/Encryption/Padding Oracle.md"
               }
             }
           },
@@ -187,14 +187,17 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "fe16f3727bf4376c",
+  "active": "744b9316b7030f7b",
   "lastOpenFiles": [
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/BCrypt.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Algorithms/Blowfish.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Untitled",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Algorithms/3DES.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Algorithms/DES.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/1. Encryption.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Algorithms/Advanced Encryption Standard (AES).md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Algorithms/DES.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Algorithms/Blowfish.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/SHA256.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/SHA512.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/BCrypt.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/1. Encryption.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Implementations/File Encryption.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Implementations/Windows PowerShell Password Encryption.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Algorithms",
@@ -207,17 +210,14 @@
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/1. Hashes.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/1. Guide.md",
     "4. Post-Exploitation/Cryptography/Brute Forcing/1. Guide.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/SHA512.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/Argon2.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/Fuzzy Hashing (SSDEEP).md",
     "5. Standard Information/Recommended Training Courses.md",
     "5. Standard Information/Recommended Books.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/SHA256.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/HMAC.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/PBKDF2.md",
     "7. Misc/Images/nistspecialpublication800-132.pdf",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/NT and LM (NTLM).md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Tooling/Hashcat.md",
     "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Concepts/Information/Untitled",
     "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Concepts/Information",
     "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Concepts",
