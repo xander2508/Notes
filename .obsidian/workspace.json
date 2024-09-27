@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Tooling/Hashcat.md",
+                "file": "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/CUPP.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Tooling/Hashcat.md",
+                "file": "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/CUPP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Tooling/Hashcat.md",
+                "file": "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/CUPP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Tooling/Hashcat.md"
+                "file": "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/CUPP.md"
               }
             }
           },
@@ -189,8 +189,11 @@
   },
   "active": "a44220648ed90f44",
   "lastOpenFiles": [
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/BCrypt.md",
+    "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Crunch.md",
+    "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Username Anarchy.md",
+    "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/CUPP.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Tooling/Hashcat.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/BCrypt.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Vulnerabilities/OpenSSL/Heartbleed.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/1. Guide.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Tooling/John the Ripper.md",
@@ -214,10 +217,7 @@
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Implementations/File Encryption.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Implementations/Windows PowerShell Password Encryption.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Algorithms",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Untitled.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Implementations",
-    "5. Standard Information/Cryptography/Algorithms.md",
-    "4. Post-Exploitation/Cryptography/Brute Forcing/1. Guide.md",
     "7. Misc/Images/nistspecialpublication800-132.pdf",
     "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Concepts/Information/Untitled",
     "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Concepts/Information",
