@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Exploitation/Known Exploits/Encryption/Padding Oracle.md",
+                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Vulnerabilities/OpenSSL/Heartbleed.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b405c7e63fdcd1f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Standard Information/Cryptography/Certificate Transparency Logs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "padding",
+                "query": "tag:KnownExploits",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Exploitation/Known Exploits/Encryption/Padding Oracle.md",
+                "file": "5. Standard Information/Cryptography/Certificate Transparency Logs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Exploitation/Known Exploits/Encryption/Padding Oracle.md",
+                "file": "5. Standard Information/Cryptography/Certificate Transparency Logs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Exploitation/Known Exploits/Encryption/Padding Oracle.md"
+                "file": "5. Standard Information/Cryptography/Certificate Transparency Logs.md"
               }
             }
           },
@@ -189,7 +202,13 @@
   },
   "active": "744b9316b7030f7b",
   "lastOpenFiles": [
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Untitled",
+    "5. Standard Information/Cryptography/Encryption.md",
+    "5. Standard Information/Cryptography/Certificate Transparency Logs.md",
+    "5. Standard Information/Cryptography/Authentication Protocols.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/1. Encryption.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Vulnerabilities/Padding Oracle.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Vulnerabilities/OpenSSL/Heartbleed.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Vulnerabilities",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Algorithms/3DES.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Algorithms/Advanced Encryption Standard (AES).md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Algorithms/DES.md",
@@ -197,16 +216,12 @@
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/SHA256.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/SHA512.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/BCrypt.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/1. Encryption.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Implementations/File Encryption.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Implementations/Windows PowerShell Password Encryption.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Algorithms",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Untitled.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Implementations",
-    "5. Standard Information/Cryptography/Encryption.md",
     "5. Standard Information/Cryptography/Algorithms.md",
-    "5. Standard Information/Cryptography/Certificate Transparency Logs.md",
-    "5. Standard Information/Cryptography/Authentication Protocols.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/1. Hashes.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/1. Guide.md",
     "4. Post-Exploitation/Cryptography/Brute Forcing/1. Guide.md",
@@ -217,7 +232,6 @@
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/HMAC.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/PBKDF2.md",
     "7. Misc/Images/nistspecialpublication800-132.pdf",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/NT and LM (NTLM).md",
     "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Concepts/Information/Untitled",
     "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Concepts/Information",
     "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Concepts",
@@ -226,7 +240,6 @@
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Brute Force",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/OSINT",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Default",
-    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Websites",
     "7. Misc/Images/Pasted image 20240926142900.jpg",
     "7. Misc/Images/Pasted image 20240924160358.png",
     "7. Misc/Images/Pasted image 20240924160122.png",
