@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/1. Hashes.md",
+                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Algorithms/Blowfish.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/1. Hashes.md",
+                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Algorithms/Blowfish.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/1. Hashes.md",
+                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Algorithms/Blowfish.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/1. Hashes.md"
+                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Algorithms/Blowfish.md"
               }
             }
           },
@@ -189,13 +189,26 @@
   },
   "active": "fe16f3727bf4376c",
   "lastOpenFiles": [
-    "4. Post-Exploitation/Cryptography/Brute Forcing/1. Guide.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/1. Guide.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/BCrypt.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Algorithms/Blowfish.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Algorithms/3DES.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Algorithms/DES.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/1. Encryption.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Algorithms/Advanced Encryption Standard (AES).md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Implementations/File Encryption.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Implementations/Windows PowerShell Password Encryption.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Algorithms",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Untitled.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Implementations",
+    "5. Standard Information/Cryptography/Encryption.md",
+    "5. Standard Information/Cryptography/Algorithms.md",
+    "5. Standard Information/Cryptography/Certificate Transparency Logs.md",
+    "5. Standard Information/Cryptography/Authentication Protocols.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/1. Hashes.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/1. Guide.md",
+    "4. Post-Exploitation/Cryptography/Brute Forcing/1. Guide.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/SHA512.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/Argon2.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/Blowfish.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/BCrypt.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/Fuzzy Hashing (SSDEEP).md",
     "5. Standard Information/Recommended Training Courses.md",
     "5. Standard Information/Recommended Books.md",
@@ -205,17 +218,6 @@
     "7. Misc/Images/nistspecialpublication800-132.pdf",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/NT and LM (NTLM).md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Tooling/Hashcat.md",
-    "4. Post-Exploitation/Cryptography/Brute Forcing/Tooling/Medusa.md",
-    "4. Post-Exploitation/Cryptography/Brute Forcing/Tooling/Hydra.md",
-    "2. Enumeration/TCP/1433. MSSQL/1. Guide.md",
-    "2. Enumeration/TCP/1433. MSSQL/Concepts/Write Local File.md",
-    "2. Enumeration/TCP/1433. MSSQL/Concepts/xp_cmdshell Command Execution.md",
-    "2. Enumeration/TCP/1433. MSSQL/Concepts/Linked Servers.md",
-    "2. Enumeration/TCP/1433. MSSQL/Concepts/Impersonate Existing Users.md",
-    "2. Enumeration/TCP/3306. MySQL (SQL)/Tooling/SqlCmd.md",
-    "2. Enumeration/TCP/22. Secure Shell (SSH)/1. Guide.md",
-    "2. Enumeration/TCP/22. Secure Shell (SSH)/Tooling/Format a Private Key.md",
-    "2. Enumeration/TCP/22. Secure Shell (SSH)/Tooling/Secure copy protocol (SCP).md",
     "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Concepts/Information/Untitled",
     "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Concepts/Information",
     "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Concepts",
@@ -225,8 +227,6 @@
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/OSINT",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Default",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Websites",
-    "2. Enumeration/TCP/53. Domain Name System (DNS)/Concepts",
-    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Concepts/Information",
     "7. Misc/Images/Pasted image 20240926142900.jpg",
     "7. Misc/Images/Pasted image 20240924160358.png",
     "7. Misc/Images/Pasted image 20240924160122.png",
