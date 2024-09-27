@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/22. Secure Shell (SSH)/1. Guide.md",
+                "file": "4. Post-Exploitation/Cryptography/Brute Forcing/Tooling/Medusa.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/22. Secure Shell (SSH)/1. Guide.md",
+                "file": "4. Post-Exploitation/Cryptography/Brute Forcing/Tooling/Medusa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/22. Secure Shell (SSH)/1. Guide.md",
+                "file": "4. Post-Exploitation/Cryptography/Brute Forcing/Tooling/Medusa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/22. Secure Shell (SSH)/1. Guide.md"
+                "file": "4. Post-Exploitation/Cryptography/Brute Forcing/Tooling/Medusa.md"
               }
             }
           },
@@ -189,6 +189,14 @@
   },
   "active": "fe16f3727bf4376c",
   "lastOpenFiles": [
+    "4. Post-Exploitation/Cryptography/Brute Forcing/Tooling/Hydra.md",
+    "2. Enumeration/TCP/1433. MSSQL/1. Guide.md",
+    "2. Enumeration/TCP/1433. MSSQL/Concepts/Write Local File.md",
+    "2. Enumeration/TCP/1433. MSSQL/Concepts/xp_cmdshell Command Execution.md",
+    "2. Enumeration/TCP/1433. MSSQL/Concepts/Linked Servers.md",
+    "2. Enumeration/TCP/1433. MSSQL/Concepts/Impersonate Existing Users.md",
+    "2. Enumeration/TCP/3306. MySQL (SQL)/Tooling/SqlCmd.md",
+    "2. Enumeration/TCP/22. Secure Shell (SSH)/1. Guide.md",
     "2. Enumeration/TCP/22. Secure Shell (SSH)/Tooling/Format a Private Key.md",
     "2. Enumeration/TCP/22. Secure Shell (SSH)/Tooling/Secure copy protocol (SCP).md",
     "2. Enumeration/TCP/22. Secure Shell (SSH)/Concepts/Setting Up SSH.md",
@@ -206,18 +214,10 @@
     "3. Exploitation/1. Guide.md",
     "3. Exploitation/Tooling/Searchsploit.md",
     "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/1. Guide.md",
-    "4. Post-Exploitation/Cryptography/Brute Forcing/Tooling/Hydra.md",
     "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Concepts/Information/Open Relay.md",
-    "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/2. Information.md",
-    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Brute Force/DnsEnum.md",
-    "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Concepts/Vulnerabilities/OpenSMTPD 6.6.2 - Remote Code Execution.md",
-    "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Tooling/o365spray.md",
     "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Concepts/Information/Untitled",
     "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Concepts/Information",
     "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Concepts",
-    "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Tooling/CredKing.md",
-    "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Tooling/MailSniper.md",
-    "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Tooling/Enyx.md",
     "7. Misc/Images/etter_plug.webp",
     "7. Misc/Images/target.webp",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Brute Force",

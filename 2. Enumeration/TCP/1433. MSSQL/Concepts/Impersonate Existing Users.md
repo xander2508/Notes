@@ -26,6 +26,9 @@ ben
 valentin
 ```
 
+```sql
+SELECT distinct b.name FROM sys.server_permissions a INNER JOIN sys.server_principals b ON a.grantor_principal_id = b.principal_id WHERE a.permission_name = 'IMPERSONATE'
+```
 #### Impersonating the SA User
 
 ```cmd-session

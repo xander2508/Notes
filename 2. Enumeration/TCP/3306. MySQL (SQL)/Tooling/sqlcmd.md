@@ -19,6 +19,10 @@ sqlcmd -S 10.129.20.13 -U username -P Password123
 sqlcmd -S SRVMSSQL -U julio -P 'MyPassword!' -y 30 -Y 30
 ```
 
+```powershell
+SQLCMD.EXE -S WIN-HARD
+```
+
 > [!NOTE]
 > When we authenticate to MSSQL using `sqlcmd` we can use the parameters `-y` (SQLCMDMAXVARTYPEWIDTH) and `-Y` (SQLCMDMAXFIXEDTYPEWIDTH) for better looking output. Keep in mind it may affect performance.
 
