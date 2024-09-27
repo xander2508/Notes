@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/PBKDF2.md",
+                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/HMAC.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/PBKDF2.md",
+                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/HMAC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/PBKDF2.md",
+                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/HMAC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/PBKDF2.md"
+                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/HMAC.md"
               }
             }
           },
@@ -190,7 +190,10 @@
   "active": "fe16f3727bf4376c",
   "lastOpenFiles": [
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/1. Hashes.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/HMAC.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/PBKDF2.md",
+    "7. Misc/Images/nistspecialpublication800-132.pdf",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/NT and LM (NTLM).md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/Fuzzy Hashing (SSDEEP).md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/1. Guide.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Tooling/Hashcat.md",
@@ -213,8 +216,6 @@
     "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Concepts/Vulnerabilities/File include (LFI) (RFI).md",
     "2. Enumeration/TCP/20. FTP/Concepts/Vulnerabilities/Bounce Attack.md",
     "2. Enumeration/TCP/3306. MySQL (SQL)/Concepts/Write Local File.md",
-    "2. Enumeration/TCP/3306. MySQL (SQL)/1. Guide.md",
-    "2. Enumeration/TCP/3306. MySQL (SQL)/2. Information.md",
     "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Concepts/Information/Untitled",
     "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Concepts/Information",
     "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Concepts",
@@ -226,7 +227,6 @@
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Websites",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Concepts",
     "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Concepts/Information",
-    "2. Enumeration/TCP/3389. Remote Desktop Protocol (RDP)/Concepts/Vulnerabilities",
     "7. Misc/Images/Pasted image 20240926142900.jpg",
     "7. Misc/Images/Pasted image 20240924160358.png",
     "7. Misc/Images/Pasted image 20240924160122.png",
