@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/20. FTP/Concepts/Vulnerabilities/Path Traversal.md",
+                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/20. FTP/Concepts/Vulnerabilities/Path Traversal.md",
+                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/20. FTP/Concepts/Vulnerabilities/Path Traversal.md",
+                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/20. FTP/Concepts/Vulnerabilities/Path Traversal.md"
+                "file": "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md"
               }
             }
           },
@@ -189,8 +189,10 @@
   },
   "active": "fe16f3727bf4376c",
   "lastOpenFiles": [
-    "2. Enumeration/TCP/3306. MySQL (SQL)/Concepts/Write Local File.md",
     "2. Enumeration/TCP/20. FTP/Concepts/Vulnerabilities/Path Traversal.md",
+    "2. Enumeration/TCP/80. Hyper Text Transfer Protocol (HTTP)/Concepts/Vulnerabilities/File include (LFI) (RFI).md",
+    "2. Enumeration/TCP/20. FTP/Concepts/Vulnerabilities/Bounce Attack.md",
+    "2. Enumeration/TCP/3306. MySQL (SQL)/Concepts/Write Local File.md",
     "2. Enumeration/TCP/3306. MySQL (SQL)/1. Guide.md",
     "2. Enumeration/TCP/3306. MySQL (SQL)/2. Information.md",
     "3. Exploitation/Remote Shells/Specific Shells/Web/PHP.md",
@@ -216,8 +218,6 @@
     "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Tooling/SMTP-User-Enum.md",
     "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Tooling/SWAKS.md",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Websites/Domain Glass (WHOIS).md",
-    "2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide.md",
-    "2. Enumeration/TCP/53. Domain Name System (DNS)/Concepts/DNS Spoofing.md",
     "7. Misc/Images/etter_plug.webp",
     "7. Misc/Images/target.webp",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Brute Force",
