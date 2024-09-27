@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/PMKID.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Active Directory/Active Directory.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/PMKID.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Active Directory/Active Directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/PMKID.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Active Directory/Active Directory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/PMKID.md"
+                "file": "5. Standard Information/Operating Systems/Windows/Active Directory/Active Directory.md"
               }
             }
           },
@@ -189,8 +189,11 @@
   },
   "active": "a44220648ed90f44",
   "lastOpenFiles": [
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/OpenSSL.md",
+    "Managing Domain Users and Groups.md",
+    "5. Standard Information/Operating Systems/Windows/Active Directory/Tooling",
+    "5. Standard Information/Operating Systems/Windows/Active Directory",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/PMKID.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/OpenSSL.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/MIC (4-way handshake) - Pcap, PcapNG.md",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/MaskProcessor.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/1. Guide.md",
@@ -214,7 +217,6 @@
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/SCRAM.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/MD5.md",
     "5. Standard Information/Cryptography/Certificate Transparency Logs.md",
-    "5. Standard Information/Cryptography/Encryption.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Vulnerabilities",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Algorithms",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Implementations",
@@ -225,8 +227,6 @@
     "7. Misc/Images/etter_plug.webp",
     "7. Misc/Images/target.webp",
     "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Brute Force",
-    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/OSINT",
-    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Default",
     "7. Misc/Images/Pasted image 20240926142900.jpg",
     "7. Misc/Images/Pasted image 20240924160358.png",
     "7. Misc/Images/Pasted image 20240924160122.png",
