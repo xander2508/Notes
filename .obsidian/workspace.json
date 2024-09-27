@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Active Directory/Active Directory.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Active Directory/What is Active Directory.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Active Directory/Active Directory.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Active Directory/What is Active Directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Active Directory/Active Directory.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Active Directory/What is Active Directory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Active Directory/Active Directory.md"
+                "file": "5. Standard Information/Operating Systems/Windows/Active Directory/What is Active Directory.md"
               }
             }
           },
@@ -189,7 +189,12 @@
   },
   "active": "a44220648ed90f44",
   "lastOpenFiles": [
-    "Managing Domain Users and Groups.md",
+    "5. Standard Information/Operating Systems/Windows/Active Directory/Tooling/Listing and Querying Services.md",
+    "5. Standard Information/Operating Systems/Windows/Active Directory/What is Active Directory.md",
+    "5. Standard Information/Operating Systems/Windows/Active Directory/Tooling/Creating New Users.md",
+    "5. Standard Information/Operating Systems/Windows/Active Directory/Tooling/Changing a Users Attributes.md",
+    "5. Standard Information/Operating Systems/Windows/Active Directory/Tooling/Managing Domain Users and Groups.md",
+    "Untitled.md",
     "5. Standard Information/Operating Systems/Windows/Active Directory/Tooling",
     "5. Standard Information/Operating Systems/Windows/Active Directory",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/PMKID.md",
@@ -212,11 +217,6 @@
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/1. Hashes.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/SHA384.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/SHA256.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/SHA512.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/SHA1.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/SCRAM.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/MD5.md",
-    "5. Standard Information/Cryptography/Certificate Transparency Logs.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Vulnerabilities",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Algorithms",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Implementations",
