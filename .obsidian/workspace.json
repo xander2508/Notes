@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Common User Password Profiler (CUPP).md",
+                "file": "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Kwprocessor.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Common User Password Profiler (CUPP).md",
+                "file": "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Kwprocessor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Common User Password Profiler (CUPP).md",
+                "file": "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Kwprocessor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Common User Password Profiler (CUPP).md"
+                "file": "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Kwprocessor.md"
               }
             }
           },
@@ -189,9 +189,12 @@
   },
   "active": "a44220648ed90f44",
   "lastOpenFiles": [
+    "4. Post-Exploitation/Cryptography/Passwords and Wordlists/2. Password Generation.md",
+    "4. Post-Exploitation/Cryptography/Passwords and Wordlists/1. Wordlist and Password Guide.md",
+    "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Kwprocessor.md",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Crunch.md",
-    "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Username Anarchy.md",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Common User Password Profiler (CUPP).md",
+    "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Username Anarchy.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Tooling/Hashcat.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/BCrypt.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Vulnerabilities/OpenSSL/Heartbleed.md",
@@ -213,9 +216,6 @@
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Algorithms/3DES.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Algorithms/Advanced Encryption Standard (AES).md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Algorithms/DES.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Algorithms/Blowfish.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Implementations/File Encryption.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Implementations/Windows PowerShell Password Encryption.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Algorithms",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Implementations",
     "7. Misc/Images/nistspecialpublication800-132.pdf",
