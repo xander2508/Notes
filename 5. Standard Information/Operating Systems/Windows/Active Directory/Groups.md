@@ -66,6 +66,13 @@ Changes/additions to an AD environment can also trigger the creation of addition
 Nested group membership is an important concept in AD. As mentioned previously, a Domain Local Group can be a member of another Domain Local Group in the same domain. Through this membership, a user may inherit privileges not assigned directly to their account or even the group they are directly a member of, but rather the group that their group is a member of. This can sometimes lead to unintended privileges granted to a user that are difficult to uncover without an in-depth assessment of the domain.
 
 ---
+## Built-in AD Groups
+
+
+
+
+
+---
 
 ## Important Group Attributes
 
