@@ -43,7 +43,7 @@ It is common to see multiple domains (or forests) linked together via trust rela
 While Windows operating systems use a variety of protocols to communicate, Active Directory specifically requires [[2. Enumeration/TCP/389. Lightweight Directory Access Protocol (LDAP)/1. Guide|LDAP]], Microsoft's version of [[2. Enumeration/TCP/88. Kerberos/1. Guide|Kerberos]], [[2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide|DNS]] for authentication and communication, and [MSRPC](https://ldapwiki.com/wiki/MSRPC) which is the Microsoft implementation of [[2. Enumeration/TCP/135. Remote Procedure Call (RPC)/1. Guide|RPC]], an interprocess communication technique used for client-server model-based applications.
 
 Authentication is handled using [[2. Enumeration/TCP/88. Kerberos/1. Guide|Kerberos]]
-Active Directory supports [[2. Enumeration/TCP/389. Lightweight Directory Access Protocol (LDAP)/1. Guide|LDAP]] for directory lookups.
+Active Directory supports [[2. Enumeration/TCP/389. Lightweight Directory Access Protocol (LDAP)/1. Guide|LDAP]] for directory lookups. In other words, LDAP is how systems in the network environment can "speak" to AD.
 
 ## History of Active Directory
 
