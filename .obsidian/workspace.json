@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Active Directory/Active Directory Terminology.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Active Directory/Active Directory Objects.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Active Directory/Active Directory Terminology.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Active Directory/Active Directory Objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Active Directory/Active Directory Terminology.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Active Directory/Active Directory Objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Active Directory/Active Directory Terminology.md"
+                "file": "5. Standard Information/Operating Systems/Windows/Active Directory/Active Directory Objects.md"
               }
             }
           },
@@ -189,8 +189,9 @@
   },
   "active": "a44220648ed90f44",
   "lastOpenFiles": [
-    "5. Standard Information/Operating Systems/Windows/Active Directory/What is Active Directory.md",
     "5. Standard Information/Operating Systems/Windows/Active Directory/Active Directory Terminology.md",
+    "5. Standard Information/Operating Systems/Windows/Active Directory/Active Directory Objects.md",
+    "5. Standard Information/Operating Systems/Windows/Active Directory/What is Active Directory.md",
     "7. Misc/Images/Pasted image 20240930091528.png",
     "5. Standard Information/Operating Systems/Windows/Active Directory/Tooling/Listing and Querying Services.md",
     "5. Standard Information/Operating Systems/Windows/Active Directory/Tooling/Creating New Users.md",
@@ -217,7 +218,6 @@
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Vulnerabilities/OpenSSL/Heartbleed.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Tooling/John the Ripper.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/1. Hashes.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/SHA384.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Vulnerabilities",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Algorithms",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Implementations",

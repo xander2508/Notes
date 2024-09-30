@@ -7,8 +7,7 @@ tags:
 ---
 #### Object
 
-An object can be defined as ANY resource present within an Active Directory environment such as OUs, printers, users, domain controllers, etc.
-
+An object can be defined as ANY resource present within an Active Directory environment such as OUs, printers, users, domain controllers, etc. See [[Active Directory Objects]]
 #### Attributes
 
 Every object in Active Directory has an associated set of [attributes](https://docs.microsoft.com/en-us/windows/win32/adschema/attributes-all) used to define characteristics of the given object. A computer object contains attributes such as the hostname and DNS name. All attributes in AD have an associated LDAP name that can be used when performing LDAP queries, such as `displayName` for `Full Name` and `given name` for `First Name`.
