@@ -4,6 +4,8 @@ tags:
   - Windows
   - StandardInformation
   - ActiveDirectory
+aliases:
+  - Active Directory
 ---
 TLDR: 
 In a nutshell, `Active Directory` (AD) is a directory service for Windows environments that provides a central point of management for `users`, computers, `groups`, network devices, `file shares`, group policies, `devices`, and trusts with other organizations. Think of it as the gatekeeper for an enterprise environment. Anyone who is a part of the domain can access resources freely, while anyone who is not is denied access to those same resources or, at a minimum, stuck waiting in the visitors centre.
@@ -41,21 +43,7 @@ It is common to see multiple domains (or forests) linked together via trust rela
 While Windows operating systems use a variety of protocols to communicate, Active Directory specifically requires [[2. Enumeration/TCP/389. Lightweight Directory Access Protocol (LDAP)/1. Guide|LDAP]], Microsoft's version of [[2. Enumeration/TCP/88. Kerberos/1. Guide|Kerberos]], [[2. Enumeration/TCP/53. Domain Name System (DNS)/1. Guide|DNS]] for authentication and communication, and [MSRPC](https://ldapwiki.com/wiki/MSRPC) which is the Microsoft implementation of [[2. Enumeration/TCP/135. Remote Procedure Call (RPC)/1. Guide|RPC]], an interprocess communication technique used for client-server model-based applications.
 
 Authentication is handled using [[2. Enumeration/TCP/88. Kerberos/1. Guide|Kerberos]]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Active Directory supports [[2. Enumeration/TCP/389. Lightweight Directory Access Protocol (LDAP)/1. Guide|LDAP]] for directory lookups.
 
 ## History of Active Directory
 
