@@ -1,3 +1,10 @@
+---
+tags:
+  - OperatingSystems
+  - Windows
+  - StandardInformation
+  - ActiveDirectory
+---
 
 ## Local Accounts
 

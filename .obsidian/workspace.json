@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Active Directory/User Accounts.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Active Directory/Groups.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Active Directory/User Accounts.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Active Directory/Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Active Directory/User Accounts.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Active Directory/Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Active Directory/User Accounts.md"
+                "file": "5. Standard Information/Operating Systems/Windows/Active Directory/Groups.md"
               }
             }
           },
@@ -188,8 +188,9 @@
   },
   "active": "a44220648ed90f44",
   "lastOpenFiles": [
-    "5. Standard Information/Operating Systems/Windows/Active Directory/What is Active Directory.md",
     "5. Standard Information/Operating Systems/Windows/Active Directory/User Accounts.md",
+    "5. Standard Information/Operating Systems/Windows/Active Directory/What is Active Directory.md",
+    "5. Standard Information/Operating Systems/Windows/Active Directory/Groups.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Networking/Validate DNS.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Networking/Network Drives.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Networking/Finding Additional Hosts.md",
@@ -218,7 +219,6 @@
     "7. Misc/Images/Pasted image 20240930140600.png",
     "7. Misc/Images/Pasted image 20240930140554.png",
     "7. Misc/Images/Pasted image 20240930091528.png",
-    "5. Standard Information/Operating Systems/Windows/Active Directory/Tooling/Listing and Querying Services.md",
     "5. Standard Information/Operating Systems/Windows/Active Directory/Tooling",
     "5. Standard Information/Operating Systems/Windows/Active Directory",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Vulnerabilities",
