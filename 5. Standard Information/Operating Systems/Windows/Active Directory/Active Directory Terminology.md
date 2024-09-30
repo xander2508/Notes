@@ -226,6 +226,3 @@ Trusts can be set up to be one-way or two-way (bidirectional).
 
 - In bidirectional trusts, users from both trusting domains can access resources.
 - In a one-way trust, only users in a trusted domain can access resources in a trusting domain, not vice-versa. The direction of trust is opposite to the direction of access.
-
-
-
