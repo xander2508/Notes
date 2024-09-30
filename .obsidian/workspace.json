@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/1. Guide.md",
+                "file": "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/Applications/MSRPC.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/1. Guide.md",
+                "file": "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/Applications/MSRPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/1. Guide.md",
+                "file": "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/Applications/MSRPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/1. Guide.md"
+                "file": "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/Applications/MSRPC.md"
               }
             }
           },
@@ -186,8 +186,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "744b9316b7030f7b",
+  "active": "a44220648ed90f44",
   "lastOpenFiles": [
+    "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/1. Guide.md",
+    "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/Applications/MSRPC.md",
+    "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/Applications",
     "2. Enumeration/TCP/389. Lightweight Directory Access Protocol (LDAP)/1. Guide.md",
     "5. Standard Information/Operating Systems/Windows/Active Directory/What is Active Directory.md",
     "5. Standard Information/Operating Systems/Windows/Active Directory/Active Directory Terminology.md",
@@ -218,7 +221,6 @@
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Common User Password Profiler (CUPP).md",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Username Anarchy.md",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/PrinceProcessor.md",
-    "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Kwprocessor.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Vulnerabilities",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Algorithms",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Implementations",
@@ -228,7 +230,6 @@
     "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Concepts",
     "7. Misc/Images/etter_plug.webp",
     "7. Misc/Images/target.webp",
-    "2. Enumeration/TCP/53. Domain Name System (DNS)/Tooling/Brute Force",
     "7. Misc/Images/Pasted image 20240926142900.jpg",
     "7. Misc/Images/Pasted image 20240924160358.png",
     "7. Misc/Images/Pasted image 20240924160122.png",
