@@ -48,14 +48,13 @@ The universal group scope can be used to manage resources distributed across mul
 Group scopes can be changed, but there are a few caveats:
 
 - A Global Group can only be converted to a Universal Group if it is NOT part of another Global Group.
-    
 - A Domain Local Group can only be converted to a Universal Group if the Domain Local Group does NOT contain any other Domain Local Groups as members.
-    
 - A Universal Group can be converted to a Domain Local Group without any restrictions.
-    
 - A Universal Group can only be converted to a Global Group if it does NOT contain any other Universal Groups as members.
 
+## Built-in vs. Custom Groups
 
+Several built-in security groups are created with a Domain Local Group scope when a domain is created. These groups are used for specific administrative purposes.
 
 
 
