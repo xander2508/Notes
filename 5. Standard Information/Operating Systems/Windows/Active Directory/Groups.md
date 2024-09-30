@@ -58,10 +58,12 @@ Several built-in security groups are created with a Domain Local Group scope whe
 
 It is important to note that only user accounts can be added to these built-in groups as they do not allow for group nesting.
 
+Changes/additions to an AD environment can also trigger the creation of additional groups. For example, when Microsoft Exchange is added to a domain, it adds various different security groups to the domain, some of which are highly privileged and, if not managed properly, can be used to gain privileged access within the domain.
 
 
+## Nested Group Membership
 
-
+Nested group membership is an important concept in AD. As mentioned previously, a Domain Local Group can be a member of another Domain Local Group in the same domain. Through this membership, a user may inherit privileges not assigned directly to their account or even the group they are directly a member of, but rather the group that their group is a member of. This can sometimes lead to unintended privileges granted to a user that are difficult to uncover without an in-depth assessment of the domain.
 
 
 
