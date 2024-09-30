@@ -56,6 +56,8 @@ Group scopes can be changed, but there are a few caveats:
 
 Several built-in security groups are created with a Domain Local Group scope when a domain is created. These groups are used for specific administrative purposes.
 
+It is important to note that only user accounts can be added to these built-in groups as they do not allow for group nesting.
+
 
 
 
