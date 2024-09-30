@@ -41,9 +41,19 @@ Domain local groups can only be used to manage permissions to domain resources i
 
 Global groups can be used to grant access to resources in `another domain`. A global group can only contain accounts from the domain where it was created. Global groups can be added to both other global groups and local groups.
 
+#### Universal Group
 
+The universal group scope can be used to manage resources distributed across multiple domains and can be given permissions to any object within the same `forest`. They are available to all domains within an organization and can contain users from any domain. Unlike domain local and global groups, universal groups are stored in the Global Catalogue (GC), and adding or removing objects from a universal group triggers forest-wide replication. It is recommended that administrators maintain other groups (such as global groups) as members of universal groups because global group membership within universal groups is less likely to change than individual user membership in global groups. Replication is only triggered at the individual domain level when a user is removed from a global group. If individual users and computers (instead of global groups) are maintained within universal groups, it will trigger forest-wide replication each time a change is made. This can create a lot of network overhead and potential for issues.
 
+Group scopes can be changed, but there are a few caveats:
 
+- A Global Group can only be converted to a Universal Group if it is NOT part of another Global Group.
+    
+- A Domain Local Group can only be converted to a Universal Group if the Domain Local Group does NOT contain any other Domain Local Groups as members.
+    
+- A Universal Group can be converted to a Domain Local Group without any restrictions.
+    
+- A Universal Group can only be converted to a Global Group if it does NOT contain any other Universal Groups as members.
 
 
 
