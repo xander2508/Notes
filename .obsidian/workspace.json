@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/LM and NTLM.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Active Directory/User Accounts.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/LM and NTLM.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Active Directory/User Accounts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/LM and NTLM.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Active Directory/User Accounts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/LM and NTLM.md"
+                "file": "5. Standard Information/Operating Systems/Windows/Active Directory/User Accounts.md"
               }
             }
           },
@@ -188,14 +188,25 @@
   },
   "active": "a44220648ed90f44",
   "lastOpenFiles": [
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Networking/Validate DNS.md",
+    "5. Standard Information/Operating Systems/Windows/Active Directory/User Accounts.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Networking/Network Drives.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Networking/Finding Additional Hosts.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Networking/Find Open Ports.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Networking/Edit Interfaces.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Networking/Diagnostic on Connections.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Networking/1. Network Information.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Elevating Local Admin to SYSTEM.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Users and Groups.md",
+    "5. Standard Information/Operating Systems/Windows/Active Directory/Active Directory Objects.md",
+    "5. Standard Information/Operating Systems/Windows/Active Directory/What is Active Directory.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/LM and NTLM.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Valuable Files.md",
     "3. Exploitation/Operating Systems/Windows/Tooling/Impacket/Impacket.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Windows Credential Hunting.md",
     "4. Post-Exploitation/Valuable Files.md",
-    "5. Standard Information/Operating Systems/Windows/Active Directory/What is Active Directory.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/MS Cache v1 v2.md",
     "5. Standard Information/Operating Systems/Windows/Active Directory/Active Directory Terminology.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/LM and NTLM.md",
     "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/Applications/MSRPC.md",
     "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/1. Guide.md",
     "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/Applications",
@@ -204,23 +215,12 @@
     "7. Misc/Images/Pasted image 20240930142612.png",
     "5. Standard Information/Operating Systems/Windows/Kerberos.md",
     "3. Exploitation/Known Exploits/Operating Systems/Windows/Kerberosting.md",
-    "5. Standard Information/Operating Systems/Windows/Active Directory/Active Directory Objects.md",
     "7. Misc/Images/Pasted image 20240930140600.png",
     "7. Misc/Images/Pasted image 20240930140554.png",
     "7. Misc/Images/Pasted image 20240930091528.png",
     "5. Standard Information/Operating Systems/Windows/Active Directory/Tooling/Listing and Querying Services.md",
-    "5. Standard Information/Operating Systems/Windows/Active Directory/Tooling/Creating New Users.md",
-    "5. Standard Information/Operating Systems/Windows/Active Directory/Tooling/Changing a Users Attributes.md",
-    "5. Standard Information/Operating Systems/Windows/Active Directory/Tooling/Managing Domain Users and Groups.md",
-    "Untitled.md",
     "5. Standard Information/Operating Systems/Windows/Active Directory/Tooling",
     "5. Standard Information/Operating Systems/Windows/Active Directory",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/PMKID.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/OpenSSL.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Decryption/MIC (4-way handshake) - Pcap, PcapNG.md",
-    "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/MaskProcessor.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/1. Guide.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Tooling/Hashcat.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Vulnerabilities",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Algorithms",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Implementations",
