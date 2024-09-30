@@ -95,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Enumeration/TCP/88. Kerberos/1. Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Enumeration/TCP/88. Kerberos/1. Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Kerberos.md"
+                "file": "2. Enumeration/TCP/88. Kerberos/1. Guide.md"
               }
             }
           },
@@ -184,10 +186,10 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "744b9316b7030f7b",
+  "active": "a44220648ed90f44",
   "lastOpenFiles": [
-    "3. Exploitation/Known Exploits/Operating Systems/Windows/Kerberosting.md",
     "5. Standard Information/Operating Systems/Windows/Kerberos.md",
+    "3. Exploitation/Known Exploits/Operating Systems/Windows/Kerberosting.md",
     "2. Enumeration/TCP/88. Kerberos/1. Guide.md",
     "5. Standard Information/Operating Systems/Windows/Active Directory/What is Active Directory.md",
     "2. Enumeration/TCP/389. Lightweight Directory Access Protocol (LDAP)/1. Guide.md",
