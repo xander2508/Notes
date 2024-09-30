@@ -33,6 +33,8 @@ INLANEFREIGHT.LOCAL/
 └── DEV.INLANEFREIGHT.LOCAL
 ```
 
+It is common to see multiple domains (or forests) linked together via trust relationships in organizations that perform a lot of acquisitions. It is often quicker and easier to create a trust relationship with another domain/forest than recreate all new users in the current domain.
+
 
 
 
