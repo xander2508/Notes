@@ -201,8 +201,21 @@ Windows Server 2008 functional level is the minimum requirement for adding Serve
 | `Windows Server 2012 R2` | All new domains added to the forest default to the Server 2012 R2 domain functional level. No additional new features.                                                                                         |
 | `Windows Server 2016`    | [Privileged access management (PAM) using Microsoft Identity Manager (MIM).](https://docs.microsoft.com/en-us/windows-server/identity/whats-new-active-directory-domain-services#privileged-access-management) |
 
+## Trusts
 
+A trust is used to establish `forest-forest` or `domain-domain` authentication, allowing users to access resources in (or administer) another domain outside of the domain their account resides in. A trust creates a link between the authentication systems of two domains.
 
+There are several trust types.
+
+| **Trust Type** | **Description**                                                                                                                                                        |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `Parent-child` | Domains within the same forest. The child domain has a two-way transitive trust with the parent domain.                                                                |
+| `Cross-link`   | a trust between child domains to speed up authentication.                                                                                                              |
+| `External`     | A non-transitive trust between two separate domains in separate forests which are not already joined by a forest trust. This type of trust utilizes SID filtering.     |
+| `Tree-root`    | a two-way transitive trust between a forest root domain and a new tree root domain. They are created by design when you set up a new tree root domain within a forest. |
+| `Forest`       | a transitive trust between two forest root domains.                                                                                                                    |
+
+![[Pasted image 20240930140600.png]]
 
 
 

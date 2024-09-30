@@ -189,6 +189,8 @@
   },
   "active": "a44220648ed90f44",
   "lastOpenFiles": [
+    "7. Misc/Images/Pasted image 20240930140600.png",
+    "7. Misc/Images/Pasted image 20240930140554.png",
     "5. Standard Information/Operating Systems/Windows/Active Directory/Active Directory Objects.md",
     "5. Standard Information/Operating Systems/Windows/Active Directory/What is Active Directory.md",
     "5. Standard Information/Operating Systems/Windows/Active Directory/Active Directory Terminology.md",
@@ -217,7 +219,6 @@
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/BCrypt.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Vulnerabilities/OpenSSL/Heartbleed.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Tooling/John the Ripper.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/1. Hashes.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Vulnerabilities",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Algorithms",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Implementations",
@@ -234,7 +235,6 @@
     "7. Misc/Images/log4jattack.webp",
     "7. Misc/Images/attack_concept2.webp",
     "7. Misc/Images/taskmanagerdump.webp",
-    "7. Misc/Images/reverseshell.webp",
     "Untitled.canvas"
   ]
 }
