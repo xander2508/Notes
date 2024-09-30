@@ -45,6 +45,7 @@ While Windows operating systems use a variety of protocols to communicate, Activ
 Authentication is handled using [[2. Enumeration/TCP/88. Kerberos/1. Guide|Kerberos]]
 Active Directory supports [[2. Enumeration/TCP/389. Lightweight Directory Access Protocol (LDAP)/1. Guide|LDAP]] for directory lookups. In other words, LDAP is how systems in the network environment can "speak" to AD.
 
+Aside from Kerberos and LDAP, Active Directory uses several other authentication methods which can be used (and abused) by applications and services in AD. These include LM, NTLM, NTLMv1, and NTLMv2. See [[LM and NTLM|NTLM]]
 ## History of Active Directory
 
 LDAP, the foundation of Active Directory, was first introduced in [RFCs](https://en.wikipedia.org/wiki/Request_for_Comments) as early as 1971. Active Directory was predated by the [X.500](https://en.wikipedia.org/wiki/X.500) organizational unit concept, which was the earliest version of all directory systems created by Novell and Lotus and released in 1993 as [Novell Directory Services](https://en.wikipedia.org/wiki/NetIQ_eDirectory).

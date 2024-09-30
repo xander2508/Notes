@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/Applications/MSRPC.md",
+                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/LM and NTLM.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/Applications/MSRPC.md",
+                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/LM and NTLM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/Applications/MSRPC.md",
+                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/LM and NTLM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/Applications/MSRPC.md"
+                "file": "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/LM and NTLM.md"
               }
             }
           },
@@ -188,11 +188,12 @@
   },
   "active": "a44220648ed90f44",
   "lastOpenFiles": [
-    "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/1. Guide.md",
+    "5. Standard Information/Operating Systems/Windows/Active Directory/What is Active Directory.md",
+    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/LM and NTLM.md",
     "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/Applications/MSRPC.md",
+    "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/1. Guide.md",
     "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/Applications",
     "2. Enumeration/TCP/389. Lightweight Directory Access Protocol (LDAP)/1. Guide.md",
-    "5. Standard Information/Operating Systems/Windows/Active Directory/What is Active Directory.md",
     "5. Standard Information/Operating Systems/Windows/Active Directory/Active Directory Terminology.md",
     "2. Enumeration/TCP/88. Kerberos/1. Guide.md",
     "7. Misc/Images/Pasted image 20240930142612.png",
@@ -220,7 +221,6 @@
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/CEWL.md",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Common User Password Profiler (CUPP).md",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/Username Anarchy.md",
-    "4. Post-Exploitation/Cryptography/Passwords and Wordlists/Tooling/PrinceProcessor.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Vulnerabilities",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Algorithms",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Implementations",
