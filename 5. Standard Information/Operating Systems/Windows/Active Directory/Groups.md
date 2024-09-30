@@ -65,7 +65,17 @@ Changes/additions to an AD environment can also trigger the creation of addition
 
 Nested group membership is an important concept in AD. As mentioned previously, a Domain Local Group can be a member of another Domain Local Group in the same domain. Through this membership, a user may inherit privileges not assigned directly to their account or even the group they are directly a member of, but rather the group that their group is a member of. This can sometimes lead to unintended privileges granted to a user that are difficult to uncover without an in-depth assessment of the domain.
 
+---
 
+## Important Group Attributes
+
+Like users, groups have many [attributes](http://www.selfadsi.org/group-attributes.htm). Some of the most [important group attributes](https://docs.microsoft.com/en-us/windows/win32/ad/group-objects) include:
+
+- `cn`: The `cn` or Common-Name is the name of the group in Active Directory Domain Services.
+- `member`: Which user, group, and contact objects are members of the group.
+- `groupType`: An integer that specifies the group type and scope.
+- `memberOf`: A listing of any groups that contain the group as a member (nested group membership).
+- `objectSid`: This is the security identifier or SID of the group, which is the unique value used to identify the group as a security principal.
 
 
 
