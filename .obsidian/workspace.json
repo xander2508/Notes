@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Users and Groups.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Active Directory/Rights and Privileges.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Users and Groups.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Active Directory/Rights and Privileges.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Users and Groups.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Active Directory/Rights and Privileges.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Users and Groups.md"
+                "file": "5. Standard Information/Operating Systems/Windows/Active Directory/Rights and Privileges.md"
               }
             }
           },
@@ -188,8 +188,13 @@
   },
   "active": "a44220648ed90f44",
   "lastOpenFiles": [
-    "5. Standard Information/Operating Systems/Windows/Active Directory/Groups.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Registry Vulnerabilities and Tokens/SeImpersonatePrivilege.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Active Directory/Write Group Policy Object.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/AppLocker.md",
     "5. Standard Information/Operating Systems/Windows/Active Directory/Rights and Privileges.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Active Directory",
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Users and Groups.md",
+    "5. Standard Information/Operating Systems/Windows/Active Directory/Groups.md",
     "5. Standard Information/Operating Systems/Windows/Active Directory/Directory Terminology.md",
     "5. Standard Information/Operating Systems/Windows/Active Directory/Objects.md",
     "5. Standard Information/Operating Systems/Windows/Active Directory/What is Active Directory.md",
@@ -202,7 +207,6 @@
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Networking/Diagnostic on Connections.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Networking/1. Network Information.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Elevating Local Admin to SYSTEM.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Users and Groups.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/LM and NTLM.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Valuable Files.md",
     "3. Exploitation/Operating Systems/Windows/Tooling/Impacket/Impacket.md",
@@ -212,10 +216,7 @@
     "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/Applications/MSRPC.md",
     "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/1. Guide.md",
     "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/Applications",
-    "2. Enumeration/TCP/389. Lightweight Directory Access Protocol (LDAP)/1. Guide.md",
-    "2. Enumeration/TCP/88. Kerberos/1. Guide.md",
     "7. Misc/Images/Pasted image 20240930142612.png",
-    "5. Standard Information/Operating Systems/Windows/Kerberos.md",
     "7. Misc/Images/Pasted image 20240930140600.png",
     "7. Misc/Images/Pasted image 20240930140554.png",
     "7. Misc/Images/Pasted image 20240930091528.png",
@@ -227,7 +228,6 @@
     "7. Misc/Images/nistspecialpublication800-132.pdf",
     "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Concepts/Information/Untitled",
     "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Concepts/Information",
-    "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Concepts",
     "7. Misc/Images/etter_plug.webp",
     "7. Misc/Images/target.webp",
     "7. Misc/Images/Pasted image 20240926142900.jpg",
