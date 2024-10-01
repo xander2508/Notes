@@ -32,3 +32,7 @@ As mentioned earlier in the module, Group Policy Objects (GPOs) are virtual coll
 - [Application Control Policies](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/windows-defender-application-control) - Settings to control which applications can be run by certain users/groups. This may include blocking certain users from running all executables, Windows Installer files, scripts, etc. Administrators use [[5. Standard Information/Operating Systems/Windows/Security/AppLocker|AppLocker]] to restrict access to certain types of applications and files. It is not uncommon to see organizations block access to CMD and PowerShell (among other executables) for users that do not require them for their day-to-day job. These policies are imperfect and can often be bypassed but necessary for a defence-in-depth strategy.
     
 - [Advanced Audit Policy Configuration](https://docs.microsoft.com/en-us/windows/security/threat-protection/security-policy-settings/secpol-advanced-security-audit-policy-settings) - A variety of settings that can be adjusted to audit activities such as file access or modification, account logon/logoff, policy changes, privilege usage, and more.
+ 
+#### Advanced Audit Policy
+
+![image](https://academy.hackthebox.com/storage/modules/74/adv-audit-pol.png)
