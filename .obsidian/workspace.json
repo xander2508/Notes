@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/PowerShell/Active Directory.md",
+                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Users and Groups.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/PowerShell/Active Directory.md",
+                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Users and Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/PowerShell/Active Directory.md",
+                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Users and Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/PowerShell/Active Directory.md"
+                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Users and Groups.md"
               }
             }
           },
@@ -189,8 +189,9 @@
   },
   "active": "a44220648ed90f44",
   "lastOpenFiles": [
-    "5. Standard Information/Operating Systems/Windows/Active Directory/Group Policy.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Uploading Files to Machine.md",
     "5. Standard Information/Operating Systems/Windows/PowerShell/Active Directory.md",
+    "5. Standard Information/Operating Systems/Windows/Active Directory/Group Policy.md",
     "5. Standard Information/Operating Systems/Windows/Active Directory/Security Hardening.md",
     "5. Standard Information/Operating Systems/Windows/Active Directory/Groups.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/AppLocker.md",
@@ -215,7 +216,6 @@
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Elevating Local Admin to SYSTEM.md",
     "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/LM and NTLM.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Valuable Files.md",
-    "3. Exploitation/Operating Systems/Windows/Tooling/Impacket/Impacket.md",
     "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/Applications",
     "7. Misc/Images/Pasted image 20240930142612.png",
     "7. Misc/Images/Pasted image 20240930140600.png",
