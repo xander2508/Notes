@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Active Directory/Security.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Active Directory/Group Policy.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Active Directory/Security.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Active Directory/Group Policy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Active Directory/Security.md",
+                "file": "5. Standard Information/Operating Systems/Windows/Active Directory/Group Policy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Active Directory/Security.md"
+                "file": "5. Standard Information/Operating Systems/Windows/Active Directory/Group Policy.md"
               }
             }
           },
@@ -188,10 +188,11 @@
   },
   "active": "a44220648ed90f44",
   "lastOpenFiles": [
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/AppLocker.md",
-    "5. Standard Information/Operating Systems/Windows/Active Directory/Security.md",
-    "5. Standard Information/Operating Systems/Windows/Active Directory/Rights and Privileges.md",
     "5. Standard Information/Operating Systems/Windows/Active Directory/Groups.md",
+    "5. Standard Information/Operating Systems/Windows/Active Directory/Group Policy.md",
+    "5. Standard Information/Operating Systems/Windows/Active Directory/Security.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/AppLocker.md",
+    "5. Standard Information/Operating Systems/Windows/Active Directory/Rights and Privileges.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Generic Enumeration Commands.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Registry Vulnerabilities and Tokens/1. Guide.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Registry Vulnerabilities and Tokens/SeImpersonatePrivilege.md",
@@ -214,7 +215,6 @@
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Valuable Files.md",
     "3. Exploitation/Operating Systems/Windows/Tooling/Impacket/Impacket.md",
     "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Windows Credential Hunting.md",
-    "4. Post-Exploitation/Valuable Files.md",
     "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/Applications",
     "7. Misc/Images/Pasted image 20240930142612.png",
     "7. Misc/Images/Pasted image 20240930140600.png",
