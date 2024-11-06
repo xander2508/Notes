@@ -1,1 +1,6 @@
 .smart-connections/*
+
+
+
+# Ignore Smart Connections folder
+.smart-connections

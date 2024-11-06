@@ -1,22 +1,20 @@
 {
   "main": {
-    "id": "44ad16e90f7d190b",
+    "id": "2c6ddbfa6863274e",
     "type": "split",
     "children": [
       {
-        "id": "2addfcf19210a22a",
+        "id": "afe48fa1c8f0062a",
         "type": "tabs",
         "children": [
           {
-            "id": "a44220648ed90f44",
+            "id": "41379ce11541a68e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Users and Groups.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -25,77 +23,72 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ce2e686769b64ed0",
+    "id": "49062fc40b974366",
     "type": "split",
     "children": [
       {
-        "id": "8bafe2c165a925b9",
+        "id": "d7e2c94f9683ef20",
         "type": "tabs",
         "children": [
           {
-            "id": "744b9316b7030f7b",
+            "id": "7519a8baebbb9fa0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
-            "id": "dcd2adc30e57ac2e",
+            "id": "ba01cfd0a2dc1b43",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "\"whoami /priv\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
-            "id": "5e04c11477247cdd",
+            "id": "0e06a6f8f230cf32",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "7e62adcbd5921168",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "com.maxymillion.zen",
               "state": {},
-              "pinned": true
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 414.5
+    "width": 300
   },
   "right": {
-    "id": "ab865be945a38766",
+    "id": "6a2d5449703754e8",
     "type": "split",
     "children": [
       {
-        "id": "92d5807cdaa46068",
+        "id": "9dfbc3506d0f919a",
         "type": "tabs",
         "children": [
           {
-            "id": "ffc32cc3307c2dff",
+            "id": "c6a172309940d48f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Users and Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,138 +96,91 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
-            "id": "419aec5c3c96240e",
+            "id": "44ea19249e1f87bc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Users and Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "3f4a95f364cdaa04",
+            "id": "72735dce439d6ac9",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
-            "id": "65bac45e529cb001",
+            "id": "be7110a48b036f95",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Users and Groups.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
-            "id": "92905f72a6223979",
+            "id": "beaae13f122d7934",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
-              "state": {}
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Smart Connections Files"
             }
           },
           {
-            "id": "3bca4875dab82589",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "e4bf8fabf861d55f",
+            "id": "b005e3132555917c",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
-              "state": {}
+              "state": {},
+              "icon": "message-square",
+              "title": "Smart Connections Chat"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 459.5,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": true,
-      "omnisearch:Omnisearch": false,
-      "3d-graph:3D Graph": true,
-      "graph:Open graph view": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": true,
-      "obsidian-importer:Open Importer": true,
-      "templates:Insert template": true,
-      "canvas:Create new canvas": true,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-importer:Open Importer": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "smart-connections:Open: View Smart Connections": false,
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "a44220648ed90f44",
-  "lastOpenFiles": [
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Uploading Files to Machine.md",
-    "5. Standard Information/Operating Systems/Windows/PowerShell/Active Directory.md",
-    "5. Standard Information/Operating Systems/Windows/Active Directory/Group Policy.md",
-    "5. Standard Information/Operating Systems/Windows/Active Directory/Security Hardening.md",
-    "5. Standard Information/Operating Systems/Windows/Active Directory/Groups.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/AppLocker.md",
-    "5. Standard Information/Operating Systems/Windows/Active Directory/Rights and Privileges.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Generic Enumeration Commands.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Registry Vulnerabilities and Tokens/1. Guide.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Registry Vulnerabilities and Tokens/SeImpersonatePrivilege.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Active Directory/Write Group Policy Object.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Vulnerabilities/Active Directory",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Users and Groups.md",
-    "5. Standard Information/Operating Systems/Windows/Active Directory/Directory Terminology.md",
-    "5. Standard Information/Operating Systems/Windows/Active Directory/Objects.md",
-    "5. Standard Information/Operating Systems/Windows/Active Directory/What is Active Directory.md",
-    "5. Standard Information/Operating Systems/Windows/Active Directory/User Accounts.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Networking/Validate DNS.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Networking/Network Drives.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Networking/Finding Additional Hosts.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Networking/Find Open Ports.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Networking/Edit Interfaces.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Networking/Diagnostic on Connections.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Networking/1. Network Information.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Elevating Local Admin to SYSTEM.md",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Hashes/LM and NTLM.md",
-    "4. Post-Exploitation/Operating Systems/Windows/Concepts/Information/Valuable Files.md",
-    "2. Enumeration/TCP/135. Remote Procedure Call (RPC)/Applications",
-    "7. Misc/Images/Pasted image 20240930142612.png",
-    "7. Misc/Images/Pasted image 20240930140600.png",
-    "7. Misc/Images/Pasted image 20240930140554.png",
-    "7. Misc/Images/Pasted image 20240930091528.png",
-    "5. Standard Information/Operating Systems/Windows/Active Directory/Tooling",
-    "5. Standard Information/Operating Systems/Windows/Active Directory",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Vulnerabilities",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Algorithms",
-    "4. Post-Exploitation/Cryptography/Hashes and Encryption/Encryption/Implementations",
-    "7. Misc/Images/nistspecialpublication800-132.pdf",
-    "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Concepts/Information/Untitled",
-    "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Concepts/Information",
-    "7. Misc/Images/etter_plug.webp",
-    "7. Misc/Images/target.webp",
-    "7. Misc/Images/Pasted image 20240926142900.jpg",
-    "7. Misc/Images/Pasted image 20240924160358.png",
-    "7. Misc/Images/Pasted image 20240924160122.png",
-    "7. Misc/Images/log4jattack.webp",
-    "Untitled.canvas"
-  ]
+  "active": "b005e3132555917c",
+  "lastOpenFiles": []
 }
