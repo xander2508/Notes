@@ -11,13 +11,30 @@
             "id": "41379ce11541a68e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "5. Standard Information/Recommended Books.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Recommended Books"
+            }
+          },
+          {
+            "id": "4e0c6f044e037baf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "5. Standard Information/Recommended Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Recommended Books"
             }
           },
           {
@@ -107,11 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "5. Standard Information/Recommended Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Recommended Books"
             }
           },
           {
@@ -132,9 +151,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "5. Standard Information/Recommended Books.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Recommended Books"
             }
           },
           {
@@ -143,8 +164,8 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "smart-connections",
-              "title": "Smart Connections Files"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -153,8 +174,8 @@
             "state": {
               "type": "smart-connections-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Smart Connections Chat"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -162,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,6 +203,6 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "b005e3132555917c",
+  "active": "4e0c6f044e037baf",
   "lastOpenFiles": []
 }
