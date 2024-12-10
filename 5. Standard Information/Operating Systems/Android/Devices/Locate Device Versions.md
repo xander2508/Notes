@@ -27,5 +27,4 @@ adb shell getprop ro.product.build.fingerprint
 ```
 
 OTA versions and their code names:
-
 [Full OTA Images for Nexus and Pixel Devices  |  Google Play services  |  Google for Developers](https://developers.google.com/android/ota)
