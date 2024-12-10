@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Android/Devices/Root Device.md",
+                "file": "5. Standard Information/Operating Systems/Android/Devices/Load Emulator.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Root Device"
+              "title": "Load Emulator"
             }
           }
         ]
@@ -215,8 +215,9 @@
   },
   "active": "08b72f5f387eeccc",
   "lastOpenFiles": [
-    "5. Standard Information/Operating Systems/Android/Tooling/Extract Android OTA Payload.md",
     "5. Standard Information/Operating Systems/Android/Devices/Root Device.md",
+    "5. Standard Information/Operating Systems/Android/Devices/Load Emulator.md",
+    "5. Standard Information/Operating Systems/Android/Tooling/Extract Android OTA Payload.md",
     "5. Standard Information/Operating Systems/Android/Devices/Unlock Bootloader.md",
     "5. Standard Information/Operating Systems/Android/Devices/Locate Device Versions.md",
     "5. Standard Information/Operating Systems/Android/Devices/Flash Standard Images.md",
@@ -243,7 +244,6 @@
     "5. Standard Information/Operating Systems/Android/Activities.md",
     "5. Standard Information/Operating Systems/Android/1. Overview.md",
     "5. Standard Information/Operating Systems/Android/Broadcast Receivers.md",
-    "5. Standard Information/Operating Systems/Android/Content Providers.md",
     "5. Standard Information/Operating Systems/Android/Tooling",
     "5. Standard Information/Operating Systems/Android",
     "3. Exploitation/Operating Systems/Android",
