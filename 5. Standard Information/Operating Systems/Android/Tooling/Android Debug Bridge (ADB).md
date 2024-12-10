@@ -15,6 +15,13 @@ Android Debug Bridge (`adb`) is a versatile command-line tool that lets you comm
 - **A server**, which manages communication between the client and the daemon. The server runs as a background process on your development machine.
 
 Adb can function over Wi-Fi or a physical connection.
+
+## Install
+
+[SDK Platform Tools release notes  |  Android Studio  |  Android Developers](https://developer.android.com/tools/releases/platform-tools)
+
+Ensure the downloaded binaries are add to path
+
 ## Enable adb debugging on your device
 
 To use adb with a device connected over USB, you must enable **USB debugging** in the device system settings, under **Developer options**.
