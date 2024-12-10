@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Android/Packages/1. Overview.md",
+                "file": "5. Standard Information/Operating Systems/Android/Packages/Split APKs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Overview"
+              "title": "Split APKs"
             }
           }
         ]
@@ -216,8 +216,9 @@
   "active": "08b72f5f387eeccc",
   "lastOpenFiles": [
     "3. Exploitation/File Types and Data/AAB (Android App Bundles).md",
-    "3. Exploitation/File Types and Data/APK.md",
     "5. Standard Information/Operating Systems/Android/Packages/1. Overview.md",
+    "5. Standard Information/Operating Systems/Android/Packages/Split APKs.md",
+    "3. Exploitation/File Types and Data/APK.md",
     "5. Standard Information/Operating Systems/Android/Services.md",
     "5. Standard Information/Operating Systems/Android/Tooling/Android Debug Bridge (ADB).md",
     "5. Standard Information/Operating Systems/Android/Packages",
@@ -252,7 +253,6 @@
     "3. Exploitation/Tunnelling/SSH Tunnelling",
     "Socat.md",
     "2. Enumeration/TCP/3306. MySQL (SQL)/2. Information.md",
-    "3. Exploitation/Buffer Overflow/ROP Chain.md",
     "7. Misc/Images/33.webp",
     "7. Misc/Images/22.webp",
     "7. Misc/Images/11.webp"
