@@ -34,3 +34,21 @@ repo init -u https://android.googlesource.com/kernel/manifest -b BRANCH
 ```
 repo sync -c -j8 --no-tag
 ```
+
+## Build
+
+```
+export BUILD_AOSP_KERNEL=1
+```
+
+For debug symbols:
+
+```
+export CONFIG_DEBUG_INFO=y
+```
+
+For debug information and better bpf tooling:
+
+```
+export CONFIG_DEBUG_INFO_BTF=y
+```
