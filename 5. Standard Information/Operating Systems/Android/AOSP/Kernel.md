@@ -41,14 +41,17 @@ repo sync -c -j8 --no-tag
 export BUILD_AOSP_KERNEL=1
 ```
 
-For debug symbols:
+Locate the device specific build settings at the bottom of the build sh file. 
+Navigate to the found folder: e.g. `/privte/devices/google/shusky`
 
+Within the `*.fragment` file add the following two lines:
+
+For debug symbols:
 ```
-export CONFIG_DEBUG_INFO=y
+CONFIG_DEBUG_INFO=y
 ```
 
 For debug information and better bpf tooling:
-
 ```
-export CONFIG_DEBUG_INFO_BTF=y
+CONFIG_DEBUG_INFO_BTF=y
 ```
