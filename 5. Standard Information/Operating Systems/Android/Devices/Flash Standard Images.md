@@ -3,3 +3,4 @@ The Android flash tool simplifies the process of installing images onto devices.
 
 [Android Flash Tool](https://flash.android.com/welcome)
 
+Can install the provided options or even just add the specific build version e.g. `TQ1A.221205.011`
