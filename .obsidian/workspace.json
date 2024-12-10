@@ -11,10 +11,14 @@
             "id": "08b72f5f387eeccc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "5. Standard Information/Operating Systems/Android/Activities.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Activities"
             }
           }
         ]
@@ -209,12 +213,19 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "7519a8baebbb9fa0",
+  "active": "08b72f5f387eeccc",
   "lastOpenFiles": [
+    "5. Standard Information/Operating Systems/Android/Tooling/Android Debug Bridge (ADB).md",
+    "5. Standard Information/Operating Systems/Android/1. Overview.md",
+    "5. Standard Information/Operating Systems/Android/Tooling",
+    "5. Standard Information/Operating Systems/Android/Services.md",
+    "5. Standard Information/Operating Systems/Android/Activities.md",
+    "5. Standard Information/Operating Systems/Android/Content Providers.md",
+    "5. Standard Information/Operating Systems/Android/Broadcast Receivers.md",
+    "3. Exploitation/Tunnelling/Tooling/SocksOverRDP (Windows SOCKS).md",
     "5. Standard Information/Operating Systems/Android",
     "3. Exploitation/Operating Systems/Android",
     "3. Exploitation/Tunnelling/Tooling/Rpivot (SOCKS Proxy).md",
-    "3. Exploitation/Tunnelling/Tooling/SocksOverRDP (Windows SOCKS).md",
     "7. Misc/Images/configuringproxifier.gif",
     "3. Exploitation/Tunnelling/1. Guide.md",
     "3. Exploitation/Tunnelling/ICMP Tunnelling.md",
@@ -243,11 +254,6 @@
     "7. Misc/Images/22.webp",
     "5. Standard Information/Networking/Proxies.md",
     "5. Standard Information/Networking/SOCKS.md",
-    "5. Standard Information/Networking/Port Forwarding.md",
-    "3. Exploitation/1. Guide.md",
-    "7. Misc/Images/11.webp",
-    "5. Standard Information/Networking/Packet Syntax (BPF).md",
-    "5. Standard Information/Penetration Testing/Stages/6. Lateral Movement/Pivoting.md",
-    "5. Standard Information/Penetration Testing/Stages/6. Lateral Movement/Evasive Testing.md"
+    "7. Misc/Images/11.webp"
   ]
 }

@@ -1,0 +1,1 @@
+Represent UI elements and user interactions
