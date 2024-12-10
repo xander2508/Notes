@@ -72,10 +72,10 @@ BUILD_AOSP_KERNEL=1 ./build_shusky.sh
 
 To flash the kernel images, run the `fastboot flash` command for each kernel partition listed for your device. For dynamic partitions, you need to reboot into `fastbootd` mode before flashing.
 
-|Device|Kernel Partitions|
-|---|---|
-|Pixel 6 (oriole)  <br>Pixel 6 Pro (raven)  <br>Pixel 6a (bluejay)|boot  <br>dtbo  <br>vendor_boot  <br>vendor_dlkm _(dynamic partition)_|
-|Pixel 8 (shiba)  <br>Pixel 8 Pro (husky)  <br>Pixel Fold (felix)  <br>Pixel Tablet (tangorpro)  <br>Pixel 7a (lynx)  <br>Pixel 7 (panther)  <br>Pixel 7 Pro (cheetah)|boot  <br>dtbo  <br>vendor_kernel_boot  <br>vendor_dlkm _(dynamic partition)_  <br>system_dlkm _(dynamic partition)_|
+| Device                                                                                                                                                                | Kernel Partitions                                                                                                    |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| Pixel 6 (oriole)  <br>Pixel 6 Pro (raven)  <br>Pixel 6a (bluejay)                                                                                                     | boot  <br>dtbo  <br>vendor_boot  <br>vendor_dlkm _(dynamic partition)_                                               |
+| Pixel 8 (shiba)  <br>Pixel 8 Pro (husky)  <br>Pixel Fold (felix)  <br>Pixel Tablet (tangorpro)  <br>Pixel 7a (lynx)  <br>Pixel 7 (panther)  <br>Pixel 7 Pro (cheetah) | boot  <br>dtbo  <br>vendor_kernel_boot  <br>vendor_dlkm _(dynamic partition)_  <br>system_dlkm _(dynamic partition)_ |
 
 Here are the flashing commands for Pixel 6 on `android-mainline`:
 
