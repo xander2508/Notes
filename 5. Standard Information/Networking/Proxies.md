@@ -21,7 +21,7 @@ As you may have guessed, a `reverse proxy`, is the reverse of a `Forward Proxy
 Its the same as a Forward Proxy, it just comes at it from the other side, protecting webservers from external requests and forwarding on only the non malicious packets.
 
 
-## (Non-) Transparent Proxy
+## (Non) Transparent Proxy
 
 All these proxy services act either `transparently` or `non-transparently`.
 
