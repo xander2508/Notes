@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Android/Tooling/Android Debug Bridge (ADB).md",
+                "file": "5. Standard Information/Operating Systems/Android/Packages/1. Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Android Debug Bridge (ADB)"
+              "title": "1. Overview"
             }
           }
         ]
@@ -215,12 +215,14 @@
   },
   "active": "08b72f5f387eeccc",
   "lastOpenFiles": [
+    "5. Standard Information/Operating Systems/Android/Tooling/Android Debug Bridge (ADB).md",
+    "5. Standard Information/Operating Systems/Android/Packages/1. Overview.md",
+    "5. Standard Information/Operating Systems/Android/Packages",
     "5. Standard Information/Operating Systems/Android/Services.md",
     "5. Standard Information/Operating Systems/Android/Activities.md",
     "5. Standard Information/Operating Systems/Android/1. Overview.md",
     "5. Standard Information/Operating Systems/Android/Broadcast Receivers.md",
     "5. Standard Information/Operating Systems/Android/Content Providers.md",
-    "5. Standard Information/Operating Systems/Android/Tooling/Android Debug Bridge (ADB).md",
     "5. Standard Information/Operating Systems/Android/Tooling",
     "3. Exploitation/Tunnelling/Tooling/SocksOverRDP (Windows SOCKS).md",
     "5. Standard Information/Operating Systems/Android",
@@ -253,7 +255,6 @@
     "7. Misc/Images/33.webp",
     "7. Misc/Images/22.webp",
     "5. Standard Information/Networking/Proxies.md",
-    "5. Standard Information/Networking/SOCKS.md",
     "7. Misc/Images/11.webp"
   ]
 }
