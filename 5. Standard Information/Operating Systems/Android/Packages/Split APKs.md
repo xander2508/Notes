@@ -10,3 +10,11 @@ To configure your build for multiple APKs, add a [`splits`](https://developer.a
 
 1. Split by ABI means that devices will only download the files required to run on the device nothing else
 2. Split by density means that the device will only download the files optimized for their screen, saving space e.g MDPI, XHDPI etc
+
+#### Install the split APKs
+
+See [[Android Debug Bridge (ADB)#Install split APKs|ADB]]
+
+##### Merge APKs
+
+See [[APKEditor#Merge Split APKs|Merge]]

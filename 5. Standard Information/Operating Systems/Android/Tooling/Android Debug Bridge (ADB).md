@@ -108,6 +108,14 @@ adb install path_to_apk
 **-r**:     Replace existing application.
 **-g**:     Grant all runtime permissions.
 **-t**:     Allow test packages.
+
+##### Install split APKs
+
+```
+adb install-multiple -r -t base.apk split_config.arm64_v8a.apk split_config.xxhdpi.apk
+```
+
+
 #### Copy files to and from a device
 
 Use the `pull` and `push` commands to copy files to and from a device. Unlike the `install` command, which only copies an APK file to a specific location, the `pull` and `push` commands let you copy arbitrary directories and files to any location in a device.
