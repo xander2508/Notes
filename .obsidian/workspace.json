@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Android/Devices/Flash Images.md",
+                "file": "5. Standard Information/Operating Systems/Android/Devices/Locate Device Versions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flash Images"
+              "title": "Locate Device Versions"
             }
           }
         ]
@@ -215,8 +215,9 @@
   },
   "active": "08b72f5f387eeccc",
   "lastOpenFiles": [
+    "5. Standard Information/Operating Systems/Android/Devices/Flash Standard Images.md",
+    "5. Standard Information/Operating Systems/Android/Devices/Locate Device Versions.md",
     "5. Standard Information/Operating Systems/Android/Devices/Unlock Bootloader.md",
-    "5. Standard Information/Operating Systems/Android/Devices/Flash Images.md",
     "5. Standard Information/Operating Systems/Android/Tooling/Fastboot.md",
     "5. Standard Information/Operating Systems/Android/Tooling/Android Debug Bridge (ADB).md",
     "5. Standard Information/Operating Systems/Android/Devices",
@@ -247,7 +248,6 @@
     "3. Exploitation/Operating Systems/Android",
     "3. Exploitation/Tunnelling/Tooling/Rpivot (SOCKS Proxy).md",
     "7. Misc/Images/configuringproxifier.gif",
-    "3. Exploitation/Tunnelling/1. Guide.md",
     "7. Misc/Images/88.webp",
     "3. Exploitation/Tunnelling/SSH Tunnelling/Tooling",
     "7. Misc/Images/77.webp",
