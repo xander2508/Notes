@@ -176,14 +176,23 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "3bef03f0e287d953",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 474.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,7 +212,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "7f0be1a74c3b43f5",
+  "active": "3bef03f0e287d953",
   "lastOpenFiles": [
     "7. Misc/Images/configuringproxifier.gif",
     "3. Exploitation/Tunnelling/Tooling/Rpivot (SOCKS Proxy).md",
