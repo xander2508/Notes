@@ -215,10 +215,12 @@
   },
   "active": "08b72f5f387eeccc",
   "lastOpenFiles": [
-    "5. Standard Information/Operating Systems/Android/Tooling/Android Debug Bridge (ADB).md",
+    "3. Exploitation/File Types and Data/AAB (Android App Bundles).md",
+    "3. Exploitation/File Types and Data/APK.md",
     "5. Standard Information/Operating Systems/Android/Packages/1. Overview.md",
-    "5. Standard Information/Operating Systems/Android/Packages",
     "5. Standard Information/Operating Systems/Android/Services.md",
+    "5. Standard Information/Operating Systems/Android/Tooling/Android Debug Bridge (ADB).md",
+    "5. Standard Information/Operating Systems/Android/Packages",
     "5. Standard Information/Operating Systems/Android/Activities.md",
     "5. Standard Information/Operating Systems/Android/1. Overview.md",
     "5. Standard Information/Operating Systems/Android/Broadcast Receivers.md",
@@ -251,10 +253,8 @@
     "Socat.md",
     "2. Enumeration/TCP/3306. MySQL (SQL)/2. Information.md",
     "3. Exploitation/Buffer Overflow/ROP Chain.md",
-    "3. Exploitation/Buffer Overflow/1. Guide.md",
     "7. Misc/Images/33.webp",
     "7. Misc/Images/22.webp",
-    "5. Standard Information/Networking/Proxies.md",
     "7. Misc/Images/11.webp"
   ]
 }
