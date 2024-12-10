@@ -1,0 +1,5 @@
+Android apps send and receive broadcast messages from the Android system and other Android apps, similar to the [publish-subscribe](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) design pattern. The system and apps typically send broadcasts when certain events occur. For example, the Android system sends broadcasts when various system events occur, such as system boot or device charging. Apps also send custom broadcasts, for example, to notify other apps of something that might interest them (for example, new data download).
+
+Apps can register to receive specific broadcasts. When a broadcast is sent, the system automatically routes broadcasts to apps that have subscribed to receive that particular type of broadcast.
+
+Generally speaking, broadcasts can be used as a messaging system across apps and outside of the normal user flow. However, you must be careful not to abuse the opportunity to respond to broadcasts and run jobs in the background that can contribute to a slow system performance.

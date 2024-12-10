@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Android/Activities.md",
+                "file": "5. Standard Information/Operating Systems/Android/Broadcast Receivers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Activities"
+              "title": "Broadcast Receivers"
             }
           }
         ]
@@ -215,12 +215,12 @@
   },
   "active": "08b72f5f387eeccc",
   "lastOpenFiles": [
+    "5. Standard Information/Operating Systems/Android/Content Providers.md",
+    "5. Standard Information/Operating Systems/Android/Activities.md",
     "5. Standard Information/Operating Systems/Android/Tooling/Android Debug Bridge (ADB).md",
     "5. Standard Information/Operating Systems/Android/1. Overview.md",
     "5. Standard Information/Operating Systems/Android/Tooling",
     "5. Standard Information/Operating Systems/Android/Services.md",
-    "5. Standard Information/Operating Systems/Android/Activities.md",
-    "5. Standard Information/Operating Systems/Android/Content Providers.md",
     "5. Standard Information/Operating Systems/Android/Broadcast Receivers.md",
     "3. Exploitation/Tunnelling/Tooling/SocksOverRDP (Windows SOCKS).md",
     "5. Standard Information/Operating Systems/Android",
