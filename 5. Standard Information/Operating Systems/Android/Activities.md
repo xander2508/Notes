@@ -1,1 +1,1 @@
-Represent UI elements and user interactions
+The [Activity](https://developer.android.com/reference/android/app/Activity) class is a crucial component of an Android app, and the way activities are launched and put together is a fundamental part of the platform's application model. Unlike programming paradigms in which apps are launched with a `main()` method, the Android system initiates code in an [Activity](https://developer.android.com/reference/android/app/Activity) instance by invoking specific callback methods that correspond to specific stages of its lifecycle.
