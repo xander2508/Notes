@@ -32,5 +32,5 @@ repo init -u https://android.googlesource.com/kernel/manifest -b BRANCH
 ```
 
 ```
-repo sync -c -j8
+repo sync -c -j8 --no-tag
 ```
