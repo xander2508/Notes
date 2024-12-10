@@ -37,10 +37,6 @@ repo sync -c -j8 --no-tag
 
 ## Build
 
-```
-export BUILD_AOSP_KERNEL=1
-```
-
 Locate the device specific build settings at the bottom of the build sh file. 
 Navigate to the found folder: e.g. `/privte/devices/google/shusky`
 
@@ -54,4 +50,10 @@ CONFIG_DEBUG_INFO=y
 For debug information and better bpf tooling:
 ```
 CONFIG_DEBUG_INFO_BTF=y
+```
+
+Back in the root directory where `shusky` is the Android device codename:
+
+```
+BUILD_AOSP_KERNEL=1 ./build_shusky.sh
 ```
