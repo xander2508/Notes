@@ -1,4 +1,12 @@
+---
+tags:
+  - Tooling
+aliases:
+  - ADB
+---
+
 [Android Debug Bridge (adb)  |  Android Studio  |  Android Developers](https://developer.android.com/tools/adb)
+[ADB(1) MAN PAGE](https://android.googlesource.com/platform/packages/modules/adb/+/refs/heads/master/docs/user/adb.1.md)
 
 Android Debug Bridge (`adb`) is a versatile command-line tool that lets you communicate with a device. The `adb` command facilitates a variety of device actions, such as installing and debugging apps. `adb` provides access to a Unix shell that you can use to run a variety of commands on a device. It is a client-server program that includes three components:
 
@@ -97,7 +105,9 @@ You can use `adb` to install an APK on an emulator or connected device with th
 adb install path_to_apk
 ```
 
-
+**-r**:     Replace existing application.
+**-g**:     Grant all runtime permissions.
+**-t**:     Allow test packages.
 #### Copy files to and from a device
 
 Use the `pull` and `push` commands to copy files to and from a device. Unlike the `install` command, which only copies an APK file to a specific location, the `pull` and `push` commands let you copy arbitrary directories and files to any location in a device.
@@ -118,4 +128,18 @@ Replace `local` and `remote` with the paths to the target files/directory on
 
 ```
 adb push myfile.txt /sdcard/myfile.txt
+```
+
+#### List installed packages
+
+```
+adb shell pm list packages
+```
+
+**-3**: List only user installed packages
+
+To list the path of the package located:
+
+```
+adb shell pm path <PACKAGE_ID>
 ```
