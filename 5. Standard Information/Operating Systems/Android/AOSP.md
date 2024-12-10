@@ -62,3 +62,7 @@ Output an emulator zip file
 ```
 make emu_img_zip -j8
 ```
+
+## Build to Emulator
+
+Copy the emulator zip to the emulator `system-images` file and extract the folder. 
