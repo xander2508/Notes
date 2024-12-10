@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Android/AOSP.md",
+                "file": "5. Standard Information/Operating Systems/Android/AOSP/Kernel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AOSP"
+              "title": "Kernel"
             }
           }
         ]
@@ -215,10 +215,11 @@
   },
   "active": "08b72f5f387eeccc",
   "lastOpenFiles": [
+    "5. Standard Information/Operating Systems/Android/AOSP/Image.md",
+    "5. Standard Information/Operating Systems/Android/AOSP/Kernel.md",
+    "5. Standard Information/Operating Systems/Android/AOSP",
     "5. Standard Information/Operating Systems/Android/Packages/1. Overview.md",
-    "5. Standard Information/Operating Systems/Android/AOSP.md",
     "3. Exploitation/File Types and Data/APK.md",
-    "5. Standard Information/Operating Systems/Android/Untitled",
     "3. Exploitation/File Types and Data/AAB (Android App Bundles).md",
     "5. Standard Information/Operating Systems/Android/Tooling/Jadx.md",
     "5. Standard Information/Operating Systems/Android/Tooling/Uber-APK-Signer.md",
@@ -246,7 +247,6 @@
     "3. Exploitation/Tunnelling/ICMP Tunnelling.md",
     "3. Exploitation/Tunnelling/SSH Tunnelling/Chisel.md",
     "3. Exploitation/Tunnelling/DNS Tunnelling.md",
-    "3. Exploitation/Tunnelling/SSH Tunnelling/Netsh.md",
     "7. Misc/Images/88.webp",
     "3. Exploitation/Tunnelling/SSH Tunnelling/Tooling",
     "7. Misc/Images/77.webp",
