@@ -65,4 +65,14 @@ make emu_img_zip -j8
 
 ## Build to Emulator
 
-Copy the emulator zip to the emulator `system-images` file and extract the folder. 
+Copy the emulator zip to the emulator `system-images` `android-34` (or whatever is the correct version) file and extract the folder in a created AOSP custom folder. 
+
+The only file missing is a file called `package.xml`
+
+```
+cp default/arm64-v8a/package.xml CUSTOM_IMAGE/arm64-v8a/package.xml
+```
+
+Replace the contained `default` to the `CUSTOM_IMAGE` folder. The XML is at the end of the file. 
+Replace all occurrences of `default` to the custom path. 
+Add a vendor tag after the "Android System Image" tag: `<vendor><id>alex</id><display>alex</display></vendor>`
