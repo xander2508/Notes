@@ -1,6 +1,6 @@
-.smart-connections/*
-
-
-
-# Ignore Smart Connections folder
+.smart-env
+.smart-env/*
 .smart-connections
+.smart-connections/*
+.smart-env\multi\*
+.smart-env/multi/1__Recon_1__Guide_md.ajson
