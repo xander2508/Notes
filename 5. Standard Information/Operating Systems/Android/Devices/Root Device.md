@@ -1,7 +1,6 @@
 1. [[Flash Standard Images]] with a `user-debug` variant which will give you `su`
 2. Magisk
 
-
 ## Magisk
 
 Download the build release required from: [Full OTA Images for Nexus and Pixel Devices  |  Google Play services  |  Google for Developers](https://developers.google.com/android/ota)
@@ -21,3 +20,13 @@ Download the build release required from: [Full OTA Images for Nexus and Pixel D
 13. Open the Magisk app and within adb shell then run `su`
 14. Accept any popups on the device
 
+
+
+#### Root Emulator
+
+Android Studio:
+
+1. Tools -> Device Manager
+2. Create a new AVD
+3. Start emulator through command line
+4. See [[RootAVD]]
