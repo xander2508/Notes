@@ -20,8 +20,6 @@ Download the build release required from: [Full OTA Images for Nexus and Pixel D
 13. Open the Magisk app and within adb shell then run `su`
 14. Accept any popups on the device
 
-
-
 #### Root Emulator
 
 Android Studio:
