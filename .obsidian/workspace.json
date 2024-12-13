@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Android/AOSP/Source Code.md",
+                "file": "5. Standard Information/Operating Systems/Android/AOSP/Overview of AOSP Directory Structure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Source Code"
+              "title": "Overview of AOSP Directory Structure"
             }
           }
         ]
@@ -216,7 +216,7 @@
   "active": "8ab3b3bb34291a6f",
   "lastOpenFiles": [
     "5. Standard Information/Operating Systems/Android/AOSP/Image.md",
-    "5. Standard Information/Operating Systems/Android/AOSP/Source Code.md",
+    "5. Standard Information/Operating Systems/Android/AOSP/Overview of AOSP Directory Structure.md",
     "5. Standard Information/Operating Systems/Android/Devices/Root Device.md",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/1. Wordlist and Password Guide.md",
     "5. Standard Information/Operating Systems/Android/Tooling/RootAVD.md",
