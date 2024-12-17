@@ -21,8 +21,7 @@
               "title": "Android Bootloader Course Notes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -75,7 +74,6 @@
             }
           },
           {
-            "id": "19f0584d6fb8654f",
             "id": "fbbd2ea30c994af3",
             "type": "leaf",
             "pinned": true,
@@ -218,6 +216,7 @@
   "active": "8ab3b3bb34291a6f",
   "lastOpenFiles": [
     "5. Standard Information/Operating Systems/Android/AOSP/Overview of AOSP Directory Structure.md",
+    "5. Standard Information/Operating Systems/Android/AOSP/Android Bootloader Course Notes.md",
     "5. Standard Information/Operating Systems/Android/AOSP/Image.md",
     "5. Standard Information/Operating Systems/Android/Devices/Root Device.md",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/1. Wordlist and Password Guide.md",
@@ -238,6 +237,12 @@
     "5. Standard Information/Operating Systems/Android/Tooling/Jadx.md",
     "5. Standard Information/Operating Systems/Android/Tooling/Uber-APK-Signer.md",
     "5. Standard Information/Operating Systems/Android/Tooling/APKEditor.md",
+    "5. Standard Information/Operating Systems/Android/Packages/Split APKs.md",
+    "3. Exploitation/File Types and Data/LibreOffice.md",
+    "3. Exploitation/File Types and Data/NetBSD.md",
+    "3. Exploitation/File Types and Data/RDP (Remote Desktop Files).md",
+    "3. Exploitation/File Types and Data/XLSM (Excel etc).md",
+    "3. Exploitation/File Types and Data/XML.md",
     "5. Standard Information/Operating Systems/Android/Packages",
     "5. Standard Information/Operating Systems/Android/Tooling",
     "5. Standard Information/Operating Systems/Android",
