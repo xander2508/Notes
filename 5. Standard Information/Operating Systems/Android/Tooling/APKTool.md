@@ -44,4 +44,59 @@ APK reverse engineering involves analyzing, decompiling, and modifying APK files
         
     - Acts as a low-level representation akin to assembly language.
 
+## APK Decompilation Example
+
+1. **Decompile APK**:
+    
+    - Run:
+        
+        ```
+        apktool d sarah.apk -o output
+        ```
+        
+    - Outputs files into the `output/` folder.
+        
+2. **Key Findings in** `**AndroidManifest.xml**`:
+    
+    - Package Name: `turex.hackers.id`
+        
+    - Build Version: 29, Platform Version: 10.
+        
+    - **Permissions**:
+        
+        - Example: `android.permission.RECEIVE_BOOT_COMPLETED`.
+            
+    - **Debug Flag**:
+        
+        - Debug mode is enabled (`android:debuggable="true"`).
+            
+    - **Activities**:
+        
+        - The entry point is determined using:
+            
+            ```
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+            ```
+            
+    - **Services and Receivers**:
+        
+        - Example: `BootReceiver` with permission `RECEIVE_BOOT_COMPLETED`.
+            
+3. **Inspect Resource Files**:
+    
+    - `res/layout/`: Layout files like `main.xml`.
+        
+    - `res/values/strings.xml`: Example string: "Make BTC payment".
+        
+4. **Smali Folder**:
+    
+    - Smali files are found under `smali/com/turex/hackers/id/MainActivity.smali`.
+        
+    - Represents human-readable Dalvik bytecode.
+        
+
+
 See [[Smali]]
