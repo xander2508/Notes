@@ -6,6 +6,8 @@ In the domain of Android application development and security, crash logs serve 
 - **Application Not Responding (ANR) Dumps**: Indicate UI thread blockages.
 - **Tombstone Files**: Generated during native crashes, providing detailed low-level diagnostics.
 
+See [[Crash Log Analysis Tools]]
+
 ---
 
 ## 1. JVM Exception Stack Traces
@@ -25,7 +27,7 @@ In the domain of Android application development and security, crash logs serve 
     
     - Stack traces begin with the **exception type** and **error message**.
     - Identify the root cause and origin in the trace.
-3. **Analyze the Stack Trace Hierarchically**:
+3. **Analyse the Stack Trace Hierarchically**:
     
     - Start from the **topmost line**, representing the error’s root cause.
     - Follow the **method call sequence** listed below to trace the code path that led to the exception.
@@ -131,3 +133,4 @@ In the domain of Android application development and security, crash logs serve 
 - Identify the type of crash (JVM exception, ANR, or native crash).
 - Use the appropriate toolset (`adb logcat`, root access, or IDE tools) to extract and analyze logs.
 - Apply debugging techniques to pinpoint root causes and implement fixes.
+

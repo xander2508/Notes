@@ -215,8 +215,9 @@
   },
   "active": "8ab3b3bb34291a6f",
   "lastOpenFiles": [
-    "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Code Analysis/Java and Android.md",
+    "5. Standard Information/Operating Systems/Android/Tooling/Crash Log Analysis Tools.md",
     "5. Standard Information/Operating Systems/Android/AOSP/Information/Crash Logs.md",
+    "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Code Analysis/Java and Android.md",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Obfuscation Techniques.md",
     "5. Standard Information/Operating Systems/Android/AOSP/Information/Modify APK.md",
     "5. Standard Information/Operating Systems/Android/Tooling/Simplify.md",
@@ -243,7 +244,6 @@
     "5. Standard Information/Operating Systems/Android/AOSP/Information/Android Bootloader.md",
     "5. Standard Information/Operating Systems/Android/AOSP/Information/Kernel/Kernel.md",
     "5. Standard Information/Operating Systems/Android/AOSP/Information/Kernel",
-    "5. Standard Information/Operating Systems/Android/Devices/Root Device.md",
     "5. Standard Information/Operating Systems/Android/Devices",
     "5. Standard Information/Operating Systems/Android/AOSP",
     "5. Standard Information/Operating Systems/Android/Packages",
