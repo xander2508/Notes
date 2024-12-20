@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Android/AOSP/Information/Crash Logs.md",
+                "file": "5. Standard Information/Operating Systems/Linux/Hardening/SELinux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Crash Logs"
+              "title": "SELinux"
             }
           }
         ]
@@ -215,8 +215,8 @@
   },
   "active": "8ab3b3bb34291a6f",
   "lastOpenFiles": [
-    "5. Standard Information/Operating Systems/Android/Tooling/Crash Log Analysis Tools.md",
     "5. Standard Information/Operating Systems/Android/AOSP/Information/Crash Logs.md",
+    "5. Standard Information/Operating Systems/Android/Tooling/Crash Log Analysis Tools.md",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Code Analysis/Java and Android.md",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Obfuscation Techniques.md",
     "5. Standard Information/Operating Systems/Android/AOSP/Information/Modify APK.md",
