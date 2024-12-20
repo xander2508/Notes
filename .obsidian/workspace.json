@@ -74,7 +74,7 @@
             }
           },
           {
-            "id": "9660db5b59fbc59b",
+            "id": "efd255ba43cea336",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -215,10 +215,11 @@
   },
   "active": "8ab3b3bb34291a6f",
   "lastOpenFiles": [
+    "5. Standard Information/Operating Systems/Android/Devices/Modify APK.md",
+    "5. Standard Information/Operating Systems/Android/Tooling/APKTool.md",
     "5. Standard Information/Operating Systems/Android/Tooling/Jadx.md",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Static Analysis.md",
     "3. Exploitation/File Types and Data/Languages/Smali.md",
-    "5. Standard Information/Operating Systems/Android/Tooling/APKTool.md",
     "3. Exploitation/File Types and Data/APK.md",
     "3. Exploitation/File Types and Data/DEX (Dalvik).md",
     "5. Standard Information/Operating Systems/Android/Packages/1. Overview.md",
@@ -243,7 +244,6 @@
     "5. Standard Information/Operating Systems/Android/Devices/Load Emulator.md",
     "5. Standard Information/Operating Systems/Android/Tooling/Extract Android OTA Payload.md",
     "5. Standard Information/Operating Systems/Android/Devices/Unlock Bootloader.md",
-    "5. Standard Information/Operating Systems/Android/Devices/Locate Device Versions.md",
     "5. Standard Information/Operating Systems/Android/Devices",
     "5. Standard Information/Operating Systems/Android/AOSP",
     "5. Standard Information/Operating Systems/Android/Packages",

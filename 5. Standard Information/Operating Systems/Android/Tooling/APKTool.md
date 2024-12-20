@@ -37,7 +37,7 @@ APK reverse engineering involves analyzing, decompiling, and modifying APK files
         ```
         apktool b <output_folder>
         ```
-        
+        See [[Modify APK]]
 4. **Analyzing Smali Code**:
     
     - Smali is an intermediate representation of Android bytecode.
