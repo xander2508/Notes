@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Android/Tooling/Jadx.md",
+                "file": "5. Standard Information/Operating Systems/Android/AOSP/Android Bootloader Course Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jadx"
+              "title": "Android Bootloader Course Notes"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "python",
+                "query": "wordlist",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,7 @@
             }
           },
           {
-            "id": "efd255ba43cea336",
+            "id": "fbbd2ea30c994af3",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -215,27 +215,9 @@
   },
   "active": "8ab3b3bb34291a6f",
   "lastOpenFiles": [
-    "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Static Analysis.md",
-    "3. Exploitation/File Types and Data/Languages/Smali.md",
-    "5. Standard Information/Operating Systems/Android/Tooling/APKTool.md",
-    "3. Exploitation/File Types and Data/APK.md",
-    "3. Exploitation/File Types and Data/DEX (Dalvik).md",
-    "5. Standard Information/Operating Systems/Android/Packages/1. Overview.md",
-    "3. Exploitation/File Types and Data/7z.md",
-    "5. Standard Information/Operating Systems/Android/Tooling/APKEditor.md",
-    "3. Exploitation/File Types and Data/Languages/Visual Basic Script (VBS).md",
-    "3. Exploitation/File Types and Data/Languages/PHP.md",
-    "3. Exploitation/File Types and Data/Languages/ARM.md",
-    "3. Exploitation/File Types and Data/1. Guide.md",
-    "2. Enumeration/TCP/88. Kerberos/1. Guide.md",
-    "5. Standard Information/Operating Systems/Android/AOSP/Information/Kernel/GKI Kernel.md",
-    "5. Standard Information/Operating Systems/Android/AOSP/Information/1. Overview of AOSP Directory Structure.md",
-    "5. Standard Information/Operating Systems/Android/AOSP/Build/Image.md",
-    "5. Standard Information/Operating Systems/Android/AOSP/Information",
-    "5. Standard Information/Operating Systems/Android/AOSP/Build",
-    "5. Standard Information/Operating Systems/Android/AOSP/Information/Android Bootloader.md",
-    "5. Standard Information/Operating Systems/Android/AOSP/Information/Kernel/Kernel.md",
-    "5. Standard Information/Operating Systems/Android/AOSP/Information/Kernel",
+    "5. Standard Information/Operating Systems/Android/AOSP/Overview of AOSP Directory Structure.md",
+    "5. Standard Information/Operating Systems/Android/AOSP/Android Bootloader Course Notes.md",
+    "5. Standard Information/Operating Systems/Android/AOSP/Image.md",
     "5. Standard Information/Operating Systems/Android/Devices/Root Device.md",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/1. Wordlist and Password Guide.md",
     "5. Standard Information/Operating Systems/Android/Tooling/RootAVD.md",
@@ -244,8 +226,23 @@
     "5. Standard Information/Operating Systems/Android/Devices/Unlock Bootloader.md",
     "5. Standard Information/Operating Systems/Android/Devices/Locate Device Versions.md",
     "5. Standard Information/Operating Systems/Android/Devices/Flash Standard Images.md",
+    "5. Standard Information/Operating Systems/Android/Tooling/Fastboot.md",
+    "5. Standard Information/Operating Systems/Android/Tooling/Android Debug Bridge (ADB).md",
     "5. Standard Information/Operating Systems/Android/Devices",
+    "5. Standard Information/Operating Systems/Android/AOSP/Kernel.md",
     "5. Standard Information/Operating Systems/Android/AOSP",
+    "5. Standard Information/Operating Systems/Android/Packages/1. Overview.md",
+    "3. Exploitation/File Types and Data/APK.md",
+    "3. Exploitation/File Types and Data/AAB (Android App Bundles).md",
+    "5. Standard Information/Operating Systems/Android/Tooling/Jadx.md",
+    "5. Standard Information/Operating Systems/Android/Tooling/Uber-APK-Signer.md",
+    "5. Standard Information/Operating Systems/Android/Tooling/APKEditor.md",
+    "5. Standard Information/Operating Systems/Android/Packages/Split APKs.md",
+    "3. Exploitation/File Types and Data/LibreOffice.md",
+    "3. Exploitation/File Types and Data/NetBSD.md",
+    "3. Exploitation/File Types and Data/RDP (Remote Desktop Files).md",
+    "3. Exploitation/File Types and Data/XLSM (Excel etc).md",
+    "3. Exploitation/File Types and Data/XML.md",
     "5. Standard Information/Operating Systems/Android/Packages",
     "5. Standard Information/Operating Systems/Android/Tooling",
     "5. Standard Information/Operating Systems/Android",
@@ -254,8 +251,10 @@
     "7. Misc/Images/88.webp",
     "3. Exploitation/Tunnelling/SSH Tunnelling/Tooling",
     "7. Misc/Images/77.webp",
+    "3. Exploitation/Tunnelling/Tooling",
     "7. Misc/Images/reverse_shell_9.webp",
     "7. Misc/Images/66.webp",
+    "3. Exploitation/Tunnelling/SSH Tunnelling",
     "7. Misc/Images/33.webp",
     "7. Misc/Images/22.webp",
     "7. Misc/Images/11.webp"
