@@ -1,46 +1,14 @@
 
 [GitHub - skylot/jadx: Dex to Java decompiler](https://github.com/skylot/jadx)
 
-### Using APKTool
-
-- **Functionality**: Converts Android bytecode into Smali, an assembly-like language.
-    
-- **Challenges**: Difficult to interpret, especially for beginners in reverse engineering.
-    
-- **How to Use**:
-    
-    1. **Install APKTool**: Follow the official documentation to set up APKTool on your system.
-        
-    2. **Decompile APK**:
-        
-        - Use the command: `apktool d <file.apk>`.
-            
-        - This extracts and converts the APK file into Smali code and its corresponding resources.
-            
-    3. **Analyze Decompiled Files**:
-        
-        - Look into the `AndroidManifest.xml` for permissions and intents.
-            
-        - Navigate the Smali files to study application logic.
-            
-    4. **Recompile APK**:
-        
-        - Modify necessary files and use `apktool b <project_folder>` to recompile.
-            
-        - This step is essential for testing changes.
-            
+JDX GUI is a powerful reverse engineering tool designed for Android applications. Unlike APKTool, which translates Android bytecode into the SMALI assembly-like language, JDX GUI decompiles APKs directly into Java source code. This advantage makes it accessible to developers and researchers due to Java's familiarity and readability.
 
 ### Introducing JDX GUI
 
 - **Purpose**: Decompiles APK files directly into Java source code.
-    
 - **Advantages**:
-    
     - **Readability**: Java is easier to understand than Smali.
-        
     - **Efficiency**: Quicker analysis of application logic and structure.
-        
-
 ### What is JADX?
 
 - **Definition**: JADX is a decompiler for Android applications, designed to convert Dalvik bytecode (compiled APK files) into Java source code.
