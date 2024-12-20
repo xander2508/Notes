@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Android/AOSP/Information/Accessibility Features.md",
+                "file": "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Obfuscation Techniques.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Accessibility Features"
+              "title": "Obfuscation Techniques"
             }
           }
         ]
@@ -215,8 +215,9 @@
   },
   "active": "8ab3b3bb34291a6f",
   "lastOpenFiles": [
-    "5. Standard Information/Operating Systems/Android/Tooling/APKTool.md",
     "5. Standard Information/Operating Systems/Android/AOSP/Information/Accessibility Features.md",
+    "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Obfuscation Techniques.md",
+    "5. Standard Information/Operating Systems/Android/Tooling/APKTool.md",
     "5. Standard Information/Operating Systems/Android/Devices/Modify APK.md",
     "5. Standard Information/Operating Systems/Android/Tooling/Jadx.md",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Static Analysis.md",
@@ -243,7 +244,6 @@
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/1. Wordlist and Password Guide.md",
     "5. Standard Information/Operating Systems/Android/Tooling/RootAVD.md",
     "5. Standard Information/Operating Systems/Android/Devices/Load Emulator.md",
-    "5. Standard Information/Operating Systems/Android/Tooling/Extract Android OTA Payload.md",
     "5. Standard Information/Operating Systems/Android/Devices",
     "5. Standard Information/Operating Systems/Android/AOSP",
     "5. Standard Information/Operating Systems/Android/Packages",
