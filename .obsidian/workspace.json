@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Code Analysis/Java and Android.md",
+                "file": "5. Standard Information/Operating Systems/Android/AOSP/Information/Crash Logs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java and Android"
+              "title": "Crash Logs"
             }
           }
         ]
@@ -215,8 +215,9 @@
   },
   "active": "8ab3b3bb34291a6f",
   "lastOpenFiles": [
-    "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Obfuscation Techniques.md",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Code Analysis/Java and Android.md",
+    "5. Standard Information/Operating Systems/Android/AOSP/Information/Crash Logs.md",
+    "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Obfuscation Techniques.md",
     "5. Standard Information/Operating Systems/Android/AOSP/Information/Modify APK.md",
     "5. Standard Information/Operating Systems/Android/Tooling/Simplify.md",
     "5. Standard Information/Operating Systems/Android/AOSP/Information/Accessibility Features.md",
@@ -243,7 +244,6 @@
     "5. Standard Information/Operating Systems/Android/AOSP/Information/Kernel/Kernel.md",
     "5. Standard Information/Operating Systems/Android/AOSP/Information/Kernel",
     "5. Standard Information/Operating Systems/Android/Devices/Root Device.md",
-    "4. Post-Exploitation/Cryptography/Passwords and Wordlists/1. Wordlist and Password Guide.md",
     "5. Standard Information/Operating Systems/Android/Devices",
     "5. Standard Information/Operating Systems/Android/AOSP",
     "5. Standard Information/Operating Systems/Android/Packages",
