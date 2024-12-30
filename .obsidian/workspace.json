@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Exploitation/File Types and Data/VHD (Virtual Hard Drive).md",
+                "file": "5. Standard Information/Operating Systems/Android/AOSP/Information/Binder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VHD (Virtual Hard Drive)"
+              "title": "Binder"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "python",
+                "query": "binder",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -215,6 +215,9 @@
   },
   "active": "8ab3b3bb34291a6f",
   "lastOpenFiles": [
+    "7. Misc/Images/Pasted image 20241230113703.png",
+    "3. Exploitation/File Types and Data/VHD (Virtual Hard Drive).md",
+    "5. Standard Information/Operating Systems/Android/AOSP/Information/Binder.md",
     "3. Exploitation/File Types and Data/XLSM (Excel etc).md",
     "3. Exploitation/File Types and Data/LibreOffice.md",
     "3. Exploitation/File Types and Data/Images.md",
@@ -238,9 +241,6 @@
     "5. Standard Information/Operating Systems/Android/Tooling/APKEditor.md",
     "3. Exploitation/File Types and Data/Languages/Visual Basic Script (VBS).md",
     "3. Exploitation/File Types and Data/Languages/PHP.md",
-    "3. Exploitation/File Types and Data/Languages/ARM.md",
-    "3. Exploitation/File Types and Data/1. Guide.md",
-    "2. Enumeration/TCP/88. Kerberos/1. Guide.md",
     "5. Standard Information/Operating Systems/Android/AOSP/Information",
     "5. Standard Information/Operating Systems/Android/AOSP/Build",
     "5. Standard Information/Operating Systems/Android/AOSP/Information/Kernel",
