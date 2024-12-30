@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Linux/Hardening/SELinux.md",
+                "file": "3. Exploitation/File Types and Data/VHD (Virtual Hard Drive).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SELinux"
+              "title": "VHD (Virtual Hard Drive)"
             }
           }
         ]
@@ -74,7 +74,7 @@
             }
           },
           {
-            "id": "9217be75611c8d10",
+            "id": "1641eb303f766669",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -215,6 +215,11 @@
   },
   "active": "8ab3b3bb34291a6f",
   "lastOpenFiles": [
+    "3. Exploitation/File Types and Data/XLSM (Excel etc).md",
+    "3. Exploitation/File Types and Data/LibreOffice.md",
+    "3. Exploitation/File Types and Data/Images.md",
+    "3. Exploitation/File Types and Data/GPG.md",
+    "5. Standard Information/Operating Systems/Linux/Hardening/SELinux.md",
     "5. Standard Information/Operating Systems/Android/AOSP/Information/Crash Logs.md",
     "5. Standard Information/Operating Systems/Android/Tooling/Crash Log Analysis Tools.md",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Code Analysis/Java and Android.md",
@@ -236,13 +241,8 @@
     "3. Exploitation/File Types and Data/Languages/ARM.md",
     "3. Exploitation/File Types and Data/1. Guide.md",
     "2. Enumeration/TCP/88. Kerberos/1. Guide.md",
-    "5. Standard Information/Operating Systems/Android/AOSP/Information/Kernel/GKI Kernel.md",
-    "5. Standard Information/Operating Systems/Android/AOSP/Information/1. Overview of AOSP Directory Structure.md",
-    "5. Standard Information/Operating Systems/Android/AOSP/Build/Image.md",
     "5. Standard Information/Operating Systems/Android/AOSP/Information",
     "5. Standard Information/Operating Systems/Android/AOSP/Build",
-    "5. Standard Information/Operating Systems/Android/AOSP/Information/Android Bootloader.md",
-    "5. Standard Information/Operating Systems/Android/AOSP/Information/Kernel/Kernel.md",
     "5. Standard Information/Operating Systems/Android/AOSP/Information/Kernel",
     "5. Standard Information/Operating Systems/Android/Devices",
     "5. Standard Information/Operating Systems/Android/AOSP",
