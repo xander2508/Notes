@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Recon/Port Scanning/Tooling/Command Line.md",
+                "file": "3. Exploitation/Tunnelling/3. Tunnelling Protections.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Command Line"
+              "title": "3. Tunnelling Protections"
             }
           }
         ]
@@ -215,8 +215,10 @@
   },
   "active": "91bd2a3d27ef8290",
   "lastOpenFiles": [
-    "1. Recon/Network Traffic Analysis/Wi-Fi Capture.md",
+    "3. Exploitation/Tunnelling/Meterpreter Tunnelling.md",
+    "3. Exploitation/Tunnelling/3. Tunnelling Protections.md",
     "1. Recon/Port Scanning/Tooling/Command Line.md",
+    "1. Recon/Network Traffic Analysis/Wi-Fi Capture.md",
     "1. Recon/Network Traffic Analysis/4. Easy Wins.md",
     "1. Recon/Network Traffic Analysis/3. Network Analysis Steps.md",
     "1. Recon/Network Traffic Analysis/2. Filtering Traffic.md",
@@ -239,8 +241,6 @@
     "5. Standard Information/Operating Systems/Android/AOSP/Build/Compiling and Porting for Android.md",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Android Firmware Analysis.md",
     "5. Standard Information/Operating Systems/Android/AOSP/Information/Services.md",
-    "3. Exploitation/File Types and Data/4. Compiling and Porting.md",
-    "3. Exploitation/File Types and Data/LZ4.md",
     "7. Misc/Images/Pasted image 20241230143548.png",
     "7. Misc/Images/Pasted image 20241230143235.png",
     "7. Misc/Images/Pasted image 20241230113703.png",
