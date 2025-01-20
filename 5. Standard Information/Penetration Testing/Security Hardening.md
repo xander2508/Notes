@@ -9,3 +9,6 @@
 - What types of authentication mechanisms are we using?
 - Do we require Out-of-Band (OOB) management for our infrastructure. If so, who has access permissions?
 - Do we have a Disaster Recovery plan?
+
+[Tactics - Enterprise | MITRE ATT&CK®](https://attack.mitre.org/tactics/enterprise/)
+
