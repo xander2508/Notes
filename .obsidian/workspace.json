@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Exploitation/Operating Systems/Windows/Active Directory/Tooling/ADRecon.md",
+                "file": "3. Exploitation/Operating Systems/Windows/Active Directory/Tooling/Active Directory Explorer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ADRecon"
+              "title": "Active Directory Explorer"
             }
           }
         ]
@@ -215,8 +215,9 @@
   },
   "active": "91bd2a3d27ef8290",
   "lastOpenFiles": [
-    "3. Exploitation/Operating Systems/Windows/Active Directory/Tooling/windapsearch.md",
     "3. Exploitation/Operating Systems/Windows/Active Directory/Tooling/ADRecon.md",
+    "3. Exploitation/Operating Systems/Windows/Active Directory/Tooling/Active Directory Explorer.md",
+    "3. Exploitation/Operating Systems/Windows/Active Directory/Tooling/windapsearch.md",
     "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Tooling/MailSniper.md",
     "3. Exploitation/Operating Systems/Windows/Active Directory/Tooling/Group3r.md",
     "3. Exploitation/Operating Systems/Windows/Active Directory/Tooling/Snaffler.md",
@@ -242,7 +243,6 @@
     "1. Recon/Network Traffic Analysis/3. Network Analysis Steps.md",
     "1. Recon/Network Traffic Analysis/2. Filtering Traffic.md",
     "1. Recon/Network Traffic Analysis/1. Analysis Overview.md",
-    "1. Recon/Network Traffic Analysis/Tooling/Wireshark.md",
     "7. Misc/Images/Pasted image 20241230143548.png",
     "7. Misc/Images/Pasted image 20241230143235.png",
     "7. Misc/Images/Pasted image 20241230113703.png",
