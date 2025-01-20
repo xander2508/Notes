@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5f436bcf57f303c3",
+        "id": "bf8e6a3238a33c29",
         "type": "tabs",
         "children": [
           {
-            "id": "8ab3b3bb34291a6f",
+            "id": "91bd2a3d27ef8290",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Standard Information/Operating Systems/Android/AOSP/Information/Zygote.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Zygote"
+              "title": "New tab"
             }
           }
         ]
