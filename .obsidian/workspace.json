@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Exploitation/Operating Systems/Windows/Active Directory/Tooling/Active Directory Explorer.md",
+                "file": "3. Exploitation/Operating Systems/Windows/Active Directory/Tooling/PowerView SharpView.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Active Directory Explorer"
+              "title": "PowerView SharpView"
             }
           }
         ]
@@ -215,13 +215,13 @@
   },
   "active": "91bd2a3d27ef8290",
   "lastOpenFiles": [
-    "3. Exploitation/Operating Systems/Windows/Active Directory/Tooling/ADRecon.md",
+    "3. Exploitation/Operating Systems/Windows/Active Directory/Tooling/PowerUpSQL.md",
     "3. Exploitation/Operating Systems/Windows/Active Directory/Tooling/Active Directory Explorer.md",
+    "3. Exploitation/Operating Systems/Windows/Active Directory/Tooling/ADRecon.md",
     "3. Exploitation/Operating Systems/Windows/Active Directory/Tooling/windapsearch.md",
     "2. Enumeration/TCP/25. Simple Mail Transfer Protocol (SMTP)/Tooling/MailSniper.md",
     "3. Exploitation/Operating Systems/Windows/Active Directory/Tooling/Group3r.md",
     "3. Exploitation/Operating Systems/Windows/Active Directory/Tooling/Snaffler.md",
-    "3. Exploitation/Operating Systems/Windows/Active Directory/Tooling/PowerUpSQL.md",
     "3. Exploitation/Operating Systems/Windows/Active Directory/Tooling/PingCastle.md",
     "3. Exploitation/Operating Systems/Windows/Active Directory/Tooling/CrackMapExec (CME).md",
     "2. Enumeration/TCP/445. Server Message Block (SMB)/Tooling/CrackMapExec.md",
