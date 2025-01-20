@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Android/AOSP/Information/1. Overview of AOSP Directory Structure.md",
+                "file": "5. Standard Information/Operating Systems/Android/AOSP/Information/Zygote.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Overview of AOSP Directory Structure"
+              "title": "Zygote"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "package manager",
+                "query": "zygot",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,7 @@
             }
           },
           {
-            "id": "bc01a73203496557",
+            "id": "a148d72c7470f1c5",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -85,8 +85,7 @@
               "title": "Zen"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -214,13 +213,17 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "8ab3b3bb34291a6f",
+  "active": "7519a8baebbb9fa0",
   "lastOpenFiles": [
+    "5. Standard Information/Operating Systems/Android/AOSP/Information/Kernel/GKI Kernel.md",
+    "5. Standard Information/Operating Systems/Android/Tooling/Crash Log Analysis Tools.md",
+    "5. Standard Information/Operating Systems/Linux/Hardening/SELinux.md",
+    "5. Standard Information/Operating Systems/Android/AOSP/Information/Binder.md",
+    "5. Standard Information/Operating Systems/Android/AOSP/Information/1. Overview of AOSP Directory Structure.md",
     "5. Standard Information/Operating Systems/Android/AOSP/Build/Compiling and Porting for Android.md",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Android Firmware Analysis.md",
     "5. Standard Information/Operating Systems/Android/AOSP/Information/Services.md",
     "3. Exploitation/File Types and Data/4. Compiling and Porting.md",
-    "5. Standard Information/Operating Systems/Android/AOSP/Information/Binder.md",
     "3. Exploitation/File Types and Data/LZ4.md",
     "7. Misc/Images/Pasted image 20241230143548.png",
     "7. Misc/Images/Pasted image 20241230143235.png",
@@ -230,9 +233,7 @@
     "3. Exploitation/File Types and Data/LibreOffice.md",
     "3. Exploitation/File Types and Data/Images.md",
     "3. Exploitation/File Types and Data/GPG.md",
-    "5. Standard Information/Operating Systems/Linux/Hardening/SELinux.md",
     "5. Standard Information/Operating Systems/Android/AOSP/Information/Crash Logs.md",
-    "5. Standard Information/Operating Systems/Android/Tooling/Crash Log Analysis Tools.md",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Tooling/Code Analysis/Java and Android.md",
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Obfuscation Techniques.md",
     "5. Standard Information/Operating Systems/Android/AOSP/Information/Modify APK.md",
@@ -243,8 +244,6 @@
     "3. Exploitation/File Types and Data/Malware, Programs and Executables/Static Analysis/Static Analysis.md",
     "3. Exploitation/File Types and Data/Languages/Smali.md",
     "3. Exploitation/File Types and Data/APK.md",
-    "3. Exploitation/File Types and Data/DEX (Dalvik).md",
-    "5. Standard Information/Operating Systems/Android/Packages/1. Overview.md",
     "5. Standard Information/Operating Systems/Android/AOSP/Information",
     "5. Standard Information/Operating Systems/Android/AOSP/Build",
     "5. Standard Information/Operating Systems/Android/AOSP/Information/Kernel",
