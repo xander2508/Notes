@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Exploitation/Operating Systems/Windows/Active Directory/Enumeration/Group Policy Objects.md",
+                "file": "3. Exploitation/Operating Systems/Windows/Active Directory/Enumeration/AD Trusts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Group Policy Objects"
+              "title": "AD Trusts"
             }
           }
         ]
@@ -215,15 +215,16 @@
   },
   "active": "91bd2a3d27ef8290",
   "lastOpenFiles": [
-    "3. Exploitation/Operating Systems/Windows/Active Directory/Tooling/SharpGPOAbuse.md",
+    "3. Exploitation/Operating Systems/Windows/Active Directory/1. Guide.md",
+    "3. Exploitation/Operating Systems/Windows/Active Directory/Enumeration/AD Trusts.md",
     "3. Exploitation/Operating Systems/Windows/Active Directory/Enumeration/Group Policy Objects.md",
+    "3. Exploitation/Operating Systems/Windows/Active Directory/Tooling/SharpGPOAbuse.md",
     "5. Standard Information/Operating Systems/Windows/Active Directory/Group Policy.md",
     "3. Exploitation/Operating Systems/Windows/Active Directory/Enumeration/Domain ACLs.md",
     "7. Misc/Images/Pasted image 20250121120136.png",
     "3. Exploitation/Operating Systems/Windows/Active Directory/Enumeration/AD Computers.md",
     "4. Post-Exploitation/Operating Systems/Windows/Tooling/Mimikatz.md",
     "3. Exploitation/Operating Systems/Windows/Active Directory/Tooling/PowerView SharpView.md",
-    "3. Exploitation/Operating Systems/Windows/Active Directory/1. Guide.md",
     "3. Exploitation/Operating Systems/Windows/Active Directory/Enumeration/AD Groups.md",
     "3. Exploitation/Operating Systems/Windows/Active Directory/Tooling/PowerUpSQL.md",
     "3. Exploitation/Operating Systems/Windows/Active Directory/Tooling/Snaffler.md",
@@ -242,7 +243,6 @@
     "3. Exploitation/Operating Systems/Windows/Active Directory/Tooling/Bloodhound.md",
     "3. Exploitation/Tunnelling/1. Overview.md",
     "3. Exploitation/Tunnelling/1. Guide.md",
-    "5. Standard Information/Recommended Blogs.md",
     "5. Standard Information/Recommended Blogs",
     "5. Standard Information/Penetration Testing/Untitled",
     "7. Misc/Images/Pasted image 20241230143548.png",
