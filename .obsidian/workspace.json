@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Exploitation/Operating Systems/Windows/Active Directory/Enumeration/AD Computers.md",
+                "file": "3. Exploitation/Operating Systems/Windows/Active Directory/Enumeration/Domain ACLs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AD Computers"
+              "title": "Domain ACLs"
             }
           }
         ]
@@ -213,10 +213,12 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "7519a8baebbb9fa0",
+  "active": "91bd2a3d27ef8290",
   "lastOpenFiles": [
-    "4. Post-Exploitation/Operating Systems/Windows/Tooling/Mimikatz.md",
+    "7. Misc/Images/Pasted image 20250121120136.png",
     "3. Exploitation/Operating Systems/Windows/Active Directory/Enumeration/AD Computers.md",
+    "3. Exploitation/Operating Systems/Windows/Active Directory/Enumeration/Domain ACLs.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Tooling/Mimikatz.md",
     "3. Exploitation/Operating Systems/Windows/Active Directory/Tooling/PowerView SharpView.md",
     "3. Exploitation/Operating Systems/Windows/Active Directory/1. Guide.md",
     "3. Exploitation/Operating Systems/Windows/Active Directory/Enumeration/AD Groups.md",
@@ -241,8 +243,6 @@
     "5. Standard Information/Penetration Testing/Security Hardening.md",
     "5. Standard Information/Recommended Blogs",
     "5. Standard Information/Operating Systems/Windows/Active Directory/Security Hardening.md",
-    "2. Enumeration/TCP/22. Secure Shell (SSH)/2. Information.md",
-    "3. Exploitation/Tunnelling/Meterpreter Tunnelling.md",
     "5. Standard Information/Penetration Testing/Untitled",
     "7. Misc/Images/Pasted image 20241230143548.png",
     "7. Misc/Images/Pasted image 20241230143235.png",
