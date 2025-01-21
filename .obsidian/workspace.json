@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Exploitation/Operating Systems/Windows/Active Directory/Enumeration/AD Groups.md",
+                "file": "3. Exploitation/Operating Systems/Windows/Active Directory/Enumeration/AD Computers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AD Groups"
+              "title": "AD Computers"
             }
           }
         ]
@@ -215,10 +215,11 @@
   },
   "active": "91bd2a3d27ef8290",
   "lastOpenFiles": [
+    "3. Exploitation/Operating Systems/Windows/Active Directory/Enumeration/AD Groups.md",
+    "3. Exploitation/Operating Systems/Windows/Active Directory/Enumeration/AD Computers.md",
     "3. Exploitation/Operating Systems/Windows/Active Directory/Tooling/PowerUpSQL.md",
     "3. Exploitation/Operating Systems/Windows/Active Directory/Tooling/PowerView SharpView.md",
     "3. Exploitation/Operating Systems/Windows/Active Directory/Tooling/Snaffler.md",
-    "3. Exploitation/Operating Systems/Windows/Active Directory/Enumeration/AD Groups.md",
     "3. Exploitation/Operating Systems/Windows/Active Directory/1. Guide.md",
     "3. Exploitation/Operating Systems/Windows/Active Directory/Enumeration/AD Users.md",
     "4. Post-Exploitation/Cryptography/Passwords and Wordlists/3. Password Analysis.md",
@@ -243,7 +244,6 @@
     "3. Exploitation/Tunnelling/Meterpreter Tunnelling.md",
     "5. Standard Information/Penetration Testing/Untitled",
     "3. Exploitation/Tunnelling/3. Tunnelling Protections.md",
-    "1. Recon/Port Scanning/Tooling/Command Line.md",
     "7. Misc/Images/Pasted image 20241230143548.png",
     "7. Misc/Images/Pasted image 20241230143235.png",
     "7. Misc/Images/Pasted image 20241230113703.png",
