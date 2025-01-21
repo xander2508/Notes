@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hardening",
+                "query": "mimikat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,10 +213,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "91bd2a3d27ef8290",
+  "active": "7519a8baebbb9fa0",
   "lastOpenFiles": [
-    "3. Exploitation/Operating Systems/Windows/Active Directory/Tooling/PowerView SharpView.md",
+    "4. Post-Exploitation/Operating Systems/Windows/Tooling/Mimikatz.md",
     "3. Exploitation/Operating Systems/Windows/Active Directory/Enumeration/AD Computers.md",
+    "3. Exploitation/Operating Systems/Windows/Active Directory/Tooling/PowerView SharpView.md",
     "3. Exploitation/Operating Systems/Windows/Active Directory/1. Guide.md",
     "3. Exploitation/Operating Systems/Windows/Active Directory/Enumeration/AD Groups.md",
     "3. Exploitation/Operating Systems/Windows/Active Directory/Tooling/PowerUpSQL.md",
@@ -243,7 +244,6 @@
     "2. Enumeration/TCP/22. Secure Shell (SSH)/2. Information.md",
     "3. Exploitation/Tunnelling/Meterpreter Tunnelling.md",
     "5. Standard Information/Penetration Testing/Untitled",
-    "3. Exploitation/Tunnelling/3. Tunnelling Protections.md",
     "7. Misc/Images/Pasted image 20241230143548.png",
     "7. Misc/Images/Pasted image 20241230143235.png",
     "7. Misc/Images/Pasted image 20241230113703.png",
