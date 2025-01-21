@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Standard Information/Operating Systems/Windows/Active Directory/Trusts.md",
+                "file": "3. Exploitation/Operating Systems/Windows/Active Directory/Enumeration/AD Trusts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trusts"
+              "title": "AD Trusts"
             }
           }
         ]
@@ -215,8 +215,8 @@
   },
   "active": "91bd2a3d27ef8290",
   "lastOpenFiles": [
-    "3. Exploitation/Operating Systems/Windows/Active Directory/Enumeration/AD Trusts.md",
     "5. Standard Information/Operating Systems/Windows/Active Directory/Trusts.md",
+    "3. Exploitation/Operating Systems/Windows/Active Directory/Enumeration/AD Trusts.md",
     "3. Exploitation/Operating Systems/Windows/Active Directory/1. Guide.md",
     "3. Exploitation/Operating Systems/Windows/Active Directory/Enumeration/Group Policy Objects.md",
     "3. Exploitation/Operating Systems/Windows/Active Directory/Tooling/SharpGPOAbuse.md",
