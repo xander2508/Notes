@@ -215,8 +215,9 @@
   },
   "active": "91bd2a3d27ef8290",
   "lastOpenFiles": [
-    "5. Standard Information/Operating Systems/Windows/Active Directory/Group Policy.md",
+    "3. Exploitation/Operating Systems/Windows/Active Directory/Tooling/SharpGPOAbuse.md",
     "3. Exploitation/Operating Systems/Windows/Active Directory/Enumeration/Group Policy Objects.md",
+    "5. Standard Information/Operating Systems/Windows/Active Directory/Group Policy.md",
     "3. Exploitation/Operating Systems/Windows/Active Directory/Enumeration/Domain ACLs.md",
     "7. Misc/Images/Pasted image 20250121120136.png",
     "3. Exploitation/Operating Systems/Windows/Active Directory/Enumeration/AD Computers.md",
@@ -242,7 +243,6 @@
     "3. Exploitation/Tunnelling/1. Overview.md",
     "3. Exploitation/Tunnelling/1. Guide.md",
     "5. Standard Information/Recommended Blogs.md",
-    "5. Standard Information/Penetration Testing/Security Hardening.md",
     "5. Standard Information/Recommended Blogs",
     "5. Standard Information/Penetration Testing/Untitled",
     "7. Misc/Images/Pasted image 20241230143548.png",
