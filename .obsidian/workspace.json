@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Recommended Books"
             }
+          },
+          {
+            "id": "c34c4027c96cf7f7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +53,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -74,7 +88,7 @@
             }
           },
           {
-            "id": "bf715dd32b88cdac",
+            "id": "43a72af641321e64",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -213,7 +227,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "91bd2a3d27ef8290",
+  "active": "c34c4027c96cf7f7",
   "lastOpenFiles": [
     "5. Standard Information/Operating Systems/Android/AOSP/Information/SELinux.md",
     "5. Standard Information/Operating Systems/Linux/Hardening/SELinux.md",
